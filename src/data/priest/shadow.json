@@ -1,0 +1,307 @@
+[
+  {
+    "row": "1",
+    "column": "9",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=335467/devouring-plague",
+    "icon": "spell_shadow_devouringplague",
+    "spellId": "335467"
+  },
+  {
+    "row": "2",
+    "column": "7",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=15487/silence",
+    "icon": "ability_priest_silence",
+    "spellId": "15487"
+  },
+  {
+    "row": "2",
+    "column": "9",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=47585/dispersion",
+    "icon": "spell_shadow_dispersion",
+    "spellId": "47585"
+  },
+  {
+    "row": "2",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=341491/shadowy-apparitions",
+    "icon": "ability_priest_shadowyapparition",
+    "spellId": "341491"
+  },
+  {
+    "row": "3",
+    "column": "5",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_shadow_psychichorrors"
+  },
+  {
+    "row": "3",
+    "column": "7",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "ability_rogue_envelopingshadows"
+  },
+  {
+    "row": "3",
+    "column": "9",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_shadow_dispersion"
+  },
+  {
+    "row": "3",
+    "column": "11",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "ability_priest_auspiciousspirits"
+  },
+  {
+    "row": "4",
+    "column": "5",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=391242/coalescing-shadows",
+    "icon": "spell_priest_shadoworbs",
+    "spellId": "391242"
+  },
+  {
+    "row": "4",
+    "column": "7",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=48045/mind-sear",
+    "icon": "spell_shadow_mindshear",
+    "spellId": "48045"
+  },
+  {
+    "row": "4",
+    "column": "9",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "ability_priest_darkarchangel"
+  },
+  {
+    "row": "4",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=199484/psychic-link",
+    "icon": "ability_priest_psychiclink",
+    "spellId": "199484"
+  },
+  {
+    "row": "4",
+    "column": "13",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=73510/mind-spike",
+    "icon": "spell_priest_mindspike",
+    "spellId": "73510"
+  },
+  {
+    "row": "5",
+    "column": "3",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=377387/puppet-master",
+    "icon": "ability_rogue_masterofsubtlety",
+    "spellId": "377387"
+  },
+  {
+    "row": "5",
+    "column": "7",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=375994/mental-decay",
+    "icon": "ability_kaztik_dominatemind",
+    "spellId": "375994"
+  },
+  {
+    "row": "5",
+    "column": "9",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=341240/ancient-madness",
+    "icon": "spell_priest_void-flay",
+    "spellId": "341240"
+  },
+  {
+    "row": "5",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=375888/shadowy-insight",
+    "icon": "spell_shadow_possession",
+    "spellId": "375888"
+  },
+  {
+    "row": "5",
+    "column": "15",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=162448/surge-of-darkness",
+    "icon": "ability_priest_surgeofdarkness",
+    "spellId": "162448"
+  },
+  {
+    "row": "6",
+    "column": "3",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=391296/harnessed-shadows",
+    "icon": "inv_chaos_orb",
+    "spellId": "391296"
+  },
+  {
+    "row": "6",
+    "column": "7",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=341273/unfurling-darkness",
+    "icon": "spell_priest_shadow-mend",
+    "spellId": "341273"
+  },
+  {
+    "row": "6",
+    "column": "11",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=205385/shadow-crash",
+    "icon": "spell_shadow_shadowfury",
+    "spellId": "205385"
+  },
+  {
+    "row": "6",
+    "column": "15",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=391090/mind-melt",
+    "icon": "spell_shadow_skull",
+    "spellId": "391090"
+  },
+  {
+    "row": "7",
+    "column": "5",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=391228/maddening-touch",
+    "icon": "spell_holy_stoicism",
+    "spellId": "391228"
+  },
+  {
+    "row": "7",
+    "column": "9",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=391095/dark-evangelism",
+    "icon": "spell_mage_presenceofmind",
+    "spellId": "391095"
+  },
+  {
+    "row": "7",
+    "column": "13",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=391137/whispers-of-the-damned",
+    "icon": "inv_misc_eye_03",
+    "spellId": "391137"
+  },
+  {
+    "row": "8",
+    "column": "3",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=200174/mindbender",
+    "icon": "spell_shadow_soulleech_3",
+    "spellId": "200174"
+  },
+  {
+    "row": "8",
+    "column": "7",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_shadow_demonicfortitude"
+  },
+  {
+    "row": "8",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=391235/encroaching-shadows",
+    "icon": "spell_shadow_coneofsilence",
+    "spellId": "391235"
+  },
+  {
+    "row": "8",
+    "column": "15",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "ability_warlock_eradication"
+  },
+  {
+    "row": "9",
+    "column": "3",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373427/inescapable-torment",
+    "icon": "spell_shadow_chilltouch",
+    "spellId": "373427"
+  },
+  {
+    "row": "9",
+    "column": "5",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=375767/screams-of-the-void",
+    "icon": "spell_shadow_siphonmana",
+    "spellId": "375767"
+  },
+  {
+    "row": "9",
+    "column": "9",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=391288/pain-of-death",
+    "icon": "spell_shadow_deadofnight",
+    "spellId": "391288"
+  },
+  {
+    "row": "9",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373202/mind-devourer",
+    "icon": "spell_arcane_mindmastery",
+    "spellId": "373202"
+  },
+  {
+    "row": "9",
+    "column": "13",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373212/insidious-ire",
+    "icon": "spell_fire_twilightcano",
+    "spellId": "373212"
+  },
+  {
+    "row": "9",
+    "column": "15",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373221/malediction",
+    "icon": "spell_shadow_deathsembrace",
+    "spellId": "373221"
+  },
+  {
+    "row": "10",
+    "column": "3",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373310/idol-of-yshaarj",
+    "icon": "achievement_raid_terraceofendlessspring04",
+    "spellId": "373310"
+  },
+  {
+    "row": "10",
+    "column": "7",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=377349/idol-of-cthun",
+    "icon": "achievement_boss_cthun",
+    "spellId": "377349"
+  },
+  {
+    "row": "10",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373273/idol-of-yogg-saron",
+    "icon": "achievement_boss_heraldvolazj",
+    "spellId": "373273"
+  },
+  {
+    "row": "10",
+    "column": "15",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373280/idol-of-nzoth",
+    "icon": "achievement_nzothraid_nzoth",
+    "spellId": "373280"
+  }
+]

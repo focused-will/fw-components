@@ -1,0 +1,307 @@
+[
+  {
+    "row": "1",
+    "column": "9",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=81749/atonement",
+    "icon": "ability_priest_atonement",
+    "spellId": "81749"
+  },
+  {
+    "row": "2",
+    "column": "7",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=194509/power-word-radiance",
+    "icon": "spell_priest_power-word",
+    "spellId": "194509"
+  },
+  {
+    "row": "2",
+    "column": "9",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=33206/pain-suppression",
+    "icon": "spell_holy_painsupression",
+    "spellId": "33206"
+  },
+  {
+    "row": "2",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=198068/power-of-the-dark-side",
+    "icon": "inv_artifact_powerofthedarkside",
+    "spellId": "198068"
+  },
+  {
+    "row": "3",
+    "column": "5",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=322115/lights-promise",
+    "icon": "spell_priest_power-word",
+    "spellId": "322115"
+  },
+  {
+    "row": "3",
+    "column": "9",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_holy_blessedrecovery"
+  },
+  {
+    "row": "3",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=372972/dark-indulgence",
+    "icon": "spell_shadow_painandsuffering",
+    "spellId": "372972"
+  },
+  {
+    "row": "3",
+    "column": "13",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=214621/schism",
+    "icon": "spell_warlock_focusshadow",
+    "spellId": "214621"
+  },
+  {
+    "row": "4",
+    "column": "3",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_holy_surgeoflight"
+  },
+  {
+    "row": "4",
+    "column": "7",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_holy_divineprotection"
+  },
+  {
+    "row": "4",
+    "column": "9",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=62618/power-word-barrier",
+    "icon": "spell_holy_powerwordbarrier",
+    "spellId": "62618"
+  },
+  {
+    "row": "4",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390686/painful-punishment",
+    "icon": "ability_priest_clarityofpower",
+    "spellId": "390686"
+  },
+  {
+    "row": "4",
+    "column": "15",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=372969/malicious-intent",
+    "icon": "ability_demonhunter_darkness",
+    "spellId": "372969"
+  },
+  {
+    "row": "5",
+    "column": "5",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=204197/purge-the-wicked",
+    "icon": "ability_mage_firestarter",
+    "spellId": "204197"
+  },
+  {
+    "row": "5",
+    "column": "9",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=47536/rapture",
+    "icon": "spell_holy_rapture",
+    "spellId": "47536"
+  },
+  {
+    "row": "5",
+    "column": "13",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=314867/shadow-covenant",
+    "icon": "spell_shadow_summonvoidwalker",
+    "spellId": "314867"
+  },
+  {
+    "row": "6",
+    "column": "3",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373003/revel-in-purity",
+    "icon": "spell_fire_felflamering_red",
+    "spellId": "373003"
+  },
+  {
+    "row": "6",
+    "column": "7",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=197419/contrition",
+    "icon": "ability_priest_savinggrace",
+    "spellId": "197419"
+  },
+  {
+    "row": "6",
+    "column": "9",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373042/exaltation",
+    "icon": "spell_holy_spiritualguidence",
+    "spellId": "373042"
+  },
+  {
+    "row": "6",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390689/pain-and-suffering",
+    "icon": "spell_shadow_shadowwordpain",
+    "spellId": "390689"
+  },
+  {
+    "row": "6",
+    "column": "15",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_warlock_demonsoul"
+  },
+  {
+    "row": "7",
+    "column": "5",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390691/borrowed-time",
+    "icon": "spell_holy_borrowedtime",
+    "spellId": "390691"
+  },
+  {
+    "row": "7",
+    "column": "9",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=193134/castigation",
+    "icon": "spell_holy_searinglightpriest",
+    "spellId": "193134"
+  },
+  {
+    "row": "7",
+    "column": "13",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373054/stolen-psyche",
+    "icon": "ability_priest_surgeofdarkness",
+    "spellId": "373054"
+  },
+  {
+    "row": "8",
+    "column": "3",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "ability_mage_studentofthemind"
+  },
+  {
+    "row": "8",
+    "column": "7",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=373178/lights-wrath",
+    "icon": "inv_staff_2h_artifacttome_d_01",
+    "spellId": "373178"
+  },
+  {
+    "row": "8",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390705/twilight-equilibrium",
+    "icon": "ability_priest_innerlightandshadow",
+    "spellId": "390705"
+  },
+  {
+    "row": "8",
+    "column": "15",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=123040/mindbender",
+    "icon": "spell_shadow_soulleech_3",
+    "spellId": "123040"
+  },
+  {
+    "row": "9",
+    "column": "3",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=47515/divine-aegis",
+    "icon": "spell_holy_devineaegis",
+    "spellId": "47515"
+  },
+  {
+    "row": "9",
+    "column": "5",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=280391/sins-of-the-many",
+    "icon": "spell_holy_holyguidance",
+    "spellId": "280391"
+  },
+  {
+    "row": "9",
+    "column": "7",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390765/resplendent-light",
+    "icon": "spell_priest_divinestar_holy",
+    "spellId": "390765"
+  },
+  {
+    "row": "9",
+    "column": "9",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373180/harsh-discipline",
+    "icon": "ability_paladin_handoflight",
+    "spellId": "373180"
+  },
+  {
+    "row": "9",
+    "column": "13",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390770/void-summoner",
+    "icon": "spell_shadow_shadowfiend",
+    "spellId": "390770"
+  },
+  {
+    "row": "9",
+    "column": "15",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390832/expiation",
+    "icon": "spell_shadow_shadowpower",
+    "spellId": "390832"
+  },
+  {
+    "row": "10",
+    "column": "3",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_holy_divineprotection"
+  },
+  {
+    "row": "10",
+    "column": "5",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "ability_priest_atonement"
+  },
+  {
+    "row": "10",
+    "column": "7",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390781/wrath-unleashed",
+    "icon": "inv_staff_2h_artifacttome_d_01",
+    "spellId": "390781"
+  },
+  {
+    "row": "10",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390786/weal-and-woe",
+    "icon": "spell_priest_burningwill",
+    "spellId": "390786"
+  },
+  {
+    "row": "10",
+    "column": "13",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373427/inescapable-torment",
+    "icon": "spell_shadow_chilltouch",
+    "spellId": "373427"
+  }
+]

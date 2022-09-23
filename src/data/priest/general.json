@@ -1,0 +1,345 @@
+[
+  {
+    "row": "1",
+    "column": "5",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=139/renew",
+    "icon": "spell_holy_renew"
+  },
+  {
+    "row": "1",
+    "column": "9",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=528/dispel-magic",
+    "icon": "spell_nature_nullifydisease"
+  },
+  {
+    "row": "1",
+    "column": "13",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=34433/shadowfiend",
+    "icon": "spell_shadow_shadowfiend"
+  },
+  {
+    "row": "2",
+    "column": "3",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=33076/prayer-of-mending",
+    "icon": "spell_holy_prayerofmendingtga"
+  },
+  {
+    "row": "2",
+    "column": "7",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=393870/improved-flash-heal",
+    "icon": "spell_holy_heal"
+  },
+  {
+    "row": "2",
+    "column": "9",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=213634/purify-disease",
+    "icon": "spell_holy_nullifydisease"
+  },
+  {
+    "row": "2",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=196704/psychic-voice",
+    "icon": "ability_warrior_commandingshout"
+  },
+  {
+    "row": "2",
+    "column": "15",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=32379/shadow-word-death",
+    "icon": "spell_shadow_demonicfortitude"
+  },
+  {
+    "row": "3",
+    "column": "1",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=372354/focused-mending",
+    "icon": "achievement_bg_returnxflags_def_wsg"
+  },
+  {
+    "row": "3",
+    "column": "5",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=132157/holy-nova",
+    "icon": "spell_holy_holynova"
+  },
+  {
+    "row": "3",
+    "column": "7",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_holy_holyprotection"
+  },
+  {
+    "row": "3",
+    "column": "9",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=121536/angelic-feather",
+    "icon": "ability_priest_angelicfeather"
+  },
+  {
+    "row": "3",
+    "column": "13",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=108942/phantasm",
+    "icon": "ability_priest_phantasm"
+  },
+  {
+    "row": "3",
+    "column": "17",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=321291/death-and-madness",
+    "icon": "spell_shadow_demonicfortitude"
+  },
+  {
+    "row": "4",
+    "column": "3",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_holy_spellwarding"
+  },
+  {
+    "row": "4",
+    "column": "5",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390622/rhapsody",
+    "icon": "spell_holy_holynova"
+  },
+  {
+    "row": "4",
+    "column": "7",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=73325/leap-of-faith",
+    "icon": "priest_spell_leapoffaith_a"
+  },
+  {
+    "row": "4",
+    "column": "9",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=9484/shackle-undead",
+    "icon": "spell_nature_slow"
+  },
+  {
+    "row": "4",
+    "column": "11",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_nzinsanity_fearofdeath"
+  },
+  {
+    "row": "4",
+    "column": "15",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_shadow_shadowworddominate"
+  },
+  {
+    "row": "5",
+    "column": "1",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=377438/words-of-the-pious",
+    "icon": "ability_priest_clarityofwill"
+  },
+  {
+    "row": "5",
+    "column": "5",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=32375/mass-dispel",
+    "icon": "spell_arcane_massdispel"
+  },
+  {
+    "row": "5",
+    "column": "7",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390620/move-with-grace",
+    "icon": "ability_priest_savinggrace"
+  },
+  {
+    "row": "5",
+    "column": "9",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=10060/power-infusion",
+    "icon": "spell_holy_powerinfusion"
+  },
+  {
+    "row": "5",
+    "column": "13",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=15286/vampiric-embrace",
+    "icon": "spell_shadow_unsummonbuilding"
+  },
+  {
+    "row": "5",
+    "column": "17",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373223/tithe-evasion",
+    "icon": "spell_nzinsanity_bloodthirst"
+  },
+  {
+    "row": "6",
+    "column": "3",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390676/inspiration",
+    "icon": "spell_holy_layonhands"
+  },
+  {
+    "row": "6",
+    "column": "5",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=341167/improved-mass-dispel",
+    "icon": "spell_arcane_massdispel"
+  },
+  {
+    "row": "6",
+    "column": "7",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=64129/body-and-soul",
+    "icon": "spell_holy_symbolofhope"
+  },
+  {
+    "row": "6",
+    "column": "9",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373466/twins-of-the-sun-priestess",
+    "icon": "spell_fire_felflamering_red"
+  },
+  {
+    "row": "6",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=280749/void-shield",
+    "icon": "inv_enchant_voidsphere"
+  },
+  {
+    "row": "6",
+    "column": "13",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=199855/sanlayn",
+    "icon": "achievement_boss_lanathel"
+  },
+  {
+    "row": "6",
+    "column": "15",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390668/apathy",
+    "icon": "ability_rogue_masterofsubtlety"
+  },
+  {
+    "row": "7",
+    "column": "5",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373456/unwavering-will",
+    "icon": "ability_warrior_unrelentingassault"
+  },
+  {
+    "row": "7",
+    "column": "9",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390972/twist-of-fate",
+    "icon": "spell_shadow_mindtwisting"
+  },
+  {
+    "row": "7",
+    "column": "13",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=377422/throes-of-pain",
+    "icon": "spell_shadow_haunting"
+  },
+  {
+    "row": "8",
+    "column": "3",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_holy_testoffaith"
+  },
+  {
+    "row": "8",
+    "column": "7",
+    "talentType": "3",
+    "url": "javascript:",
+    "icon": "spell_priest_divinestar_shadow2"
+  },
+  {
+    "row": "8",
+    "column": "11",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373446/translucent-image",
+    "icon": "spell_nature_invisibilty"
+  },
+  {
+    "row": "8",
+    "column": "15",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=375901/mindgames",
+    "icon": "ability_revendreth_priest"
+  },
+  {
+    "row": "9",
+    "column": "3",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=109186/surge-of-light",
+    "icon": "spell_holy_surgeoflight"
+  },
+  {
+    "row": "9",
+    "column": "5",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373450/lights-inspiration",
+    "icon": "spell_holy_restoration"
+  },
+  {
+    "row": "9",
+    "column": "9",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=373457/crystalline-reflection",
+    "icon": "ability_priest_reflectiveshield"
+  },
+  {
+    "row": "9",
+    "column": "13",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390670/improved-fade",
+    "icon": "spell_magic_lesserinvisibilty"
+  },
+  {
+    "row": "9",
+    "column": "15",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390996/manipulation",
+    "icon": "ability_revendreth_priest"
+  },
+  {
+    "row": "10",
+    "column": "3",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=373481/power-word-life",
+    "icon": "ability_priest_holywordlife"
+  },
+  {
+    "row": "10",
+    "column": "7",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=108945/angelic-bulwark",
+    "icon": "ability_priest_angelicbulwark"
+  },
+  {
+    "row": "10",
+    "column": "11",
+    "talentType": "1",
+    "url": "https://www.wowhead.com/beta/spell=108968/void-shift",
+    "icon": "spell_priest_voidshift"
+  },
+  {
+    "row": "10",
+    "column": "15",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=391112/shattered-perceptions",
+    "icon": "spell_animarevendreth_debuff"
+  }
+]
