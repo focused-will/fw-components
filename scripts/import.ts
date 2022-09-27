@@ -56,6 +56,12 @@ function importTreeSpells(type = "class") {
     const icon = backgroundImageStyle.match(ICON_REGEX)?.[2];
     const id = url?.match(SPELL_REGEX)?.[1];
 
+    const pointMax = document.querySelector(
+      `.dragonflight-talent-tree-talent-points[data-row="${row}"][data-cell="${cell}"]`
+    )?.textContent;
+
+    const [_, total] = pointMax?.split("/") ?? [];
+
     // Multichoice
     if (talentType === "3") {
       const [leftName, rightName] = name?.split(" / ") || [];
@@ -78,6 +84,7 @@ function importTreeSpells(type = "class") {
         row,
         column,
         talentType,
+        capacity: total,
         left: {
           id: leftId,
           name: leftName,
@@ -97,6 +104,7 @@ function importTreeSpells(type = "class") {
       id,
       name,
       icon,
+      capacity: total,
       row,
       column,
       talentType,
