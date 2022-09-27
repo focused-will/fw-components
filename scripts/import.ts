@@ -11,6 +11,126 @@ function writePrettyJsonFile(path: string, object: object) {
 }
 
 /**
+ * This is the closure handed to the browser to fetch data
+ */
+function importTreeSpells(type = "class") {
+  const ICON_REGEX = /(:?\/)([^\/]+).jpg/;
+  const SPELL_REGEX = /(?:spell=)(\d+)/;
+  const spellEls = document.querySelectorAll(
+    `[data-tree-type=${type}] .dragonflight-talent-tree-talent`
+  ) as NodeListOf<HTMLElement>;
+
+  const connectionEls = document.querySelectorAll(
+    `[data-tree-type=${type}] .dragonflight-talent-tree-connection`
+  ) as NodeListOf<HTMLElement>;
+
+  const connections = [...connectionEls].map((connectionEl) => {
+    const from = connectionEl.dataset.fromCell;
+    const to = connectionEl.dataset.toCell;
+
+    if (!from || !to) {
+      throw new Error("Could not find from or to");
+    }
+
+    return {
+      from,
+      to,
+    };
+  });
+
+  const spells = [...spellEls].map((spellEl) => {
+    const row = spellEl.dataset.row;
+    const cell = spellEl.dataset.cell;
+    const column = spellEl.dataset.column;
+    const talentType = spellEl.dataset.talentType;
+    const url = spellEl.getAttribute("href");
+    const name = spellEl.querySelector(
+      ".dragonflight-talent-tree-talent-name"
+    )?.textContent;
+
+    const iconContainer = spellEl.querySelector(
+      ".dragonflight-talent-tree-talent-inner-background"
+    ) as HTMLElement;
+    const backgroundImageStyle = iconContainer.style.backgroundImage;
+
+    const icon = backgroundImageStyle.match(ICON_REGEX)?.[2];
+    const id = url?.match(SPELL_REGEX)?.[1];
+
+    // Multichoice
+    if (talentType === "3") {
+      const [leftName, rightName] = name?.split(" / ") || [];
+      const backgroundImageEls = spellEl.querySelectorAll(
+        ".dragonflight-talent-tree-talent-inner-background"
+      ) as NodeListOf<HTMLElement>;
+      const [leftIcon, rightIcon] = [...backgroundImageEls].map((el) => {
+        const backgroundImageStyle = el.style.backgroundImage;
+        return backgroundImageStyle.match(ICON_REGEX)?.[2];
+      });
+
+      const leftUrl = spellEl.dataset.choiceHref0;
+      const rightUrl = spellEl.dataset.choiceHref1;
+
+      const leftId = leftUrl?.match(SPELL_REGEX)?.[1];
+      const rightId = rightUrl?.match(SPELL_REGEX)?.[1];
+
+      return {
+        cell,
+        row,
+        column,
+        talentType,
+        left: {
+          id: leftId,
+          name: leftName,
+          icon: leftIcon,
+          url: leftUrl,
+        },
+        right: {
+          id: rightId,
+          name: rightName,
+          icon: rightIcon,
+          url: rightUrl,
+        },
+      };
+    }
+
+    return {
+      id,
+      name,
+      icon,
+      row,
+      column,
+      talentType,
+      url,
+      cell,
+    };
+  });
+
+  const spellMap = spells.reduce<Record<string, any>>((acc, spell) => {
+    if (!spell.cell) return acc;
+    acc[spell.cell] = spell;
+    return acc;
+  }, {});
+
+  // Mutating here, but it's fine (promise)
+  connections.forEach(({ from, to }) => {
+    const fromSpell = spellMap[from];
+    const toSpell = spellMap[to];
+
+    if (!fromSpell || !toSpell) {
+      throw new Error("Could not find from or to spell");
+    }
+
+    if (toSpell.links) {
+      toSpell.links.push(from);
+    } else {
+      toSpell.links = [from];
+    }
+  });
+
+  return spells;
+}
+
+/**
  * Scrapes the class and talent tree at the requested page
  */
 async function importTree(url: string) {
@@ -20,7 +140,7 @@ async function importTree(url: string) {
   const page = await browser.newPage();
   console.log("Loaded page 🚀");
 
-  const response = await page.goto(url);
+  await page.goto(url);
   console.log("Loaded url 🚀");
 
   // Will typically look like class-spec
@@ -40,68 +160,11 @@ async function importTree(url: string) {
 
   console.log(`Got class of ${targetClass} and specialization of ${spec} 🤓`);
 
-  const classTreeSpells = await page.evaluate(() => {
-    const ICON_REGEX = /(:?\/)([^\/]+).jpg/;
-    const spellEls = document.querySelectorAll(
-      "[data-tree-type=class] .dragonflight-talent-tree-talent"
-    ) as NodeListOf<HTMLElement>;
-
-    return [...spellEls].map((spellEl) => {
-      const row = spellEl.dataset.row;
-      const column = spellEl.dataset.column;
-      const talentType = spellEl.dataset.talentType;
-      const url = spellEl.getAttribute("href");
-
-      const iconContainer = spellEl.querySelector(
-        ".dragonflight-talent-tree-talent-inner-background"
-      ) as HTMLElement;
-      const backgroundImageStyle = iconContainer.style.backgroundImage;
-
-      const icon = backgroundImageStyle.match(ICON_REGEX)?.[2];
-
-      return {
-        row,
-        column,
-        talentType,
-        url,
-        icon,
-      };
-    });
-  });
+  const classTreeSpells = await page.evaluate(importTreeSpells, "class");
 
   console.log(`Got ${classTreeSpells.length} spells in the class tree 🤓`);
 
-  const specTreeSpells = await page.evaluate(() => {
-    const ICON_REGEX = /(:?\/)([^\/]+).jpg/;
-    const SPELL_REGEX = /(?:spell=)(\d+)/;
-    const spellEls = document.querySelectorAll(
-      "[data-tree-type=spec] .dragonflight-talent-tree-talent"
-    ) as NodeListOf<HTMLElement>;
-
-    return [...spellEls].map((spellEl) => {
-      const row = spellEl.dataset.row;
-      const column = spellEl.dataset.column;
-      const talentType = spellEl.dataset.talentType;
-      const url = spellEl.getAttribute("href");
-
-      const iconContainer = spellEl.querySelector(
-        ".dragonflight-talent-tree-talent-inner-background"
-      ) as HTMLElement;
-      const backgroundImageStyle = iconContainer.style.backgroundImage;
-
-      const icon = backgroundImageStyle.match(ICON_REGEX)?.[2];
-      const spellId = url?.match(SPELL_REGEX)?.[1];
-
-      return {
-        row,
-        column,
-        talentType,
-        url,
-        icon,
-        spellId,
-      };
-    });
-  });
+  const specTreeSpells = await page.evaluate(importTreeSpells, "spec");
 
   console.log(`Got ${specTreeSpells.length} spells in the spec tree 🤓`);
 

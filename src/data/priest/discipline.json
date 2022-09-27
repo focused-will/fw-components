@@ -1,307 +1,574 @@
 [
   {
+    "id": "81749",
+    "name": "Atonement",
+    "icon": "ability_priest_atonement",
     "row": "1",
     "column": "9",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=81749/atonement",
-    "icon": "ability_priest_atonement",
-    "spellId": "81749"
+    "cell": "8",
+    "links": [
+      "23",
+      "25",
+      "27"
+    ]
   },
   {
+    "id": "194509",
+    "name": "Power Word: Radiance",
+    "icon": "spell_priest_power-word",
     "row": "2",
     "column": "7",
     "talentType": "1",
     "url": "https://www.wowhead.com/beta/spell=194509/power-word-radiance",
-    "icon": "spell_priest_power-word",
-    "spellId": "194509"
+    "cell": "23",
+    "links": [
+      "38"
+    ]
   },
   {
+    "id": "33206",
+    "name": "Pain Suppression",
+    "icon": "spell_holy_painsupression",
     "row": "2",
     "column": "9",
     "talentType": "1",
     "url": "https://www.wowhead.com/beta/spell=33206/pain-suppression",
-    "icon": "spell_holy_painsupression",
-    "spellId": "33206"
+    "cell": "25",
+    "links": [
+      "42"
+    ]
   },
   {
+    "id": "198068",
+    "name": "Power of the Dark Side",
+    "icon": "inv_artifact_powerofthedarkside",
     "row": "2",
     "column": "11",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=198068/power-of-the-dark-side",
-    "icon": "inv_artifact_powerofthedarkside",
-    "spellId": "198068"
+    "cell": "27",
+    "links": [
+      "44",
+      "46"
+    ]
   },
   {
+    "id": "322115",
+    "name": "Light's Promise",
+    "icon": "spell_priest_power-word",
     "row": "3",
     "column": "5",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=322115/lights-promise",
-    "icon": "spell_priest_power-word",
-    "spellId": "322115"
+    "cell": "38",
+    "links": [
+      "53",
+      "57"
+    ]
   },
   {
+    "cell": "42",
     "row": "3",
     "column": "9",
     "talentType": "3",
-    "url": "javascript:",
-    "icon": "spell_holy_blessedrecovery"
+    "left": {
+      "id": "372991",
+      "name": "Pain Transformation",
+      "icon": "spell_holy_blessedrecovery",
+      "url": "https://www.wowhead.com/beta/spell=372991/pain-transformation"
+    },
+    "right": {
+      "id": "373035",
+      "name": "Protector of the Frail",
+      "icon": "ability_racial_forceshield",
+      "url": "https://www.wowhead.com/beta/spell=373035/protector-of-the-frail"
+    },
+    "links": [
+      "57",
+      "59"
+    ]
   },
   {
+    "id": "372972",
+    "name": "Dark Indulgence",
+    "icon": "spell_shadow_painandsuffering",
     "row": "3",
     "column": "11",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=372972/dark-indulgence",
-    "icon": "spell_shadow_painandsuffering",
-    "spellId": "372972"
+    "cell": "44",
+    "links": [
+      "59",
+      "61"
+    ]
   },
   {
+    "id": "214621",
+    "name": "Schism",
+    "icon": "spell_warlock_focusshadow",
     "row": "3",
     "column": "13",
     "talentType": "1",
     "url": "https://www.wowhead.com/beta/spell=214621/schism",
-    "icon": "spell_warlock_focusshadow",
-    "spellId": "214621"
+    "cell": "46",
+    "links": [
+      "61",
+      "65",
+      "80"
+    ]
   },
   {
+    "cell": "53",
     "row": "4",
     "column": "3",
     "talentType": "3",
-    "url": "javascript:",
-    "icon": "spell_holy_surgeoflight"
+    "left": {
+      "id": "390684",
+      "name": "Bright Pupil",
+      "icon": "spell_holy_surgeoflight",
+      "url": "https://www.wowhead.com/beta/spell=390684/bright-pupil"
+    },
+    "right": {
+      "id": "390685",
+      "name": "Enduring Luminescence",
+      "icon": "ability_priest_holybolts01",
+      "url": "https://www.wowhead.com/beta/spell=390685/enduring-luminescence"
+    },
+    "links": [
+      "72"
+    ]
   },
   {
+    "cell": "57",
     "row": "4",
     "column": "7",
     "talentType": "3",
-    "url": "javascript:",
-    "icon": "spell_holy_divineprotection"
+    "left": {
+      "id": "197045",
+      "name": "Shield Discipline",
+      "icon": "spell_holy_divineprotection",
+      "url": "https://www.wowhead.com/beta/spell=197045/shield-discipline"
+    },
+    "right": {
+      "id": "129250",
+      "name": "Power Word: Solace",
+      "icon": "ability_priest_flashoflight",
+      "url": "https://www.wowhead.com/beta/spell=129250/power-word-solace"
+    },
+    "links": [
+      "72",
+      "76"
+    ]
   },
   {
+    "id": "62618",
+    "name": "Power Word: Barrier",
+    "icon": "spell_holy_powerwordbarrier",
     "row": "4",
     "column": "9",
     "talentType": "1",
     "url": "https://www.wowhead.com/beta/spell=62618/power-word-barrier",
-    "icon": "spell_holy_powerwordbarrier",
-    "spellId": "62618"
+    "cell": "59",
+    "links": [
+      "76"
+    ]
   },
   {
+    "id": "390686",
+    "name": "Painful Punishment",
+    "icon": "ability_priest_clarityofpower",
     "row": "4",
     "column": "11",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=390686/painful-punishment",
-    "icon": "ability_priest_clarityofpower",
-    "spellId": "390686"
+    "cell": "61",
+    "links": [
+      "76",
+      "80"
+    ]
   },
   {
+    "id": "372969",
+    "name": "Malicious Intent",
+    "icon": "ability_demonhunter_darkness",
     "row": "4",
     "column": "15",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=372969/malicious-intent",
-    "icon": "ability_demonhunter_darkness",
-    "spellId": "372969"
+    "cell": "65",
+    "links": [
+      "80"
+    ]
   },
   {
+    "id": "204197",
+    "name": "Purge the Wicked",
+    "icon": "ability_mage_firestarter",
     "row": "5",
     "column": "5",
     "talentType": "1",
     "url": "https://www.wowhead.com/beta/spell=204197/purge-the-wicked",
-    "icon": "ability_mage_firestarter",
-    "spellId": "204197"
+    "cell": "72",
+    "links": [
+      "87",
+      "91"
+    ]
   },
   {
+    "id": "47536",
+    "name": "Rapture",
+    "icon": "spell_holy_rapture",
     "row": "5",
     "column": "9",
     "talentType": "1",
     "url": "https://www.wowhead.com/beta/spell=47536/rapture",
-    "icon": "spell_holy_rapture",
-    "spellId": "47536"
+    "cell": "76",
+    "links": [
+      "91",
+      "93",
+      "95"
+    ]
   },
   {
+    "id": "314867",
+    "name": "Shadow Covenant",
+    "icon": "spell_shadow_summonvoidwalker",
     "row": "5",
     "column": "13",
     "talentType": "1",
     "url": "https://www.wowhead.com/beta/spell=314867/shadow-covenant",
-    "icon": "spell_shadow_summonvoidwalker",
-    "spellId": "314867"
+    "cell": "80",
+    "links": [
+      "95",
+      "99"
+    ]
   },
   {
+    "id": "373003",
+    "name": "Revel in Purity",
+    "icon": "spell_fire_felflamering_red",
     "row": "6",
     "column": "3",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=373003/revel-in-purity",
-    "icon": "spell_fire_felflamering_red",
-    "spellId": "373003"
+    "cell": "87",
+    "links": [
+      "106"
+    ]
   },
   {
+    "id": "197419",
+    "name": "Contrition",
+    "icon": "ability_priest_savinggrace",
     "row": "6",
     "column": "7",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=197419/contrition",
-    "icon": "ability_priest_savinggrace",
-    "spellId": "197419"
+    "cell": "91",
+    "links": [
+      "106",
+      "110"
+    ]
   },
   {
+    "id": "373042",
+    "name": "Exaltation",
+    "icon": "spell_holy_spiritualguidence",
     "row": "6",
     "column": "9",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=373042/exaltation",
-    "icon": "spell_holy_spiritualguidence",
-    "spellId": "373042"
+    "cell": "93",
+    "links": [
+      "110"
+    ]
   },
   {
+    "id": "390689",
+    "name": "Pain and Suffering",
+    "icon": "spell_shadow_shadowwordpain",
     "row": "6",
     "column": "11",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=390689/pain-and-suffering",
-    "icon": "spell_shadow_shadowwordpain",
-    "spellId": "390689"
+    "cell": "95",
+    "links": [
+      "110",
+      "114"
+    ]
   },
   {
+    "cell": "99",
     "row": "6",
     "column": "15",
     "talentType": "3",
-    "url": "javascript:",
-    "icon": "spell_warlock_demonsoul"
+    "left": {
+      "id": "372985",
+      "name": "Embrace Shadow",
+      "icon": "spell_warlock_demonsoul",
+      "url": "https://www.wowhead.com/beta/spell=372985/embrace-shadow"
+    },
+    "right": {
+      "id": "373065",
+      "name": "Twilight Corruption",
+      "icon": "spell_fire_twilightimmolation",
+      "url": "https://www.wowhead.com/beta/spell=373065/twilight-corruption"
+    },
+    "links": [
+      "114"
+    ]
   },
   {
+    "id": "390691",
+    "name": "Borrowed Time",
+    "icon": "spell_holy_borrowedtime",
     "row": "7",
     "column": "5",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=390691/borrowed-time",
-    "icon": "spell_holy_borrowedtime",
-    "spellId": "390691"
+    "cell": "106",
+    "links": [
+      "121",
+      "125"
+    ]
   },
   {
+    "id": "193134",
+    "name": "Castigation",
+    "icon": "spell_holy_searinglightpriest",
     "row": "7",
     "column": "9",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=193134/castigation",
-    "icon": "spell_holy_searinglightpriest",
-    "spellId": "193134"
+    "cell": "110",
+    "links": [
+      "125",
+      "129"
+    ]
   },
   {
+    "id": "373054",
+    "name": "Stolen Psyche",
+    "icon": "ability_priest_surgeofdarkness",
     "row": "7",
     "column": "13",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=373054/stolen-psyche",
-    "icon": "ability_priest_surgeofdarkness",
-    "spellId": "373054"
+    "cell": "114",
+    "links": [
+      "129",
+      "133"
+    ]
   },
   {
+    "cell": "121",
     "row": "8",
     "column": "3",
     "talentType": "3",
-    "url": "javascript:",
-    "icon": "ability_mage_studentofthemind"
+    "left": {
+      "id": "390693",
+      "name": "Train of Thought",
+      "icon": "ability_mage_studentofthemind",
+      "url": "https://www.wowhead.com/beta/spell=390693/train-of-thought"
+    },
+    "right": {
+      "id": "391079",
+      "name": "Make Amends",
+      "icon": "spell_holy_penance",
+      "url": "https://www.wowhead.com/beta/spell=391079/make-amends"
+    },
+    "links": [
+      "138",
+      "140"
+    ]
   },
   {
+    "id": "373178",
+    "name": "Light's Wrath",
+    "icon": "inv_staff_2h_artifacttome_d_01",
     "row": "8",
     "column": "7",
     "talentType": "1",
     "url": "https://www.wowhead.com/beta/spell=373178/lights-wrath",
-    "icon": "inv_staff_2h_artifacttome_d_01",
-    "spellId": "373178"
+    "cell": "125",
+    "links": [
+      "140",
+      "142",
+      "144"
+    ]
   },
   {
+    "id": "390705",
+    "name": "Twilight Equilibrium",
+    "icon": "ability_priest_innerlightandshadow",
     "row": "8",
     "column": "11",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=390705/twilight-equilibrium",
-    "icon": "ability_priest_innerlightandshadow",
-    "spellId": "390705"
+    "cell": "129",
+    "links": [
+      "144",
+      "148"
+    ]
   },
   {
+    "id": "123040",
+    "name": "Mindbender",
+    "icon": "spell_shadow_soulleech_3",
     "row": "8",
     "column": "15",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=123040/mindbender",
-    "icon": "spell_shadow_soulleech_3",
-    "spellId": "123040"
+    "cell": "133",
+    "links": [
+      "148",
+      "150"
+    ]
   },
   {
+    "id": "47515",
+    "name": "Divine Aegis",
+    "icon": "spell_holy_devineaegis",
     "row": "9",
     "column": "3",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=47515/divine-aegis",
-    "icon": "spell_holy_devineaegis",
-    "spellId": "47515"
+    "cell": "138",
+    "links": [
+      "155"
+    ]
   },
   {
+    "id": "280391",
+    "name": "Sins of the Many",
+    "icon": "spell_holy_holyguidance",
     "row": "9",
     "column": "5",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=280391/sins-of-the-many",
-    "icon": "spell_holy_holyguidance",
-    "spellId": "280391"
+    "cell": "140",
+    "links": [
+      "157"
+    ]
   },
   {
+    "id": "390765",
+    "name": "Resplendent Light",
+    "icon": "spell_priest_divinestar_holy",
     "row": "9",
     "column": "7",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=390765/resplendent-light",
-    "icon": "spell_priest_divinestar_holy",
-    "spellId": "390765"
+    "cell": "142",
+    "links": [
+      "159"
+    ]
   },
   {
+    "id": "373180",
+    "name": "Harsh Discipline",
+    "icon": "ability_paladin_handoflight",
     "row": "9",
     "column": "9",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=373180/harsh-discipline",
-    "icon": "ability_paladin_handoflight",
-    "spellId": "373180"
+    "cell": "144",
+    "links": [
+      "163"
+    ]
   },
   {
+    "id": "390770",
+    "name": "Void Summoner",
+    "icon": "spell_shadow_shadowfiend",
     "row": "9",
     "column": "13",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=390770/void-summoner",
-    "icon": "spell_shadow_shadowfiend",
-    "spellId": "390770"
+    "cell": "148",
+    "links": [
+      "165"
+    ]
   },
   {
+    "id": "390832",
+    "name": "Expiation",
+    "icon": "spell_shadow_shadowpower",
     "row": "9",
     "column": "15",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=390832/expiation",
-    "icon": "spell_shadow_shadowpower",
-    "spellId": "390832"
+    "cell": "150",
+    "links": [
+      "165"
+    ]
   },
   {
+    "cell": "155",
     "row": "10",
     "column": "3",
     "talentType": "3",
-    "url": "javascript:",
-    "icon": "spell_holy_divineprotection"
+    "left": {
+      "id": "373049",
+      "name": "Indemnity",
+      "icon": "spell_holy_divineprotection",
+      "url": "https://www.wowhead.com/beta/spell=373049/indemnity"
+    },
+    "right": {
+      "id": "238135",
+      "name": "Aegis of Wrath",
+      "icon": "spell_holy_powerwordshield",
+      "url": "https://www.wowhead.com/beta/spell=238135/aegis-of-wrath"
+    }
   },
   {
+    "cell": "157",
     "row": "10",
     "column": "5",
     "talentType": "3",
-    "url": "javascript:",
-    "icon": "ability_priest_atonement"
+    "left": {
+      "id": "238063",
+      "name": "Lenience",
+      "icon": "ability_priest_atonement",
+      "url": "https://www.wowhead.com/beta/spell=238063/lenience"
+    },
+    "right": {
+      "id": "246287",
+      "name": "Evangelism",
+      "icon": "spell_holy_divineillumination",
+      "url": "https://www.wowhead.com/beta/spell=246287/evangelism"
+    }
   },
   {
+    "id": "390781",
+    "name": "Wrath Unleashed",
+    "icon": "inv_staff_2h_artifacttome_d_01",
     "row": "10",
     "column": "7",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=390781/wrath-unleashed",
-    "icon": "inv_staff_2h_artifacttome_d_01",
-    "spellId": "390781"
+    "cell": "159"
   },
   {
+    "id": "390786",
+    "name": "Weal and Woe",
+    "icon": "spell_priest_burningwill",
     "row": "10",
     "column": "11",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=390786/weal-and-woe",
-    "icon": "spell_priest_burningwill",
-    "spellId": "390786"
+    "cell": "163"
   },
   {
+    "id": "373427",
+    "name": "Inescapable Torment",
+    "icon": "spell_shadow_chilltouch",
     "row": "10",
     "column": "13",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=373427/inescapable-torment",
-    "icon": "spell_shadow_chilltouch",
-    "spellId": "373427"
+    "cell": "165"
   }
 ]
