@@ -31,6 +31,7 @@ const choiceTalentNodeDataSchema = z.object({
     icon: z.string(),
     url: z.string(),
   }),
+  links: z.array(z.number()).optional(),
 });
 
 export const TalentNodeDataSchema = z.union([

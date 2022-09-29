@@ -53,6 +53,7 @@
     "yargs": "^17.5.1"
   },
   "dependencies": {
+    "react-xarrows": "^2.0.2",
     "zod": "^3.19.1"
   }
 }

@@ -1,35 +1,45 @@
-import React from "react";
+import React, { PropsWithRef } from "react";
 import { TalentNodeData } from "../types";
 import { MultiTalentNode } from "./MultiTalentNode";
 import { Button } from "./style";
 
-type Props = {
+type Props = PropsWithRef<{
   talent: TalentNodeData;
-};
+  className: string;
+  id: string;
+}>;
 
-export function TalentNode({ talent }: Props) {
-  return "left" in talent ? (
-    <Button
-      multi
-      style={{
-        gridRow: talent.row,
-        gridColumn: talent.column,
-      }}
-    >
-      <MultiTalentNode left={talent.left} right={talent.right} />
-    </Button>
-  ) : (
-    <Button
-      style={{
-        gridRow: talent.row,
-        gridColumn: talent.column,
-      }}
-    >
-      <img
-        width={32}
-        height={32}
-        src={`https://render.worldofwarcraft.com/us/icons/56/${talent.icon}.jpg`}
-      />
-    </Button>
-  );
-}
+export const TalentNode = React.forwardRef<HTMLButtonElement, Props>(
+  ({ talent, className, id }, ref) => {
+    return "left" in talent ? (
+      <Button
+        id={id}
+        ref={ref}
+        className={className}
+        multi
+        style={{
+          gridRow: talent.row,
+          gridColumn: talent.column,
+        }}
+      >
+        <MultiTalentNode left={talent.left} right={talent.right} />
+      </Button>
+    ) : (
+      <Button
+        id={id}
+        ref={ref}
+        className={className}
+        style={{
+          gridRow: talent.row,
+          gridColumn: talent.column,
+        }}
+      >
+        <img
+          width={32}
+          height={32}
+          src={`https://render.worldofwarcraft.com/us/icons/56/${talent.icon}.jpg`}
+        />
+      </Button>
+    );
+  }
+);

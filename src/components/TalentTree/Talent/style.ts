@@ -1,6 +1,7 @@
 import { styled } from "@stitches/react";
 
 export const Button = styled("button", {
+  zIndex: 1,
   border: "1px solid black",
   flex: "1 1 0",
   width: "32px",
