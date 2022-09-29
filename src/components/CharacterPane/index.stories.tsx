@@ -1,5 +1,3 @@
-// write a storybook configuration for this component
-
 import React from "react";
 
 export default {
