@@ -1,760 +1,762 @@
 [
   {
-    "id": "139",
+    "id": 139,
     "name": "Renew",
     "icon": "spell_holy_renew",
-    "row": "1",
-    "column": "5",
-    "talentType": "1",
+    "capacity": 0,
+    "cell": 4,
+    "row": 1,
+    "column": 5,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=139/renew",
-    "cell": "4",
     "links": [
-      "19",
-      "23"
+      19,
+      23
     ]
   },
   {
-    "id": "528",
+    "id": 528,
     "name": "Dispel Magic",
     "icon": "spell_nature_nullifydisease",
-    "capacity": "1",
-    "row": "1",
-    "column": "9",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=528/dispel-magic",
-    "cell": "8",
     "links": [
-      "23",
-      "25",
-      "27"
+      23,
+      25,
+      27
     ]
   },
   {
-    "id": "34433",
+    "id": 34433,
     "name": "Shadowfiend",
     "icon": "spell_shadow_shadowfiend",
-    "capacity": "1",
-    "row": "1",
-    "column": "13",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 12,
+    "row": 1,
+    "column": 13,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=34433/shadowfiend",
-    "cell": "12",
     "links": [
-      "27",
-      "31"
+      27,
+      31
     ]
   },
   {
-    "id": "33076",
+    "id": 33076,
     "name": "Prayer of Mending",
     "icon": "spell_holy_prayerofmendingtga",
-    "row": "2",
-    "column": "3",
-    "talentType": "1",
+    "capacity": 0,
+    "cell": 19,
+    "row": 2,
+    "column": 3,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=33076/prayer-of-mending",
-    "cell": "19",
     "links": [
-      "34",
-      "38",
-      "53"
+      34,
+      38,
+      53
     ]
   },
   {
-    "id": "393870",
+    "id": 393870,
     "name": "Improved Flash Heal",
     "icon": "spell_holy_heal",
-    "capacity": "1",
-    "row": "2",
-    "column": "7",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393870/improved-flash-heal",
-    "cell": "23",
     "links": [
-      "38",
-      "40",
-      "42"
+      38,
+      40,
+      42
     ]
   },
   {
-    "id": "390632",
+    "id": 390632,
     "name": "Improved Purify",
     "icon": "spell_holy_nullifydisease",
-    "capacity": "1",
-    "row": "2",
-    "column": "9",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390632/improved-purify",
-    "cell": "25",
     "links": [
-      "42"
+      42
     ]
   },
   {
-    "id": "196704",
+    "id": 196704,
     "name": "Psychic Voice",
     "icon": "ability_warrior_commandingshout",
-    "capacity": "1",
-    "row": "2",
-    "column": "11",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196704/psychic-voice",
-    "cell": "27",
     "links": [
-      "42",
-      "46"
+      42,
+      46
     ]
   },
   {
-    "id": "32379",
+    "id": 32379,
     "name": "Shadow Word: Death",
     "icon": "spell_shadow_demonicfortitude",
-    "capacity": "1",
-    "row": "2",
-    "column": "15",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 31,
+    "row": 2,
+    "column": 15,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=32379/shadow-word-death",
-    "cell": "31",
     "links": [
-      "46",
-      "50"
+      46,
+      50
     ]
   },
   {
-    "id": "372354",
+    "id": 372354,
     "name": "Focused Mending",
     "icon": "achievement_bg_returnxflags_def_wsg",
-    "capacity": "1",
-    "row": "3",
-    "column": "1",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 34,
+    "row": 3,
+    "column": 1,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=372354/focused-mending",
-    "cell": "34",
     "links": [
-      "53"
+      53
     ]
   },
   {
-    "id": "132157",
+    "id": 132157,
     "name": "Holy Nova",
     "icon": "spell_holy_holynova",
-    "capacity": "1",
-    "row": "3",
-    "column": "5",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=132157/holy-nova",
-    "cell": "38",
     "links": [
-      "53",
-      "55",
-      "57"
+      53,
+      55,
+      57
     ]
   },
   {
-    "cell": "40",
-    "row": "3",
-    "column": "7",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "193063",
+      "id": 193063,
       "name": "Protective Light",
       "icon": "spell_holy_holyprotection",
       "url": "https://www.wowhead.com/beta/spell=193063/protective-light"
     },
     "right": {
-      "id": "390615",
+      "id": 390615,
       "name": "From Darkness Comes Light",
       "icon": "spell_holy_flashheal",
       "url": "https://www.wowhead.com/beta/spell=390615/from-darkness-comes-light"
     },
     "links": [
-      "57"
+      57
     ]
   },
   {
-    "id": "121536",
+    "id": 121536,
     "name": "Angelic Feather",
     "icon": "ability_priest_angelicfeather",
-    "capacity": "1",
-    "row": "3",
-    "column": "9",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=121536/angelic-feather",
-    "cell": "42",
     "links": [
-      "57",
-      "59",
-      "61"
+      57,
+      59,
+      61
     ]
   },
   {
-    "id": "108942",
+    "id": 108942,
     "name": "Phantasm",
     "icon": "ability_priest_phantasm",
-    "capacity": "1",
-    "row": "3",
-    "column": "13",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=108942/phantasm",
-    "cell": "46",
     "links": [
-      "61",
-      "65"
+      61,
+      65
     ]
   },
   {
-    "id": "321291",
+    "id": 321291,
     "name": "Death and Madness",
     "icon": "spell_shadow_demonicfortitude",
-    "capacity": "1",
-    "row": "3",
-    "column": "17",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 50,
+    "row": 3,
+    "column": 17,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321291/death-and-madness",
-    "cell": "50",
     "links": [
-      "65",
-      "84"
+      65,
+      84
     ]
   },
   {
-    "cell": "53",
-    "row": "4",
-    "column": "3",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "390667",
+      "id": 390667,
       "name": "Spell Warding",
       "icon": "spell_holy_spellwarding",
       "url": "https://www.wowhead.com/beta/spell=390667/spell-warding"
     },
     "right": {
-      "id": "390767",
+      "id": 390767,
       "name": "Blessed Recovery",
       "icon": "spell_holy_blessedrecovery",
       "url": "https://www.wowhead.com/beta/spell=390767/blessed-recovery"
     },
     "links": [
-      "68",
-      "72",
-      "87"
+      68,
+      72,
+      87
     ]
   },
   {
-    "id": "390622",
+    "id": 390622,
     "name": "Rhapsody",
     "icon": "spell_holy_holynova",
-    "capacity": "1",
-    "row": "4",
-    "column": "5",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390622/rhapsody",
-    "cell": "55",
     "links": [
-      "72"
+      72
     ]
   },
   {
-    "id": "73325",
+    "id": 73325,
     "name": "Leap of Faith",
     "icon": "priest_spell_leapoffaith_a",
-    "capacity": "1",
-    "row": "4",
-    "column": "7",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=73325/leap-of-faith",
-    "cell": "57",
     "links": [
-      "72",
-      "74",
-      "76"
+      72,
+      74,
+      76
     ]
   },
   {
-    "id": "9484",
+    "id": 9484,
     "name": "Shackle Undead",
     "icon": "spell_nature_slow",
-    "capacity": "1",
-    "row": "4",
-    "column": "9",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=9484/shackle-undead",
-    "cell": "59",
     "links": [
-      "76"
+      76
     ]
   },
   {
-    "cell": "61",
-    "row": "4",
-    "column": "11",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "390919",
+      "id": 390919,
       "name": "Sheer Terror",
       "icon": "spell_nzinsanity_fearofdeath",
       "url": "https://www.wowhead.com/beta/spell=390919/sheer-terror"
     },
     "right": {
-      "id": "108920",
+      "id": 108920,
       "name": "Void Tendrils",
       "icon": "spell_priest_voidtendrils",
       "url": "https://www.wowhead.com/beta/spell=108920/void-tendrils"
     },
     "links": [
-      "76",
-      "80"
+      76,
+      80
     ]
   },
   {
-    "cell": "65",
-    "row": "4",
-    "column": "15",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "605",
+      "id": 605,
       "name": "Mind Control",
       "icon": "spell_shadow_shadowworddominate",
       "url": "https://www.wowhead.com/beta/spell=605/mind-control"
     },
     "right": {
-      "id": "205364",
+      "id": 205364,
       "name": "Dominate Mind",
       "icon": "spell_priest_void-flay",
       "url": "https://www.wowhead.com/beta/spell=205364/dominate-mind"
     },
     "links": [
-      "80",
-      "99"
+      80,
+      99
     ]
   },
   {
-    "id": "377438",
+    "id": 377438,
     "name": "Words of the Pious",
     "icon": "ability_priest_clarityofwill",
-    "capacity": "1",
-    "row": "5",
-    "column": "1",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 68,
+    "row": 5,
+    "column": 1,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377438/words-of-the-pious",
-    "cell": "68",
     "links": [
-      "87"
+      87
     ]
   },
   {
-    "id": "32375",
+    "id": 32375,
     "name": "Mass Dispel",
     "icon": "spell_arcane_massdispel",
-    "capacity": "1",
-    "row": "5",
-    "column": "5",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=32375/mass-dispel",
-    "cell": "72",
     "links": [
-      "87",
-      "89",
-      "91"
+      87,
+      89,
+      91
     ]
   },
   {
-    "id": "390620",
+    "id": 390620,
     "name": "Move with Grace",
     "icon": "ability_priest_savinggrace",
-    "capacity": "1",
-    "row": "5",
-    "column": "7",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390620/move-with-grace",
-    "cell": "74",
     "links": [
-      "91"
+      91
     ]
   },
   {
-    "id": "10060",
+    "id": 10060,
     "name": "Power Infusion",
     "icon": "spell_holy_powerinfusion",
-    "capacity": "1",
-    "row": "5",
-    "column": "9",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=10060/power-infusion",
-    "cell": "76",
     "links": [
-      "91",
-      "93",
-      "95"
+      91,
+      93,
+      95
     ]
   },
   {
-    "id": "15286",
+    "id": 15286,
     "name": "Vampiric Embrace",
     "icon": "spell_shadow_unsummonbuilding",
-    "capacity": "1",
-    "row": "5",
-    "column": "13",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=15286/vampiric-embrace",
-    "cell": "80",
     "links": [
-      "95",
-      "97",
-      "99"
+      95,
+      97,
+      99
     ]
   },
   {
-    "id": "373223",
+    "id": 373223,
     "name": "Tithe Evasion",
     "icon": "spell_nzinsanity_bloodthirst",
-    "capacity": "1",
-    "row": "5",
-    "column": "17",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 84,
+    "row": 5,
+    "column": 17,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373223/tithe-evasion",
-    "cell": "84",
     "links": [
-      "99"
+      99
     ]
   },
   {
-    "id": "390676",
+    "id": 390676,
     "name": "Inspiration",
     "icon": "spell_holy_layonhands",
-    "capacity": "1",
-    "row": "6",
-    "column": "3",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390676/inspiration",
-    "cell": "87",
     "links": [
-      "106"
+      106
     ]
   },
   {
-    "id": "341167",
+    "id": 341167,
     "name": "Improved Mass Dispel",
     "icon": "spell_arcane_massdispel",
-    "capacity": "1",
-    "row": "6",
-    "column": "5",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=341167/improved-mass-dispel",
-    "cell": "89",
     "links": [
-      "106"
+      106
     ]
   },
   {
-    "id": "64129",
+    "id": 64129,
     "name": "Body and Soul",
     "icon": "spell_holy_symbolofhope",
-    "capacity": "1",
-    "row": "6",
-    "column": "7",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=64129/body-and-soul",
-    "cell": "91",
     "links": [
-      "106",
-      "110"
+      106,
+      110
     ]
   },
   {
-    "id": "373466",
+    "id": 373466,
     "name": "Twins of the Sun Priestess",
     "icon": "spell_fire_felflamering_red",
-    "capacity": "1",
-    "row": "6",
-    "column": "9",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373466/twins-of-the-sun-priestess",
-    "cell": "93",
     "links": [
-      "110"
+      110
     ]
   },
   {
-    "id": "280749",
+    "id": 280749,
     "name": "Void Shield",
     "icon": "inv_enchant_voidsphere",
-    "capacity": "1",
-    "row": "6",
-    "column": "11",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=280749/void-shield",
-    "cell": "95",
     "links": [
-      "110",
-      "114"
+      110,
+      114
     ]
   },
   {
-    "id": "199855",
+    "id": 199855,
     "name": "San'layn",
     "icon": "achievement_boss_lanathel",
-    "capacity": "1",
-    "row": "6",
-    "column": "13",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=199855/sanlayn",
-    "cell": "97",
     "links": [
-      "114"
+      114
     ]
   },
   {
-    "id": "390668",
+    "id": 390668,
     "name": "Apathy",
     "icon": "ability_rogue_masterofsubtlety",
-    "capacity": "1",
-    "row": "6",
-    "column": "15",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390668/apathy",
-    "cell": "99",
     "links": [
-      "114"
+      114
     ]
   },
   {
-    "id": "373456",
+    "id": 373456,
     "name": "Unwavering Will",
     "icon": "ability_warrior_unrelentingassault",
-    "capacity": "2",
-    "row": "7",
-    "column": "5",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373456/unwavering-will",
-    "cell": "106",
     "links": [
-      "121",
-      "125"
+      121,
+      125
     ]
   },
   {
-    "id": "390972",
+    "id": 390972,
     "name": "Twist of Fate",
     "icon": "spell_shadow_mindtwisting",
-    "capacity": "2",
-    "row": "7",
-    "column": "9",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390972/twist-of-fate",
-    "cell": "110",
     "links": [
-      "125",
-      "129"
+      125,
+      129
     ]
   },
   {
-    "id": "377422",
+    "id": 377422,
     "name": "Throes of Pain",
     "icon": "spell_shadow_haunting",
-    "capacity": "2",
-    "row": "7",
-    "column": "13",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377422/throes-of-pain",
-    "cell": "114",
     "links": [
-      "129",
-      "133"
+      129,
+      133
     ]
   },
   {
-    "cell": "121",
-    "row": "8",
-    "column": "3",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "238100",
+      "id": 238100,
       "name": "Angel's Mercy",
       "icon": "spell_holy_testoffaith",
       "url": "https://www.wowhead.com/beta/spell=238100/angels-mercy"
     },
     "right": {
-      "id": "368275",
+      "id": 368275,
       "name": "Binding Heals",
       "icon": "spell_holy_blindingheal",
       "url": "https://www.wowhead.com/beta/spell=368275/binding-heals"
     },
     "links": [
-      "138",
-      "140"
+      138,
+      140
     ]
   },
   {
-    "cell": "125",
-    "row": "8",
-    "column": "7",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "110744",
+      "id": 110744,
       "name": "Divine Star",
       "icon": "spell_priest_divinestar",
       "url": "https://www.wowhead.com/beta/spell=110744/divine-star"
     },
     "right": {
-      "id": "120517",
+      "id": 120517,
       "name": "Halo",
       "icon": "ability_priest_halo",
       "url": "https://www.wowhead.com/beta/spell=120517/halo"
     },
     "links": [
-      "140",
-      "144"
+      140,
+      144
     ]
   },
   {
-    "id": "373446",
+    "id": 373446,
     "name": "Translucent Image",
     "icon": "spell_nature_invisibilty",
-    "capacity": "1",
-    "row": "8",
-    "column": "11",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373446/translucent-image",
-    "cell": "129",
     "links": [
-      "144",
-      "148"
+      144,
+      148
     ]
   },
   {
-    "id": "375901",
+    "id": 375901,
     "name": "Mindgames",
     "icon": "ability_revendreth_priest",
-    "capacity": "1",
-    "row": "8",
-    "column": "15",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=375901/mindgames",
-    "cell": "133",
     "links": [
-      "148",
-      "150"
+      148,
+      150
     ]
   },
   {
-    "id": "109186",
+    "id": 109186,
     "name": "Surge of Light",
     "icon": "spell_holy_surgeoflight",
-    "capacity": "2",
-    "row": "9",
-    "column": "3",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=109186/surge-of-light",
-    "cell": "138",
     "links": [
-      "155"
+      155
     ]
   },
   {
-    "id": "373450",
+    "id": 373450,
     "name": "Light's Inspiration",
     "icon": "spell_holy_restoration",
-    "capacity": "2",
-    "row": "9",
-    "column": "5",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373450/lights-inspiration",
-    "cell": "140",
     "links": [
-      "159"
+      159
     ]
   },
   {
-    "id": "373457",
+    "id": 373457,
     "name": "Crystalline Reflection",
     "icon": "ability_priest_reflectiveshield",
-    "capacity": "2",
-    "row": "9",
-    "column": "9",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373457/crystalline-reflection",
-    "cell": "144",
     "links": [
-      "159",
-      "163"
+      159,
+      163
     ]
   },
   {
-    "id": "390670",
+    "id": 390670,
     "name": "Improved Fade",
     "icon": "spell_magic_lesserinvisibilty",
-    "capacity": "2",
-    "row": "9",
-    "column": "13",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390670/improved-fade",
-    "cell": "148",
     "links": [
-      "163"
+      163
     ]
   },
   {
-    "id": "390996",
+    "id": 390996,
     "name": "Manipulation",
     "icon": "ability_revendreth_priest",
-    "capacity": "2",
-    "row": "9",
-    "column": "15",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390996/manipulation",
-    "cell": "150",
     "links": [
-      "167"
+      167
     ]
   },
   {
-    "id": "373481",
+    "id": 373481,
     "name": "Power Word: Life",
     "icon": "ability_priest_holywordlife",
-    "capacity": "1",
-    "row": "10",
-    "column": "3",
-    "talentType": "1",
-    "url": "https://www.wowhead.com/beta/spell=373481/power-word-life",
-    "cell": "155"
+    "capacity": 1,
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=373481/power-word-life"
   },
   {
-    "id": "108945",
+    "id": 108945,
     "name": "Angelic Bulwark",
     "icon": "ability_priest_angelicbulwark",
-    "capacity": "1",
-    "row": "10",
-    "column": "7",
-    "talentType": "2",
-    "url": "https://www.wowhead.com/beta/spell=108945/angelic-bulwark",
-    "cell": "159"
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=108945/angelic-bulwark"
   },
   {
-    "id": "108968",
+    "id": 108968,
     "name": "Void Shift",
     "icon": "spell_priest_voidshift",
-    "capacity": "1",
-    "row": "10",
-    "column": "11",
-    "talentType": "1",
-    "url": "https://www.wowhead.com/beta/spell=108968/void-shift",
-    "cell": "163"
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=108968/void-shift"
   },
   {
-    "id": "391112",
+    "id": 391112,
     "name": "Shattered Perceptions",
     "icon": "spell_animarevendreth_debuff",
-    "capacity": "1",
-    "row": "10",
-    "column": "15",
-    "talentType": "2",
-    "url": "https://www.wowhead.com/beta/spell=391112/shattered-perceptions",
-    "cell": "167"
+    "capacity": 1,
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391112/shattered-perceptions"
   }
 ]

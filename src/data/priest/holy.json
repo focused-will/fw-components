@@ -1,664 +1,664 @@
 [
   {
-    "id": "2050",
+    "id": 2050,
     "name": "Holy Word: Serenity",
     "icon": "spell_holy_persuitofjustice",
-    "capacity": "1",
-    "row": "1",
-    "column": "9",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=2050/holy-word-serenity",
-    "cell": "8",
     "links": [
-      "23",
-      "25",
-      "27"
+      23,
+      25,
+      27
     ]
   },
   {
-    "id": "596",
+    "id": 596,
     "name": "Prayer of Healing",
     "icon": "spell_holy_prayerofhealing02",
-    "capacity": "1",
-    "row": "2",
-    "column": "7",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=596/prayer-of-healing",
-    "cell": "23",
     "links": [
-      "38",
-      "57"
+      38,
+      57
     ]
   },
   {
-    "id": "47788",
+    "id": 47788,
     "name": "Guardian Spirit",
     "icon": "spell_holy_guardianspirit",
-    "capacity": "1",
-    "row": "2",
-    "column": "9",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=47788/guardian-spirit",
-    "cell": "25",
     "links": [
-      "42"
+      42
     ]
   },
   {
-    "id": "88625",
+    "id": 88625,
     "name": "Holy Word: Chastise",
     "icon": "spell_holy_chastise",
-    "capacity": "1",
-    "row": "2",
-    "column": "11",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=88625/holy-word-chastise",
-    "cell": "27",
     "links": [
-      "44",
-      "46"
+      44,
+      46
     ]
   },
   {
-    "id": "34861",
+    "id": 34861,
     "name": "Holy Word: Sanctify",
     "icon": "spell_holy_divineprovidence",
-    "capacity": "1",
-    "row": "3",
-    "column": "5",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=34861/holy-word-sanctify",
-    "cell": "38",
     "links": [
-      "53",
-      "55",
-      "57"
+      53,
+      55,
+      57
     ]
   },
   {
-    "cell": "42",
-    "row": "3",
-    "column": "9",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "200209",
+      "id": 200209,
       "name": "Guardian Angel",
       "icon": "ability_priest_pathofthedevout",
       "url": "https://www.wowhead.com/beta/spell=200209/guardian-angel"
     },
     "right": {
-      "id": "196437",
+      "id": 196437,
       "name": "Guardians of the Light",
       "icon": "spell_holy_guardianspirit",
       "url": "https://www.wowhead.com/beta/spell=196437/guardians-of-the-light"
     },
     "links": [
-      "57",
-      "59",
-      "61"
+      57,
+      59,
+      61
     ]
   },
   {
-    "id": "200199",
+    "id": 200199,
     "name": "Censure",
     "icon": "spell_holy_eyeforaneye",
-    "capacity": "1",
-    "row": "3",
-    "column": "11",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=200199/censure",
-    "cell": "44",
     "links": [
-      "61"
+      61
     ]
   },
   {
-    "id": "372307",
+    "id": 372307,
     "name": "Burning Vehemence",
     "icon": "spell_nature_unleashedrage",
-    "capacity": "1",
-    "row": "3",
-    "column": "13",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=372307/burning-vehemence",
-    "cell": "46",
     "links": [
-      "61",
-      "65"
+      61,
+      65
     ]
   },
   {
-    "id": "204883",
+    "id": 204883,
     "name": "Circle of Healing",
     "icon": "spell_holy_circleofrenewal",
-    "capacity": "1",
-    "row": "4",
-    "column": "3",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=204883/circle-of-healing",
-    "cell": "53",
     "links": [
-      "70",
-      "72"
+      70,
+      72
     ]
   },
   {
-    "cell": "55",
-    "row": "4",
-    "column": "5",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "391208",
+      "id": 391208,
       "name": "Revitalizing Prayers",
       "icon": "inv_staff_2h_artifacttome_d_06",
       "url": "https://www.wowhead.com/beta/spell=391208/revitalizing-prayers"
     },
     "right": {
-      "id": "196489",
+      "id": 196489,
       "name": "Sanctified Prayers",
       "icon": "spell_holy_pureofheart",
       "url": "https://www.wowhead.com/beta/spell=196489/sanctified-prayers"
     },
     "links": [
-      "72",
-      "74"
+      72,
+      74
     ]
   },
   {
-    "id": "238136",
+    "id": 238136,
     "name": "Cosmic Ripple",
     "icon": "spell_holy_summonlightwell",
-    "capacity": "1",
-    "row": "4",
-    "column": "7",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=238136/cosmic-ripple",
-    "cell": "57",
     "links": [
-      "74",
-      "76"
+      74,
+      76
     ]
   },
   {
-    "id": "196707",
+    "id": 196707,
     "name": "Afterlife",
     "icon": "inv_enchant_essencemagiclarge",
-    "capacity": "1",
-    "row": "4",
-    "column": "9",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196707/afterlife",
-    "cell": "59",
     "links": [
-      "76"
+      76
     ]
   },
   {
-    "id": "341997",
+    "id": 341997,
     "name": "Renewed Faith",
     "icon": "ability_pvp_innerrenewal",
-    "capacity": "1",
-    "row": "4",
-    "column": "11",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=341997/renewed-faith",
-    "cell": "61",
     "links": [
-      "76",
-      "78",
-      "80"
+      76,
+      78,
+      80
     ]
   },
   {
-    "id": "372616",
+    "id": 372616,
     "name": "Empyreal Blaze",
     "icon": "spell_fire_ragnaros_lavabolt",
-    "capacity": "1",
-    "row": "4",
-    "column": "15",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=372616/empyreal-blaze",
-    "cell": "65",
     "links": [
-      "80"
+      80
     ]
   },
   {
-    "cell": "70",
-    "row": "5",
-    "column": "3",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "321377",
+      "id": 321377,
       "name": "Prayer Circle",
       "icon": "spell_paladin_divinecircle",
       "url": "https://www.wowhead.com/beta/spell=321377/prayer-circle"
     },
     "right": {
-      "id": "390881",
+      "id": 390881,
       "name": "Healing Chorus",
       "icon": "spell_holy_circleofrenewal",
       "url": "https://www.wowhead.com/beta/spell=390881/healing-chorus"
     },
     "links": [
-      "87"
+      87
     ]
   },
   {
-    "id": "391209",
+    "id": 391209,
     "name": "Prayerful Litany",
     "icon": "spell_holy_prayerofhealing02",
-    "capacity": "1",
-    "row": "5",
-    "column": "5",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391209/prayerful-litany",
-    "cell": "72",
     "links": [
-      "91",
-      "106"
+      91,
+      106
     ]
   },
   {
-    "id": "200128",
+    "id": 200128,
     "name": "Trail of Light",
     "icon": "ability_priest_wordsofmeaning",
-    "capacity": "1",
-    "row": "5",
-    "column": "7",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=200128/trail-of-light",
-    "cell": "74",
     "links": [
-      "91"
+      91
     ]
   },
   {
-    "id": "64843",
+    "id": 64843,
     "name": "Divine Hymn",
     "icon": "spell_holy_divinehymn",
-    "capacity": "1",
-    "row": "5",
-    "column": "9",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=64843/divine-hymn",
-    "cell": "76",
     "links": [
-      "91",
-      "93",
-      "95"
+      91,
+      93,
+      95
     ]
   },
   {
-    "id": "193155",
+    "id": 193155,
     "name": "Enlightenment",
     "icon": "spell_arcane_mindmastery",
-    "capacity": "1",
-    "row": "5",
-    "column": "11",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=193155/enlightenment",
-    "cell": "78",
     "links": [
-      "95"
+      95
     ]
   },
   {
-    "cell": "80",
-    "row": "5",
-    "column": "13",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "193157",
+      "id": 193157,
       "name": "Benediction",
       "icon": "spell_monk_diffusemagic",
       "url": "https://www.wowhead.com/beta/spell=193157/benediction"
     },
     "right": {
-      "id": "391154",
+      "id": 391154,
       "name": "Holy Mending",
       "icon": "spell_holy_healingfocus",
       "url": "https://www.wowhead.com/beta/spell=391154/holy-mending"
     },
     "links": [
-      "95",
-      "99"
+      95,
+      99
     ]
   },
   {
-    "id": "390947",
+    "id": 390947,
     "name": "Orison",
     "icon": "spell_holy_fanaticism",
-    "capacity": "1",
-    "row": "6",
-    "column": "3",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390947/orison",
-    "cell": "87",
     "links": [
-      "106"
+      106
     ]
   },
   {
-    "id": "391161",
+    "id": 391161,
     "name": "Everlasting Light",
     "icon": "inv_mace_1h_artifactheartofkure_d_01",
-    "capacity": "1",
-    "row": "6",
-    "column": "7",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391161/everlasting-light",
-    "cell": "91",
     "links": [
-      "106",
-      "110"
+      106,
+      110
     ]
   },
   {
-    "id": "372370",
+    "id": 372370,
     "name": "Gales of Song",
     "icon": "inv_misc_volatileair",
-    "capacity": "1",
-    "row": "6",
-    "column": "9",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=372370/gales-of-song",
-    "cell": "93",
     "links": [
-      "110"
+      110
     ]
   },
   {
-    "id": "64901",
+    "id": 64901,
     "name": "Symbol of Hope",
     "icon": "spell_holy_symbolofhope",
-    "capacity": "1",
-    "row": "6",
-    "column": "11",
-    "talentType": "1",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=64901/symbol-of-hope",
-    "cell": "95",
     "links": [
-      "110",
-      "114"
+      110,
+      114
     ]
   },
   {
-    "id": "391233",
+    "id": 391233,
     "name": "Divine Service",
     "icon": "spell_holy_prayerofspirit",
-    "capacity": "1",
-    "row": "6",
-    "column": "15",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391233/divine-service",
-    "cell": "99",
     "links": [
-      "114"
+      114
     ]
   },
   {
-    "id": "390954",
+    "id": 390954,
     "name": "Crisis Management",
     "icon": "spell_holy_flashheal",
-    "capacity": "2",
-    "row": "7",
-    "column": "5",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390954/crisis-management",
-    "cell": "106",
     "links": [
-      "121",
-      "125"
+      121,
+      125
     ]
   },
   {
-    "id": "390967",
+    "id": 390967,
     "name": "Prismatic Echoes",
     "icon": "spell_holy_aspiration",
-    "capacity": "2",
-    "row": "7",
-    "column": "9",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390967/prismatic-echoes",
-    "cell": "110",
     "links": [
-      "125",
-      "129"
+      125,
+      129
     ]
   },
   {
-    "id": "390977",
+    "id": 390977,
     "name": "Prayers of the Virtuous",
     "icon": "spell_holy_prayerofmendingtga",
-    "capacity": "2",
-    "row": "7",
-    "column": "13",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390977/prayers-of-the-virtuous",
-    "cell": "114",
     "links": [
-      "129",
-      "133"
+      129,
+      133
     ]
   },
   {
-    "id": "390980",
+    "id": 390980,
     "name": "Pontifex",
     "icon": "spell_priest_pontifex",
-    "capacity": "1",
-    "row": "8",
-    "column": "3",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390980/pontifex",
-    "cell": "121",
     "links": [
-      "138",
-      "140"
+      138,
+      140
     ]
   },
   {
-    "cell": "125",
-    "row": "8",
-    "column": "7",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "200183",
+      "id": 200183,
       "name": "Apotheosis",
       "icon": "ability_priest_ascension",
       "url": "https://www.wowhead.com/beta/spell=200183/apotheosis"
     },
     "right": {
-      "id": "265202",
+      "id": 265202,
       "name": "Holy Word: Salvation",
       "icon": "ability_priest_archangel",
       "url": "https://www.wowhead.com/beta/spell=265202/holy-word-salvation"
     },
     "links": [
-      "140",
-      "142",
-      "144"
+      140,
+      142,
+      144
     ]
   },
   {
-    "cell": "129",
-    "row": "8",
-    "column": "11",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "391339",
+      "id": 391339,
       "name": "Empowered Renew",
       "icon": "ability_paladin_infusionoflight",
       "url": "https://www.wowhead.com/beta/spell=391339/empowered-renew"
     },
     "right": {
-      "id": "391368",
+      "id": 391368,
       "name": "Rapid Recovery",
       "icon": "spell_holy_renew",
       "url": "https://www.wowhead.com/beta/spell=391368/rapid-recovery"
     },
     "links": [
-      "144",
-      "148"
+      144,
+      148
     ]
   },
   {
-    "id": "391186",
+    "id": 391186,
     "name": "Say Your Prayers",
     "icon": "ability_priest_bindingprayers",
-    "capacity": "1",
-    "row": "8",
-    "column": "15",
-    "talentType": "2",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391186/say-your-prayers",
-    "cell": "133",
     "links": [
-      "148",
-      "150"
+      148,
+      150
     ]
   },
   {
-    "id": "372309",
+    "id": 372309,
     "name": "Resonant Words",
     "icon": "spell_holy_holybolt",
-    "capacity": "2",
-    "row": "9",
-    "column": "3",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=372309/resonant-words",
-    "cell": "138",
     "links": [
-      "157"
+      157
     ]
   },
   {
-    "id": "391381",
+    "id": 391381,
     "name": "Desperate Times",
     "icon": "ability_pvp_defenderoftheweak",
-    "capacity": "2",
-    "row": "9",
-    "column": "5",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391381/desperate-times",
-    "cell": "140",
     "links": [
-      "157"
+      157
     ]
   },
   {
-    "id": "196985",
+    "id": 196985,
     "name": "Light of the Naaru",
     "icon": "inv_pet_naaru",
-    "capacity": "2",
-    "row": "9",
-    "column": "7",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196985/light-of-the-naaru",
-    "cell": "142",
     "links": [
-      "161"
+      161
     ]
   },
   {
-    "id": "390994",
+    "id": 390994,
     "name": "Harmonious Apparatus",
     "icon": "spell_holy_serendipity",
-    "capacity": "2",
-    "row": "9",
-    "column": "9",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390994/harmonious-apparatus",
-    "cell": "144",
     "links": [
-      "161"
+      161
     ]
   },
   {
-    "id": "372611",
+    "id": 372611,
     "name": "Searing Light",
     "icon": "inv_summerfest_firespirit",
-    "capacity": "2",
-    "row": "9",
-    "column": "13",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=372611/searing-light",
-    "cell": "148",
     "links": [
-      "165"
+      165
     ]
   },
   {
-    "id": "391387",
+    "id": 391387,
     "name": "Answered Prayers",
     "icon": "inv_staff_2h_artifactheartofkure_d_06",
-    "capacity": "2",
-    "row": "9",
-    "column": "15",
-    "talentType": "2",
+    "capacity": 2,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391387/answered-prayers",
-    "cell": "150",
     "links": [
-      "165"
+      165
     ]
   },
   {
-    "cell": "157",
-    "row": "10",
-    "column": "5",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "390992",
+      "id": 390992,
       "name": "Lightweaver",
       "icon": "spell_holy_greaterheal",
       "url": "https://www.wowhead.com/beta/spell=390992/lightweaver"
     },
     "right": {
-      "id": "372835",
+      "id": 372835,
       "name": "Lightwell",
       "icon": "spell_holy_summonlightwell",
       "url": "https://www.wowhead.com/beta/spell=372835/lightwell"
     }
   },
   {
-    "cell": "161",
-    "row": "10",
-    "column": "9",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "392988",
+      "id": 392988,
       "name": "Divine Image",
       "icon": "inv_staff_2h_artifactheartofkure_d_04",
       "url": "https://www.wowhead.com/beta/spell=392988/divine-image"
     },
     "right": {
-      "id": "372760",
+      "id": 372760,
       "name": "Divine Word",
       "icon": "spell_priest_chakra",
       "url": "https://www.wowhead.com/beta/spell=372760/divine-word"
     }
   },
   {
-    "cell": "165",
-    "row": "10",
-    "column": "13",
-    "talentType": "3",
-    "capacity": "1",
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
     "left": {
-      "id": "235587",
+      "id": 235587,
       "name": "Miracle Worker",
       "icon": "spell_holy_persuitofjustice",
       "url": "https://www.wowhead.com/beta/spell=235587/miracle-worker"
     },
     "right": {
-      "id": "391124",
+      "id": 391124,
       "name": "Restitution",
       "icon": "inv_staff_2h_artifactheartofkure_d_03",
       "url": "https://www.wowhead.com/beta/spell=391124/restitution"

@@ -80,19 +80,19 @@ function importTreeSpells(type = "class") {
       const rightId = rightUrl?.match(SPELL_REGEX)?.[1];
 
       return {
-        cell,
-        row,
-        column,
-        talentType,
-        capacity: total,
+        cell: +(cell || 0),
+        row: +(row || 0),
+        column: +(column || 0),
+        talentType: +(talentType || 0),
+        capacity: +total,
         left: {
-          id: leftId,
+          id: +(leftId || 0),
           name: leftName,
           icon: leftIcon,
           url: leftUrl,
         },
         right: {
-          id: rightId,
+          id: +(rightId || 0),
           name: rightName,
           icon: rightIcon,
           url: rightUrl,
@@ -101,15 +101,15 @@ function importTreeSpells(type = "class") {
     }
 
     return {
-      id,
+      id: +(id || 0),
       name,
       icon,
-      capacity: total,
-      row,
-      column,
-      talentType,
+      capacity: +(total || 0),
+      cell: +(cell || 0),
+      row: +(row || 0),
+      column: +(column || 0),
+      talentType: +(talentType || 0),
       url,
-      cell,
     };
   });
 
@@ -129,9 +129,9 @@ function importTreeSpells(type = "class") {
     }
 
     if (toSpell.links) {
-      toSpell.links.push(from);
+      toSpell.links.push(+from);
     } else {
-      toSpell.links = [from];
+      toSpell.links = [+from];
     }
   });
 
