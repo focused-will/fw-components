@@ -3,7 +3,6 @@
     "id": "139",
     "name": "Renew",
     "icon": "spell_holy_renew",
-    "capacity": "1",
     "row": "1",
     "column": "5",
     "talentType": "1",
@@ -34,6 +33,7 @@
     "id": "34433",
     "name": "Shadowfiend",
     "icon": "spell_shadow_shadowfiend",
+    "capacity": "1",
     "row": "1",
     "column": "13",
     "talentType": "1",
@@ -48,7 +48,6 @@
     "id": "33076",
     "name": "Prayer of Mending",
     "icon": "spell_holy_prayerofmendingtga",
-    "capacity": "1",
     "row": "2",
     "column": "3",
     "talentType": "1",
@@ -77,14 +76,14 @@
     ]
   },
   {
-    "id": "213634",
-    "name": "Purify Disease",
+    "id": "390632",
+    "name": "Improved Purify",
     "icon": "spell_holy_nullifydisease",
     "capacity": "1",
     "row": "2",
     "column": "9",
-    "talentType": "1",
-    "url": "https://www.wowhead.com/beta/spell=213634/purify-disease",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390632/improved-purify",
     "cell": "25",
     "links": [
       "42"
@@ -109,6 +108,7 @@
     "id": "32379",
     "name": "Shadow Word: Death",
     "icon": "spell_shadow_demonicfortitude",
+    "capacity": "1",
     "row": "2",
     "column": "15",
     "talentType": "1",
@@ -596,16 +596,16 @@
     "talentType": "3",
     "capacity": "1",
     "left": {
-      "id": "122121",
+      "id": "110744",
       "name": "Divine Star",
-      "icon": "spell_priest_divinestar_shadow2",
-      "url": "https://www.wowhead.com/beta/spell=122121/divine-star"
+      "icon": "spell_priest_divinestar",
+      "url": "https://www.wowhead.com/beta/spell=110744/divine-star"
     },
     "right": {
-      "id": "120644",
+      "id": "120517",
       "name": "Halo",
-      "icon": "ability_priest_halo_shadow",
-      "url": "https://www.wowhead.com/beta/spell=120644/halo"
+      "icon": "ability_priest_halo",
+      "url": "https://www.wowhead.com/beta/spell=120517/halo"
     },
     "links": [
       "140",

@@ -66,16 +66,16 @@
     "talentType": "3",
     "capacity": "1",
     "left": {
-      "id": "64044",
-      "name": "Psychic Horror",
-      "icon": "spell_shadow_psychichorrors",
-      "url": "https://www.wowhead.com/beta/spell=64044/psychic-horror"
-    },
-    "right": {
       "id": "263716",
       "name": "Last Word",
       "icon": "ability_priest_silence",
       "url": "https://www.wowhead.com/beta/spell=263716/last-word"
+    },
+    "right": {
+      "id": "64044",
+      "name": "Psychic Horror",
+      "icon": "spell_shadow_psychichorrors",
+      "url": "https://www.wowhead.com/beta/spell=64044/psychic-horror"
     },
     "links": [
       "55"
@@ -414,7 +414,7 @@
     "capacity": "1",
     "row": "8",
     "column": "3",
-    "talentType": "2",
+    "talentType": "1",
     "url": "https://www.wowhead.com/beta/spell=200174/mindbender",
     "cell": "121",
     "links": [

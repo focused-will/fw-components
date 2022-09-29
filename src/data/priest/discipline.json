@@ -291,15 +291,23 @@
     ]
   },
   {
-    "id": "373042",
-    "name": "Exaltation",
-    "icon": "spell_holy_spiritualguidence",
-    "capacity": "1",
+    "cell": "93",
     "row": "6",
     "column": "9",
-    "talentType": "2",
-    "url": "https://www.wowhead.com/beta/spell=373042/exaltation",
-    "cell": "93",
+    "talentType": "3",
+    "capacity": "1",
+    "left": {
+      "id": "373042",
+      "name": "Exaltation",
+      "icon": "spell_holy_spiritualguidence",
+      "url": "https://www.wowhead.com/beta/spell=373042/exaltation"
+    },
+    "right": {
+      "id": "373049",
+      "name": "Indemnity",
+      "icon": "ability_priest_clarityofwill",
+      "url": "https://www.wowhead.com/beta/spell=373049/indemnity"
+    },
     "links": [
       "110"
     ]
@@ -387,23 +395,15 @@
     ]
   },
   {
-    "cell": "121",
+    "id": "390693",
+    "name": "Train of Thought",
+    "icon": "ability_mage_studentofthemind",
+    "capacity": "1",
     "row": "8",
     "column": "3",
-    "talentType": "3",
-    "capacity": "1",
-    "left": {
-      "id": "390693",
-      "name": "Train of Thought",
-      "icon": "ability_mage_studentofthemind",
-      "url": "https://www.wowhead.com/beta/spell=390693/train-of-thought"
-    },
-    "right": {
-      "id": "391079",
-      "name": "Make Amends",
-      "icon": "spell_holy_penance",
-      "url": "https://www.wowhead.com/beta/spell=391079/make-amends"
-    },
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390693/train-of-thought",
+    "cell": "121",
     "links": [
       "138",
       "140"
@@ -426,15 +426,23 @@
     ]
   },
   {
-    "id": "390705",
-    "name": "Twilight Equilibrium",
-    "icon": "ability_priest_innerlightandshadow",
-    "capacity": "1",
+    "cell": "129",
     "row": "8",
     "column": "11",
-    "talentType": "2",
-    "url": "https://www.wowhead.com/beta/spell=390705/twilight-equilibrium",
-    "cell": "129",
+    "talentType": "3",
+    "capacity": "1",
+    "left": {
+      "id": "238063",
+      "name": "Lenience",
+      "icon": "ability_priest_atonement",
+      "url": "https://www.wowhead.com/beta/spell=238063/lenience"
+    },
+    "right": {
+      "id": "246287",
+      "name": "Evangelism",
+      "icon": "spell_holy_divineillumination",
+      "url": "https://www.wowhead.com/beta/spell=246287/evangelism"
+    },
     "links": [
       "144",
       "148"
@@ -447,7 +455,7 @@
     "capacity": "1",
     "row": "8",
     "column": "15",
-    "talentType": "2",
+    "talentType": "1",
     "url": "https://www.wowhead.com/beta/spell=123040/mindbender",
     "cell": "133",
     "links": [
@@ -486,7 +494,7 @@
   {
     "id": "390765",
     "name": "Resplendent Light",
-    "icon": "spell_priest_divinestar_holy",
+    "icon": "inv_staff_2h_artifacttome_d_01",
     "capacity": "2",
     "row": "9",
     "column": "7",
@@ -512,28 +520,28 @@
     ]
   },
   {
-    "id": "390770",
-    "name": "Void Summoner",
-    "icon": "spell_shadow_shadowfiend",
-    "capacity": "2",
-    "row": "9",
-    "column": "13",
-    "talentType": "2",
-    "url": "https://www.wowhead.com/beta/spell=390770/void-summoner",
-    "cell": "148",
-    "links": [
-      "165"
-    ]
-  },
-  {
     "id": "390832",
     "name": "Expiation",
     "icon": "spell_shadow_shadowpower",
     "capacity": "2",
     "row": "9",
-    "column": "15",
+    "column": "13",
     "talentType": "2",
     "url": "https://www.wowhead.com/beta/spell=390832/expiation",
+    "cell": "148",
+    "links": [
+      "163"
+    ]
+  },
+  {
+    "id": "390770",
+    "name": "Void Summoner",
+    "icon": "spell_shadow_shadowfiend",
+    "capacity": "2",
+    "row": "9",
+    "column": "15",
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390770/void-summoner",
     "cell": "150",
     "links": [
       "165"
@@ -546,41 +554,33 @@
     "talentType": "3",
     "capacity": "1",
     "left": {
-      "id": "373049",
-      "name": "Indemnity",
-      "icon": "spell_holy_divineprotection",
-      "url": "https://www.wowhead.com/beta/spell=373049/indemnity"
-    },
-    "right": {
       "id": "238135",
       "name": "Aegis of Wrath",
       "icon": "spell_holy_powerwordshield",
       "url": "https://www.wowhead.com/beta/spell=238135/aegis-of-wrath"
+    },
+    "right": {
+      "id": "391079",
+      "name": "Make Amends",
+      "icon": "spell_holy_penance",
+      "url": "https://www.wowhead.com/beta/spell=391079/make-amends"
     }
   },
   {
-    "cell": "157",
+    "id": "390786",
+    "name": "Weal and Woe",
+    "icon": "spell_priest_burningwill",
+    "capacity": "1",
     "row": "10",
     "column": "5",
-    "talentType": "3",
-    "capacity": "1",
-    "left": {
-      "id": "238063",
-      "name": "Lenience",
-      "icon": "ability_priest_atonement",
-      "url": "https://www.wowhead.com/beta/spell=238063/lenience"
-    },
-    "right": {
-      "id": "246287",
-      "name": "Evangelism",
-      "icon": "spell_holy_divineillumination",
-      "url": "https://www.wowhead.com/beta/spell=246287/evangelism"
-    }
+    "talentType": "2",
+    "url": "https://www.wowhead.com/beta/spell=390786/weal-and-woe",
+    "cell": "157"
   },
   {
     "id": "390781",
     "name": "Wrath Unleashed",
-    "icon": "inv_staff_2h_artifacttome_d_01",
+    "icon": "spell_priest_divinestar_holy",
     "capacity": "1",
     "row": "10",
     "column": "7",
@@ -589,14 +589,14 @@
     "cell": "159"
   },
   {
-    "id": "390786",
-    "name": "Weal and Woe",
-    "icon": "spell_priest_burningwill",
+    "id": "390705",
+    "name": "Twilight Equilibrium",
+    "icon": "ability_priest_innerlightandshadow",
     "capacity": "1",
     "row": "10",
     "column": "11",
     "talentType": "2",
-    "url": "https://www.wowhead.com/beta/spell=390786/weal-and-woe",
+    "url": "https://www.wowhead.com/beta/spell=390705/twilight-equilibrium",
     "cell": "163"
   },
   {
