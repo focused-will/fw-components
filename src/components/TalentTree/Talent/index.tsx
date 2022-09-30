@@ -1,4 +1,4 @@
-import React, { PropsWithRef } from "react";
+import React, { PropsWithRef, useState } from "react";
 import { TalentNodeData } from "../types";
 import { MultiTalentNode } from "./MultiTalentNode";
 import { Button } from "./style";
@@ -11,6 +11,8 @@ type Props = PropsWithRef<{
 
 export const TalentNode = React.forwardRef<HTMLButtonElement, Props>(
   ({ talent, className, id }, ref) => {
+    const [invested, setInvested] = useState(0);
+
     return "left" in talent ? (
       <Button
         id={id}
@@ -22,6 +24,9 @@ export const TalentNode = React.forwardRef<HTMLButtonElement, Props>(
           gridColumn: talent.column,
         }}
       >
+        <span>
+          {invested} / {talent.capacity}
+        </span>
         <MultiTalentNode left={talent.left} right={talent.right} />
       </Button>
     ) : (
@@ -34,6 +39,9 @@ export const TalentNode = React.forwardRef<HTMLButtonElement, Props>(
           gridColumn: talent.column,
         }}
       >
+        <span>
+          {invested} / {talent.capacity}
+        </span>
         <img
           width={32}
           height={32}

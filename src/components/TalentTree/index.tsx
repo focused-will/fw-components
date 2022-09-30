@@ -5,11 +5,11 @@ import { Main } from "./style";
 import { TalentNodeData } from "./types";
 import { TalentNode } from "./Talent/index";
 
-type Props = {
+export type TalentTreeProps = {
   talents: TalentNodeData[];
 };
 
-export function TalentTree({ talents }: Props) {
+export function TalentTree({ talents }: TalentTreeProps) {
   const ref = useRef<{ [key: number]: HTMLElement }>({});
 
   return (

@@ -1,7 +1,8 @@
 import React from "react";
+import { Story } from "@storybook/react";
 
 import { discipline, general } from "lib/trees/priest";
-import { TalentTree } from ".";
+import { TalentTree, TalentTreeProps } from ".";
 
 export default {
   title: "Talent Tree",
@@ -9,9 +10,9 @@ export default {
   argTypes: {},
 };
 
-const Template = (args) => <TalentTree {...args} />;
+const Template: Story<TalentTreeProps> = (args) => <TalentTree {...args} />;
 
 export const Primary = Template.bind({});
 Primary.args = {
-  talents: general,
+  talents: discipline,
 };

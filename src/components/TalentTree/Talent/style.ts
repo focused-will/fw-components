@@ -1,4 +1,4 @@
-import { styled } from "@stitches/react";
+import { styled } from "style";
 
 export const Button = styled("button", {
   zIndex: 1,
