@@ -1,7 +1,9 @@
 import React, { PropsWithRef, useState } from "react";
+
 import { TalentNodeData } from "../types";
 import { MultiTalentNode } from "./MultiTalentNode";
-import { Button } from "./style";
+import { Button, InvestmentSpan } from "./style";
+import { TalentIcon } from "./TalentIcon";
 
 type Props = PropsWithRef<{
   talent: TalentNodeData;
@@ -24,10 +26,12 @@ export const TalentNode = React.forwardRef<HTMLButtonElement, Props>(
           gridColumn: talent.column,
         }}
       >
-        <span>
-          {invested} / {talent.capacity}
-        </span>
-        <MultiTalentNode left={talent.left} right={talent.right} />
+        <MultiTalentNode
+          left={talent.left}
+          right={talent.right}
+          invested={invested > 0}
+        />
+        <InvestmentSpan>{invested}</InvestmentSpan>
       </Button>
     ) : (
       <Button
@@ -39,14 +43,8 @@ export const TalentNode = React.forwardRef<HTMLButtonElement, Props>(
           gridColumn: talent.column,
         }}
       >
-        <span>
-          {invested} / {talent.capacity}
-        </span>
-        <img
-          width={32}
-          height={32}
-          src={`https://render.worldofwarcraft.com/us/icons/56/${talent.icon}.jpg`}
-        />
+        <TalentIcon icon={talent.icon} invested={invested > 0} />
+        <InvestmentSpan>{invested}</InvestmentSpan>
       </Button>
     );
   }

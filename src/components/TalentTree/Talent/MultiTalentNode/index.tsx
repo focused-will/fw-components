@@ -1,5 +1,6 @@
 import React from "react";
-import { HalfImg } from "./style";
+import { TalentIcon } from "../TalentIcon";
+import { HalfButton } from "./style";
 
 interface TalentData {
   id: number;
@@ -9,21 +10,18 @@ interface TalentData {
 type Props = {
   left: TalentData;
   right: TalentData;
+  invested: boolean;
 };
 
-export function MultiTalentNode({ left, right }: Props) {
+export function MultiTalentNode({ left, right, invested }: Props) {
   return (
     <>
-      <HalfImg
-        width={16}
-        height={32}
-        src={`https://render.worldofwarcraft.com/us/icons/56/${left.icon}.jpg`}
-      />
-      <HalfImg
-        width={16}
-        height={32}
-        src={`https://render.worldofwarcraft.com/us/icons/56/${right.icon}.jpg`}
-      />
+      <HalfButton>
+        <TalentIcon icon={left.icon} invested={invested} />
+      </HalfButton>
+      <HalfButton>
+        <TalentIcon icon={right.icon} invested={invested} />
+      </HalfButton>
     </>
   );
 }
