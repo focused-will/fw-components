@@ -11,7 +11,7 @@ export type TalentTreeProps = {
 };
 
 export function TalentTree({ talentNodes }: TalentTreeProps) {
-  const { talents, invest, uninvest } = useTalentTree(talentNodes);
+  const { talents, invest, uninvest, pointCount } = useTalentTree(talentNodes);
 
   return (
     <>
@@ -28,6 +28,7 @@ export function TalentTree({ talentNodes }: TalentTreeProps) {
           />
         ))}
       </Main>
+      <span>Current points: {pointCount}</span>
 
       {/* Render out links */}
       {talents.map((talent) => {
