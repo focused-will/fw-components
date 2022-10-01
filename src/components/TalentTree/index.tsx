@@ -38,7 +38,7 @@ export function TalentTree({ talentNodes }: TalentTreeProps) {
           talent.data?.links?.map((link) => (
             <Xarrow
               key={`${talent.data.cell}+${link}`}
-              strokeWidth={1}
+              strokeWidth={2}
               curveness={0}
               startAnchor="middle"
               endAnchor="middle"

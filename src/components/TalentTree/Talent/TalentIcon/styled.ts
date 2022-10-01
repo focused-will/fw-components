@@ -5,7 +5,7 @@ export const IconImg = styled("img", {
   variants: {
     invested: {
       false: {
-        filter: "grayscale(80%) brightness(0.4)",
+        filter: "grayscale(90%) brightness(0.6)",
         "&:hover": {
           filter: "grayscale(50%) brightness(0.8)",
         },

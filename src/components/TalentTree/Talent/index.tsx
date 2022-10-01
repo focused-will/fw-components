@@ -57,6 +57,7 @@ export const TalentNode = ({
     <Tooltip.Root delayDuration={0}>
       <Tooltip.Trigger asChild>
         <Button
+          talentType={talent.data.talentType as any}
           id={id}
           onClick={handleLeftClick}
           onContextMenu={handleRightClick}
