@@ -9,7 +9,7 @@ import * as Tooltip from "@radix-ui/react-tooltip";
 
 export type TalentTreeProps = {
   talentNodes: TalentNodeData[];
-  onChange: (selectedTalents: SelectedTalents) => any;
+  onChange?: (selectedTalents: SelectedTalents) => any;
 };
 
 export function TalentTree({ talentNodes, onChange }: TalentTreeProps) {

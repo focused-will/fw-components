@@ -104,9 +104,6 @@
     "jest.config.ts",
     "node_modules",
     "dist",
-    "src/**/*.test.tsx",
-    "src/**/*.test.ts",
-    "src/**/*.spec.tsx",
-    "src/**/*.spec.ts",
+ 
   ]
 }
