@@ -82,7 +82,6 @@ export function useTalentTree(talentNodes: TalentNodeData[]) {
         return;
       }
 
-      debugger;
       // Talent parents are not invested
       const investedParent = talentNode.parentNodes.find(
         (parentId) =>

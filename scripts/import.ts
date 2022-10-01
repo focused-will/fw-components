@@ -57,7 +57,7 @@ function importTreeSpells(type = "class") {
     const id = url?.match(SPELL_REGEX)?.[1];
 
     const pointMax = document.querySelector(
-      `.dragonflight-talent-tree-talent-points[data-row="${row}"][data-cell="${cell}"]`
+      `div[data-tree-type=${type}] .dragonflight-talent-tree-talent-points[data-row="${row}"][data-cell="${cell}"]`
     )?.textContent;
 
     const [_, total] = pointMax?.split("/") ?? [];
@@ -177,10 +177,10 @@ async function importTree(url: string) {
   console.log(`Got ${specTreeSpells.length} spells in the spec tree 🤓`);
 
   try {
-    const rootWrite = `${process.cwd()}/src/data/${targetClass}`;
+    const rootWrite = `${process.cwd()}/src/data/${targetClass}/${spec}`;
     await fs.mkdir(rootWrite, { recursive: true });
     await writePrettyJsonFile(`${rootWrite}/general.json`, classTreeSpells);
-    await writePrettyJsonFile(`${rootWrite}/${spec}.json`, specTreeSpells);
+    await writePrettyJsonFile(`${rootWrite}/tree.json`, specTreeSpells);
   } catch (e) {
     console.log("Encountered an error while writing files 😢");
     console.error(e);

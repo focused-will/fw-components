@@ -1,0 +1,649 @@
+[
+  {
+    "id": 1822,
+    "name": "Rake",
+    "icon": "ability_druid_disembowel",
+    "capacity": 1,
+    "cell": 2,
+    "row": 1,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1822/rake",
+    "links": [
+      21
+    ]
+  },
+  {
+    "id": 22842,
+    "name": "Frenzied Regeneration",
+    "icon": "ability_bullrush",
+    "capacity": 1,
+    "cell": 6,
+    "row": 1,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=22842/frenzied-regeneration",
+    "links": [
+      21,
+      25
+    ]
+  },
+  {
+    "id": 774,
+    "name": "Rejuvenation",
+    "icon": "spell_nature_rejuvenation",
+    "capacity": 0,
+    "cell": 10,
+    "row": 1,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=774/rejuvenation",
+    "links": [
+      25,
+      27
+    ]
+  },
+  {
+    "id": 194153,
+    "name": "Starfire",
+    "icon": "spell_arcane_starfire",
+    "capacity": 1,
+    "cell": 14,
+    "row": 1,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=194153/starfire",
+    "links": [
+      31
+    ]
+  },
+  {
+    "id": 106832,
+    "name": "Thrash",
+    "icon": "spell_druid_thrash",
+    "capacity": 1,
+    "cell": 21,
+    "row": 2,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=106832/thrash",
+    "links": [
+      36,
+      38
+    ]
+  },
+  {
+    "id": 327993,
+    "name": "Improved Barkskin",
+    "icon": "spell_nature_stoneclawtotem",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=327993/improved-barkskin",
+    "links": [
+      42
+    ]
+  },
+  {
+    "id": 18562,
+    "name": "Swiftmend",
+    "icon": "inv_relics_idolofrejuvenation",
+    "capacity": 0,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=18562/swiftmend",
+    "links": [
+      44
+    ]
+  },
+  {
+    "id": 197626,
+    "name": "Starsurge",
+    "icon": "spell_arcane_arcane03",
+    "capacity": 1,
+    "cell": 31,
+    "row": 2,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=197626/starsurge",
+    "links": [
+      48
+    ]
+  },
+  {
+    "id": 1079,
+    "name": "Rip",
+    "icon": "ability_ghoulfrenzy",
+    "capacity": 1,
+    "cell": 36,
+    "row": 3,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1079/rip",
+    "links": [
+      51,
+      70
+    ]
+  },
+  {
+    "id": 213764,
+    "name": "Swipe",
+    "icon": "inv_misc_monsterclaw_03",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=213764/swipe",
+    "links": [
+      55,
+      57
+    ]
+  },
+  {
+    "id": 301768,
+    "name": "Verdant Heart",
+    "icon": "ability_bullrush",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=301768/verdant-heart"
+  },
+  {
+    "id": 392378,
+    "name": "Improved Nature's Cure",
+    "icon": "ability_shaman_cleansespirit",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392378/improved-natures-cure",
+    "links": [
+      63,
+      78
+    ]
+  },
+  {
+    "id": 24858,
+    "name": "Moonkin Form",
+    "icon": "spell_nature_forceofnature",
+    "capacity": 1,
+    "cell": 48,
+    "row": 3,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=24858/moonkin-form",
+    "links": [
+      63,
+      67,
+      82
+    ]
+  },
+  {
+    "id": 22570,
+    "name": "Maim",
+    "icon": "ability_druid_mangle-tga",
+    "capacity": 1,
+    "cell": 51,
+    "row": 4,
+    "column": 1,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=22570/maim"
+  },
+  {
+    "id": 108299,
+    "name": "Killer Instinct",
+    "icon": "ability_druid_predatoryinstincts",
+    "capacity": 3,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=108299/killer-instinct",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 192081,
+    "name": "Ironfur",
+    "icon": "ability_druid_ironfur",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=192081/ironfur",
+    "links": [
+      74
+    ]
+  },
+  {
+    "id": 33873,
+    "name": "Nurturing Instinct",
+    "icon": "ability_druid_healinginstincts",
+    "capacity": 3,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=33873/nurturing-instinct",
+    "links": [
+      80
+    ]
+  },
+  {
+    "id": 2637,
+    "name": "Hibernate",
+    "icon": "spell_nature_sleep",
+    "capacity": 1,
+    "cell": 67,
+    "row": 4,
+    "column": 17,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=2637/hibernate"
+  },
+  {
+    "id": 131768,
+    "name": "Feline Swiftness",
+    "icon": "spell_druid_tirelesspursuit",
+    "capacity": 2,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=131768/feline-swiftness",
+    "links": [
+      85,
+      104
+    ]
+  },
+  {
+    "id": 106839,
+    "name": "Skull Bash",
+    "icon": "inv_bone_skull_04",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=106839/skull-bash"
+  },
+  {
+    "id": 16931,
+    "name": "Thick Hide",
+    "icon": "inv_misc_pelt_bear_03",
+    "capacity": 2,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=16931/thick-hide",
+    "links": [
+      93,
+      108
+    ]
+  },
+  {
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 102401,
+      "name": "Wild Charge",
+      "icon": "spell_druid_wildcharge",
+      "url": "https://www.wowhead.com/beta/spell=102401/wild-charge"
+    },
+    "right": {
+      "id": 252216,
+      "name": "Tiger Dash",
+      "icon": "ability_druid_dash_orange",
+      "url": "https://www.wowhead.com/beta/spell=252216/tiger-dash"
+    },
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 377796,
+    "name": "Natural Recovery",
+    "icon": "ability_druid_naturalperfection",
+    "capacity": 2,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377796/natural-recovery",
+    "links": [
+      93,
+      97,
+      112
+    ]
+  },
+  {
+    "id": 33786,
+    "name": "Cyclone",
+    "icon": "spell_nature_earthbind",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=33786/cyclone"
+  },
+  {
+    "id": 197524,
+    "name": "Astral Influence",
+    "icon": "ability_skyreach_lens_flare",
+    "capacity": 2,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=197524/astral-influence",
+    "links": [
+      97,
+      101
+    ]
+  },
+  {
+    "id": 377801,
+    "name": "Tireless Pursuit",
+    "icon": "spell_druid_tirelesspursuit",
+    "capacity": 1,
+    "cell": 85,
+    "row": 6,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377801/tireless-pursuit"
+  },
+  {
+    "id": 2908,
+    "name": "Soothe",
+    "icon": "ability_hunter_beastsoothe",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=2908/soothe",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 93402,
+    "name": "Sunfire",
+    "icon": "ability_mage_firestarter",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=93402/sunfire",
+    "links": [
+      116,
+      131
+    ]
+  },
+  {
+    "id": 132469,
+    "name": "Typhoon",
+    "icon": "ability_druid_typhoon",
+    "capacity": 1,
+    "cell": 101,
+    "row": 6,
+    "column": 17,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=132469/typhoon"
+  },
+  {
+    "id": 159286,
+    "name": "Primal Fury",
+    "icon": "ability_racial_cannibalize",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=159286/primal-fury",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 385786,
+    "name": "Ursoc's Endurance (NNF)",
+    "icon": "spell_nature_stoneclawtotem",
+    "capacity": 1,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385786/matted-fur",
+    "links": [
+      123,
+      125
+    ]
+  },
+  {
+    "id": 106898,
+    "name": "Stampeding Roar",
+    "icon": "spell_druid_stampedingroar_cat",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=106898/stampeding-roar",
+    "links": [
+      125,
+      127
+    ]
+  },
+  {
+    "id": 48438,
+    "name": "Wild Growth",
+    "icon": "ability_druid_flourish",
+    "capacity": 1,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=48438/wild-growth",
+    "links": [
+      129,
+      131
+    ]
+  },
+  {
+    "id": 231050,
+    "name": "Improved Sunfire",
+    "icon": "ability_mage_firestarter",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=231050/improved-sunfire"
+  },
+  {
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 99,
+      "name": "Incapacitating Roar",
+      "icon": "ability_druid_demoralizingroar",
+      "url": "https://www.wowhead.com/beta/spell=99/incapacitating-roar"
+    },
+    "right": {
+      "id": 5211,
+      "name": "Mighty Bash",
+      "icon": "ability_druid_bash",
+      "url": "https://www.wowhead.com/beta/spell=5211/mighty-bash"
+    },
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 377842,
+    "name": "Ursine Vigor",
+    "icon": "ability_druid_markofursol",
+    "capacity": 2,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377842/ursine-vigor"
+  },
+  {
+    "id": 378988,
+    "name": "Lycara's Teachings",
+    "icon": "inv_trinket_ardenweald_02_green",
+    "capacity": 3,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378988/lycaras-teachings",
+    "links": [
+      143,
+      145
+    ]
+  },
+  {
+    "id": 231040,
+    "name": "Improved Rejuvenation",
+    "icon": "spell_nature_rejuvenation",
+    "capacity": 1,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=231040/improved-rejuvenation"
+  },
+  {
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 102359,
+      "name": "Mass Entanglement",
+      "icon": "spell_druid_massentanglement",
+      "url": "https://www.wowhead.com/beta/spell=102359/mass-entanglement"
+    },
+    "right": {
+      "id": 102793,
+      "name": "Ursol's Vortex",
+      "icon": "spell_druid_ursolsvortex",
+      "url": "https://www.wowhead.com/beta/spell=102793/ursols-vortex"
+    },
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 377847,
+    "name": "Well-Honed Instincts",
+    "icon": "ability_druid_tigersroar",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377847/well-honed-instincts",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 288826,
+    "name": "Improved Stampeding Roar",
+    "icon": "spell_druid_stamedingroar",
+    "capacity": 1,
+    "cell": 143,
+    "row": 9,
+    "column": 8,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=288826/improved-stampeding-roar",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 108238,
+    "name": "Renewal",
+    "icon": "spell_nature_natureblessing",
+    "capacity": 1,
+    "cell": 145,
+    "row": 9,
+    "column": 10,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=108238/renewal",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 29166,
+    "name": "Innervate",
+    "icon": "spell_nature_lightning",
+    "capacity": 1,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=29166/innervate",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 378986,
+    "name": "Protector of the Pack",
+    "icon": "ability_druid_denmother",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378986/protector-of-the-pack"
+  },
+  {
+    "id": 319454,
+    "name": "Heart of the Wild",
+    "icon": "spell_holy_blessingofagility",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=319454/heart-of-the-wild"
+  },
+  {
+    "id": 124974,
+    "name": "Nature's Vigil",
+    "icon": "achievement_zone_feralas",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=124974/natures-vigil"
+  }
+]
