@@ -3,18 +3,19 @@ import Xarrow from "react-xarrows";
 
 import { Main } from "./style";
 import { TalentNodeData } from "./types";
-import { useTalentTree } from "./hooks/useTalentTree";
+import { SelectedTalents, useTalentTree } from "./hooks/useTalentTree";
 import { TalentNode } from "./Talent/index";
 import * as Tooltip from "@radix-ui/react-tooltip";
 
 export type TalentTreeProps = {
   talentNodes: TalentNodeData[];
+  onChange: (selectedTalents: SelectedTalents) => any;
 };
 
-export function TalentTree({ talentNodes }: TalentTreeProps) {
+export function TalentTree({ talentNodes, onChange }: TalentTreeProps) {
   const { talents, invest, uninvest, pointCount } = useTalentTree(
     talentNodes,
-    console.log
+    onChange
   );
 
   return (

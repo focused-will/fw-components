@@ -16,16 +16,16 @@ import shadowGeneral from "data/priest/shadow/general.json";
 import shadowTree from "data/priest/shadow/tree.json";
 
 export const Priest = {
-  discipline: {
-    general: parser.parse(discGeneral),
-    tree: parser.parse(discTree),
+  DISCIPLINE: {
+    GENERAL: parser.parse(discGeneral),
+    TREE: parser.parse(discTree),
   },
-  holy: {
-    general: parser.parse(holyGeneral),
-    tree: parser.parse(holyTree),
+  HOLY: {
+    GENERAL: parser.parse(holyGeneral),
+    TREE: parser.parse(holyTree),
   },
-  shadow: {
-    general: parser.parse(shadowGeneral),
-    tree: parser.parse(shadowTree),
+  SHADOW: {
+    GENERAL: parser.parse(shadowGeneral),
+    TREE: parser.parse(shadowTree),
   },
 };

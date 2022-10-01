@@ -14,7 +14,7 @@ interface SelectedTalent {
   points: number;
 }
 
-type SelectedTalents = Map<number, SelectedTalent>;
+export type SelectedTalents = Map<number, SelectedTalent>;
 
 /**
  * Maps row numbers to the minimum points required to invest

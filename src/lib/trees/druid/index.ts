@@ -13,12 +13,12 @@ import balanceDGeneral from "data/druid/balance/general.json";
 import balanceDTree from "data/druid/balance/tree.json";
 
 export const Druid = {
-  restoration: {
-    general: parser.parse(restoDGeneral),
-    tree: parser.parse(restoDTree),
+  RESTORATION: {
+    GENERAL: parser.parse(restoDGeneral),
+    TREE: parser.parse(restoDTree),
   },
-  balance: {
-    general: parser.parse(balanceDGeneral),
-    tree: parser.parse(balanceDTree),
+  BALANCE: {
+    GENERAL: parser.parse(balanceDGeneral),
+    TREE: parser.parse(balanceDTree),
   },
 };
