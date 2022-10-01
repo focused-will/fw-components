@@ -1,4 +1,5 @@
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
+import { number } from "yargs";
 import { TalentNodeData } from "../types";
 
 export interface ITalentNode {
@@ -7,6 +8,13 @@ export interface ITalentNode {
   investment: number;
   selectedId?: number;
 }
+
+interface SelectedTalent {
+  talentId: number;
+  points: number;
+}
+
+type SelectedTalents = Map<number, SelectedTalent>;
 
 /**
  * Maps row numbers to the minimum points required to invest
@@ -38,7 +46,11 @@ function toTalentNode(talent: TalentNodeData): ITalentNode {
   };
 }
 
-export function useTalentTree(talentNodes: TalentNodeData[]) {
+export function useTalentTree(
+  talentNodes: TalentNodeData[],
+  onChange?: (selectedTalents: SelectedTalents) => any
+) {
+  const loaded = useRef(false);
   const [pointCount, setPointCount] = useState(0);
   const [talents, setTalents] = useState<Record<string, ITalentNode>>({});
 
@@ -47,6 +59,7 @@ export function useTalentTree(talentNodes: TalentNodeData[]) {
    */
   useEffect(() => {
     setPointCount(0);
+    loaded.current = false;
 
     const talents = talentNodes.reduce((acc, talent) => {
       acc[talent.cell] = toTalentNode(talent);
@@ -64,6 +77,35 @@ export function useTalentTree(talentNodes: TalentNodeData[]) {
 
     setTalents(talents);
   }, [talentNodes]);
+
+  /**
+   * Invoke onChange when needed
+   */
+  useEffect(() => {
+    if (!onChange || !loaded.current) {
+      return;
+    }
+
+    const selectedTalents = Object.values(talents)
+      .filter(
+        (talent) =>
+          talent.investment === talent.data.capacity || talent.investment > 0
+      )
+      .reduce(
+        (acc, talent) =>
+          acc.set(talent.selectedId!, {
+            talentId: talent.selectedId!,
+            points: talent.investment,
+          }),
+        new Map<number, SelectedTalent>()
+      );
+
+    onChange(selectedTalents);
+  }, [onChange, talents]);
+
+  useEffect(() => {
+    loaded.current = true;
+  }, []);
 
   /**
    * Increment investment into a talent node

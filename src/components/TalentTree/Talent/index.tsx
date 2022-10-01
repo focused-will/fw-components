@@ -12,7 +12,7 @@ type Props = PropsWithRef<{
   talent: ITalentNode;
   className: string;
   id: string;
-  invest: (talent: TalentNodeData) => void;
+  invest: (talent: TalentNodeData, spellId?: number) => void;
   uninvest: (talent: TalentNodeData) => void;
 }>;
 
@@ -24,7 +24,7 @@ export const TalentNode = ({
   uninvest,
 }: Props) => {
   function handleLeftClick() {
-    invest(talent.data);
+    invest(talent.data, "id" in talent.data ? talent.data.id : undefined);
   }
 
   function handleRightClick(e: React.MouseEvent<HTMLButtonElement>) {
