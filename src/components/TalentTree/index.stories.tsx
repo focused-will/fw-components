@@ -14,5 +14,5 @@ const Template: Story<TalentTreeProps> = (args) => <TalentTree {...args} />;
 
 export const Primary = Template.bind({});
 Primary.args = {
-  talents: discipline,
+  talentNodes: discipline,
 };

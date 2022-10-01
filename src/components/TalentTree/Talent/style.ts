@@ -1,35 +1,41 @@
 import { styled } from "style";
 import { TalentIcon } from "./TalentIcon";
 
-export const Button = styled("button", {
+const mutualStyling = {
   position: "relative",
   zIndex: 1,
-  border: "1px solid black",
+  border: "1px solid $gray6",
   flex: "1 1 0",
   width: "$s",
   height: "$s",
   justifyContent: "center",
   alignItems: "center",
   boxSizing: "content-box",
-
-  padding: 0,
-  outline: 0,
   borderRadius: "$round",
   overflow: "hidden",
+
   "&:hover": {
-    border: "1px solid red",
+    border: "1px solid $yellow6",
     cursor: "pointer",
   },
-  variants: {
-    multi: {
-      true: {
-        border: "1px solid blue",
-      },
-    },
-  },
+};
+
+export const Button = styled("button", {
+  ...mutualStyling,
+  padding: 0,
+
   [`& ${TalentIcon}`]: {
     width: "100%",
     height: "100%",
+  },
+});
+
+export const MultiSelectContainer = styled("div", {
+  ...mutualStyling,
+  variants: {
+    multi: {
+      true: {},
+    },
   },
 });
 
