@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { TalentNodeData } from "../types";
 
 export interface ITalentNode {
@@ -12,10 +12,14 @@ export interface ITalentNode {
  * Map talentNodeData into a talentNode
  */
 function toTalentNode(talent: TalentNodeData): ITalentNode {
+  const isInitialSelection = talent.capacity === 0;
+  const hasId = "id" in talent;
+
   return {
     data: talent,
     parentNodes: [],
     investment: 0,
+    selectedId: isInitialSelection && hasId ? talent.id : undefined,
   };
 }
 
@@ -38,7 +42,8 @@ export function useTalentTree(talentNodes: TalentNodeData[]) {
    * Increment investment into a talent node
    */
   const invest = useCallback(
-    (talent: TalentNodeData) => {
+    (talent: TalentNodeData, spellId?: number) => {
+      debugger;
       const talentNode = talents[talent.cell];
 
       if (talentNode.investment === talentNode.data.capacity) {
@@ -48,6 +53,7 @@ export function useTalentTree(talentNodes: TalentNodeData[]) {
       const newTalentNode = {
         ...talentNode,
         investment: talentNode.investment + 1,
+        selectedId: spellId,
       };
 
       setTalents({
@@ -62,7 +68,7 @@ export function useTalentTree(talentNodes: TalentNodeData[]) {
    * Decrement investment into a talent node
    */
   const uninvest = useCallback(
-    (talent: TalentNodeData) => {
+    (talent: TalentNodeData, spellId?: number) => {
       const talentNode = talents[talent.cell];
 
       if (talentNode.investment === 0) {

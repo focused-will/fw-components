@@ -22,9 +22,7 @@ export const TalentNode = ({
   uninvest,
 }: Props) => {
   function handleLeftClick(e: React.MouseEvent<HTMLButtonElement>) {
-    if (e.button === 0) {
-      invest(talent.data);
-    }
+    invest(talent.data);
   }
 
   function handleRightClick(e: React.MouseEvent<HTMLButtonElement>) {
@@ -43,9 +41,14 @@ export const TalentNode = ({
       }}
     >
       <MultiTalentNode
+        talent={talent}
+        invest={invest}
+        uninvest={uninvest}
         left={talent.data.left}
         right={talent.data.right}
-        invested={talent.investment > 0}
+        invested={
+          talent.investment === talent.data.capacity || talent.investment > 0
+        }
       />
     </MultiSelectContainer>
   ) : (
@@ -59,7 +62,12 @@ export const TalentNode = ({
         gridColumn: talent.data.column,
       }}
     >
-      <TalentIcon icon={talent.data.icon} invested={talent.investment > 0} />
+      <TalentIcon
+        icon={talent.data.icon}
+        invested={
+          talent.investment === talent.data.capacity || talent.investment > 0
+        }
+      />
       {talent.investment > 0 && talent.data.capacity > 1 && (
         <InvestmentSpan>{talent.investment}</InvestmentSpan>
       )}

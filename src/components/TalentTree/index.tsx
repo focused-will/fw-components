@@ -3,7 +3,6 @@ import Xarrow from "react-xarrows";
 
 import { Main } from "./style";
 import { TalentNodeData } from "./types";
-
 import { useTalentTree } from "./hooks/useTalentTree";
 import { TalentNode } from "./Talent/index";
 
