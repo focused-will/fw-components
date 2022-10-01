@@ -23,7 +23,7 @@ export const TalentNode = ({
   invest,
   uninvest,
 }: Props) => {
-  function handleLeftClick(e: React.MouseEvent<HTMLButtonElement>) {
+  function handleLeftClick() {
     invest(talent.data);
   }
 

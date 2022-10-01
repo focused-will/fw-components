@@ -1,9 +1,8 @@
 /**
  * Component exports
  */
-export * as CharacterPane from "./components/CharacterPane";
+export { TalentTree } from "components/TalentTree";
 
 /**
  * Helper exports
  */
-export { createStats } from "./lib/stats";
