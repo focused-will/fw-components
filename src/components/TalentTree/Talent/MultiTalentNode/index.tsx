@@ -1,13 +1,16 @@
 import React from "react";
+import * as Tooltip from "@radix-ui/react-tooltip";
 
 import { TalentIcon } from "../TalentIcon";
 import { HalfButton } from "./style";
 import { TalentNodeData } from "../../types";
 import { ITalentNode } from "../../hooks/useTalentTree";
+import { TalentTooltip } from "../TalentTooltip";
 
 interface TalentData {
   id: number;
   icon: string;
+  name: string;
 }
 
 type Props = {
@@ -32,26 +35,36 @@ export function MultiTalentNode({
 
   return (
     <>
-      <HalfButton
-        selected={leftSelected}
-        onClick={() => invest(talent.data, left.id)}
-        onContextMenu={(e) => {
-          e.preventDefault();
-          uninvest(talent.data, left.id);
-        }}
-      >
-        <TalentIcon icon={left.icon} invested={leftSelected} />
-      </HalfButton>
-      <HalfButton
-        selected={rightSelected}
-        onClick={() => invest(talent.data, right.id)}
-        onContextMenu={(e) => {
-          e.preventDefault();
-          uninvest(talent.data, right.id);
-        }}
-      >
-        <TalentIcon icon={right.icon} invested={rightSelected} />
-      </HalfButton>
+      <Tooltip.Root>
+        <Tooltip.Trigger asChild>
+          <HalfButton
+            selected={leftSelected}
+            onClick={() => invest(talent.data, left.id)}
+            onContextMenu={(e) => {
+              e.preventDefault();
+              uninvest(talent.data, left.id);
+            }}
+          >
+            <TalentIcon icon={left.icon} invested={leftSelected} />
+          </HalfButton>
+        </Tooltip.Trigger>
+        <TalentTooltip>{left.name}</TalentTooltip>
+      </Tooltip.Root>
+      <Tooltip.Root>
+        <Tooltip.Trigger asChild>
+          <HalfButton
+            selected={rightSelected}
+            onClick={() => invest(talent.data, right.id)}
+            onContextMenu={(e) => {
+              e.preventDefault();
+              uninvest(talent.data, right.id);
+            }}
+          >
+            <TalentIcon icon={right.icon} invested={rightSelected} />
+          </HalfButton>
+        </Tooltip.Trigger>
+        <TalentTooltip>{right.name}</TalentTooltip>
+      </Tooltip.Root>
     </>
   );
 }

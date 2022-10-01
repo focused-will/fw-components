@@ -5,6 +5,7 @@ import { Main } from "./style";
 import { TalentNodeData } from "./types";
 import { useTalentTree } from "./hooks/useTalentTree";
 import { TalentNode } from "./Talent/index";
+import * as Tooltip from "@radix-ui/react-tooltip";
 
 export type TalentTreeProps = {
   talentNodes: TalentNodeData[];
@@ -14,7 +15,7 @@ export function TalentTree({ talentNodes }: TalentTreeProps) {
   const { talents, invest, uninvest, pointCount } = useTalentTree(talentNodes);
 
   return (
-    <>
+    <Tooltip.Provider>
       {/* Render main talent body */}
       <Main>
         {talents.map((talent) => (
@@ -49,6 +50,6 @@ export function TalentTree({ talentNodes }: TalentTreeProps) {
           ))
         );
       })}
-    </>
+    </Tooltip.Provider>
   );
 }

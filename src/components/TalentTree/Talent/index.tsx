@@ -1,10 +1,12 @@
 import React, { PropsWithRef } from "react";
-import { ITalentNode } from "../hooks/useTalentTree";
+import * as Tooltip from "@radix-ui/react-tooltip";
 
 import { MultiTalentNode } from "./MultiTalentNode";
+import { ITalentNode } from "../hooks/useTalentTree";
 import { Button, MultiSelectContainer, InvestmentSpan } from "./style";
 import { TalentIcon } from "./TalentIcon";
 import { TalentNodeData } from "../types";
+import { TalentTooltip } from "./TalentTooltip";
 
 type Props = PropsWithRef<{
   talent: ITalentNode;
@@ -52,25 +54,31 @@ export const TalentNode = ({
       />
     </MultiSelectContainer>
   ) : (
-    <Button
-      id={id}
-      onClick={handleLeftClick}
-      onContextMenu={handleRightClick}
-      className={className}
-      style={{
-        gridRow: talent.data.row,
-        gridColumn: talent.data.column,
-      }}
-    >
-      <TalentIcon
-        icon={talent.data.icon}
-        invested={
-          talent.investment === talent.data.capacity || talent.investment > 0
-        }
-      />
-      {talent.investment > 0 && talent.data.capacity > 1 && (
-        <InvestmentSpan>{talent.investment}</InvestmentSpan>
-      )}
-    </Button>
+    <Tooltip.Root delayDuration={0}>
+      <Tooltip.Trigger asChild>
+        <Button
+          id={id}
+          onClick={handleLeftClick}
+          onContextMenu={handleRightClick}
+          className={className}
+          style={{
+            gridRow: talent.data.row,
+            gridColumn: talent.data.column,
+          }}
+        >
+          <TalentIcon
+            icon={talent.data.icon}
+            invested={
+              talent.investment === talent.data.capacity ||
+              talent.investment > 0
+            }
+          />
+          {talent.investment > 0 && talent.data.capacity > 1 && (
+            <InvestmentSpan>{talent.investment}</InvestmentSpan>
+          )}
+        </Button>
+      </Tooltip.Trigger>
+      <TalentTooltip>{talent.data.name}</TalentTooltip>
+    </Tooltip.Root>
   );
 };
