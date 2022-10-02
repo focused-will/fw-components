@@ -1,10 +1,14 @@
 {
-  "name": "tcomponents",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@fw/components",
+  "version": "0.1.0",
+  "description": "Components for WoW apps",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "typings": "dist/types/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/focused-will/fw-components.git"
+  },
   "scripts": {
     "test": "jest",
     "build": "rollup -c",
