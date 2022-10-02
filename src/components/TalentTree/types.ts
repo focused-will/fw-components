@@ -34,9 +34,6 @@ const choiceTalentNodeDataSchema = z.object({
   links: z.array(z.number()).optional(),
 });
 
-export const TalentNodeDataSchema = z.union([
-  choiceTalentNodeDataSchema,
-  baseTalentNodeDataSchema,
-]);
+export const TalentNodeDataSchema = z.union([choiceTalentNodeDataSchema, baseTalentNodeDataSchema]);
 
 export type TalentNodeData = z.infer<typeof TalentNodeDataSchema>;

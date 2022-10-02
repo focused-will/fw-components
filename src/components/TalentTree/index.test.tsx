@@ -6,9 +6,7 @@ import { Priest } from "@/lib/trees";
 
 describe("TalentTree", () => {
   it("should render", () => {
-    const { baseElement } = render(
-      <TalentTree talentNodes={Priest.DISCIPLINE.GENERAL} />
-    );
+    const { baseElement } = render(<TalentTree talentNodes={Priest.DISCIPLINE.GENERAL} />);
     expect(baseElement).toBeTruthy();
   });
 });

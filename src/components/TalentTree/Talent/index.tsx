@@ -16,13 +16,7 @@ type Props = PropsWithRef<{
   uninvest: (talent: TalentNodeData) => void;
 }>;
 
-export const TalentNode = ({
-  talent,
-  className,
-  id,
-  invest,
-  uninvest,
-}: Props) => {
+export const TalentNode = ({ talent, className, id, invest, uninvest }: Props) => {
   function handleLeftClick() {
     invest(talent.data, "id" in talent.data ? talent.data.id : undefined);
   }
@@ -48,9 +42,7 @@ export const TalentNode = ({
         uninvest={uninvest}
         left={talent.data.left}
         right={talent.data.right}
-        invested={
-          talent.investment === talent.data.capacity || talent.investment > 0
-        }
+        invested={talent.investment === talent.data.capacity || talent.investment > 0}
       />
     </MultiSelectContainer>
   ) : (
@@ -69,14 +61,9 @@ export const TalentNode = ({
         >
           <TalentIcon
             icon={talent.data.icon}
-            invested={
-              talent.investment === talent.data.capacity ||
-              talent.investment > 0
-            }
+            invested={talent.investment === talent.data.capacity || talent.investment > 0}
           />
-          {talent.investment > 0 && talent.data.capacity > 1 && (
-            <InvestmentSpan>{talent.investment}</InvestmentSpan>
-          )}
+          {talent.investment > 0 && talent.data.capacity > 1 && <InvestmentSpan>{talent.investment}</InvestmentSpan>}
         </Button>
       </Tooltip.Trigger>
       <TalentTooltip>{talent.data.name}</TalentTooltip>

@@ -13,10 +13,7 @@ export type TalentTreeProps = {
 };
 
 export function TalentTree({ talentNodes, onChange }: TalentTreeProps) {
-  const { talents, invest, uninvest, pointCount } = useTalentTree(
-    talentNodes,
-    onChange
-  );
+  const { talents, invest, uninvest, pointCount } = useTalentTree(talentNodes, onChange);
 
   return (
     <Tooltip.Provider>

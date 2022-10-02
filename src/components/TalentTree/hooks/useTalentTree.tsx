@@ -45,10 +45,7 @@ function toTalentNode(talent: TalentNodeData): ITalentNode {
   };
 }
 
-export function useTalentTree(
-  talentNodes: TalentNodeData[],
-  onChange?: (selectedTalents: SelectedTalents) => any
-) {
+export function useTalentTree(talentNodes: TalentNodeData[], onChange?: (selectedTalents: SelectedTalents) => any) {
   const loaded = useRef(false);
   const [pointCount, setPointCount] = useState(0);
   const [talents, setTalents] = useState<Record<string, ITalentNode>>({});
@@ -86,10 +83,7 @@ export function useTalentTree(
     }
 
     const selectedTalents = Object.values(talents)
-      .filter(
-        (talent) =>
-          talent.investment === talent.data.capacity || talent.investment > 0
-      )
+      .filter((talent) => talent.investment === talent.data.capacity || talent.investment > 0)
       .reduce(
         (acc, talent) =>
           acc.set(talent.selectedId!, {
@@ -125,8 +119,7 @@ export function useTalentTree(
 
       // Talent parents are not invested
       const investedParent = talentNode.parentNodes.find(
-        (parentId) =>
-          talents[parentId].investment === talents[parentId].data.capacity
+        (parentId) => talents[parentId].investment === talents[parentId].data.capacity
       );
 
       if (talentNode.parentNodes.length > 0 && !investedParent) {
@@ -163,8 +156,7 @@ export function useTalentTree(
       const newTalentNode = {
         ...talentNode,
         investment: talentNode.investment - 1,
-        selectedId:
-          talentNode.investment - 1 === 0 ? undefined : talentNode.selectedId,
+        selectedId: talentNode.investment - 1 === 0 ? undefined : talentNode.selectedId,
       };
 
       setPointCount(pointCount - 1);

@@ -37,14 +37,7 @@ export default [
       }),
       terser(),
     ],
-    external: [
-      "react",
-      "react-dom",
-      "@stitches/react",
-      "@radix-ui/react-tooltip",
-      "react-xarrows",
-      "zod",
-    ],
+    external: ["react", "react-dom", "@stitches/react", "@radix-ui/react-tooltip", "react-xarrows", "zod"],
   },
   {
     input: "src/index.ts",

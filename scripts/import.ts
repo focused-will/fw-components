@@ -44,13 +44,9 @@ function importTreeSpells(type = "class") {
     const column = spellEl.dataset.column;
     const talentType = spellEl.dataset.talentType;
     const url = spellEl.getAttribute("href");
-    const name = spellEl.querySelector(
-      ".dragonflight-talent-tree-talent-name"
-    )?.textContent;
+    const name = spellEl.querySelector(".dragonflight-talent-tree-talent-name")?.textContent;
 
-    const iconContainer = spellEl.querySelector(
-      ".dragonflight-talent-tree-talent-inner-background"
-    ) as HTMLElement;
+    const iconContainer = spellEl.querySelector(".dragonflight-talent-tree-talent-inner-background") as HTMLElement;
     const backgroundImageStyle = iconContainer.style.backgroundImage;
 
     const icon = backgroundImageStyle.match(ICON_REGEX)?.[2];
@@ -153,9 +149,7 @@ async function importTree(url: string) {
 
   // Will typically look like class-spec
   const classSpec = await page.evaluate(() => {
-    const specEl = document.querySelector(
-      "[data-class-spec]"
-    ) as HTMLElement | null;
+    const specEl = document.querySelector("[data-class-spec]") as HTMLElement | null;
 
     return specEl?.dataset.classSpec;
   });

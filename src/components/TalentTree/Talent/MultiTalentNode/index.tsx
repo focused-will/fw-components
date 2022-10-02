@@ -22,14 +22,7 @@ type Props = {
   uninvest: (talent: TalentNodeData, spellId?: number) => void;
 };
 
-export function MultiTalentNode({
-  left,
-  right,
-  invested,
-  talent,
-  invest,
-  uninvest,
-}: Props) {
+export function MultiTalentNode({ left, right, invested, talent, invest, uninvest }: Props) {
   const leftSelected = invested && talent.selectedId === left.id;
   const rightSelected = invested && talent.selectedId === right.id;
 
