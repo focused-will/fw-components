@@ -1,8 +1,8 @@
 import React from "react";
 import { Story } from "@storybook/react";
 
-import { Priest } from "lib/trees/priest";
-import { Druid } from "lib/trees/druid";
+import { Priest } from "@/lib/trees/priest";
+import { Druid } from "@/lib/trees/druid";
 import { TalentTree, TalentTreeProps } from ".";
 
 export default {

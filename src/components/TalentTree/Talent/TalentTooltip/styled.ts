@@ -1,5 +1,5 @@
 import { Arrow, Content } from "@radix-ui/react-tooltip";
-import { styled } from "style";
+import { styled } from "@/style";
 
 export const StyledTooltipContent = styled(Content, {
   zIndex: 2,

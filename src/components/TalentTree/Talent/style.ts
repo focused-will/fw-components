@@ -1,4 +1,4 @@
-import { styled } from "style";
+import { styled } from "@/style";
 import { TalentIcon } from "./TalentIcon";
 
 const mutualStyling = {

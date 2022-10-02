@@ -1,4 +1,4 @@
-import { styled } from "style";
+import { styled } from "@/style";
 
 export const Main = styled("main", {
   display: "grid",

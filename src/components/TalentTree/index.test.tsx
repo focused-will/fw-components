@@ -2,7 +2,7 @@ import React from "react";
 import { render } from "@testing-library/react";
 
 import { TalentTree } from ".";
-import { Priest } from "lib/trees";
+import { Priest } from "@/lib/trees";
 
 describe("TalentTree", () => {
   it("should render", () => {

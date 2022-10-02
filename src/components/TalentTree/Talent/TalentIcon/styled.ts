@@ -1,4 +1,4 @@
-import { styled } from "style";
+import { styled } from "@/style";
 
 export const IconImg = styled("img", {
   transition: "filter 0.15s ease-in-out",
