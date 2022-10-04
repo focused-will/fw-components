@@ -45,7 +45,10 @@ function toTalentNode(talent: TalentNodeData): ITalentNode {
   };
 }
 
-export function useTalentTree(talentNodes: TalentNodeData[], onChange?: (selectedTalents: SelectedTalents) => any) {
+export function useTalentTree(
+  talentNodes: TalentNodeData[],
+  onChange?: (selectedTalents: SelectedTalents) => any
+) {
   const loaded = useRef(false);
   const [pointCount, setPointCount] = useState(0);
   const [talents, setTalents] = useState<Record<string, ITalentNode>>({});
