@@ -3,14 +3,15 @@ import Xarrow from "react-xarrows";
 import * as Tooltip from "@radix-ui/react-tooltip";
 
 import { Main } from "./style";
-import { TalentNodeData } from "./types";
 import { SelectedTalents, useTalentTree } from "./hooks/useTalentTree";
 import { TalentNode } from "./Talent/index";
 import { useUniqueId } from "./hooks/useUniqueId";
+import { ParsedSpecTalents } from "@/lib/trees/types";
+import { PointCount } from "./types";
 
 export type TalentTreeProps = {
-  talentNodes: TalentNodeData[];
-  onChange?: (selectedTalents: SelectedTalents) => any;
+  talentNodes: ParsedSpecTalents;
+  onChange?: (selectedTalents: SelectedTalents, pointCount: PointCount) => any;
   className?: string;
   style?: CSSProperties;
   linkStyle?: {

@@ -1,5 +1,6 @@
+import { ParsedSpecTalents } from "@/lib/trees/types";
 import { useCallback, useEffect, useRef, useState } from "react";
-import { TalentNodeData } from "../types";
+import { PointCount, TalentNodeData } from "../types";
 
 export interface ITalentNode {
   data: TalentNodeData;
@@ -46,9 +47,10 @@ function toTalentNode(talent: TalentNodeData): ITalentNode {
 }
 
 export function useTalentTree(
-  talentNodes: TalentNodeData[],
-  onChange?: (selectedTalents: SelectedTalents) => any
+  parsedSpecTalents: ParsedSpecTalents,
+  onChange?: (selectedTalents: SelectedTalents, pointCount: PointCount) => any
 ) {
+  const { LIMIT, TALENTS } = parsedSpecTalents;
   const loaded = useRef(false);
   const [pointCount, setPointCount] = useState(0);
   const [talents, setTalents] = useState<Record<string, ITalentNode>>({});
@@ -60,7 +62,7 @@ export function useTalentTree(
     setPointCount(0);
     loaded.current = false;
 
-    const talents = talentNodes.reduce((acc, talent) => {
+    const talents = TALENTS.reduce((acc, talent) => {
       acc[talent.cell] = toTalentNode(talent);
       return acc;
     }, {} as Record<string, ITalentNode>);
@@ -75,7 +77,7 @@ export function useTalentTree(
     });
 
     setTalents(talents);
-  }, [talentNodes]);
+  }, [parsedSpecTalents]);
 
   /**
    * Invoke onChange when needed
@@ -96,8 +98,11 @@ export function useTalentTree(
         new Map<number, SelectedTalent>()
       );
 
-    onChange(selectedTalents);
-  }, [onChange, talents]);
+    onChange(selectedTalents, {
+      current: pointCount,
+      limit: LIMIT,
+    });
+  }, [onChange, talents, pointCount]);
 
   useEffect(() => {
     loaded.current = true;
@@ -109,6 +114,11 @@ export function useTalentTree(
   const invest = useCallback(
     (talent: TalentNodeData, spellId?: number) => {
       const talentNode = talents[talent.cell];
+
+      // Point limit reached
+      if (pointCount === LIMIT) {
+        return;
+      }
 
       // Talent is at capacity
       if (talentNode.investment === talentNode.data.capacity) {

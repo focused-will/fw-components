@@ -37,3 +37,4 @@ const choiceTalentNodeDataSchema = z.object({
 export const TalentNodeDataSchema = z.union([choiceTalentNodeDataSchema, baseTalentNodeDataSchema]);
 
 export type TalentNodeData = z.infer<typeof TalentNodeDataSchema>;
+export type PointCount = { current: number; limit: number };

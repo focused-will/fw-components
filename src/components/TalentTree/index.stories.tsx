@@ -4,6 +4,7 @@ import { Story } from "@storybook/react";
 import { Priest } from "@/lib/trees/priest";
 import { Druid } from "@/lib/trees/druid";
 import { TalentTree, TalentTreeProps } from ".";
+import { ParsedSpecTalents } from "../../lib/trees/types";
 
 export default {
   title: "Talent Tree",
@@ -27,10 +28,17 @@ const DoubleTemplate: Story<{
 export const Single = SingleTemplate.bind({});
 Single.args = {
   talentNodes: Druid.BALANCE.TREE,
+  onChange: console.log,
 };
 
 export const Double = DoubleTemplate.bind({});
 Double.args = {
-  left: { talentNodes: Druid.BALANCE.GENERAL, style: { width: "40%", display: "inline-grid" } },
-  right: { talentNodes: Druid.BALANCE.TREE, style: { width: "40%", display: "inline-grid" } },
+  left: {
+    talentNodes: Druid.BALANCE.GENERAL,
+    style: { width: "40%", display: "inline-grid" },
+  },
+  right: {
+    talentNodes: Druid.BALANCE.TREE,
+    style: { width: "40%", display: "inline-grid" },
+  },
 };

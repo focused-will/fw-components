@@ -17,7 +17,7 @@ import { TalentTree, SUPPORTED_SPECS } from "@focused-will/components";
  */
 <TalentTree
   talentNodes={SUPPORTED_SPECS.PRIEST.DISCIPLINE.TREE}
-  onChange={(talents) => console.log(talents)}
+  onChange={(talents, points) => console.log(talents, points)}
 />;
 ```
 
