@@ -25,19 +25,25 @@ export default [
       },
     ],
     plugins: [
-      swc({ sourceMaps: true }),
       peerDepsExternal(),
       commonjs(),
       resolve({
-        // rootDir: "src",
         moduleDirectories: ["src", "node_modules"],
       }),
       json({
         compact: true,
       }),
+      swc({ sourceMaps: true, tsconfig: "tsconfig.build.json" }),
       terser(),
     ],
-    external: ["react", "react-dom", "@stitches/react", "@radix-ui/react-tooltip", "react-xarrows", "zod"],
+    external: [
+      "react",
+      "react-dom",
+      "@stitches/react",
+      "@radix-ui/react-tooltip",
+      "react-xarrows",
+      "zod",
+    ],
   },
   {
     input: "src/index.ts",

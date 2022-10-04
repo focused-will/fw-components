@@ -13,8 +13,12 @@
     "**/*": "prettier --write --ignore-unknown"
   },
   "scripts": {
+    "peers:install": "npm install --no-save react react-dom",
+    "peers:uninstall": "rm -rf node_modules/react node_modules/react-dom",
     "test": "jest",
+    "prebuild": "npm run peers:uninstall",
     "build": "rollup -c",
+    "postbuild": "npm run peers:install",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "import": "node --loader ts-node/esm scripts/import.ts import ",
