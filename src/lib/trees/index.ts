@@ -1,2 +1,13 @@
-export { Priest } from "./priest";
+export { DeathKnight } from "./death-knight";
+export { DemonHunter } from "./demon-hunter";
 export { Druid } from "./druid";
+export { Evoker } from "./evoker";
+export { Hunter } from "./hunter";
+export { Mage } from "./mage";
+export { Monk } from "./monk";
+export { Paladin } from "./paladin";
+export { Priest } from "./priest";
+export { Rogue } from "./rogue";
+export { Shaman } from "./shaman";
+export { Warlock } from "./warlock";
+export { Warrior } from "./warrior";
