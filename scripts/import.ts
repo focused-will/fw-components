@@ -176,7 +176,16 @@ export async function importTree(url: string) {
     throw new Error("Could not find class and spec");
   }
 
-  const [targetClass, spec] = classSpec.split("-");
+  let targetClass, spec;
+  const classData = classSpec.split("-");
+
+  if (classData.length === 2) {
+    targetClass = classData[0];
+    spec = classData[1];
+  } else {
+    targetClass = `${classData[0]}-${classData[1]}`;
+    spec = classData[2];
+  }
 
   console.log(`Got class of ${targetClass} and specialization of ${spec} 🤓`);
 

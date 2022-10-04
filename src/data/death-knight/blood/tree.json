@@ -1,0 +1,588 @@
+[
+  {
+    "id": 206930,
+    "name": "Heart Strike",
+    "icon": "inv_weapon_shortblade_40",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=206930/heart-strike",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": 195182,
+    "name": "Marrowrend",
+    "icon": "ability_deathknight_marrowrend",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=195182/marrowrend",
+    "links": [
+      40
+    ]
+  },
+  {
+    "id": 50842,
+    "name": "Blood Boil",
+    "icon": "spell_deathknight_bloodboil",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=50842/blood-boil",
+    "links": [
+      44
+    ]
+  },
+  {
+    "id": 55233,
+    "name": "Vampiric Blood",
+    "icon": "spell_shadow_lifedrain",
+    "capacity": 1,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=55233/vampiric-blood",
+    "links": [
+      55,
+      57
+    ]
+  },
+  {
+    "id": 81136,
+    "name": "Crimson Scourge",
+    "icon": "ability_warrior_bloodnova",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=81136/crimson-scourge",
+    "links": [
+      61,
+      63
+    ]
+  },
+  {
+    "id": 219786,
+    "name": "Ossuary",
+    "icon": "ability_deathknight_brittlebones",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=219786/ossuary",
+    "links": [
+      70,
+      72,
+      74
+    ]
+  },
+  {
+    "id": 317133,
+    "name": "Improved Vampiric Blood",
+    "icon": "spell_shadow_lifedrain",
+    "capacity": 2,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=317133/improved-vampiric-blood",
+    "links": [
+      74,
+      76
+    ]
+  },
+  {
+    "id": 374717,
+    "name": "Improved Heart Strike",
+    "icon": "inv_weapon_shortblade_40",
+    "capacity": 2,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374717/improved-heart-strike",
+    "links": [
+      76,
+      78
+    ]
+  },
+  {
+    "id": 195292,
+    "name": "Death's Caress",
+    "icon": "ability_deathknight_deathscaress",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=195292/deaths-caress",
+    "links": [
+      78,
+      80,
+      82
+    ]
+  },
+  {
+    "id": 194679,
+    "name": "Rune Tap",
+    "icon": "spell_deathknight_runetap",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=194679/rune-tap",
+    "links": [
+      89
+    ]
+  },
+  {
+    "id": 221536,
+    "name": "Heartbreaker",
+    "icon": "spell_deathknight_deathstrike",
+    "capacity": 2,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=221536/heartbreaker",
+    "links": [
+      89,
+      91
+    ]
+  },
+  {
+    "id": 206974,
+    "name": "Foul Bulwark",
+    "icon": "inv_armor_shield_naxxramas_d_02",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=206974/foul-bulwark",
+    "links": [
+      91
+    ]
+  },
+  {
+    "id": 49028,
+    "name": "Dancing Rune Weapon",
+    "icon": "inv_sword_07",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=49028/dancing-rune-weapon",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 273946,
+    "name": "Hemostasis",
+    "icon": "ability_deathwing_bloodcorruption_earth",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=273946/hemostasis",
+    "links": [
+      95
+    ]
+  },
+  {
+    "id": 374747,
+    "name": "Perseverance of the Ebon Blade",
+    "icon": "ability_deathknight_sanguinfortitude",
+    "capacity": 2,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374747/perseverance-of-the-ebon-blade",
+    "links": [
+      95,
+      97
+    ]
+  },
+  {
+    "id": 317610,
+    "name": "Relish in Blood",
+    "icon": "ability_deathknight_roilingblood",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=317610/relish-in-blood",
+    "links": [
+      97
+    ]
+  },
+  {
+    "id": 377629,
+    "name": "Leeching Strike",
+    "icon": "ability_deathwing_bloodcorruption_death",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377629/leeching-strike",
+    "links": [
+      104,
+      106,
+      108
+    ]
+  },
+  {
+    "id": 374715,
+    "name": "Improved Bone Shield",
+    "icon": "ability_deathknight_marrowrend",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374715/improved-bone-shield",
+    "links": [
+      108
+    ]
+  },
+  {
+    "id": 377637,
+    "name": "Insatiable Blade",
+    "icon": "70_inscription_vantus_rune_nightmare",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377637/insatiable-blade",
+    "links": [
+      110
+    ]
+  },
+  {
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 206931,
+      "name": "Blooddrinker",
+      "icon": "ability_animusdraw",
+      "url": "https://www.wowhead.com/beta/spell=206931/blooddrinker"
+    },
+    "right": {
+      "id": 274156,
+      "name": "Consumption",
+      "icon": "inv_axe_2h_artifactmaw_d_01",
+      "url": "https://www.wowhead.com/beta/spell=274156/consumption"
+    },
+    "links": [
+      112
+    ]
+  },
+  {
+    "id": 194662,
+    "name": "Rapid Decomposition",
+    "icon": "ability_deathknight_deathsiphon2",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=194662/rapid-decomposition",
+    "links": [
+      112,
+      114,
+      116
+    ]
+  },
+  {
+    "id": 391386,
+    "name": "Blood Feast",
+    "icon": "spell_deathknight_vendetta",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391386/blood-feast",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 221699,
+    "name": "Blood Tap",
+    "icon": "spell_deathknight_bloodtap",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=221699/blood-tap",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 374737,
+    "name": "Reinforced Bones",
+    "icon": "ability_deathknight_boneshield",
+    "capacity": 1,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374737/reinforced-bones",
+    "links": [
+      123,
+      127
+    ]
+  },
+  {
+    "id": 377668,
+    "name": "Everlasting Bond",
+    "icon": "inv_sword_07",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377668/everlasting-bond",
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 273953,
+    "name": "Voracious",
+    "icon": "ability_ironmaidens_whirlofblood",
+    "capacity": 1,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=273953/voracious",
+    "links": [
+      127,
+      131
+    ]
+  },
+  {
+    "id": 195679,
+    "name": "Bloodworms",
+    "icon": "spell_shadow_soulleech",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=195679/bloodworms",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 391477,
+    "name": "Coagulopathy",
+    "icon": "ability_skeer_bloodletting",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391477/coagulopathy",
+    "links": [
+      131
+    ]
+  },
+  {
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 206940,
+      "name": "Mark of Blood",
+      "icon": "ability_hunter_rapidkilling",
+      "url": "https://www.wowhead.com/beta/spell=206940/mark-of-blood"
+    },
+    "right": {
+      "id": 219809,
+      "name": "Tombstone",
+      "icon": "ability_fiegndead",
+      "url": "https://www.wowhead.com/beta/spell=219809/tombstone"
+    },
+    "links": [
+      140,
+      142
+    ]
+  },
+  {
+    "id": 108199,
+    "name": "Gorefiend's Grasp",
+    "icon": "ability_deathknight_aoedeathgrip",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=108199/gorefiends-grasp",
+    "links": [
+      142,
+      144,
+      146
+    ]
+  },
+  {
+    "id": 391458,
+    "name": "Sanguine Ground",
+    "icon": "inv_artifact_corruptedbloodofzakajz",
+    "capacity": 1,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391458/sanguine-ground",
+    "links": [
+      146,
+      148
+    ]
+  },
+  {
+    "id": 377640,
+    "name": "Shattering Bone",
+    "icon": "ability_deathknight_boneshield",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377640/shattering-bone",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 377655,
+    "name": "Heartrend",
+    "icon": "inv_weapon_shortblade_40",
+    "capacity": 1,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377655/heartrend",
+    "links": [
+      159
+    ]
+  },
+  {
+    "id": 206970,
+    "name": "Tightening Grasp",
+    "icon": "ability_deathknight_aoedeathgrip",
+    "capacity": 1,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=206970/tightening-grasp",
+    "links": [
+      159,
+      163
+    ]
+  },
+  {
+    "id": 391395,
+    "name": "Iron Heart",
+    "icon": "inv_ragnaros_heart",
+    "capacity": 1,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391395/iron-heart",
+    "links": [
+      163
+    ]
+  },
+  {
+    "id": 205723,
+    "name": "Red Thirst",
+    "icon": "spell_deathknight_bloodpresence",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=205723/red-thirst",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 194844,
+    "name": "Bonestorm",
+    "icon": "achievement_boss_lordmarrowgar",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=194844/bonestorm"
+  },
+  {
+    "id": 114556,
+    "name": "Purgatory",
+    "icon": "inv_misc_shadowegg",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=114556/purgatory"
+  },
+  {
+    "id": 391398,
+    "name": "Bloodshot",
+    "icon": "ability_warlock_baneofhavoc",
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391398/bloodshot"
+  },
+  {
+    "id": 391517,
+    "name": "Umbilicus Eternus",
+    "icon": "artifactability_blooddeathknight_umbilicuseternus",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391517/umbilicus-eternus"
+  }
+]
