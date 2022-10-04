@@ -1,0 +1,539 @@
+[
+  {
+    "id": 11366,
+    "name": "Pyroblast",
+    "icon": "spell_fire_fireball02",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=11366/pyroblast",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": 108853,
+    "name": "Fire Blast",
+    "icon": "spell_fire_fireball",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=108853/fire-blast",
+    "links": [
+      38,
+      42
+    ]
+  },
+  {
+    "id": 387044,
+    "name": "Fervent Flickering",
+    "icon": "ability_warlock_burningembers",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387044/fervent-flickering",
+    "links": [
+      42,
+      46
+    ]
+  },
+  {
+    "id": 2948,
+    "name": "Scorch",
+    "icon": "spell_fire_soulburn",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=2948/scorch",
+    "links": [
+      55
+    ]
+  },
+  {
+    "id": 257541,
+    "name": "Phoenix Flames",
+    "icon": "artifactability_firemage_phoenixbolt",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=257541/phoenix-flames",
+    "links": [
+      57,
+      61,
+      76
+    ]
+  },
+  {
+    "id": 2120,
+    "name": "Flamestrike",
+    "icon": "spell_fire_selfdestruct",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=2120/flamestrike",
+    "links": [
+      63
+    ]
+  },
+  {
+    "id": 269644,
+    "name": "Searing Touch",
+    "icon": "ability_warlock_backdraft",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=269644/searing-touch",
+    "links": [
+      70,
+      74
+    ]
+  },
+  {
+    "id": 205026,
+    "name": "Firestarter",
+    "icon": "spell_fire_fire",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=205026/firestarter",
+    "links": [
+      74,
+      76
+    ]
+  },
+  {
+    "id": 157642,
+    "name": "Pyrotechnics",
+    "icon": "spell_fire_flamebolt",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=157642/pyrotechnics",
+    "links": [
+      76,
+      78
+    ]
+  },
+  {
+    "id": 343230,
+    "name": "Improved Flamestrike",
+    "icon": "spell_fire_selfdestruct",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343230/improved-flamestrike",
+    "links": [
+      78,
+      82
+    ]
+  },
+  {
+    "id": 383604,
+    "name": "Improved Scorch",
+    "icon": "ability_mage_fierypayback",
+    "capacity": 2,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383604/improved-scorch",
+    "links": [
+      89,
+      104
+    ]
+  },
+  {
+    "id": 117216,
+    "name": "Critical Mass",
+    "icon": "spell_fire_volcano",
+    "capacity": 2,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=117216/critical-mass",
+    "links": [
+      89,
+      93
+    ]
+  },
+  {
+    "id": 86949,
+    "name": "Cauterize",
+    "icon": "spell_fire_rune",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=86949/cauterize",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 205029,
+    "name": "Flame On",
+    "icon": "inv_helm_circlet_firelands_d_01",
+    "capacity": 2,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=205029/flame-on",
+    "links": [
+      93,
+      97
+    ]
+  },
+  {
+    "id": 205037,
+    "name": "Flame Patch",
+    "icon": "spell_mage_flameorb",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=205037/flame-patch",
+    "links": [
+      97,
+      99
+    ]
+  },
+  {
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 342344,
+      "name": "From the Ashes",
+      "icon": "inv_misc_phoenixegg",
+      "url": "https://www.wowhead.com/beta/spell=342344/from-the-ashes"
+    },
+    "right": {
+      "id": 235870,
+      "name": "Alexstrasza's Fury",
+      "icon": "spell_warrior_dragoncharge",
+      "url": "https://www.wowhead.com/beta/spell=235870/alexstraszas-fury"
+    },
+    "links": [
+      104,
+      108
+    ]
+  },
+  {
+    "id": 190319,
+    "name": "Combustion",
+    "icon": "spell_fire_sealoffire",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=190319/combustion",
+    "links": [
+      108,
+      110,
+      112
+    ]
+  },
+  {
+    "id": 44457,
+    "name": "Living Bomb",
+    "icon": "ability_mage_livingbomb",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=44457/living-bomb",
+    "links": [
+      112,
+      116
+    ]
+  },
+  {
+    "id": 383665,
+    "name": "Incendiary Eruptions",
+    "icon": "spell_fire_moltenblood",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383665/incendiary-eruptions",
+    "links": [
+      116
+    ]
+  },
+  {
+    "id": 343222,
+    "name": "Call of the Sun King",
+    "icon": "artifactability_firemage_phoenixbolt",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343222/call-of-the-sun-king",
+    "links": [
+      119,
+      123
+    ]
+  },
+  {
+    "id": 383499,
+    "name": "Firemind",
+    "icon": "spell_burningsoul",
+    "capacity": 2,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383499/firemind",
+    "links": [
+      123
+    ]
+  },
+  {
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 383967,
+      "name": "Improved Combustion",
+      "icon": "spell_fire_sealoffire",
+      "url": "https://www.wowhead.com/beta/spell=383967/improved-combustion"
+    },
+    "right": {
+      "id": 383659,
+      "name": "Tempered Flames",
+      "icon": "ability_mage_greaterpyroblast",
+      "url": "https://www.wowhead.com/beta/spell=383659/tempered-flames"
+    },
+    "links": [
+      125,
+      127,
+      129
+    ]
+  },
+  {
+    "id": 383391,
+    "name": "Feel the Burn",
+    "icon": "spell_fire_fireball",
+    "capacity": 2,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383391/feel-the-burn",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 205023,
+    "name": "Conflagration",
+    "icon": "spell_shaman_firenova",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=205023/conflagration",
+    "links": [
+      131,
+      135
+    ]
+  },
+  {
+    "id": 383476,
+    "name": "Phoenix Reborn",
+    "icon": "inv_sword_1h_artifactfelomelorn_d_01",
+    "capacity": 1,
+    "cell": 119,
+    "row": 8,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383476/phoenix-reborn",
+    "links": [
+      138
+    ]
+  },
+  {
+    "id": 269650,
+    "name": "Pyroclasm",
+    "icon": "spell_shaman_lavasurge",
+    "capacity": 1,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=269650/pyroclasm",
+    "links": [
+      138
+    ]
+  },
+  {
+    "id": 203275,
+    "name": "Flame Accelerant",
+    "icon": "inv_ember",
+    "capacity": 2,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=203275/flame-accelerant",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 155148,
+    "name": "Kindling",
+    "icon": "spell_mage_kindling",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=155148/kindling"
+  },
+  {
+    "id": 383489,
+    "name": "Wildfire",
+    "icon": "ability_warlock_inferno",
+    "capacity": 2,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383489/wildfire",
+    "links": [
+      161
+    ]
+  },
+  {
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 205020,
+      "name": "Pyromaniac",
+      "icon": "inv_misc_volatilefire",
+      "url": "https://www.wowhead.com/beta/spell=205020/pyromaniac"
+    },
+    "right": {
+      "id": 384033,
+      "name": "Firefall",
+      "icon": "spell_mage_meteor",
+      "url": "https://www.wowhead.com/beta/spell=384033/firefall"
+    },
+    "links": [
+      150
+    ]
+  },
+  {
+    "id": 384174,
+    "name": "Master of Flame",
+    "icon": "inv_trinket_firelands_02",
+    "capacity": 1,
+    "cell": 135,
+    "row": 8,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384174/master-of-flame",
+    "links": [
+      150
+    ]
+  },
+  {
+    "id": 383669,
+    "name": "Controlled Destruction",
+    "icon": "spell_fire_playingwithfire",
+    "capacity": 2,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383669/controlled-destruction",
+    "links": [
+      155
+    ]
+  },
+  {
+    "id": 383810,
+    "name": "Fevered Incantation",
+    "icon": "inv_misc_enchantedpearld",
+    "capacity": 2,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383810/fevered-incantation",
+    "links": [
+      167
+    ]
+  },
+  {
+    "id": 383886,
+    "name": "Sun King's Blessing",
+    "icon": "ability_mage_firestarter",
+    "capacity": 1,
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383886/sun-kings-blessing"
+  },
+  {
+    "id": 383634,
+    "name": "Fiery Rush",
+    "icon": "inv_summerfest_firespirit",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383634/fiery-rush"
+  },
+  {
+    "id": 383860,
+    "name": "Hyperthermia",
+    "icon": "spell_fire_burnout",
+    "capacity": 1,
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383860/hyperthermia"
+  }
+]

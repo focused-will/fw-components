@@ -1,0 +1,599 @@
+[
+  {
+    "id": 104316,
+    "name": "Call Dreadstalkers",
+    "icon": "spell_warlock_calldreadstalkers",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=104316/call-dreadstalkers",
+    "links": [
+      21,
+      25,
+      29
+    ]
+  },
+  {
+    "id": 264178,
+    "name": "Demonbolt",
+    "icon": "inv__demonbolt",
+    "capacity": 1,
+    "cell": 21,
+    "row": 2,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=264178/demonbolt",
+    "links": [
+      36,
+      40,
+      55
+    ]
+  },
+  {
+    "id": 264078,
+    "name": "Dreadlash",
+    "icon": "spell_shadow_summonvoidwalker",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=264078/dreadlash",
+    "links": [
+      40,
+      44
+    ]
+  },
+  {
+    "id": 386174,
+    "name": "Annihilan Training",
+    "icon": "ability_bossmannoroth_glaivethrust",
+    "capacity": 1,
+    "cell": 29,
+    "row": 2,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386174/annihilan-training",
+    "links": [
+      44,
+      48,
+      63
+    ]
+  },
+  {
+    "id": 386185,
+    "name": "Demonic Knowledge",
+    "icon": "ability_warlock_improveddemonictactics",
+    "capacity": 1,
+    "cell": 36,
+    "row": 3,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386185/demonic-knowledge",
+    "links": [
+      51,
+      55
+    ]
+  },
+  {
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 264119,
+      "name": "Summon Vilefiend",
+      "icon": "inv_argusfelstalkermount",
+      "url": "https://www.wowhead.com/beta/spell=264119/summon-vilefiend"
+    },
+    "right": {
+      "id": 264057,
+      "name": "Soul Strike",
+      "icon": "inv_polearm_2h_fellord_04",
+      "url": "https://www.wowhead.com/beta/spell=264057/soul-strike"
+    },
+    "links": [
+      59
+    ]
+  },
+  {
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 267211,
+      "name": "Bilescourge Bombers",
+      "icon": "ability_hunter_pet_bat",
+      "url": "https://www.wowhead.com/beta/spell=267211/bilescourge-bombers"
+    },
+    "right": {
+      "id": 267171,
+      "name": "Demonic Strength",
+      "icon": "ability_warlock_demonicempowerment",
+      "url": "https://www.wowhead.com/beta/spell=267171/demonic-strength"
+    },
+    "links": [
+      59
+    ]
+  },
+  {
+    "id": 267170,
+    "name": "From the Shadows",
+    "icon": "spell_warlock_calldreadstalkers",
+    "capacity": 1,
+    "cell": 48,
+    "row": 3,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=267170/from-the-shadows",
+    "links": [
+      63,
+      67
+    ]
+  },
+  {
+    "id": 196277,
+    "name": "Implosion",
+    "icon": "inv_implosion",
+    "capacity": 1,
+    "cell": 51,
+    "row": 4,
+    "column": 1,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=196277/implosion",
+    "links": [
+      70,
+      85
+    ]
+  },
+  {
+    "id": 387322,
+    "name": "Shadow's Bite",
+    "icon": "spell_shadow_painspike",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387322/shadows-bite",
+    "links": [
+      70,
+      74,
+      89
+    ]
+  },
+  {
+    "id": 386194,
+    "name": "Carnivorous Stalkers",
+    "icon": "warlock_pvp_callfelhunter",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386194/carnivorous-stalkers",
+    "links": [
+      74,
+      78
+    ]
+  },
+  {
+    "id": 386200,
+    "name": "Fel and Steel",
+    "icon": "ability_creature_poison_01",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386200/fel-and-steel",
+    "links": [
+      78,
+      82,
+      97
+    ]
+  },
+  {
+    "id": 387338,
+    "name": "Fel Might",
+    "icon": "ability_bossfelmagnaron_hand",
+    "capacity": 1,
+    "cell": 67,
+    "row": 4,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387338/fel-might",
+    "links": [
+      82,
+      101
+    ]
+  },
+  {
+    "id": 264130,
+    "name": "Power Siphon",
+    "icon": "ability_warlock_backdraft",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=264130/power-siphon",
+    "links": [
+      85,
+      89,
+      104
+    ]
+  },
+  {
+    "id": 267216,
+    "name": "Inner Demons",
+    "icon": "ability_warlock_eradication",
+    "capacity": 2,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=267216/inner-demons",
+    "links": [
+      89,
+      93
+    ]
+  },
+  {
+    "id": 205145,
+    "name": "Demonic Calling",
+    "icon": "ability_warlock_impoweredimp",
+    "capacity": 2,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=205145/demonic-calling",
+    "links": [
+      93,
+      97
+    ]
+  },
+  {
+    "id": 111898,
+    "name": "Grimoire: Felguard",
+    "icon": "spell_shadow_summonfelguard",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=111898/grimoire-felguard",
+    "links": [
+      97,
+      101,
+      116
+    ]
+  },
+  {
+    "id": 387349,
+    "name": "Bloodbound Imps",
+    "icon": "inv_misc_skullfel_06",
+    "capacity": 1,
+    "cell": 85,
+    "row": 6,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387349/bloodbound-imps",
+    "links": [
+      104
+    ]
+  },
+  {
+    "id": 387391,
+    "name": "Dread Calling",
+    "icon": "spell_warlock_calldreadstalkers",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387391/dread-calling",
+    "links": [
+      104,
+      108
+    ]
+  },
+  {
+    "id": 603,
+    "name": "Doom",
+    "icon": "spell_shadow_auraofdarkness",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=603/doom",
+    "links": [
+      108,
+      110,
+      112
+    ]
+  },
+  {
+    "id": 387396,
+    "name": "Demonic Meteor",
+    "icon": "ability_warlock_handofguldan",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387396/demonic-meteor",
+    "links": [
+      112,
+      116
+    ]
+  },
+  {
+    "id": 387399,
+    "name": "Fel Sunder",
+    "icon": "ability_creature_felsunder",
+    "capacity": 1,
+    "cell": 101,
+    "row": 6,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387399/fel-sunder",
+    "links": [
+      116
+    ]
+  },
+  {
+    "id": 387432,
+    "name": "Fel Covenant",
+    "icon": "spell_shadow_detectinvisibility",
+    "capacity": 2,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387432/fel-covenant",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 387445,
+    "name": "Imp Gang Boss",
+    "icon": "ability_warlock_empoweredimp",
+    "capacity": 2,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387445/imp-gang-boss",
+    "links": [
+      123,
+      127
+    ]
+  },
+  {
+    "id": 387483,
+    "name": "Kazaak's Final Curse",
+    "icon": "inv_feldreadravenmount",
+    "capacity": 2,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387483/kazaaks-final-curse",
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 387485,
+    "name": "Ripped through the Portal",
+    "icon": "spell_shadow_summonfelhunter",
+    "capacity": 2,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387485/ripped-through-the-portal",
+    "links": [
+      127,
+      131
+    ]
+  },
+  {
+    "id": 387488,
+    "name": "Hounds of War",
+    "icon": "inv_felstalker_pet",
+    "capacity": 2,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387488/hounds-of-war",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 267217,
+    "name": "Nether Portal",
+    "icon": "inv_netherportal",
+    "capacity": 1,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=267217/nether-portal",
+    "links": [
+      138,
+      140,
+      142
+    ]
+  },
+  {
+    "id": 265187,
+    "name": "Summon Demonic Tyrant",
+    "icon": "inv_summondemonictyrant",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=265187/summon-demonic-tyrant",
+    "links": [
+      142,
+      144,
+      146
+    ]
+  },
+  {
+    "id": 387494,
+    "name": "Antoran Armaments",
+    "icon": "inv_axe_1h_felfireraid_d_01",
+    "capacity": 1,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387494/antoran-armaments",
+    "links": [
+      146,
+      148,
+      150
+    ]
+  },
+  {
+    "id": 387526,
+    "name": "Ner'zhul's Volition",
+    "icon": "achievement_dungeon_shadowmoonhideout",
+    "capacity": 2,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387526/nerzhuls-volition",
+    "links": [
+      155
+    ]
+  },
+  {
+    "id": 387602,
+    "name": "Stolen Power",
+    "icon": "ability_bossfelmagnaron_waveempowered",
+    "capacity": 1,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387602/stolen-power"
+  },
+  {
+    "id": 267214,
+    "name": "Sacrificed Souls",
+    "icon": "ability_creature_disease_05",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=267214/sacrificed-souls"
+  },
+  {
+    "id": 334585,
+    "name": "Soulbound Tyrant",
+    "icon": "inv_summondemonictyrant",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=334585/soulbound-tyrant",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 387541,
+    "name": "Pact of the Imp Mother",
+    "icon": "inv_archaeology_70_impgenerator",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387541/pact-of-the-imp-mother"
+  },
+  {
+    "id": 387600,
+    "name": "The Expendables",
+    "icon": "ability_warlock_impoweredimp",
+    "capacity": 1,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387600/the-expendables"
+  },
+  {
+    "id": 387549,
+    "name": "Infernal Command",
+    "icon": "ability_bossdarkvindicator_auraofcontempt",
+    "capacity": 2,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387549/infernal-command",
+    "links": [
+      167
+    ]
+  },
+  {
+    "id": 387578,
+    "name": "Gul'dan's Ambition",
+    "icon": "achievement_dungeon_outland_dungeonmaster",
+    "capacity": 1,
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387578/guldans-ambition"
+  },
+  {
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 390173,
+      "name": "Reign of Tyranny",
+      "icon": "ability_bossdarkvindicator_auraofoppression",
+      "url": "https://www.wowhead.com/beta/spell=390173/reign-of-tyranny"
+    },
+    "right": {
+      "id": 387084,
+      "name": "Grand Warlock's Design",
+      "icon": "spell_warlock_demonicportal_purple",
+      "url": "https://www.wowhead.com/beta/spell=387084/grand-warlocks-design"
+    }
+  },
+  {
+    "id": 386833,
+    "name": "Guillotine",
+    "icon": "inv_axe_2h_felfireraid_d_01",
+    "capacity": 1,
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=386833/guillotine"
+  }
+]

@@ -1,0 +1,535 @@
+[
+  {
+    "id": 324536,
+    "name": "Malefic Rapture",
+    "icon": "ability_warlock_everlastingaffliction",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=324536/malefic-rapture",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": 316099,
+    "name": "Unstable Affliction",
+    "icon": "spell_shadow_unstableaffliction_3",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=316099/unstable-affliction",
+    "links": [
+      38,
+      42
+    ]
+  },
+  {
+    "id": 27243,
+    "name": "Seed of Corruption",
+    "icon": "spell_shadow_seedofdestruction",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=27243/seed-of-corruption",
+    "links": [
+      42,
+      46
+    ]
+  },
+  {
+    "id": 108558,
+    "name": "Nightfall",
+    "icon": "spell_shadow_twilight",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=108558/nightfall",
+    "links": [
+      53,
+      57
+    ]
+  },
+  {
+    "id": 317031,
+    "name": "Xavian Teachings",
+    "icon": "spell_shadow_abominationexplosion",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=317031/xavian-teachings",
+    "links": [
+      57,
+      61
+    ]
+  },
+  {
+    "id": 196226,
+    "name": "Sow the Seeds",
+    "icon": "spell_shadow_seedofdestruction",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196226/sow-the-seeds",
+    "links": [
+      61,
+      65
+    ]
+  },
+  {
+    "id": 32388,
+    "name": "Shadow Embrace",
+    "icon": "spell_shadow_shadowembrace",
+    "capacity": 2,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=32388/shadow-embrace",
+    "links": [
+      72,
+      87
+    ]
+  },
+  {
+    "id": 201424,
+    "name": "Harvester of Souls",
+    "icon": "warlock_spelldrain",
+    "capacity": 2,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=201424/harvester-of-souls",
+    "links": [
+      72,
+      76,
+      91
+    ]
+  },
+  {
+    "id": 196102,
+    "name": "Writhe in Agony",
+    "icon": "spell_shadow_curseofsargeras",
+    "capacity": 2,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196102/writhe-in-agony",
+    "links": [
+      76,
+      80,
+      95
+    ]
+  },
+  {
+    "id": 386922,
+    "name": "Agonizing Corruption",
+    "icon": "spell_warlock_darkregeneration",
+    "capacity": 2,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386922/agonizing-corruption",
+    "links": [
+      80,
+      99
+    ]
+  },
+  {
+    "id": 388667,
+    "name": "Drain Soul",
+    "icon": "spell_shadow_haunting",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=388667/drain-soul",
+    "links": [
+      87,
+      91,
+      106
+    ]
+  },
+  {
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 196103,
+      "name": "Absolute Corruption",
+      "icon": "ability_bossmannoroth_empoweredmannorothsgaze",
+      "url": "https://www.wowhead.com/beta/spell=196103/absolute-corruption"
+    },
+    "right": {
+      "id": 63106,
+      "name": "Siphon Life",
+      "icon": "spell_shadow_requiem",
+      "url": "https://www.wowhead.com/beta/spell=63106/siphon-life"
+    },
+    "links": [
+      91,
+      93,
+      95
+    ]
+  },
+  {
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 205179,
+      "name": "Phantom Singularity",
+      "icon": "inv_enchant_voidsphere",
+      "url": "https://www.wowhead.com/beta/spell=205179/phantom-singularity"
+    },
+    "right": {
+      "id": 278350,
+      "name": "Vile Taint",
+      "icon": "sha_spell_shadow_shadesofdarkness_nightborne",
+      "url": "https://www.wowhead.com/beta/spell=278350/vile-taint"
+    },
+    "links": [
+      95,
+      99,
+      114
+    ]
+  },
+  {
+    "id": 387073,
+    "name": "Soul Tap",
+    "icon": "spell_shadow_burningspirit",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=387073/soul-tap",
+    "links": [
+      106,
+      121
+    ]
+  },
+  {
+    "id": 334319,
+    "name": "Inevitable Demise",
+    "icon": "spell_warlock_harvestoflife",
+    "capacity": 2,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=334319/inevitable-demise",
+    "links": [
+      106,
+      110
+    ]
+  },
+  {
+    "id": 386951,
+    "name": "Soul Swap",
+    "icon": "ability_warlock_soulswap",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=386951/soul-swap",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 199471,
+    "name": "Soul Flame",
+    "icon": "ability_argus_soulburst",
+    "capacity": 2,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=199471/soul-flame",
+    "links": [
+      110,
+      114
+    ]
+  },
+  {
+    "id": 108503,
+    "name": "Grimoire of Sacrifice",
+    "icon": "warlock_grimoireofsacrifice",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=108503/grimoire-of-sacrifice",
+    "links": [
+      114,
+      133
+    ]
+  },
+  {
+    "id": 386759,
+    "name": "Pandemic Invocation",
+    "icon": "spell_shadow_unsummonbuilding",
+    "capacity": 2,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386759/pandemic-invocation",
+    "links": [
+      121,
+      125
+    ]
+  },
+  {
+    "id": 386976,
+    "name": "Withering Bolt",
+    "icon": "spell_shadow_shadowbolt",
+    "capacity": 2,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386976/withering-bolt",
+    "links": [
+      125,
+      129
+    ]
+  },
+  {
+    "id": 386986,
+    "name": "Sacrolash's Dark Strike",
+    "icon": "spell_nzinsanity_fearofdeath",
+    "capacity": 2,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386986/sacrolashs-dark-strike",
+    "links": [
+      129,
+      133
+    ]
+  },
+  {
+    "id": 264000,
+    "name": "Creeping Death",
+    "icon": "ability_creature_cursed_03",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=264000/creeping-death",
+    "links": [
+      138,
+      140
+    ]
+  },
+  {
+    "id": 48181,
+    "name": "Haunt",
+    "icon": "ability_warlock_haunt",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=48181/haunt",
+    "links": [
+      140,
+      142
+    ]
+  },
+  {
+    "id": 205180,
+    "name": "Summon Darkglare",
+    "icon": "inv_beholderwarlock",
+    "capacity": 1,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=205180/summon-darkglare",
+    "links": [
+      146,
+      148
+    ]
+  },
+  {
+    "id": 386997,
+    "name": "Soul Rot",
+    "icon": "ability_ardenweald_warlock",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=386997/soul-rot",
+    "links": [
+      148,
+      150
+    ]
+  },
+  {
+    "id": 389761,
+    "name": "Malefic Affliction",
+    "icon": "spell_shadow_unstableaffliction_3_purple",
+    "capacity": 2,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389761/malefic-affliction",
+    "links": [
+      155
+    ]
+  },
+  {
+    "id": 387075,
+    "name": "Tormented Crescendo",
+    "icon": "spell_warlock_soulburn",
+    "capacity": 1,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387075/tormented-crescendo"
+  },
+  {
+    "id": 387250,
+    "name": "Seized Vitality",
+    "icon": "spell_shadow_skull",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387250/seized-vitality",
+    "links": [
+      159
+    ]
+  },
+  {
+    "id": 387273,
+    "name": "Malevolent Visionary",
+    "icon": "inv_archaeology_70_crystallineeyeofundravius",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387273/malevolent-visionary",
+    "links": [
+      163
+    ]
+  },
+  {
+    "id": 387065,
+    "name": "Wrath of Consumption",
+    "icon": "spell_nature_drowsy",
+    "capacity": 1,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387065/wrath-of-consumption"
+  },
+  {
+    "id": 389630,
+    "name": "Soul-Eater's Gluttony",
+    "icon": "ability_bossgorefiend_gorefiendscorruption",
+    "capacity": 2,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389630/soul-eaters-gluttony",
+    "links": [
+      167
+    ]
+  },
+  {
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 389764,
+      "name": "Doom Blossom",
+      "icon": "ability_xavius_corruptingnova",
+      "url": "https://www.wowhead.com/beta/spell=389764/doom-blossom"
+    },
+    "right": {
+      "id": 389775,
+      "name": "Dread Touch",
+      "icon": "ability_priest_touchofdecay",
+      "url": "https://www.wowhead.com/beta/spell=389775/dread-touch"
+    }
+  },
+  {
+    "id": 387301,
+    "name": "Haunted Soul",
+    "icon": "spell_warlock_soulburn_haunt",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387301/haunted-soul"
+  },
+  {
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 387084,
+      "name": "Grand Warlock's Design",
+      "icon": "spell_warlock_demonicportal_purple",
+      "url": "https://www.wowhead.com/beta/spell=387084/grand-warlocks-design"
+    },
+    "right": {
+      "id": 389992,
+      "name": "Grim Reach",
+      "icon": "warlock_curse_shadow",
+      "url": "https://www.wowhead.com/beta/spell=389992/grim-reach"
+    }
+  },
+  {
+    "id": 387016,
+    "name": "Dark Harvest",
+    "icon": "spell_misc_zandalari_council_soulswap",
+    "capacity": 1,
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387016/dark-harvest"
+  }
+]

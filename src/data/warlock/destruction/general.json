@@ -1,0 +1,636 @@
+[
+  {
+    "id": 333889,
+    "name": "Fel Domination",
+    "icon": "spell_shadow_felmending",
+    "capacity": 1,
+    "cell": 4,
+    "row": 1,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=333889/fel-domination",
+    "links": [
+      19,
+      23
+    ]
+  },
+  {
+    "id": 268358,
+    "name": "Demonic Circle",
+    "icon": "spell_shadow_demoniccirclesummon",
+    "capacity": 0,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=268358/demonic-circle",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": 111400,
+    "name": "Burning Rush",
+    "icon": "ability_deathwing_sealarmorbreachtga",
+    "capacity": 1,
+    "cell": 12,
+    "row": 1,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=111400/burning-rush",
+    "links": [
+      27,
+      31
+    ]
+  },
+  {
+    "id": 386113,
+    "name": "Fel Pact",
+    "icon": "spell_shadow_impphaseshift",
+    "capacity": 2,
+    "cell": 19,
+    "row": 2,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386113/fel-pact",
+    "links": [
+      38
+    ]
+  },
+  {
+    "id": 219272,
+    "name": "Demon Skin",
+    "icon": "spell_shadow_ragingscream",
+    "capacity": 2,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=219272/demon-skin",
+    "links": [
+      38,
+      42
+    ]
+  },
+  {
+    "id": 386124,
+    "name": "Fel Armor",
+    "icon": "spell_shadow_felarmour",
+    "capacity": 2,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386124/fel-armor",
+    "links": [
+      42,
+      46
+    ]
+  },
+  {
+    "id": 386110,
+    "name": "Fiendish Stride",
+    "icon": "inv_misc_moosehoof_fel",
+    "capacity": 2,
+    "cell": 31,
+    "row": 2,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386110/fiendish-stride",
+    "links": [
+      46
+    ]
+  },
+  {
+    "id": 386105,
+    "name": "Curses of Enfeeblement",
+    "icon": "ability_creature_cursed_02",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=386105/curses-of-enfeeblement",
+    "links": [
+      53,
+      55,
+      57
+    ]
+  },
+  {
+    "id": 389609,
+    "name": "Abyss Walker",
+    "icon": "achievement_explore_argus",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389609/abyss-walker",
+    "links": [
+      57,
+      61
+    ]
+  },
+  {
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 5484,
+      "name": "Howl of Terror",
+      "icon": "ability_warlock_howlofterror",
+      "url": "https://www.wowhead.com/beta/spell=5484/howl-of-terror"
+    },
+    "right": {
+      "id": 6789,
+      "name": "Mortal Coil",
+      "icon": "ability_warlock_mortalcoil",
+      "url": "https://www.wowhead.com/beta/spell=6789/mortal-coil"
+    },
+    "links": [
+      61,
+      63,
+      65
+    ]
+  },
+  {
+    "id": 328774,
+    "name": "Amplify Curse",
+    "icon": "spell_shadow_contagion",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=328774/amplify-curse",
+    "links": [
+      70,
+      72
+    ]
+  },
+  {
+    "id": 288843,
+    "name": "Demonic Embrace",
+    "icon": "spell_shadow_metamorphosis",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=288843/demonic-embrace",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 386858,
+    "name": "Demonic Inspiration",
+    "icon": "ability_warlock_demonicpower",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386858/demonic-inspiration",
+    "links": [
+      72,
+      74,
+      76
+    ]
+  },
+  {
+    "id": 386864,
+    "name": "Wrathful Minion",
+    "icon": "spell_fel_incinerate",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386864/wrathful-minion",
+    "links": [
+      76,
+      78,
+      80
+    ]
+  },
+  {
+    "id": 386617,
+    "name": "Demonic Fortitude",
+    "icon": "spell_warlock_summonimpoutland",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386617/demonic-fortitude",
+    "links": [
+      80
+    ]
+  },
+  {
+    "id": 710,
+    "name": "Banish",
+    "icon": "spell_shadow_cripple",
+    "capacity": 1,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=710/banish",
+    "links": [
+      80,
+      82
+    ]
+  },
+  {
+    "id": 387972,
+    "name": "Teachings of the Satyr",
+    "icon": "spell_shadow_carrionswarm",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387972/teachings-of-the-satyr",
+    "links": [
+      89
+    ]
+  },
+  {
+    "id": 386619,
+    "name": "Desperate Pact",
+    "icon": "spell_shadow_lifedrain02",
+    "capacity": 2,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386619/desperate-pact",
+    "links": [
+      89
+    ]
+  },
+  {
+    "id": 386620,
+    "name": "Sweet Souls",
+    "icon": "spell_shadow_soulleech",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386620/sweet-souls",
+    "links": [
+      89,
+      93
+    ]
+  },
+  {
+    "id": 389623,
+    "name": "Gorefiend's Resolve",
+    "icon": "inv_helmet_90",
+    "capacity": 2,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389623/gorefiends-resolve",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 111771,
+    "name": "Demonic Gateway",
+    "icon": "spell_warlock_demonicportal_green",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=111771/demonic-gateway",
+    "links": [
+      93,
+      97
+    ]
+  },
+  {
+    "id": 386648,
+    "name": "Nightmare",
+    "icon": "spell_shadow_possession",
+    "capacity": 2,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386648/nightmare",
+    "links": [
+      97
+    ]
+  },
+  {
+    "id": 386651,
+    "name": "Greater Banish",
+    "icon": "spell_shadow_cripple",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386651/greater-banish",
+    "links": [
+      97
+    ]
+  },
+  {
+    "id": 108416,
+    "name": "Dark Pact",
+    "icon": "spell_shadow_deathpact",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=108416/dark-pact",
+    "links": [
+      104,
+      108
+    ]
+  },
+  {
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 317138,
+      "name": "Strength of Will",
+      "icon": "spell_shadow_demonictactics",
+      "url": "https://www.wowhead.com/beta/spell=317138/strength-of-will"
+    },
+    "right": {
+      "id": 386659,
+      "name": "Dark Accord",
+      "icon": "ability_warlock_improveddemonictactics",
+      "url": "https://www.wowhead.com/beta/spell=386659/dark-accord"
+    },
+    "links": [
+      108,
+      112
+    ]
+  },
+  {
+    "id": 30283,
+    "name": "Shadowfury",
+    "icon": "ability_warlock_shadowfurytga",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=30283/shadowfury",
+    "links": [
+      112,
+      116
+    ]
+  },
+  {
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 386664,
+      "name": "Ichor of Devils",
+      "icon": "spell_yorsahj_bloodboil_greenoil",
+      "url": "https://www.wowhead.com/beta/spell=386664/ichor-of-devils"
+    },
+    "right": {
+      "id": 386686,
+      "name": "Frequent Donor",
+      "icon": "ability_ironmaidens_bloodritual",
+      "url": "https://www.wowhead.com/beta/spell=386686/frequent-donor"
+    },
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 386613,
+    "name": "Accrued Vitality",
+    "icon": "spell_shadow_lifedrain",
+    "capacity": 2,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386613/accrued-vitality",
+    "links": [
+      123,
+      127
+    ]
+  },
+  {
+    "id": 386646,
+    "name": "Lifeblood",
+    "icon": "warlock_-healthstone",
+    "capacity": 2,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386646/lifeblood",
+    "links": [
+      127,
+      131
+    ]
+  },
+  {
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 264874,
+      "name": "Darkfury",
+      "icon": "ability_warlock_shadowfurytga",
+      "url": "https://www.wowhead.com/beta/spell=264874/darkfury"
+    },
+    "right": {
+      "id": 384069,
+      "name": "Shadowflame",
+      "icon": "ability_warlock_shadowflame",
+      "url": "https://www.wowhead.com/beta/spell=384069/shadowflame"
+    },
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 389367,
+    "name": "Fel Synergy",
+    "icon": "inv_sword_1h_felfireraid_d_01",
+    "capacity": 1,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389367/fel-synergy",
+    "links": [
+      138,
+      142
+    ]
+  },
+  {
+    "id": 108415,
+    "name": "Soul Link",
+    "icon": "ability_warlock_soullink",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=108415/soul-link",
+    "links": [
+      142,
+      144,
+      146
+    ]
+  },
+  {
+    "id": 385881,
+    "name": "Teachings of the Black Harvest",
+    "icon": "inv_misc_codexofxerrath_nochains",
+    "capacity": 1,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385881/teachings-of-the-black-harvest",
+    "links": [
+      146,
+      150
+    ]
+  },
+  {
+    "id": 389359,
+    "name": "Resolute Barrier",
+    "icon": "inv_shield_1h_demonweapon_c_01",
+    "capacity": 2,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389359/resolute-barrier",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 171975,
+    "name": "Grimoire of Synergy",
+    "icon": "warlock_grimoireofsacrifice",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=171975/grimoire-of-synergy",
+    "links": [
+      157,
+      161
+    ]
+  },
+  {
+    "id": 389576,
+    "name": "Profane Bargain",
+    "icon": "ability_argus_deathfog",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389576/profane-bargain",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 215941,
+    "name": "Soul Conduit",
+    "icon": "spell_shadow_soulleech_2",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=215941/soul-conduit",
+    "links": [
+      161,
+      165
+    ]
+  },
+  {
+    "id": 389590,
+    "name": "Demonic Resilience",
+    "icon": "ability_warlock_avoidance",
+    "capacity": 2,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389590/demonic-resilience",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 386689,
+    "name": "Grim Feast",
+    "icon": "inv_flaming_splinter",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386689/grim-feast"
+  },
+  {
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 386244,
+      "name": "Summon Soulkeeper",
+      "icon": "spell_fel_elementaldevastation",
+      "url": "https://www.wowhead.com/beta/spell=386244/summon-soulkeeper"
+    },
+    "right": {
+      "id": 386344,
+      "name": "Inquisitor's Gaze",
+      "icon": "inv_pet_inquisitoreye",
+      "url": "https://www.wowhead.com/beta/spell=386344/inquisitors-gaze"
+    }
+  },
+  {
+    "id": 385899,
+    "name": "Soulburn",
+    "icon": "spell_warlock_soulburn",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=385899/soulburn"
+  }
+]

@@ -1,0 +1,550 @@
+[
+  {
+    "id": 30455,
+    "name": "Ice Lance",
+    "icon": "spell_frost_frostblast",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=30455/ice-lance",
+    "links": [
+      23,
+      25,
+      27
+    ]
+  },
+  {
+    "id": 84714,
+    "name": "Frozen Orb",
+    "icon": "spell_frost_frozenorb",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=84714/frozen-orb",
+    "links": [
+      40
+    ]
+  },
+  {
+    "id": 190356,
+    "name": "Blizzard",
+    "icon": "spell_frost_icestorm",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=190356/blizzard",
+    "links": [
+      59
+    ]
+  },
+  {
+    "id": 112965,
+    "name": "Fingers of Frost",
+    "icon": "ability_mage_wintersgrasp",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=112965/fingers-of-frost",
+    "links": [
+      44
+    ]
+  },
+  {
+    "id": 44614,
+    "name": "Flurry",
+    "icon": "ability_warlock_burningembersblue",
+    "capacity": 1,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=44614/flurry",
+    "links": [
+      55,
+      57
+    ]
+  },
+  {
+    "id": 12982,
+    "name": "Shatter",
+    "icon": "spell_frost_frostshock",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=12982/shatter",
+    "links": [
+      61,
+      63
+    ]
+  },
+  {
+    "id": 190447,
+    "name": "Brain Freeze",
+    "icon": "ability_mage_brainfreeze",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=190447/brain-freeze",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 385167,
+    "name": "Everlasting Frost",
+    "icon": "spell_frost_chillingbolt",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385167/everlasting-frost",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 235219,
+    "name": "Cold Snap",
+    "icon": "spell_frost_wizardmark",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=235219/cold-snap",
+    "links": [
+      74,
+      78
+    ]
+  },
+  {
+    "id": 378756,
+    "name": "Frostbite",
+    "icon": "spell_frost_frostarmor",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378756/frostbite",
+    "links": [
+      80
+    ]
+  },
+  {
+    "id": 378919,
+    "name": "Piercing Cold",
+    "icon": "spell_frost_frostbolt",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378919/piercing-cold",
+    "links": [
+      80
+    ]
+  },
+  {
+    "id": 378198,
+    "name": "Perpetual Winter",
+    "icon": "ability_warlock_burningembersblue",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378198/perpetual-winter",
+    "links": [
+      87,
+      89
+    ]
+  },
+  {
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 205024,
+      "name": "Lonely Winter",
+      "icon": "achievement_dungeon_frozenthrone",
+      "url": "https://www.wowhead.com/beta/spell=205024/lonely-winter"
+    },
+    "right": {
+      "id": 31687,
+      "name": "Summon Water Elemental",
+      "icon": "spell_frost_summonwaterelemental_2",
+      "url": "https://www.wowhead.com/beta/spell=31687/summon-water-elemental"
+    },
+    "links": [
+      89,
+      91
+    ]
+  },
+  {
+    "id": 236662,
+    "name": "Ice Caller",
+    "icon": "spell_frost_icestorm",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=236662/ice-caller",
+    "links": [
+      95,
+      97
+    ]
+  },
+  {
+    "id": 205027,
+    "name": "Bone Chilling",
+    "icon": "ability_mage_chilledtothebone",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=205027/bone-chilling",
+    "links": [
+      97,
+      99
+    ]
+  },
+  {
+    "id": 378947,
+    "name": "Glacial Assault",
+    "icon": "spell_mage_cometstorm2",
+    "capacity": 2,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378947/glacial-assault",
+    "links": [
+      121
+    ]
+  },
+  {
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 205030,
+      "name": "Frozen Touch",
+      "icon": "ability_mage_burstofcold",
+      "url": "https://www.wowhead.com/beta/spell=205030/frozen-touch"
+    },
+    "right": {
+      "id": 257537,
+      "name": "Ebonbolt",
+      "icon": "artifactability_frostmage_ebonbolt",
+      "url": "https://www.wowhead.com/beta/spell=257537/ebonbolt"
+    },
+    "links": [
+      106
+    ]
+  },
+  {
+    "id": 378406,
+    "name": "Wintertide",
+    "icon": "ability_mage_burstofcold",
+    "capacity": 2,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378406/wintertide",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 381706,
+    "name": "Snowstorm",
+    "icon": "spell_fire_bluerainoffire",
+    "capacity": 2,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381706/snowstorm",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 379993,
+    "name": "Flash Freeze",
+    "icon": "ability_mage_coldasice",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=379993/flash-freeze",
+    "links": [
+      114
+    ]
+  },
+  {
+    "id": 380154,
+    "name": "Subzero",
+    "icon": "spell_ice_magicdamage",
+    "capacity": 2,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=380154/subzero",
+    "links": [
+      133
+    ]
+  },
+  {
+    "id": 378749,
+    "name": "Deep Shatter",
+    "icon": "inv_misc_frostemblem_01",
+    "capacity": 2,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378749/deep-shatter",
+    "links": [
+      121,
+      125
+    ]
+  },
+  {
+    "id": 12472,
+    "name": "Icy Veins",
+    "icon": "spell_frost_coldhearted",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=12472/icy-veins",
+    "links": [
+      125,
+      127,
+      129
+    ]
+  },
+  {
+    "id": 379049,
+    "name": "Splintering Cold",
+    "icon": "spell_frost_iceshard",
+    "capacity": 2,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=379049/splintering-cold",
+    "links": [
+      129,
+      133
+    ]
+  },
+  {
+    "id": 153595,
+    "name": "Comet Storm",
+    "icon": "spell_mage_cometstorm2",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=153595/comet-storm",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 270233,
+    "name": "Freezing Rain",
+    "icon": "spell_frost_frozenorb",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=270233/freezing-rain",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 378433,
+    "name": "Icy Propulsion",
+    "icon": "spell_frost_coldhearted",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378433/icy-propulsion",
+    "links": [
+      142,
+      144,
+      146
+    ]
+  },
+  {
+    "id": 205021,
+    "name": "Ray of Frost",
+    "icon": "ability_mage_rayoffrost",
+    "capacity": 1,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=205021/ray-of-frost",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 56377,
+    "name": "Splitting Ice",
+    "icon": "spell_frost_ice-shards",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=56377/splitting-ice",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 378448,
+    "name": "Fractured Frost",
+    "icon": "spell_fire_frostresistancetotem",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378448/fractured-frost",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 378901,
+    "name": "Snap Freeze",
+    "icon": "spell_frost_coldhearted",
+    "capacity": 1,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378901/snap-freeze",
+    "links": [
+      159
+    ]
+  },
+  {
+    "id": 382144,
+    "name": "Slick Ice",
+    "icon": "inv_enchant_shardshadowfrostlarge",
+    "capacity": 1,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382144/slick-ice"
+  },
+  {
+    "id": 278309,
+    "name": "Chain Reaction",
+    "icon": "spell_frost_frostblast",
+    "capacity": 1,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=278309/chain-reaction",
+    "links": [
+      163
+    ]
+  },
+  {
+    "id": 381244,
+    "name": "Hailstones",
+    "icon": "artifactability_frostmage_blackicicles",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381244/hailstones",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 382110,
+    "name": "Cold Front",
+    "icon": "ability_mage_coldasice",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382110/cold-front"
+  },
+  {
+    "id": 382103,
+    "name": "Freezing Winds",
+    "icon": "spell_shadow_soulleech_2",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382103/freezing-winds"
+  },
+  {
+    "id": 155149,
+    "name": "Thermal Void",
+    "icon": "spell_mage_thermalvoid",
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=155149/thermal-void"
+  },
+  {
+    "id": 199786,
+    "name": "Glacial Spike",
+    "icon": "ability_mage_glacialspike",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=199786/glacial-spike"
+  }
+]

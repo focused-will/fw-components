@@ -1,0 +1,657 @@
+[
+  {
+    "id": 5938,
+    "name": "Shiv",
+    "icon": "inv_throwingknife_04",
+    "capacity": 1,
+    "cell": 2,
+    "row": 1,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=5938/shiv",
+    "links": [
+      21
+    ]
+  },
+  {
+    "id": 2094,
+    "name": "Blind",
+    "icon": "spell_shadow_mindsteal",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=2094/blind",
+    "links": [
+      25
+    ]
+  },
+  {
+    "id": 6770,
+    "name": "Sap",
+    "icon": "ability_sap",
+    "capacity": 0,
+    "cell": 14,
+    "row": 1,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=6770/sap",
+    "links": [
+      29
+    ]
+  },
+  {
+    "id": 5277,
+    "name": "Evasion",
+    "icon": "spell_shadow_shadowward",
+    "capacity": 1,
+    "cell": 21,
+    "row": 2,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=5277/evasion",
+    "links": [
+      36,
+      38,
+      40
+    ]
+  },
+  {
+    "id": 1966,
+    "name": "Feint",
+    "icon": "ability_rogue_feint",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1966/feint",
+    "links": [
+      40,
+      42,
+      44
+    ]
+  },
+  {
+    "id": 31224,
+    "name": "Cloak of Shadows",
+    "icon": "spell_shadow_nethercloak",
+    "capacity": 1,
+    "cell": 29,
+    "row": 2,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=31224/cloak-of-shadows",
+    "links": [
+      44,
+      46,
+      48
+    ]
+  },
+  {
+    "id": 378436,
+    "name": "Master Poisoner",
+    "icon": "ability_creature_poison_06",
+    "capacity": 1,
+    "cell": 36,
+    "row": 3,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378436/master-poisoner",
+    "links": [
+      53,
+      55
+    ]
+  },
+  {
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 5761,
+      "name": "Numbing Poison",
+      "icon": "spell_nature_nullifydisease",
+      "url": "https://www.wowhead.com/beta/spell=5761/numbing-poison"
+    },
+    "right": {
+      "id": 381637,
+      "name": "Atrophic Poison",
+      "icon": "ability_rogue_nervesofsteel",
+      "url": "https://www.wowhead.com/beta/spell=381637/atrophic-poison"
+    },
+    "links": [
+      55
+    ]
+  },
+  {
+    "id": 378427,
+    "name": "Nimble Fingers",
+    "icon": "ability_rogue_crimsonvial",
+    "capacity": 1,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378427/nimble-fingers",
+    "links": [
+      55,
+      57,
+      59
+    ]
+  },
+  {
+    "id": 1776,
+    "name": "Gouge",
+    "icon": "ability_gouge",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1776/gouge",
+    "links": [
+      59
+    ]
+  },
+  {
+    "id": 379005,
+    "name": "Blackjack",
+    "icon": "ability_sap",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=379005/blackjack",
+    "links": [
+      59,
+      61,
+      63
+    ]
+  },
+  {
+    "id": 57934,
+    "name": "Tricks of the Trade",
+    "icon": "ability_rogue_tricksofthetrade",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=57934/tricks-of-the-trade",
+    "links": [
+      63
+    ]
+  },
+  {
+    "id": 378807,
+    "name": "Shadowrunner",
+    "icon": "ability_stealth",
+    "capacity": 1,
+    "cell": 48,
+    "row": 3,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378807/shadowrunner",
+    "links": [
+      63,
+      65
+    ]
+  },
+  {
+    "id": 319066,
+    "name": "Improved Wound Poison",
+    "icon": "inv_misc_herb_16",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=319066/improved-wound-poison",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 378813,
+    "name": "Fleet Footed",
+    "icon": "ability_rogue_quickrecovery",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378813/fleet-footed",
+    "links": [
+      72,
+      74
+    ]
+  },
+  {
+    "id": 193546,
+    "name": "Iron Stomach",
+    "icon": "inv_misc_organ_11",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=193546/iron-stomach",
+    "links": [
+      74,
+      76
+    ]
+  },
+  {
+    "id": 231691,
+    "name": "Improved Sprint",
+    "icon": "ability_rogue_sprint",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=231691/improved-sprint",
+    "links": [
+      76
+    ]
+  },
+  {
+    "id": 131511,
+    "name": "Prey on the Weak",
+    "icon": "ability_rogue_preyontheweak",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=131511/prey-on-the-weak",
+    "links": [
+      76,
+      78
+    ]
+  },
+  {
+    "id": 394931,
+    "name": "Shadowstep",
+    "icon": "rogue_shadowfocus",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=394931/shadowstep",
+    "links": [
+      78,
+      80
+    ]
+  },
+  {
+    "id": 108208,
+    "name": "Subterfuge",
+    "icon": "rogue_subterfuge",
+    "capacity": 1,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=108208/subterfuge",
+    "links": [
+      80
+    ]
+  },
+  {
+    "id": 381543,
+    "name": "Virulent Poisons",
+    "icon": "ability_creature_poison_06",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381543/virulent-poisons",
+    "links": [
+      89
+    ]
+  },
+  {
+    "id": 231719,
+    "name": "Deadened Nerves",
+    "icon": "ability_rogue_nervesofsteel",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=231719/deadened-nerves",
+    "links": [
+      89,
+      93
+    ]
+  },
+  {
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 79008,
+      "name": "Elusiveness",
+      "icon": "ability_rogue_turnthetables",
+      "url": "https://www.wowhead.com/beta/spell=79008/elusiveness"
+    },
+    "right": {
+      "id": 31230,
+      "name": "Cheat Death",
+      "icon": "ability_rogue_cheatdeath",
+      "url": "https://www.wowhead.com/beta/spell=31230/cheat-death"
+    },
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 378803,
+    "name": "Rushed Setup",
+    "icon": "ability_skyreach_piercing_rush",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378803/rushed-setup",
+    "links": [
+      93,
+      97
+    ]
+  },
+  {
+    "id": 381621,
+    "name": "Tight Spender",
+    "icon": "inv_misc_coin_03",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381621/tight-spender",
+    "links": [
+      97
+    ]
+  },
+  {
+    "id": 381542,
+    "name": "Deadly Precision",
+    "icon": "ability_rogue_deadenednerves",
+    "capacity": 2,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381542/deadly-precision",
+    "links": [
+      106
+    ]
+  },
+  {
+    "id": 381619,
+    "name": "Thief's Versatility",
+    "icon": "ability_rogue_versatility",
+    "capacity": 2,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381619/thiefs-versatility",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 14062,
+    "name": "Nightstalker",
+    "icon": "ability_stealth",
+    "capacity": 2,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=14062/nightstalker",
+    "links": [
+      114
+    ]
+  },
+  {
+    "id": 14983,
+    "name": "Vigor",
+    "icon": "ability_rogue_vigor",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=14983/vigor",
+    "links": [
+      123,
+      125
+    ]
+  },
+  {
+    "id": 196924,
+    "name": "Acrobatic Strikes",
+    "icon": "spell_warrior_wildstrike",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196924/acrobatic-strikes",
+    "links": [
+      125,
+      127,
+      129
+    ]
+  },
+  {
+    "id": 381620,
+    "name": "Improved Ambush",
+    "icon": "ability_rogue_ambush",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381620/improved-ambush",
+    "links": [
+      129,
+      131
+    ]
+  },
+  {
+    "id": 280716,
+    "name": "Leeching Poison",
+    "icon": "rogue_leeching_poison",
+    "capacity": 1,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=280716/leeching-poison",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 382238,
+    "name": "Lethality",
+    "icon": "ability_criticalstrike",
+    "capacity": 2,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382238/lethality",
+    "links": [
+      142
+    ]
+  },
+  {
+    "id": 378996,
+    "name": "Recuperator",
+    "icon": "inv_gizmo_runichealthinjector",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378996/recuperator",
+    "links": [
+      144
+    ]
+  },
+  {
+    "id": 193539,
+    "name": "Alacrity",
+    "icon": "ability_paladin_speedoflight",
+    "capacity": 2,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=193539/alacrity",
+    "links": [
+      146
+    ]
+  },
+  {
+    "id": 393970,
+    "name": "Soothing Darkness",
+    "icon": "spell_shadow_twilight",
+    "capacity": 1,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393970/soothing-darkness",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 14190,
+    "name": "Seal Fate",
+    "icon": "ability_rogue_stayofexecution",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=14190/seal-fate",
+    "links": [
+      159
+    ]
+  },
+  {
+    "id": 382245,
+    "name": "Cold Blood",
+    "icon": "spell_ice_lament",
+    "capacity": 1,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=382245/cold-blood"
+  },
+  {
+    "id": 385616,
+    "name": "Echoing Reprimand",
+    "icon": "ability_bastion_rogue",
+    "capacity": 1,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=385616/echoing-reprimand",
+    "links": [
+      161
+    ]
+  },
+  {
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 193531,
+      "name": "Deeper Stratagem",
+      "icon": "archaeology_5_0_changkiboard",
+      "url": "https://www.wowhead.com/beta/spell=193531/deeper-stratagem"
+    },
+    "right": {
+      "id": 137619,
+      "name": "Marked for Death",
+      "icon": "achievement_bg_killingblow_berserker",
+      "url": "https://www.wowhead.com/beta/spell=137619/marked-for-death"
+    }
+  },
+  {
+    "id": 91023,
+    "name": "Find Weakness",
+    "icon": "ability_rogue_findweakness",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=91023/find-weakness",
+    "links": [
+      163
+    ]
+  },
+  {
+    "id": 381623,
+    "name": "Thistle Tea",
+    "icon": "inv_drink_milk_05",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=381623/thistle-tea"
+  },
+  {
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 381622,
+      "name": "Resounding Clarity",
+      "icon": "ability_bastion_rogue",
+      "url": "https://www.wowhead.com/beta/spell=381622/resounding-clarity"
+    },
+    "right": {
+      "id": 394332,
+      "name": "Reverberation",
+      "icon": "spell_animabastion_buff",
+      "url": "https://www.wowhead.com/beta/spell=394332/reverberation"
+    }
+  },
+  {
+    "id": 394930,
+    "name": "Shadow Dance",
+    "icon": "rogue_shadowfocus",
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=394930/shadow-dance"
+  }
+]

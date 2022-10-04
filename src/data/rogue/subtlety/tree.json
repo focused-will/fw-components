@@ -1,0 +1,606 @@
+[
+  {
+    "id": 319949,
+    "name": "Improved Backstab",
+    "icon": "ability_backstab",
+    "capacity": 1,
+    "cell": 4,
+    "row": 1,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=319949/improved-backstab",
+    "links": [
+      19,
+      23
+    ]
+  },
+  {
+    "id": 394935,
+    "name": "Shadowstep",
+    "icon": "rogue_shadowfocus",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=394935/shadowstep",
+    "links": [
+      23,
+      25,
+      27
+    ]
+  },
+  {
+    "id": 319951,
+    "name": "Improved Shuriken Storm",
+    "icon": "ability_rogue_shuriken-storm",
+    "capacity": 1,
+    "cell": 12,
+    "row": 1,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=319951/improved-shuriken-storm",
+    "links": [
+      27,
+      31
+    ]
+  },
+  {
+    "id": 193537,
+    "name": "Weaponmaster",
+    "icon": "ability_ironmaidens_bladerush",
+    "capacity": 1,
+    "cell": 19,
+    "row": 2,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=193537/weaponmaster",
+    "links": [
+      36,
+      38
+    ]
+  },
+  {
+    "id": 108209,
+    "name": "Shadow Focus",
+    "icon": "rogue_shadowfocus",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=108209/shadow-focus",
+    "links": [
+      38,
+      42
+    ]
+  },
+  {
+    "id": 382503,
+    "name": "Quick Decisions",
+    "icon": "inv_misc_hook_01",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382503/quick-decisions"
+  },
+  {
+    "id": 58423,
+    "name": "Relentless Strikes",
+    "icon": "ability_warrior_decisivestrike",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=58423/relentless-strikes",
+    "links": [
+      42,
+      46
+    ]
+  },
+  {
+    "id": 319175,
+    "name": "Black Powder",
+    "icon": "spell_priest_divinestar_shadow",
+    "capacity": 1,
+    "cell": 31,
+    "row": 2,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=319175/black-powder",
+    "links": [
+      46,
+      48
+    ]
+  },
+  {
+    "id": 257505,
+    "name": "Shot in the Dark",
+    "icon": "ability_cheapshot",
+    "capacity": 1,
+    "cell": 36,
+    "row": 3,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=257505/shot-in-the-dark",
+    "links": [
+      53
+    ]
+  },
+  {
+    "id": 343160,
+    "name": "Premeditation",
+    "icon": "spell_shadow_possession",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343160/premeditation",
+    "links": [
+      53,
+      57
+    ]
+  },
+  {
+    "id": 121471,
+    "name": "Shadow Blades",
+    "icon": "inv_knife_1h_grimbatolraid_d_03",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=121471/shadow-blades",
+    "links": [
+      57,
+      59,
+      61
+    ]
+  },
+  {
+    "id": 385722,
+    "name": "Silent Storm",
+    "icon": "ability_rogue_shuriken-storm",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385722/silent-storm",
+    "links": [
+      61,
+      65
+    ]
+  },
+  {
+    "id": 277953,
+    "name": "Night Terrors",
+    "icon": "spell_shadow_shadesofdarkness",
+    "capacity": 1,
+    "cell": 48,
+    "row": 3,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=277953/night-terrors",
+    "links": [
+      65
+    ]
+  },
+  {
+    "id": 200758,
+    "name": "Gloomblade",
+    "icon": "ability_ironmaidens_convulsiveshadows",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=200758/gloomblade",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 394023,
+    "name": "Improved Shadow Techniques",
+    "icon": "ability_rogue_masterofsubtlety",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=394023/improved-shadow-techniques",
+    "links": [
+      72,
+      74
+    ]
+  },
+  {
+    "id": 382509,
+    "name": "Stiletto Staccato",
+    "icon": "ability_rogue_shadowyduel",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382509/stiletto-staccato",
+    "links": [
+      74,
+      78
+    ]
+  },
+  {
+    "id": 382017,
+    "name": "Veiltouched",
+    "icon": "spell_nature_slowpoison",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382017/veiltouched",
+    "links": [
+      78,
+      80
+    ]
+  },
+  {
+    "id": 280719,
+    "name": "Secret Technique",
+    "icon": "ability_rogue_sinistercalling",
+    "capacity": 1,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=280719/secret-technique",
+    "links": [
+      80
+    ]
+  },
+  {
+    "id": 394309,
+    "name": "Swift Death",
+    "icon": "spell_shadow_rune",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=394309/swift-death",
+    "links": [
+      87,
+      89
+    ]
+  },
+  {
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 382505,
+      "name": "The First Dance",
+      "icon": "ability_rogue_shadowdance",
+      "url": "https://www.wowhead.com/beta/spell=382505/the-first-dance"
+    },
+    "right": {
+      "id": 196976,
+      "name": "Master of Shadows",
+      "icon": "spell_shadow_charm",
+      "url": "https://www.wowhead.com/beta/spell=196976/master-of-shadows"
+    },
+    "links": [
+      89,
+      93
+    ]
+  },
+  {
+    "id": 185314,
+    "name": "Deepening Shadows",
+    "icon": "spell_shadow_twilight",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=185314/deepening-shadows",
+    "links": [
+      93,
+      97
+    ]
+  },
+  {
+    "id": 382506,
+    "name": "Replicating Shadows",
+    "icon": "spell_deathknight_strangulate",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382506/replicating-shadows",
+    "links": [
+      97,
+      99
+    ]
+  },
+  {
+    "id": 382507,
+    "name": "Shrouded in Darkness",
+    "icon": "ability_rogue_envelopingshadows",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382507/shrouded-in-darkness"
+  },
+  {
+    "id": 382508,
+    "name": "Planned Execution",
+    "icon": "ability_creature_cursed_02",
+    "capacity": 2,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382508/planned-execution",
+    "links": [
+      106,
+      108
+    ]
+  },
+  {
+    "id": 393972,
+    "name": "Improved Shadow Dance",
+    "icon": "ability_rogue_shadowdance",
+    "capacity": 2,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393972/improved-shadow-dance",
+    "links": [
+      108,
+      112
+    ]
+  },
+  {
+    "id": 382511,
+    "name": "Shadowed Finishers",
+    "icon": "ability_rogue_eviscerate",
+    "capacity": 2,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382511/shadowed-finishers",
+    "links": [
+      112,
+      114
+    ]
+  },
+  {
+    "id": 277925,
+    "name": "Shuriken Tornado",
+    "icon": "ability_rogue_throwingspecialization",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=277925/shuriken-tornado"
+  },
+  {
+    "id": 382512,
+    "name": "Inevitability",
+    "icon": "spell_shadow_rune",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382512/inevitability",
+    "links": [
+      123,
+      125
+    ]
+  },
+  {
+    "id": 382513,
+    "name": "Without a Trace",
+    "icon": "ability_vanish",
+    "capacity": 1,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382513/without-a-trace",
+    "links": [
+      127
+    ]
+  },
+  {
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 382515,
+      "name": "Cloaked in Shadows",
+      "icon": "inv_helm_cloth_shadowmoonclan_b_01",
+      "url": "https://www.wowhead.com/beta/spell=382515/cloaked-in-shadows"
+    },
+    "right": {
+      "id": 382514,
+      "name": "Fade to Nothing",
+      "icon": "ability_warlock_everlastingaffliction",
+      "url": "https://www.wowhead.com/beta/spell=382514/fade-to-nothing"
+    },
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 394320,
+    "name": "Secret Stratagem",
+    "icon": "archaeology_5_0_changkiboard",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=394320/secret-stratagem",
+    "links": [
+      129,
+      131
+    ]
+  },
+  {
+    "id": 385408,
+    "name": "Sepsis",
+    "icon": "ability_ardenweald_rogue",
+    "capacity": 1,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=385408/sepsis"
+  },
+  {
+    "id": 382518,
+    "name": "Perforated Veins",
+    "icon": "ability_warrior_bloodfrenzy",
+    "capacity": 2,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382518/perforated-veins",
+    "links": [
+      142
+    ]
+  },
+  {
+    "id": 245687,
+    "name": "Dark Shadow",
+    "icon": "spell_warlock_demonsoul",
+    "capacity": 2,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=245687/dark-shadow",
+    "links": [
+      144
+    ]
+  },
+  {
+    "id": 382517,
+    "name": "Deeper Daggers",
+    "icon": "inv_weapon_shortblade_15",
+    "capacity": 2,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382517/deeper-daggers",
+    "links": [
+      146
+    ]
+  },
+  {
+    "id": 384631,
+    "name": "Flagellation",
+    "icon": "ability_revendreth_rogue",
+    "capacity": 1,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=384631/flagellation"
+  },
+  {
+    "id": 382523,
+    "name": "Invigorating Shadowdust",
+    "icon": "ability_vanish",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382523/invigorating-shadowdust",
+    "links": [
+      159
+    ]
+  },
+  {
+    "id": 382524,
+    "name": "Lingering Shadow",
+    "icon": "spell_fire_twilightnova",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382524/lingering-shadow",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 382525,
+    "name": "Finality",
+    "icon": "ability_rogue_eviscerate",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382525/finality",
+    "links": [
+      163
+    ]
+  },
+  {
+    "id": 382015,
+    "name": "The Rotten",
+    "icon": "spell_shadow_nightofthedead",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382015/the-rotten"
+  },
+  {
+    "id": 382528,
+    "name": "Danse Macabre",
+    "icon": "ability_deathwing_bloodcorruption_death",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382528/danse-macabre"
+  },
+  {
+    "id": 382504,
+    "name": "Dark Brew",
+    "icon": "spell_nature_slowpoison",
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382504/dark-brew"
+  }
+]

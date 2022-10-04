@@ -1,0 +1,632 @@
+[
+  {
+    "id": 115175,
+    "name": "Soothing Mist",
+    "icon": "ability_monk_soothingmists",
+    "capacity": 0,
+    "cell": 4,
+    "row": 1,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=115175/soothing-mist",
+    "links": [
+      19,
+      25,
+      38,
+      40
+    ]
+  },
+  {
+    "id": 107428,
+    "name": "Rising Sun Kick",
+    "icon": "ability_monk_risingsunkick",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=107428/rising-sun-kick",
+    "links": [
+      25
+    ]
+  },
+  {
+    "id": 116841,
+    "name": "Tiger's Lust",
+    "icon": "ability_monk_tigerslust",
+    "capacity": 1,
+    "cell": 12,
+    "row": 1,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=116841/tigers-lust",
+    "links": [
+      25,
+      31,
+      44,
+      46
+    ]
+  },
+  {
+    "id": 328669,
+    "name": "Improved Roll",
+    "icon": "ability_monk_roll",
+    "capacity": 1,
+    "cell": 19,
+    "row": 2,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=328669/improved-roll",
+    "links": [
+      36,
+      38
+    ]
+  },
+  {
+    "id": 388664,
+    "name": "Calming Presence",
+    "icon": "inv_misc_orb_01",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388664/calming-presence",
+    "links": [
+      40,
+      44,
+      76
+    ]
+  },
+  {
+    "id": 116095,
+    "name": "Disable",
+    "icon": "ability_shockwave",
+    "capacity": 1,
+    "cell": 31,
+    "row": 2,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=116095/disable",
+    "links": [
+      46,
+      82
+    ]
+  },
+  {
+    "id": 264348,
+    "name": "Tiger Tail Sweep",
+    "icon": "ability_monk_legsweep",
+    "capacity": 2,
+    "cell": 36,
+    "row": 3,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=264348/tiger-tail-sweep",
+    "links": [
+      70
+    ]
+  },
+  {
+    "id": 392900,
+    "name": "Vigorous Expulsion",
+    "icon": "ability_monk_expelharm",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392900/vigorous-expulsion",
+    "links": [
+      55,
+      57
+    ]
+  },
+  {
+    "id": 231602,
+    "name": "Improved Vivify",
+    "icon": "ability_monk_vivify",
+    "capacity": 2,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=231602/improved-vivify",
+    "links": [
+      57
+    ]
+  },
+  {
+    "id": 388874,
+    "name": "Improved Detox",
+    "icon": "ability_rogue_imrovedrecuperate",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388874/improved-detox",
+    "links": [
+      61
+    ]
+  },
+  {
+    "id": 115078,
+    "name": "Paralysis",
+    "icon": "ability_monk_paralysis",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=115078/paralysis",
+    "links": [
+      61,
+      63
+    ]
+  },
+  {
+    "id": 388811,
+    "name": "Grace of the Crane",
+    "icon": "monk_ability_cherrymanatea",
+    "capacity": 2,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388811/grace-of-the-crane",
+    "links": [
+      89
+    ]
+  },
+  {
+    "id": 388812,
+    "name": "Vivacious Vivification",
+    "icon": "ability_monk_vivify",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388812/vivacious-vivification",
+    "links": [
+      76,
+      89,
+      91
+    ]
+  },
+  {
+    "id": 388674,
+    "name": "Ferocity of Xuen",
+    "icon": "ability_mount_pinktiger",
+    "capacity": 2,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388674/ferocity-of-xuen",
+    "links": [
+      76,
+      80,
+      95
+    ]
+  },
+  {
+    "id": 344359,
+    "name": "Paralysis",
+    "icon": "ability_monk_paralysis",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=344359/paralysis",
+    "links": [
+      80,
+      82
+    ]
+  },
+  {
+    "id": 388681,
+    "name": "Elusive Mists",
+    "icon": "ability_monk_soothingmists",
+    "capacity": 2,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388681/elusive-mists",
+    "links": [
+      89,
+      104
+    ]
+  },
+  {
+    "id": 101643,
+    "name": "Transcendence",
+    "icon": "monk_ability_transcendence",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=101643/transcendence",
+    "links": [
+      91,
+      93,
+      95
+    ]
+  },
+  {
+    "id": 116705,
+    "name": "Spear Hand Strike",
+    "icon": "ability_monk_spearhand",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=116705/spear-hand-strike",
+    "links": [
+      95,
+      97
+    ]
+  },
+  {
+    "id": 388917,
+    "name": "Fortifying Brew",
+    "icon": "ability_monk_fortifyingale_new",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=388917/fortifying-brew",
+    "links": [
+      97,
+      99
+    ]
+  },
+  {
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 115098,
+      "name": "Chi Wave",
+      "icon": "ability_monk_chiwave",
+      "url": "https://www.wowhead.com/beta/spell=115098/chi-wave"
+    },
+    "right": {
+      "id": 123986,
+      "name": "Chi Burst",
+      "icon": "spell_arcane_arcanetorrent",
+      "url": "https://www.wowhead.com/beta/spell=123986/chi-burst"
+    },
+    "links": [
+      104,
+      108
+    ]
+  },
+  {
+    "id": 328670,
+    "name": "Hasty Provocation",
+    "icon": "ability_monk_provoke",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=328670/hasty-provocation",
+    "links": [
+      108
+    ]
+  },
+  {
+    "id": 116844,
+    "name": "Ring of Peace",
+    "icon": "spell_monk_ringofpeace",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=116844/ring-of-peace",
+    "links": [
+      108,
+      110,
+      112
+    ]
+  },
+  {
+    "id": 388809,
+    "name": "Fast Feet",
+    "icon": "ability_monk_risingsunkick",
+    "capacity": 2,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388809/fast-feet",
+    "links": [
+      112,
+      114
+    ]
+  },
+  {
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 115173,
+      "name": "Celerity",
+      "icon": "ability_monk_quipunch",
+      "url": "https://www.wowhead.com/beta/spell=115173/celerity"
+    },
+    "right": {
+      "id": 115008,
+      "name": "Chi Torpedo",
+      "icon": "ability_monk_quitornado",
+      "url": "https://www.wowhead.com/beta/spell=115008/chi-torpedo"
+    },
+    "links": [
+      114
+    ]
+  },
+  {
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 388814,
+      "name": "Ironshell Brew",
+      "icon": "ability_monk_fortifyingale_new",
+      "url": "https://www.wowhead.com/beta/spell=388814/ironshell-brew"
+    },
+    "right": {
+      "id": 388813,
+      "name": "Expeditious Fortification",
+      "icon": "ability_monk_fortifyingale_new",
+      "url": "https://www.wowhead.com/beta/spell=388813/expeditious-fortification"
+    },
+    "links": [
+      114,
+      116
+    ]
+  },
+  {
+    "id": 392910,
+    "name": "Profound Rebuttal",
+    "icon": "ability_monk_expelharm",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392910/profound-rebuttal",
+    "links": [
+      121
+    ]
+  },
+  {
+    "id": 122783,
+    "name": "Diffuse Magic",
+    "icon": "spell_monk_diffusemagic",
+    "capacity": 1,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=122783/diffuse-magic",
+    "links": [
+      125
+    ]
+  },
+  {
+    "id": 196607,
+    "name": "Eye of the Tiger",
+    "icon": "ability_druid_primalprecision",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196607/eye-of-the-tiger",
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 122278,
+    "name": "Dampen Harm",
+    "icon": "ability_monk_dampenharm",
+    "capacity": 1,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=122278/dampen-harm",
+    "links": [
+      129
+    ]
+  },
+  {
+    "id": 322113,
+    "name": "Improved Touch of Death",
+    "icon": "ability_monk_touchofdeath",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=322113/improved-touch-of-death",
+    "links": [
+      129,
+      133
+    ]
+  },
+  {
+    "id": 387276,
+    "name": "Strength of Spirit",
+    "icon": "ability_monk_healthsphere",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387276/strength-of-spirit",
+    "links": [
+      133
+    ]
+  },
+  {
+    "id": 389574,
+    "name": "Close to Heart",
+    "icon": "inv_offhand_1h_pvppandarias2_c_01",
+    "capacity": 2,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389574/close-to-heart",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 394110,
+    "name": "Escape from Reality",
+    "icon": "monk_ability_transcendence",
+    "capacity": 2,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=394110/escape-from-reality",
+    "links": [
+      140,
+      144
+    ]
+  },
+  {
+    "id": 157411,
+    "name": "Windwalking",
+    "icon": "monk_stance_whitetiger",
+    "capacity": 2,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=157411/windwalking"
+  },
+  {
+    "id": 394123,
+    "name": "Fatal Touch",
+    "icon": "ability_monk_touchofdeath",
+    "capacity": 2,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=394123/fatal-touch",
+    "links": [
+      144,
+      148
+    ]
+  },
+  {
+    "id": 389575,
+    "name": "Generous Pour",
+    "icon": "inv_misc_food_legion_goocaramel_bottle",
+    "capacity": 2,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389575/generous-pour",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 389579,
+    "name": "Save Them All",
+    "icon": "inv_weapon_hand_22",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389579/save-them-all",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 389578,
+    "name": "Resonant Fists",
+    "icon": "inv_weapon_hand_16",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389578/resonant-fists",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 389577,
+    "name": "Bounce Back",
+    "icon": "ability_butcher_heavyhanded",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389577/bounce-back",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 115313,
+    "name": "Summon Jade Serpent Statue",
+    "icon": "ability_monk_summonserpentstatue",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=115313/summon-jade-serpent-statue"
+  },
+  {
+    "id": 388686,
+    "name": "Summon White Tiger Statue",
+    "icon": "ability_monk_summonwhitetigerstatue",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=388686/summon-white-tiger-statue"
+  },
+  {
+    "id": 115315,
+    "name": "Summon Black Ox Statue",
+    "icon": "monk_ability_summonoxstatue",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=115315/summon-black-ox-statue"
+  }
+]

@@ -1,0 +1,531 @@
+[
+  {
+    "id": 193455,
+    "name": "Cobra Shot",
+    "icon": "ability_hunter_cobrashot",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=193455/cobra-shot",
+    "links": [
+      23,
+      25,
+      27
+    ]
+  },
+  {
+    "id": 321014,
+    "name": "Pack Tactics",
+    "icon": "ability_hunter_invigeration",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321014/pack-tactics",
+    "links": [
+      40
+    ]
+  },
+  {
+    "id": 2643,
+    "name": "Multi-Shot",
+    "icon": "ability_upgrademoonglaive",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=2643/multi-shot",
+    "links": [
+      59
+    ]
+  },
+  {
+    "id": 217200,
+    "name": "Barbed Shot",
+    "icon": "ability_hunter_barbedshot",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=217200/barbed-shot",
+    "links": [
+      44,
+      46
+    ]
+  },
+  {
+    "id": 191384,
+    "name": "Aspect of the Beast",
+    "icon": "ability_deathwing_assualtaspects",
+    "capacity": 1,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=191384/aspect-of-the-beast",
+    "links": [
+      55,
+      74
+    ]
+  },
+  {
+    "id": 56315,
+    "name": "Kindred Spirits",
+    "icon": "ability_hunter_separationanxiety",
+    "capacity": 2,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=56315/kindred-spirits",
+    "links": [
+      61
+    ]
+  },
+  {
+    "id": 378209,
+    "name": "Training Expert",
+    "icon": "spell_hunter_adaptation",
+    "capacity": 2,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378209/training-expert",
+    "links": [
+      61,
+      65
+    ]
+  },
+  {
+    "id": 267116,
+    "name": "Animal Companion",
+    "icon": "ability_hunter_bestialdiscipline",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=267116/animal-companion",
+    "links": [
+      70,
+      74
+    ]
+  },
+  {
+    "id": 115939,
+    "name": "Beast Cleave",
+    "icon": "ability_hunter_sickem",
+    "capacity": 2,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=115939/beast-cleave",
+    "links": [
+      74,
+      78,
+      93
+    ]
+  },
+  {
+    "id": 378740,
+    "name": "Killer Command",
+    "icon": "ability_physical_taunt",
+    "capacity": 2,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378740/killer-command",
+    "links": [
+      80
+    ]
+  },
+  {
+    "id": 378205,
+    "name": "Sharp Barbs",
+    "icon": "ability_hunter_laceration",
+    "capacity": 2,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378205/sharp-barbs",
+    "links": [
+      80,
+      82
+    ]
+  },
+  {
+    "id": 378750,
+    "name": "Cobra Sting",
+    "icon": "ability_hunter_cobrashot",
+    "capacity": 2,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378750/cobra-sting",
+    "links": [
+      89,
+      104
+    ]
+  },
+  {
+    "id": 257944,
+    "name": "Thrill of the Hunt",
+    "icon": "ability_hunter_thrillofthehunt",
+    "capacity": 3,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=257944/thrill-of-the-hunt",
+    "links": [
+      89,
+      93,
+      108
+    ]
+  },
+  {
+    "id": 378207,
+    "name": "Kill Cleave",
+    "icon": "spell_druid_bloodythrash",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378207/kill-cleave",
+    "links": [
+      93,
+      97
+    ]
+  },
+  {
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 131894,
+      "name": "A Murder of Crows",
+      "icon": "ability_hunter_murderofcrows",
+      "url": "https://www.wowhead.com/beta/spell=131894/a-murder-of-crows"
+    },
+    "right": {
+      "id": 321530,
+      "name": "Bloodshed",
+      "icon": "ability_druid_primaltenacity",
+      "url": "https://www.wowhead.com/beta/spell=321530/bloodshed"
+    },
+    "links": [
+      97
+    ]
+  },
+  {
+    "id": 378244,
+    "name": "Cobra Senses",
+    "icon": "ability_hunter_cobrastrikes",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378244/cobra-senses",
+    "links": [
+      97
+    ]
+  },
+  {
+    "id": 120679,
+    "name": "Dire Beast",
+    "icon": "ability_hunter_longevity",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=120679/dire-beast",
+    "links": [
+      104,
+      108
+    ]
+  },
+  {
+    "id": 19574,
+    "name": "Bestial Wrath",
+    "icon": "ability_druid_ferociousbite",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=19574/bestial-wrath",
+    "links": [
+      108,
+      110,
+      112
+    ]
+  },
+  {
+    "id": 393933,
+    "name": "War Orders",
+    "icon": "ability_hunter_barbedshot",
+    "capacity": 2,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393933/war-orders",
+    "links": [
+      112,
+      116
+    ]
+  },
+  {
+    "id": 378210,
+    "name": "Hunter's Prey",
+    "icon": "ability_hunter_assassinate",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378210/hunters-prey",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 199530,
+    "name": "Stomp",
+    "icon": "warrior_talent_icon_thunderstruck",
+    "capacity": 2,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=199530/stomp",
+    "links": [
+      123,
+      142
+    ]
+  },
+  {
+    "id": 231548,
+    "name": "Barbed Wrath",
+    "icon": "ability_druid_ferociousbite",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=231548/barbed-wrath",
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 185789,
+    "name": "Wild Call",
+    "icon": "ability_hunter_masterscall",
+    "capacity": 1,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=185789/wild-call",
+    "links": [
+      129
+    ]
+  },
+  {
+    "id": 193530,
+    "name": "Aspect of the Wild",
+    "icon": "spell_nature_protectionformnature",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=193530/aspect-of-the-wild",
+    "links": [
+      133
+    ]
+  },
+  {
+    "id": 378743,
+    "name": "Dire Command",
+    "icon": "ability_hunter_ferociousinspiration",
+    "capacity": 3,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378743/dire-command",
+    "links": [
+      140,
+      142
+    ]
+  },
+  {
+    "id": 193532,
+    "name": "Scent of Blood",
+    "icon": "spell_shadow_lifedrain",
+    "capacity": 2,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=193532/scent-of-blood",
+    "links": [
+      142,
+      146,
+      161
+    ]
+  },
+  {
+    "id": 199528,
+    "name": "One with the Pack",
+    "icon": "icon_upgradestone_beast_uncommon",
+    "capacity": 2,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=199528/one-with-the-pack",
+    "links": [
+      146,
+      148
+    ]
+  },
+  {
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 389654,
+      "name": "Master Handler",
+      "icon": "ability_hunter_beastwithin",
+      "url": "https://www.wowhead.com/beta/spell=389654/master-handler"
+    },
+    "right": {
+      "id": 389660,
+      "name": "Snake Bite",
+      "icon": "inv_waepon_bow_zulgrub_d_01",
+      "url": "https://www.wowhead.com/beta/spell=389660/snake-bite"
+    },
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 385810,
+    "name": "Dire Frenzy",
+    "icon": "ability_hunter_huntervswild",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385810/dire-frenzy",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 392060,
+    "name": "Wailing Arrow",
+    "icon": "ability_theblackarrow",
+    "capacity": 1,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=392060/wailing-arrow"
+  },
+  {
+    "id": 386870,
+    "name": "Brutal Companion",
+    "icon": "ability_druid_rake",
+    "capacity": 1,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386870/brutal-companion"
+  },
+  {
+    "id": 359844,
+    "name": "Call of the Wild",
+    "icon": "ability_hunter_callofthewild",
+    "capacity": 1,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=359844/call-of-the-wild",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 378745,
+    "name": "Dire Pack",
+    "icon": "ability_hunter_sickem",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378745/dire-pack"
+  },
+  {
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 199532,
+      "name": "Killer Cobra",
+      "icon": "ability_hunter_snaketrap",
+      "url": "https://www.wowhead.com/beta/spell=199532/killer-cobra"
+    },
+    "right": {
+      "id": 392053,
+      "name": "Piercing Fangs",
+      "icon": "inv_misc_monsterfang_02",
+      "url": "https://www.wowhead.com/beta/spell=392053/piercing-fangs"
+    }
+  },
+  {
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 378442,
+      "name": "Wild Instincts",
+      "icon": "ability_hunter_beastwithin",
+      "url": "https://www.wowhead.com/beta/spell=378442/wild-instincts"
+    },
+    "right": {
+      "id": 378739,
+      "name": "Bloody Frenzy",
+      "icon": "ability_racial_cannibalize",
+      "url": "https://www.wowhead.com/beta/spell=378739/bloody-frenzy"
+    }
+  }
+]

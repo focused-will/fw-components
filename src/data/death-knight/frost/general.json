@@ -1,0 +1,656 @@
+[
+  {
+    "id": 45524,
+    "name": "Chains of Ice",
+    "icon": "spell_frost_chainsofice",
+    "capacity": 0,
+    "cell": 2,
+    "row": 1,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=45524/chains-of-ice",
+    "links": [
+      19
+    ]
+  },
+  {
+    "id": 49998,
+    "name": "Death Strike",
+    "icon": "spell_deathknight_butcher2",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=49998/death-strike",
+    "links": [
+      25
+    ]
+  },
+  {
+    "id": 46585,
+    "name": "Raise Dead",
+    "icon": "inv_pet_ghoul",
+    "capacity": 1,
+    "cell": 14,
+    "row": 1,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=46585/raise-dead",
+    "links": [
+      31
+    ]
+  },
+  {
+    "id": 47528,
+    "name": "Mind Freeze",
+    "icon": "spell_deathknight_mindfreeze",
+    "capacity": 1,
+    "cell": 19,
+    "row": 2,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=47528/mind-freeze",
+    "links": [
+      34,
+      36,
+      38
+    ]
+  },
+  {
+    "id": 48707,
+    "name": "Anti-Magic Shell",
+    "icon": "spell_shadow_antimagicshell",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=48707/anti-magic-shell",
+    "links": [
+      40,
+      42,
+      44
+    ]
+  },
+  {
+    "id": 316916,
+    "name": "Cleaving Strikes",
+    "icon": "spell_shadow_deathanddecay",
+    "capacity": 1,
+    "cell": 31,
+    "row": 2,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=316916/cleaving-strikes",
+    "links": [
+      46,
+      48,
+      50
+    ]
+  },
+  {
+    "id": 207167,
+    "name": "Blinding Sleet",
+    "icon": "spell_frost_chillingblast",
+    "capacity": 1,
+    "cell": 34,
+    "row": 3,
+    "column": 1,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=207167/blinding-sleet",
+    "links": [
+      53
+    ]
+  },
+  {
+    "id": 378848,
+    "name": "Coldthirst",
+    "icon": "spell_deathknight_mindfreeze",
+    "capacity": 1,
+    "cell": 36,
+    "row": 3,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378848/coldthirst",
+    "links": [
+      53
+    ]
+  },
+  {
+    "id": 207200,
+    "name": "Permafrost",
+    "icon": "achievement_zone_frostfire",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=207200/permafrost",
+    "links": [
+      53,
+      57
+    ]
+  },
+  {
+    "id": 374277,
+    "name": "Improved Death Strike",
+    "icon": "spell_deathknight_butcher2",
+    "capacity": 1,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374277/improved-death-strike",
+    "links": [
+      57,
+      59
+    ]
+  },
+  {
+    "id": 205727,
+    "name": "Anti-Magic Barrier",
+    "icon": "spell_shadow_antimagicshell",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=205727/anti-magic-barrier",
+    "links": [
+      59
+    ]
+  },
+  {
+    "id": 391546,
+    "name": "March of Darkness",
+    "icon": "ability_argus_deathfog",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391546/march-of-darkness",
+    "links": [
+      59,
+      61
+    ]
+  },
+  {
+    "id": 327574,
+    "name": "Sacrificial Pact",
+    "icon": "spell_shadow_corpseexplode",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=327574/sacrificial-pact",
+    "links": [
+      61,
+      65
+    ]
+  },
+  {
+    "id": 111673,
+    "name": "Control Undead",
+    "icon": "inv_misc_bone_skull_01",
+    "capacity": 1,
+    "cell": 48,
+    "row": 3,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=111673/control-undead",
+    "links": [
+      65
+    ]
+  },
+  {
+    "id": 392566,
+    "name": "Enfeeble",
+    "icon": "ability_creature_poison_01",
+    "capacity": 1,
+    "cell": 50,
+    "row": 3,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392566/enfeeble",
+    "links": [
+      65
+    ]
+  },
+  {
+    "id": 48792,
+    "name": "Icebound Fortitude",
+    "icon": "spell_deathknight_iceboundfortitude",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=48792/icebound-fortitude",
+    "links": [
+      70,
+      72
+    ]
+  },
+  {
+    "id": 374030,
+    "name": "Blood Scent",
+    "icon": "spell_chargepositive",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374030/blood-scent",
+    "links": [
+      72,
+      76
+    ]
+  },
+  {
+    "id": 48263,
+    "name": "Veteran of the Third War",
+    "icon": "spell_misc_warsongfocus",
+    "capacity": 2,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=48263/veteran-of-the-third-war",
+    "links": [
+      76
+    ]
+  },
+  {
+    "id": 374049,
+    "name": "Suppression",
+    "icon": "spell_chargepositive",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374049/suppression",
+    "links": [
+      76,
+      80
+    ]
+  },
+  {
+    "id": 374504,
+    "name": "Brittle",
+    "icon": "ability_bosskilrogg_deaththroes",
+    "capacity": 1,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374504/brittle",
+    "links": [
+      80,
+      82
+    ]
+  },
+  {
+    "id": 373926,
+    "name": "Acclimation",
+    "icon": "spell_deathknight_iceboundfortitude",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=373926/acclimation",
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 373923,
+    "name": "Merciless Strikes",
+    "icon": "spell_chargepositive",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=373923/merciless-strikes",
+    "links": [
+      87,
+      89,
+      91
+    ]
+  },
+  {
+    "id": 51052,
+    "name": "Anti-Magic Zone",
+    "icon": "spell_deathknight_antimagiczone",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=51052/anti-magic-zone",
+    "links": [
+      91,
+      93,
+      95
+    ]
+  },
+  {
+    "id": 374111,
+    "name": "Might of Thassarian",
+    "icon": "spell_chargepositive",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374111/might-of-thassarian",
+    "links": [
+      95,
+      97,
+      99
+    ]
+  },
+  {
+    "id": 389679,
+    "name": "Clenching Grasp",
+    "icon": "ability_deathknight_icygrip",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389679/clenching-grasp",
+    "links": [
+      99
+    ]
+  },
+  {
+    "id": 373930,
+    "name": "Proliferating Chill",
+    "icon": "spell_frost_chainsofice",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=373930/proliferating-chill",
+    "links": [
+      106
+    ]
+  },
+  {
+    "id": 391571,
+    "name": "Gloom Ward",
+    "icon": "ability_rogue_envelopingshadows",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391571/gloom-ward",
+    "links": [
+      106
+    ]
+  },
+  {
+    "id": 221562,
+    "name": "Asphyxiate",
+    "icon": "ability_deathknight_asphixiate",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=221562/asphyxiate",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 374383,
+    "name": "Assimilation",
+    "icon": "spell_deathknight_antimagiczone",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374383/assimilation",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 48743,
+    "name": "Death Pact",
+    "icon": "spell_shadow_deathpact",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=48743/death-pact",
+    "links": [
+      110
+    ]
+  },
+  {
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 276079,
+      "name": "Death's Reach",
+      "icon": "spell_deathknight_strangulate",
+      "url": "https://www.wowhead.com/beta/spell=276079/deaths-reach"
+    },
+    "right": {
+      "id": 273952,
+      "name": "Grip of the Dead",
+      "icon": "ability_creature_disease_05",
+      "url": "https://www.wowhead.com/beta/spell=273952/grip-of-the-dead"
+    },
+    "links": [
+      114
+    ]
+  },
+  {
+    "id": 389682,
+    "name": "Unholy Endurance",
+    "icon": "spell_deathknight_subversion",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389682/unholy-endurance",
+    "links": [
+      114
+    ]
+  },
+  {
+    "id": 207104,
+    "name": "Runic Attenuation",
+    "icon": "boss_odunrunes_blue",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=207104/runic-attenuation",
+    "links": [
+      121,
+      125
+    ]
+  },
+  {
+    "id": 212552,
+    "name": "Wraith Walk",
+    "icon": "inv_helm_plate_raiddeathknight_p_01",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=212552/wraith-walk",
+    "links": [
+      125,
+      129
+    ]
+  },
+  {
+    "id": 374265,
+    "name": "Unholy Ground",
+    "icon": "ability_deathknight_desecratedground",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374265/unholy-ground",
+    "links": [
+      129,
+      133
+    ]
+  },
+  {
+    "id": 391566,
+    "name": "Insidious Chill",
+    "icon": "ability_racial_wardoftheloafrost",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391566/insidious-chill",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 374598,
+    "name": "Blood Draw",
+    "icon": "inv_artifact_bloodoftheassassinated",
+    "capacity": 2,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374598/blood-draw",
+    "links": [
+      140,
+      144
+    ]
+  },
+  {
+    "id": 206967,
+    "name": "Will of the Necropolis",
+    "icon": "achievement_boss_kelthuzad_01",
+    "capacity": 2,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=206967/will-of-the-necropolis",
+    "links": [
+      144,
+      148
+    ]
+  },
+  {
+    "id": 356367,
+    "name": "Death's Echo",
+    "icon": "inv_fabric_ebonweave",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=356367/deaths-echo",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 194878,
+    "name": "Icy Talons",
+    "icon": "spell_deathknight_icytalons",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=194878/icy-talons",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 374574,
+    "name": "Rune Mastery",
+    "icon": "ability_deathknight_hungeringruneblade",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374574/rune-mastery",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 374261,
+    "name": "Unholy Bond",
+    "icon": "inv_sword_1h_felfireraid_d_01",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=374261/unholy-bond",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 392962,
+    "name": "Empower Rune Weapon",
+    "icon": "inv_sword_62",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=392962/empower-rune-weapon"
+  },
+  {
+    "id": 383269,
+    "name": "Abomination Limb",
+    "icon": "ability_maldraxxus_deathknight",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=383269/abomination-limb"
+  },
+  {
+    "id": 343294,
+    "name": "Soul Reaper",
+    "icon": "ability_deathknight_soulreaper",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=343294/soul-reaper"
+  }
+]

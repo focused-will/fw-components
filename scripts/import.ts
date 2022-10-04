@@ -4,6 +4,22 @@ import { hideBin } from "yargs/helpers";
 import puppeteer from "puppeteer";
 import fs from "fs/promises";
 
+const TREES = {
+  "death-knight": ["blood", "frost", "unholy"],
+  "demon-hunter": ["havoc", "vengeance"],
+  druid: ["balance", "feral", "guardian", "restoration"],
+  evoker: ["devastation", "preservation"],
+  hunter: ["beast-mastery", "marksmanship", "survival"],
+  mage: ["arcane", "fire", "frost"],
+  monk: ["brewmaster", "mistweaver", "windwalker"],
+  paladin: ["holy", "protection", "retribution"],
+  priest: ["discipline", "holy", "shadow"],
+  rogue: ["assassination", "outlaw", "subtlety"],
+  shaman: ["elemental", "enhancement", "restoration"],
+  warlock: ["affliction", "demonology", "destruction"],
+  warrior: ["arms", "fury", "protection"],
+};
+
 function writePrettyJsonFile(path: string, object: object) {
   const output = JSON.stringify(object, null, 2);
 
@@ -28,7 +44,7 @@ function importTreeSpells(type = "class") {
     const from = connectionEl.dataset.fromCell;
     const to = connectionEl.dataset.toCell;
 
-    if (!from || !to) {
+    if (from === undefined || to === undefined) {
       throw new Error("Could not find from or to");
     }
 
@@ -46,7 +62,9 @@ function importTreeSpells(type = "class") {
     const url = spellEl.getAttribute("href");
     const name = spellEl.querySelector(".dragonflight-talent-tree-talent-name")?.textContent;
 
-    const iconContainer = spellEl.querySelector(".dragonflight-talent-tree-talent-inner-background") as HTMLElement;
+    const iconContainer = spellEl.querySelector(
+      ".dragonflight-talent-tree-talent-inner-background"
+    ) as HTMLElement;
     const backgroundImageStyle = iconContainer.style.backgroundImage;
 
     const icon = backgroundImageStyle.match(ICON_REGEX)?.[2];
@@ -110,7 +128,7 @@ function importTreeSpells(type = "class") {
   });
 
   const spellMap = spells.reduce<Record<string, any>>((acc, spell) => {
-    if (!spell.cell) return acc;
+    if (spell.cell === undefined) return acc;
     acc[spell.cell] = spell;
     return acc;
   }, {});
@@ -137,7 +155,7 @@ function importTreeSpells(type = "class") {
 /**
  * Scrapes the class and talent tree at the requested page
  */
-async function importTree(url: string) {
+export async function importTree(url: string) {
   const browser = await puppeteer.launch();
   console.log("Launched browser 🚀");
 
@@ -158,7 +176,16 @@ async function importTree(url: string) {
     throw new Error("Could not find class and spec");
   }
 
-  const [targetClass, spec] = classSpec.split("-");
+  let targetClass, spec;
+  const classData = classSpec.split("-");
+
+  if (classData.length === 2) {
+    targetClass = classData[0];
+    spec = classData[1];
+  } else {
+    targetClass = `${classData[0]}-${classData[1]}`;
+    spec = classData[2];
+  }
 
   console.log(`Got class of ${targetClass} and specialization of ${spec} 🤓`);
 
@@ -184,6 +211,21 @@ async function importTree(url: string) {
 }
 
 yargs(hideBin(process.argv))
+  .command("bulk", "Bulk import all class and spec trees", async () => {
+    const treeKeys = Object.keys(TREES);
+    const treeValues = Object.values(TREES);
+
+    let classIdx = 0;
+    for (const tree of treeValues) {
+      const classKey = treeKeys[classIdx];
+      for (const spec of tree) {
+        const url = `https://www.wowhead.com/beta/talent-calc/${classKey}/${spec}`;
+        console.log(url);
+        await importTree(url);
+      }
+      classIdx++;
+    }
+  })
   .command(
     "import <url>",
     "Import a tree from a URL",

@@ -1,0 +1,582 @@
+[
+  {
+    "id": 44425,
+    "name": "Arcane Barrage",
+    "icon": "ability_mage_arcanebarrage",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=44425/arcane-barrage",
+    "links": [
+      25
+    ]
+  },
+  {
+    "id": 5143,
+    "name": "Arcane Missiles",
+    "icon": "spell_nature_starfall",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=5143/arcane-missiles",
+    "links": [
+      40,
+      44
+    ]
+  },
+  {
+    "id": 153626,
+    "name": "Arcane Orb",
+    "icon": "spell_mage_arcaneorb",
+    "capacity": 1,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=153626/arcane-orb",
+    "links": [
+      55,
+      57,
+      59
+    ]
+  },
+  {
+    "id": 79684,
+    "name": "Clearcasting",
+    "icon": "spell_shadow_manaburn",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=79684/clearcasting",
+    "links": [
+      59,
+      61,
+      63
+    ]
+  },
+  {
+    "id": 383980,
+    "name": "Arcane Tempo",
+    "icon": "ability_socererking_arcaneacceleration",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383980/arcane-tempo",
+    "links": [
+      70,
+      72
+    ]
+  },
+  {
+    "id": 383661,
+    "name": "Improved Arcane Missiles",
+    "icon": "spell_nature_starfall",
+    "capacity": 2,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383661/improved-arcane-missiles",
+    "links": [
+      72,
+      74
+    ]
+  },
+  {
+    "id": 365350,
+    "name": "Arcane Surge",
+    "icon": "ability_mage_arcanesurge",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=365350/arcane-surge",
+    "links": [
+      74,
+      76,
+      78
+    ]
+  },
+  {
+    "id": 321752,
+    "name": "Crackling Energy",
+    "icon": "spell_nature_wispsplode",
+    "capacity": 2,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321752/crackling-energy",
+    "links": [
+      78,
+      80
+    ]
+  },
+  {
+    "id": 383676,
+    "name": "Impetus",
+    "icon": "spell_arcane_arcanetorrent",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383676/impetus",
+    "links": [
+      80,
+      82
+    ]
+  },
+  {
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 264354,
+      "name": "Rule of Threes",
+      "icon": "spell_arcane_starfire",
+      "url": "https://www.wowhead.com/beta/spell=264354/rule-of-threes"
+    },
+    "right": {
+      "id": 205022,
+      "name": "Arcane Familiar",
+      "icon": "ability_socererking_arcanemines",
+      "url": "https://www.wowhead.com/beta/spell=205022/arcane-familiar"
+    },
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 384651,
+    "name": "Charged Orb",
+    "icon": "spell_mage_arcaneorb",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384651/charged-orb",
+    "links": [
+      87,
+      89
+    ]
+  },
+  {
+    "id": 231564,
+    "name": "Arcing Cleave",
+    "icon": "ability_mage_arcanebarrage",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=231564/arcing-cleave",
+    "links": [
+      91,
+      93
+    ]
+  },
+  {
+    "id": 321739,
+    "name": "Arcane Power",
+    "icon": "spell_nature_lightning",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321739/arcane-power"
+  },
+  {
+    "id": 321526,
+    "name": "Mana Adept",
+    "icon": "ability_mage_arcanebarrage",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321526/mana-adept",
+    "links": [
+      93,
+      95
+    ]
+  },
+  {
+    "id": 383782,
+    "name": "Nether Precision",
+    "icon": "spell_arcane_blast_nightborne",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383782/nether-precision",
+    "links": [
+      97,
+      99
+    ]
+  },
+  {
+    "id": 236628,
+    "name": "Amplification",
+    "icon": "spell_arcane_invocation",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=236628/amplification",
+    "links": [
+      99
+    ]
+  },
+  {
+    "id": 205025,
+    "name": "Presence of Mind",
+    "icon": "spell_nature_enchantarmor",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=205025/presence-of-mind",
+    "links": [
+      121,
+      123
+    ]
+  },
+  {
+    "id": 384861,
+    "name": "Foresight",
+    "icon": "spell_mage_presenceofmind",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384861/foresight",
+    "links": [
+      108,
+      123
+    ]
+  },
+  {
+    "id": 205028,
+    "name": "Resonance",
+    "icon": "spell_arcane_arcane01",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=205028/resonance",
+    "links": [
+      108,
+      110
+    ]
+  },
+  {
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 281482,
+      "name": "Reverberate",
+      "icon": "spell_arcane_arcane04",
+      "url": "https://www.wowhead.com/beta/spell=281482/reverberate"
+    },
+    "right": {
+      "id": 114923,
+      "name": "Nether Tempest",
+      "icon": "spell_mage_nethertempest",
+      "url": "https://www.wowhead.com/beta/spell=114923/nether-tempest"
+    },
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 321745,
+    "name": "Improved Prismatic Barrier",
+    "icon": "spell_magearmor",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321745/improved-prismatic-barrier",
+    "links": [
+      110,
+      112
+    ]
+  },
+  {
+    "id": 236457,
+    "name": "Slipstream",
+    "icon": "spell_holy_mindsooth",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=236457/slipstream",
+    "links": [
+      112,
+      131
+    ]
+  },
+  {
+    "id": 321420,
+    "name": "Improved Clearcasting",
+    "icon": "spell_shadow_manaburn",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321420/improved-clearcasting",
+    "links": [
+      131,
+      133
+    ]
+  },
+  {
+    "id": 235711,
+    "name": "Chrono Shift",
+    "icon": "ability_monk_deadlyreach",
+    "capacity": 1,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=235711/chrono-shift",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 321507,
+    "name": "Touch of the Magi",
+    "icon": "spell_mage_icenova",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=321507/touch-of-the-magi",
+    "links": [
+      125,
+      129
+    ]
+  },
+  {
+    "id": 157980,
+    "name": "Supernova",
+    "icon": "spell_mage_supernova",
+    "capacity": 1,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=157980/supernova",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 12051,
+    "name": "Evocation",
+    "icon": "spell_nature_purge",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=12051/evocation",
+    "links": [
+      138
+    ]
+  },
+  {
+    "id": 321387,
+    "name": "Enlightened",
+    "icon": "ability_socererking_arcanefortification",
+    "capacity": 1,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321387/enlightened",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 342231,
+    "name": "Arcane Echo",
+    "icon": "ability_socererking_arcanewrath",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=342231/arcane-echo",
+    "links": [
+      144
+    ]
+  },
+  {
+    "id": 384581,
+    "name": "Arcane Bombardment",
+    "icon": "ability_socererking_arcanereplication",
+    "capacity": 1,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384581/arcane-bombardment",
+    "links": [
+      144
+    ]
+  },
+  {
+    "id": 384060,
+    "name": "Illuminated Thoughts",
+    "icon": "spell_arcane_focusedpower",
+    "capacity": 2,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384060/illuminated-thoughts",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 759,
+    "name": "Conjure Mana Gem",
+    "icon": "inv_misc_gem_sapphire_02",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=759/conjure-mana-gem",
+    "links": [
+      150
+    ]
+  },
+  {
+    "id": 384187,
+    "name": "Siphon Storm",
+    "icon": "ability_monk_forcesphere_arcane",
+    "capacity": 1,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384187/siphon-storm"
+  },
+  {
+    "id": 384612,
+    "name": "Prodigious Savant",
+    "icon": "ability_mage_studentofthemind",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384612/prodigious-savant",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 376103,
+    "name": "Radiant Spark",
+    "icon": "ability_bastion_mage",
+    "capacity": 1,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=376103/radiant-spark",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 384374,
+    "name": "Concentration",
+    "icon": "ability_mage_potentspirit",
+    "capacity": 1,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384374/concentration",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 384276,
+    "name": "Cascading Power",
+    "icon": "inv_misc_gem_sapphire_02",
+    "capacity": 1,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384276/cascading-power"
+  },
+  {
+    "id": 384858,
+    "name": "Orb Barrage",
+    "icon": "spell_mage_arcaneorb_nightborne",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384858/orb-barrage"
+  },
+  {
+    "id": 384683,
+    "name": "Harmonic Echo",
+    "icon": "ability_bastion_mage",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384683/harmonic-echo"
+  },
+  {
+    "id": 384452,
+    "name": "Arcane Harmony",
+    "icon": "ability_creature_cursed_04",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384452/arcane-harmony"
+  }
+]

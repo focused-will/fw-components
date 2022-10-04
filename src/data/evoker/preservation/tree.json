@@ -1,0 +1,590 @@
+[
+  {
+    "id": 364343,
+    "name": "Echo",
+    "icon": "ability_evoker_echo",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=364343/echo",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": 355936,
+    "name": "Dream Breath",
+    "icon": "ability_evoker_dreambreath",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=355936/dream-breath",
+    "links": [
+      38,
+      42
+    ]
+  },
+  {
+    "id": 366155,
+    "name": "Reversion",
+    "icon": "ability_evoker_reversion",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=366155/reversion",
+    "links": [
+      42,
+      46
+    ]
+  },
+  {
+    "id": 362874,
+    "name": "Temporal Compression",
+    "icon": "ability_evoker_rewind2",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=362874/temporal-compression",
+    "links": [
+      55
+    ]
+  },
+  {
+    "id": 369297,
+    "name": "Essence Burst",
+    "icon": "ability_evoker_essenceburst",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=369297/essence-burst",
+    "links": [
+      59
+    ]
+  },
+  {
+    "id": 363534,
+    "name": "Rewind",
+    "icon": "ability_evoker_rewind",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=363534/rewind",
+    "links": [
+      63
+    ]
+  },
+  {
+    "id": 367226,
+    "name": "Spiritbloom",
+    "icon": "ability_evoker_spiritbloom2",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=367226/spiritbloom",
+    "links": [
+      70,
+      72,
+      74
+    ]
+  },
+  {
+    "id": 375722,
+    "name": "Essence Attunement",
+    "icon": "ability_evoker_essenceburststacks",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=375722/essence-attunement",
+    "links": [
+      74,
+      76,
+      78
+    ]
+  },
+  {
+    "id": 357170,
+    "name": "Time Dilation",
+    "icon": "ability_evoker_timedilation",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=357170/time-dilation",
+    "links": [
+      78,
+      80,
+      82
+    ]
+  },
+  {
+    "id": 370960,
+    "name": "Emerald Communion",
+    "icon": "ability_evoker_green_01",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=370960/emerald-communion",
+    "links": [
+      87,
+      89
+    ]
+  },
+  {
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 376138,
+      "name": "Empath",
+      "icon": "ability_evoker_powernexus2",
+      "url": "https://www.wowhead.com/beta/spell=376138/empath"
+    },
+    "right": {
+      "id": 376150,
+      "name": "Spiritual Clarity",
+      "icon": "ability_evoker_spiritbloom",
+      "url": "https://www.wowhead.com/beta/spell=376150/spiritual-clarity"
+    }
+  },
+  {
+    "id": 359793,
+    "name": "Fluttering Seedlings",
+    "icon": "inv_herbalism_70_yserallineseed",
+    "capacity": 2,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=359793/fluttering-seedlings",
+    "links": [
+      89,
+      91
+    ]
+  },
+  {
+    "id": 371426,
+    "name": "Life-Giver's Flame",
+    "icon": "item_sparkofragnoros",
+    "capacity": 2,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=371426/life-givers-flame",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 378196,
+    "name": "Golden Hour",
+    "icon": "inv_belt_armor_waistoftime_d_01",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378196/golden-hour",
+    "links": [
+      95,
+      97
+    ]
+  },
+  {
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 376207,
+      "name": "Delay Harm",
+      "icon": "ability_racial_magicalresistance",
+      "url": "https://www.wowhead.com/beta/spell=376207/delay-harm"
+    },
+    "right": {
+      "id": 376204,
+      "name": "Just in Time",
+      "icon": "inv_offhand_1h_artifactsilverhand_d_01",
+      "url": "https://www.wowhead.com/beta/spell=376204/just-in-time"
+    }
+  },
+  {
+    "id": 373861,
+    "name": "Temporal Anomaly",
+    "icon": "ability_evoker_temporalanomaly",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=373861/temporal-anomaly",
+    "links": [
+      97,
+      99
+    ]
+  },
+  {
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 377082,
+      "name": "Dreamwalker",
+      "icon": "ability_hunter_onewithnature",
+      "url": "https://www.wowhead.com/beta/spell=377082/dreamwalker"
+    },
+    "right": {
+      "id": 377086,
+      "name": "Rush of Vitality",
+      "icon": "trade_enchanting_greatermysteriousessence",
+      "url": "https://www.wowhead.com/beta/spell=377086/rush-of-vitality"
+    },
+    "links": [
+      106
+    ]
+  },
+  {
+    "id": 377100,
+    "name": "Exhilarating Burst",
+    "icon": "ability_evoker_essenceburst3",
+    "capacity": 2,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377100/exhilarating-burst"
+  },
+  {
+    "id": 370062,
+    "name": "Field of Dreams",
+    "icon": "inv_misc_herb_chamlotus",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=370062/field-of-dreams",
+    "links": [
+      106,
+      110
+    ]
+  },
+  {
+    "id": 376179,
+    "name": "Lifeforce Mender",
+    "icon": "ability_evoker_dragonrage2",
+    "capacity": 3,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=376179/lifeforce-mender",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 372527,
+    "name": "Time Lord",
+    "icon": "ability_evoker_innatemagic4",
+    "capacity": 2,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=372527/time-lord",
+    "links": [
+      110,
+      114
+    ]
+  },
+  {
+    "id": 385696,
+    "name": "Flow State",
+    "icon": "ability_evoker_timespiral",
+    "capacity": 2,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385696/flow-state"
+  },
+  {
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 376236,
+      "name": "Resonating Sphere",
+      "icon": "ability_evoker_bronze_01",
+      "url": "https://www.wowhead.com/beta/spell=376236/resonating-sphere"
+    },
+    "right": {
+      "id": 376237,
+      "name": "Nozdormu's Teachings",
+      "icon": "inv_misc_head_dragon_bronze",
+      "url": "https://www.wowhead.com/beta/spell=376237/nozdormus-teachings"
+    },
+    "links": [
+      114
+    ]
+  },
+  {
+    "id": 373270,
+    "name": "Lifebind",
+    "icon": "ability_evoker_hoverred",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=373270/lifebind",
+    "links": [
+      121,
+      123,
+      125
+    ]
+  },
+  {
+    "id": 373834,
+    "name": "Call of Ysera",
+    "icon": "4096390",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=373834/call-of-ysera",
+    "links": [
+      125,
+      127,
+      129
+    ]
+  },
+  {
+    "id": 371270,
+    "name": "Punctuality",
+    "icon": "inv_offhand_1h_ulduarraid_d_01",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=371270/punctuality",
+    "links": [
+      129,
+      131,
+      133
+    ]
+  },
+  {
+    "id": 377099,
+    "name": "Spark of Insight",
+    "icon": "ability_evoker_essenceburst5",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377099/spark-of-insight",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 369908,
+    "name": "Power Nexus",
+    "icon": "ability_evoker_powernexus",
+    "capacity": 1,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=369908/power-nexus",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 381921,
+    "name": "Ouroboros",
+    "icon": "ability_evoker_innatemagic",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381921/ouroboros",
+    "links": [
+      140,
+      144
+    ]
+  },
+  {
+    "id": 375783,
+    "name": "Font of Magic",
+    "icon": "ability_evoker_fontofmagic",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=375783/font-of-magic",
+    "links": [
+      144
+    ]
+  },
+  {
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 376210,
+      "name": "Erasure",
+      "icon": "ability_bossmagistrix_timewarp2",
+      "url": "https://www.wowhead.com/beta/spell=376210/erasure"
+    },
+    "right": {
+      "id": 381922,
+      "name": "Temporal Artificer",
+      "icon": "ability_evoker_rewind",
+      "url": "https://www.wowhead.com/beta/spell=381922/temporal-artificer"
+    },
+    "links": [
+      144,
+      148
+    ]
+  },
+  {
+    "id": 372233,
+    "name": "Energy Loop",
+    "icon": "inv_elemental_mote_mana",
+    "capacity": 1,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=372233/energy-loop",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 368412,
+    "name": "Time of Need",
+    "icon": "ability_evoker_masterylifebinder_bronze",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=368412/time-of-need",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 371257,
+    "name": "Renewing Breath",
+    "icon": "ability_evoker_dreambreath",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=371257/renewing-breath",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 376239,
+    "name": "Grace Period",
+    "icon": "ability_evoker_reversion_green",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=376239/grace-period",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 376240,
+    "name": "Timeless Magic",
+    "icon": "inv_artifact_xp05",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=376240/timeless-magic",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 359816,
+    "name": "Dream Flight",
+    "icon": "ability_evoker_dreamflight",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=359816/dream-flight"
+  },
+  {
+    "id": 371832,
+    "name": "Cycle of Life",
+    "icon": "spell_lifegivingseed",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=371832/cycle-of-life"
+  },
+  {
+    "id": 370537,
+    "name": "Stasis",
+    "icon": "ability_evoker_stasis",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=370537/stasis"
+  }
+]

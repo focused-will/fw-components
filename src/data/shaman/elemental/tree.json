@@ -1,0 +1,660 @@
+[
+  {
+    "id": 8042,
+    "name": "Earth Shock",
+    "icon": "spell_nature_earthshock",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=8042/earth-shock",
+    "links": [
+      23,
+      25,
+      27
+    ]
+  },
+  {
+    "id": 61882,
+    "name": "Earthquake",
+    "icon": "spell_shaman_earthquake",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=61882/earthquake",
+    "links": [
+      38
+    ]
+  },
+  {
+    "id": 60188,
+    "name": "Elemental Fury",
+    "icon": "spell_fire_volcano",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=60188/elemental-fury",
+    "links": [
+      42
+    ]
+  },
+  {
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 198067,
+      "name": "Fire Elemental",
+      "icon": "spell_fire_elemental_totem",
+      "url": "https://www.wowhead.com/beta/spell=198067/fire-elemental"
+    },
+    "right": {
+      "id": 192249,
+      "name": "Storm Elemental",
+      "icon": "inv_stormelemental",
+      "url": "https://www.wowhead.com/beta/spell=192249/storm-elemental"
+    },
+    "links": [
+      46
+    ]
+  },
+  {
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 381743,
+      "name": "Tumultuous Fissures",
+      "icon": "ability_rogue_fleetfooted",
+      "url": "https://www.wowhead.com/beta/spell=381743/tumultuous-fissures"
+    },
+    "right": {
+      "id": 378776,
+      "name": "Inundate",
+      "icon": "ability_shawaterelemental_swirl",
+      "url": "https://www.wowhead.com/beta/spell=378776/inundate"
+    },
+    "links": [
+      55
+    ]
+  },
+  {
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 378193,
+      "name": "Primordial Fury",
+      "icon": "inv_10_elementalshardfoozles_primordial",
+      "url": "https://www.wowhead.com/beta/spell=378193/primordial-fury"
+    },
+    "right": {
+      "id": 382197,
+      "name": "Ancestral Wolf Affinity",
+      "icon": "spell_beastmaster_wolf",
+      "url": "https://www.wowhead.com/beta/spell=382197/ancestral-wolf-affinity"
+    },
+    "links": [
+      59
+    ]
+  },
+  {
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 378211,
+      "name": "Refreshing Waters",
+      "icon": "ability_shaman_fortifyingwaters",
+      "url": "https://www.wowhead.com/beta/spell=378211/refreshing-waters"
+    },
+    "right": {
+      "id": 381764,
+      "name": "Primordial Bond",
+      "icon": "inv_elemental_primal_earth",
+      "url": "https://www.wowhead.com/beta/spell=381764/primordial-bond"
+    },
+    "links": [
+      63
+    ]
+  },
+  {
+    "id": 378241,
+    "name": "Call of Thunder",
+    "icon": "ability_thunderking_balllightning",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378241/call-of-thunder",
+    "links": [
+      70,
+      74
+    ]
+  },
+  {
+    "id": 385923,
+    "name": "Flow of Power",
+    "icon": "spell_shaman_shockinglava",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385923/flow-of-power",
+    "links": [
+      74,
+      76,
+      78
+    ]
+  },
+  {
+    "id": 77756,
+    "name": "Lava Surge",
+    "icon": "spell_shaman_lavasurge",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=77756/lava-surge",
+    "links": [
+      78,
+      82
+    ]
+  },
+  {
+    "id": 382685,
+    "name": "Unrelenting Calamity",
+    "icon": "ability_vehicle_electrocharge",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382685/unrelenting-calamity",
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 210714,
+    "name": "Icefury",
+    "icon": "spell_frost_iceshard",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=210714/icefury",
+    "links": [
+      91
+    ]
+  },
+  {
+    "id": 381707,
+    "name": "Swelling Maelstrom",
+    "icon": "spell_shaman_maelstromweapon",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381707/swelling-maelstrom",
+    "links": [
+      95,
+      110
+    ]
+  },
+  {
+    "id": 333919,
+    "name": "Echo of the Elements",
+    "icon": "ability_shaman_echooftheelements",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=333919/echo-of-the-elements",
+    "links": [
+      95
+    ]
+  },
+  {
+    "id": 378255,
+    "name": "Call of Fire",
+    "icon": "spell_fire_ragnaros_molteninferno",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378255/call-of-fire",
+    "links": [
+      99
+    ]
+  },
+  {
+    "id": 392714,
+    "name": "Stormkeeper",
+    "icon": "ability_thunderking_lightningwhip",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=392714/stormkeeper",
+    "links": [
+      102,
+      106
+    ]
+  },
+  {
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 381776,
+      "name": "Flux Melting",
+      "icon": "spell_frostfire-orb",
+      "url": "https://www.wowhead.com/beta/spell=381776/flux-melting"
+    },
+    "right": {
+      "id": 382086,
+      "name": "Electrified Shocks",
+      "icon": "inv_offhand_1h_artifactdoomhammer_d_02",
+      "url": "https://www.wowhead.com/beta/spell=382086/electrified-shocks"
+    },
+    "links": [
+      106,
+      110
+    ]
+  },
+  {
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 273221,
+      "name": "Aftershock",
+      "icon": "spell_nature_stormreach",
+      "url": "https://www.wowhead.com/beta/spell=273221/aftershock"
+    },
+    "right": {
+      "id": 262303,
+      "name": "Surge of Power",
+      "icon": "spell_nature_shamanrage",
+      "url": "https://www.wowhead.com/beta/spell=262303/surge-of-power"
+    },
+    "links": [
+      110,
+      114
+    ]
+  },
+  {
+    "id": 378266,
+    "name": "Flames of the Cauldron",
+    "icon": "inv_misc_cauldron_fire",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378266/flames-of-the-cauldron",
+    "links": [
+      114,
+      118
+    ]
+  },
+  {
+    "id": 381936,
+    "name": "Flash of Lightning",
+    "icon": "spell_lightning_lightningbolt01",
+    "capacity": 1,
+    "cell": 102,
+    "row": 7,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381936/flash-of-lightning",
+    "links": [
+      121,
+      136
+    ]
+  },
+  {
+    "id": 381708,
+    "name": "Eye of the Storm",
+    "icon": "spell_shadow_soulleech_2",
+    "capacity": 2,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381708/eye-of-the-storm",
+    "links": [
+      121,
+      125,
+      140
+    ]
+  },
+  {
+    "id": 191861,
+    "name": "Power of the Maelstrom",
+    "icon": "spell_fire_masterofelements",
+    "capacity": 2,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=191861/power-of-the-maelstrom",
+    "links": [
+      125,
+      129,
+      144
+    ]
+  },
+  {
+    "id": 16166,
+    "name": "Master of the Elements",
+    "icon": "spell_nature_elementalabsorption",
+    "capacity": 2,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=16166/master-of-the-elements",
+    "links": [
+      129,
+      133,
+      148
+    ]
+  },
+  {
+    "id": 382027,
+    "name": "Improved Flametongue Weapon",
+    "icon": "spell_fire_flametounge",
+    "capacity": 1,
+    "cell": 118,
+    "row": 7,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382027/improved-flametongue-weapon",
+    "links": [
+      133,
+      152
+    ]
+  },
+  {
+    "id": 117014,
+    "name": "Elemental Blast",
+    "icon": "shaman_talent_elementalblast",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=117014/elemental-blast",
+    "links": [
+      136,
+      140
+    ]
+  },
+  {
+    "id": 375982,
+    "name": "Primordial Wave",
+    "icon": "ability_maldraxxus_shaman",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=375982/primordial-wave",
+    "links": [
+      140,
+      142,
+      144
+    ]
+  },
+  {
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 378270,
+      "name": "Deeply Rooted Elements",
+      "icon": "inv_misc_herb_liferoot_stem",
+      "url": "https://www.wowhead.com/beta/spell=378270/deeply-rooted-elements"
+    },
+    "right": {
+      "id": 114050,
+      "name": "Ascendance",
+      "icon": "spell_fire_elementaldevastation",
+      "url": "https://www.wowhead.com/beta/spell=114050/ascendance"
+    },
+    "links": [
+      144,
+      146,
+      148
+    ]
+  },
+  {
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 117013,
+      "name": "Primal Elementalist",
+      "icon": "shaman_talent_primalelementalist",
+      "url": "https://www.wowhead.com/beta/spell=117013/primal-elementalist"
+    },
+    "right": {
+      "id": 192222,
+      "name": "Liquid Magma Totem",
+      "icon": "spell_shaman_spewlava",
+      "url": "https://www.wowhead.com/beta/spell=192222/liquid-magma-totem"
+    },
+    "links": [
+      148,
+      152
+    ]
+  },
+  {
+    "id": 384087,
+    "name": "Echoes of Great Sundering",
+    "icon": "spell_shaman_earthquake",
+    "capacity": 2,
+    "cell": 136,
+    "row": 9,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384087/echoes-of-great-sundering",
+    "links": [
+      155
+    ]
+  },
+  {
+    "id": 378271,
+    "name": "Elemental Equilibrium",
+    "icon": "ability_shaman_ascendance",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378271/elemental-equilibrium",
+    "links": [
+      155
+    ]
+  },
+  {
+    "id": 386443,
+    "name": "Rolling Magma",
+    "icon": "ability_rhyolith_volcano",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386443/rolling-magma",
+    "links": [
+      159
+    ]
+  },
+  {
+    "id": 382032,
+    "name": "Echo Chamber",
+    "icon": "spell_nature_lightningoverload",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382032/echo-chamber",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 381785,
+    "name": "Oath of the Far Seer",
+    "icon": "spell_shaman_elementaloath",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381785/oath-of-the-far-seer",
+    "links": [
+      163
+    ]
+  },
+  {
+    "id": 381932,
+    "name": "Magma Chamber",
+    "icon": "ability_rhyolith_magmaflow_whole",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381932/magma-chamber",
+    "links": [
+      167
+    ]
+  },
+  {
+    "id": 381782,
+    "name": "Searing Flames",
+    "icon": "inv_offhand_1h_artifactdoomhammer_d_01",
+    "capacity": 2,
+    "cell": 152,
+    "row": 9,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381782/searing-flames",
+    "links": [
+      167
+    ]
+  },
+  {
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 210689,
+      "name": "Lightning Rod",
+      "icon": "inv_rod_enchantedcobalt",
+      "url": "https://www.wowhead.com/beta/spell=210689/lightning-rod"
+    },
+    "right": {
+      "id": 392763,
+      "name": "Stormkeeper",
+      "icon": "ability_thunderking_lightningwhip",
+      "url": "https://www.wowhead.com/beta/spell=392763/stormkeeper"
+    }
+  },
+  {
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 386474,
+      "name": "Heat Wave",
+      "icon": "ability_rhyolith_magmaflow_wave",
+      "url": "https://www.wowhead.com/beta/spell=386474/heat-wave"
+    },
+    "right": {
+      "id": 382042,
+      "name": "Splintered Elements",
+      "icon": "spell_nature_elementalprecision_1",
+      "url": "https://www.wowhead.com/beta/spell=382042/splintered-elements"
+    }
+  },
+  {
+    "id": 381726,
+    "name": "Mountains Will Fall",
+    "icon": "inv_elementalearth2",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381726/mountains-will-fall"
+  },
+  {
+    "id": 381787,
+    "name": "Further Beyond",
+    "icon": "spell_holy_spiritualguidence",
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381787/further-beyond"
+  },
+  {
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 378268,
+      "name": "Windspeaker's Lava Resurgence",
+      "icon": "ability_rhyolith_lavapool",
+      "url": "https://www.wowhead.com/beta/spell=378268/windspeakers-lava-resurgence"
+    },
+    "right": {
+      "id": 378310,
+      "name": "Skybreaker's Fiery Demise",
+      "icon": "spell_fire_elemental_totem",
+      "url": "https://www.wowhead.com/beta/spell=378310/skybreakers-fiery-demise"
+    }
+  }
+]

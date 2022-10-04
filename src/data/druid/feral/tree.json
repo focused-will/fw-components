@@ -1,0 +1,603 @@
+[
+  {
+    "id": 5217,
+    "name": "Tiger's Fury",
+    "icon": "ability_mount_jungletiger",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=5217/tigers-fury",
+    "links": [
+      23,
+      25,
+      27
+    ]
+  },
+  {
+    "id": 16864,
+    "name": "Omen of Clarity",
+    "icon": "spell_nature_crystalball",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=16864/omen-of-clarity",
+    "links": [
+      38,
+      42,
+      57
+    ]
+  },
+  {
+    "id": 391037,
+    "name": "Primal Claws",
+    "icon": "ability_druid_rake",
+    "capacity": 2,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391037/primal-claws"
+  },
+  {
+    "id": 285381,
+    "name": "Primal Wrath",
+    "icon": "artifactability_feraldruid_ashamanesbite",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=285381/primal-wrath",
+    "links": [
+      42,
+      46,
+      61
+    ]
+  },
+  {
+    "id": 231063,
+    "name": "Merciless Strikes",
+    "icon": "inv_misc_monsterclaw_03",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=231063/merciless-strikes",
+    "links": [
+      53,
+      57
+    ]
+  },
+  {
+    "id": 202021,
+    "name": "Predator",
+    "icon": "ability_hunter_catlikereflexes",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=202021/predator",
+    "links": [
+      57,
+      59,
+      61
+    ]
+  },
+  {
+    "id": 391700,
+    "name": "Double-Clawed Rake",
+    "icon": "ability_druid_disembowel",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391700/double-clawed-rake",
+    "links": [
+      61,
+      65
+    ]
+  },
+  {
+    "id": 391947,
+    "name": "Protective Growth",
+    "icon": "spell_nature_resistnature",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391947/protective-growth",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 202031,
+    "name": "Sabertooth",
+    "icon": "inv_misc_monsterfang_01",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=202031/sabertooth",
+    "links": [
+      72,
+      74,
+      76
+    ]
+  },
+  {
+    "id": 383352,
+    "name": "Tireless Energy",
+    "icon": "spell_chargepositive",
+    "capacity": 2,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383352/tireless-energy"
+  },
+  {
+    "id": 390772,
+    "name": "Pouncing Strikes",
+    "icon": "ability_druid_prowl",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390772/pouncing-strikes",
+    "links": [
+      76,
+      78,
+      80
+    ]
+  },
+  {
+    "id": 155580,
+    "name": "Lunar Inspiration",
+    "icon": "spell_druid_lunarinspiration",
+    "capacity": 1,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=155580/lunar-inspiration",
+    "links": [
+      80
+    ]
+  },
+  {
+    "id": 384667,
+    "name": "Sudden Ambush",
+    "icon": "ability_hunter_catlikereflexes",
+    "capacity": 2,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384667/sudden-ambush",
+    "links": [
+      87,
+      89
+    ]
+  },
+  {
+    "id": 391709,
+    "name": "Rampant Ferocity",
+    "icon": "ability_druid_primaltenacity",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391709/rampant-ferocity",
+    "links": [
+      89
+    ]
+  },
+  {
+    "id": 343223,
+    "name": "Berserk",
+    "icon": "ability_druid_berserk",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=343223/berserk",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 391785,
+    "name": "Tear Open Wounds",
+    "icon": "artifactability_feraldruid_ashamanesbite",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391785/tear-open-wounds",
+    "links": [
+      97
+    ]
+  },
+  {
+    "id": 384665,
+    "name": "Taste for Blood",
+    "icon": "ability_druid_ferociousbite",
+    "capacity": 2,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384665/taste-for-blood",
+    "links": [
+      97,
+      99
+    ]
+  },
+  {
+    "id": 48484,
+    "name": "Infected Wounds",
+    "icon": "ability_druid_infectedwound",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=48484/infected-wounds"
+  },
+  {
+    "id": 16974,
+    "name": "Predatory Swiftness",
+    "icon": "ability_hunter_pet_cat",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=16974/predatory-swiftness",
+    "links": [
+      104,
+      106,
+      110
+    ]
+  },
+  {
+    "id": 236068,
+    "name": "Moment of Clarity",
+    "icon": "spell_druid_momentofclarity",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=236068/moment-of-clarity",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 391045,
+    "name": "Dreadful Bleeding",
+    "icon": "ability_ghoulfrenzy",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391045/dreadful-bleeding",
+    "links": [
+      110,
+      114,
+      116
+    ]
+  },
+  {
+    "id": 393771,
+    "name": "Relentless Predator",
+    "icon": "ability_druid_predatoryinstincts",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393771/relentless-predator"
+  },
+  {
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 391078,
+      "name": "Raging Fury",
+      "icon": "ability_druid_predatoryinstincts",
+      "url": "https://www.wowhead.com/beta/spell=391078/raging-fury"
+    },
+    "right": {
+      "id": 391872,
+      "name": "Tiger's Tenacity",
+      "icon": "ability_druid_healinginstincts",
+      "url": "https://www.wowhead.com/beta/spell=391872/tigers-tenacity"
+    },
+    "links": [
+      123,
+      138
+    ]
+  },
+  {
+    "id": 391174,
+    "name": "Berserk: Heart of the Lion",
+    "icon": "ability_druid_berserk",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391174/berserk-heart-of-the-lion",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 61336,
+    "name": "Survival Instincts",
+    "icon": "ability_druid_tigersroar",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=61336/survival-instincts",
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 384668,
+    "name": "Berserk: Frenzy",
+    "icon": "ability_druid_berserk",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384668/berserk-frenzy",
+    "links": [
+      131
+    ]
+  },
+  {
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 202028,
+      "name": "Brutal Slash",
+      "icon": "ability_druid_ravage",
+      "url": "https://www.wowhead.com/beta/spell=202028/brutal-slash"
+    },
+    "right": {
+      "id": 390864,
+      "name": "Wild Slashes",
+      "icon": "ability_xavius_tormentingswipe",
+      "url": "https://www.wowhead.com/beta/spell=390864/wild-slashes"
+    },
+    "links": [
+      131,
+      150
+    ]
+  },
+  {
+    "id": 390902,
+    "name": "Carnivorous Instinct",
+    "icon": "ability_mount_jungletiger",
+    "capacity": 2,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390902/carnivorous-instinct",
+    "links": [
+      138,
+      142,
+      157
+    ]
+  },
+  {
+    "id": 391875,
+    "name": "Frantic Momentum",
+    "icon": "spell_druid_savagery",
+    "capacity": 2,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391875/frantic-momentum",
+    "links": [
+      142,
+      144,
+      146
+    ]
+  },
+  {
+    "id": 386318,
+    "name": "Cat's Curiosity",
+    "icon": "inv_jewelcrafting_gem_30",
+    "capacity": 2,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386318/cats-curiosity",
+    "links": [
+      146,
+      150,
+      165
+    ]
+  },
+  {
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 391972,
+      "name": "Lion's Strength",
+      "icon": "ability_hunter_masterscall",
+      "url": "https://www.wowhead.com/beta/spell=391972/lions-strength"
+    },
+    "right": {
+      "id": 319439,
+      "name": "Bloodtalons",
+      "icon": "spell_druid_bloodythrash",
+      "url": "https://www.wowhead.com/beta/spell=319439/bloodtalons"
+    },
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 391888,
+    "name": "Adaptive Swarm",
+    "icon": "ability_maldraxxus_druid",
+    "capacity": 1,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=391888/adaptive-swarm",
+    "links": [
+      159
+    ]
+  },
+  {
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 102543,
+      "name": "Incarnation: Avatar of Ashamane",
+      "icon": "spell_druid_incarnation",
+      "url": "https://www.wowhead.com/beta/spell=102543/incarnation-avatar-of-ashamane"
+    },
+    "right": {
+      "id": 391528,
+      "name": "Convoke the Spirits",
+      "icon": "ability_ardenweald_druid",
+      "url": "https://www.wowhead.com/beta/spell=391528/convoke-the-spirits"
+    },
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 158476,
+    "name": "Soul of the Forest",
+    "icon": "ability_druid_manatree",
+    "capacity": 1,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=158476/soul-of-the-forest",
+    "links": [
+      163
+    ]
+  },
+  {
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 391978,
+      "name": "Veinripper",
+      "icon": "inv_artifact_bloodoftheassassinated",
+      "url": "https://www.wowhead.com/beta/spell=391978/veinripper"
+    },
+    "right": {
+      "id": 391347,
+      "name": "Rip and Tear",
+      "icon": "ability_ghoulfrenzy",
+      "url": "https://www.wowhead.com/beta/spell=391347/rip-and-tear"
+    },
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 274837,
+    "name": "Feral Frenzy",
+    "icon": "ability_druid_rake",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=274837/feral-frenzy"
+  },
+  {
+    "id": 391951,
+    "name": "Unbridled Swarm",
+    "icon": "ability_maldraxxus_druid",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391951/unbridled-swarm"
+  },
+  {
+    "id": 391548,
+    "name": "Ashamane's Guidance",
+    "icon": "spell_druid_incarnation",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391548/ashamanes-guidance"
+  },
+  {
+    "id": 391969,
+    "name": "Circle of Life and Death",
+    "icon": "ability_druid_cyclone",
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391969/circle-of-life-and-death"
+  },
+  {
+    "id": 391881,
+    "name": "Apex Predator's Craving",
+    "icon": "ability_druid_primaltenacity",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391881/apex-predators-craving"
+  }
+]

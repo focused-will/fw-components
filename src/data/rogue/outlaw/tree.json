@@ -1,0 +1,633 @@
+[
+  {
+    "id": 279876,
+    "name": "Opportunity",
+    "icon": "spell_shadow_ritualofsacrifice",
+    "capacity": 1,
+    "cell": 6,
+    "row": 1,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=279876/opportunity",
+    "links": [
+      21,
+      23,
+      25
+    ]
+  },
+  {
+    "id": 13877,
+    "name": "Blade Flurry",
+    "icon": "ability_warrior_punishingblow",
+    "capacity": 1,
+    "cell": 10,
+    "row": 1,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=13877/blade-flurry",
+    "links": [
+      25,
+      27,
+      29
+    ]
+  },
+  {
+    "id": 195457,
+    "name": "Grappling Hook",
+    "icon": "ability_rogue_grapplinghook",
+    "capacity": 1,
+    "cell": 21,
+    "row": 2,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=195457/grappling-hook",
+    "links": [
+      36,
+      40
+    ]
+  },
+  {
+    "id": 200733,
+    "name": "Weaponmaster",
+    "icon": "ability_ironmaidens_bladerush",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=200733/weaponmaster",
+    "links": [
+      40
+    ]
+  },
+  {
+    "id": 61329,
+    "name": "Combat Potency",
+    "icon": "inv_weapon_shortblade_38",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=61329/combat-potency",
+    "links": [
+      42
+    ]
+  },
+  {
+    "id": 381822,
+    "name": "Ambidexterity",
+    "icon": "inv_glove_cloth_oribosdungeon_c_01",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381822/ambidexterity",
+    "links": [
+      44
+    ]
+  },
+  {
+    "id": 315341,
+    "name": "Between the Eyes",
+    "icon": "inv_weapon_rifle_01",
+    "capacity": 1,
+    "cell": 29,
+    "row": 2,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=315341/between-the-eyes",
+    "links": [
+      44,
+      48
+    ]
+  },
+  {
+    "id": 256188,
+    "name": "Retractable Hook",
+    "icon": "ability_rogue_grapplinghook",
+    "capacity": 1,
+    "cell": 36,
+    "row": 3,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=256188/retractable-hook",
+    "links": [
+      51,
+      55
+    ]
+  },
+  {
+    "id": 381877,
+    "name": "Combat Stamina",
+    "icon": "ability_rogue_imrovedrecuperate",
+    "capacity": 1,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381877/combat-stamina",
+    "links": [
+      55,
+      57
+    ]
+  },
+  {
+    "id": 13750,
+    "name": "Adrenaline Rush",
+    "icon": "spell_shadow_shadowworddominate",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=13750/adrenaline-rush",
+    "links": [
+      57,
+      59,
+      61
+    ]
+  },
+  {
+    "id": 344363,
+    "name": "Riposte",
+    "icon": "ability_warrior_challange",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=344363/riposte",
+    "links": [
+      61,
+      63
+    ]
+  },
+  {
+    "id": 381828,
+    "name": "Ace Up Your Sleeve",
+    "icon": "inv_weapon_rifle_01",
+    "capacity": 1,
+    "cell": 48,
+    "row": 3,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381828/ace-up-your-sleeve",
+    "links": [
+      63,
+      67
+    ]
+  },
+  {
+    "id": 256165,
+    "name": "Blinding Powder",
+    "icon": "inv_misc_ammo_gunpowder_06",
+    "capacity": 1,
+    "cell": 51,
+    "row": 4,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=256165/blinding-powder",
+    "links": [
+      70
+    ]
+  },
+  {
+    "id": 14161,
+    "name": "Ruthlessness",
+    "icon": "ability_druid_disembowel",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=14161/ruthlessness",
+    "links": [
+      70,
+      72
+    ]
+  },
+  {
+    "id": 381988,
+    "name": "Swift Slasher",
+    "icon": "ability_rogue_slicedice",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381988/swift-slasher",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 79096,
+    "name": "Restless Blades",
+    "icon": "ability_rogue_restlessblades",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=79096/restless-blades",
+    "links": [
+      76
+    ]
+  },
+  {
+    "id": 35551,
+    "name": "Fatal Flourish",
+    "icon": "ability_rogue_unfairadvantage",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=35551/fatal-flourish",
+    "links": [
+      80
+    ]
+  },
+  {
+    "id": 196922,
+    "name": "Hit and Run",
+    "icon": "ability_rogue_fleetfooted",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196922/hit-and-run",
+    "links": [
+      80,
+      82
+    ]
+  },
+  {
+    "id": 108216,
+    "name": "Dirty Tricks",
+    "icon": "ability_rogue_dirtydeeds",
+    "capacity": 1,
+    "cell": 67,
+    "row": 4,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=108216/dirty-tricks",
+    "links": [
+      82
+    ]
+  },
+  {
+    "id": 381885,
+    "name": "Heavy Hitter",
+    "icon": "spell_shadow_ritualofsacrifice",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381885/heavy-hitter",
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 394321,
+    "name": "Devious Stratagem",
+    "icon": "archaeology_5_0_changkiboard",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=394321/devious-stratagem",
+    "links": [
+      87,
+      106
+    ]
+  },
+  {
+    "id": 315508,
+    "name": "Roll the Bones",
+    "icon": "ability_rogue_rollthebones",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=315508/roll-the-bones",
+    "links": [
+      91,
+      93,
+      95
+    ]
+  },
+  {
+    "id": 196938,
+    "name": "Quick Draw",
+    "icon": "inv_weapon_rifle_40",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196938/quick-draw",
+    "links": [
+      99,
+      114
+    ]
+  },
+  {
+    "id": 381878,
+    "name": "Deft Maneuvers",
+    "icon": "spell_warrior_wildstrike",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381878/deft-maneuvers",
+    "links": [
+      99
+    ]
+  },
+  {
+    "id": 381845,
+    "name": "Audacity",
+    "icon": "ability_rogue_ambush",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381845/audacity",
+    "links": [
+      106
+    ]
+  },
+  {
+    "id": 256170,
+    "name": "Loaded Dice",
+    "icon": "ability_rogue_rollthebones",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=256170/loaded-dice",
+    "links": [
+      106,
+      110
+    ]
+  },
+  {
+    "id": 354897,
+    "name": "Float Like a Butterfly",
+    "icon": "inv_pet_butterfly_orange",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=354897/float-like-a-butterfly",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 381839,
+    "name": "Sleight of Hand",
+    "icon": "inv_misc_dice_02",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381839/sleight-of-hand",
+    "links": [
+      110,
+      114
+    ]
+  },
+  {
+    "id": 272026,
+    "name": "Dancing Steel",
+    "icon": "ability_warrior_punishingblow",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=272026/dancing-steel",
+    "links": [
+      114
+    ]
+  },
+  {
+    "id": 381894,
+    "name": "Triple Threat",
+    "icon": "ability_dualwield",
+    "capacity": 2,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381894/triple-threat",
+    "links": [
+      123,
+      125
+    ]
+  },
+  {
+    "id": 381982,
+    "name": "Count the Odds",
+    "icon": "inv_misc_dice_01",
+    "capacity": 2,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381982/count-the-odds",
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 382746,
+    "name": "Improved Main Gauche",
+    "icon": "inv_weapon_shortblade_15",
+    "capacity": 2,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382746/improved-main-gauche",
+    "links": [
+      129,
+      131
+    ]
+  },
+  {
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 385408,
+      "name": "Sepsis",
+      "icon": "ability_ardenweald_rogue",
+      "url": "https://www.wowhead.com/beta/spell=385408/sepsis"
+    },
+    "right": {
+      "id": 196937,
+      "name": "Ghostly Strike",
+      "icon": "ability_creature_cursed_02",
+      "url": "https://www.wowhead.com/beta/spell=196937/ghostly-strike"
+    },
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 271877,
+    "name": "Blade Rush",
+    "icon": "ability_arakkoa_spinning_blade",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=271877/blade-rush",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 382794,
+    "name": "Restless Crew",
+    "icon": "ability_rogue_restlessblades",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382794/restless-crew",
+    "links": [
+      144
+    ]
+  },
+  {
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 51690,
+      "name": "Killing Spree",
+      "icon": "ability_rogue_murderspree",
+      "url": "https://www.wowhead.com/beta/spell=51690/killing-spree"
+    },
+    "right": {
+      "id": 343142,
+      "name": "Dreadblades",
+      "icon": "inv_sword_1h_artifactskywall_d_01dual",
+      "url": "https://www.wowhead.com/beta/spell=343142/dreadblades"
+    },
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 381985,
+    "name": "Precise Cuts",
+    "icon": "ability_warrior_punishingblow",
+    "capacity": 1,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381985/precise-cuts",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 382742,
+    "name": "Take 'em by Surprise",
+    "icon": "ability_stealth",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382742/take-em-by-surprise",
+    "links": [
+      159
+    ]
+  },
+  {
+    "id": 381990,
+    "name": "Summarily Dispatched",
+    "icon": "ability_rogue_waylay",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381990/summarily-dispatched",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 381846,
+    "name": "Fan the Hammer",
+    "icon": "ability_rogue_pistolshot",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381846/fan-the-hammer",
+    "links": [
+      163
+    ]
+  },
+  {
+    "id": 383281,
+    "name": "Hidden Opportunity",
+    "icon": "ability_rogue_ambush",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383281/hidden-opportunity"
+  },
+  {
+    "id": 381989,
+    "name": "Keep It Rolling",
+    "icon": "ability_rogue_keepitrolling",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=381989/keep-it-rolling"
+  },
+  {
+    "id": 386823,
+    "name": "Greenskin's Wickers",
+    "icon": "ability_creature_cursed_04",
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386823/greenskins-wickers"
+  }
+]

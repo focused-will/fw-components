@@ -1,0 +1,611 @@
+[
+  {
+    "id": 198013,
+    "name": "Eye Beam",
+    "icon": "ability_demonhunter_eyebeam",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=198013/eye-beam",
+    "links": [
+      22,
+      25,
+      28
+    ]
+  },
+  {
+    "id": 343206,
+    "name": "Improved Chaos Strike",
+    "icon": "ability_demonhunter_chaosstrike",
+    "capacity": 1,
+    "cell": 22,
+    "row": 2,
+    "column": 6,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343206/improved-chaos-strike",
+    "links": [
+      36,
+      39,
+      42
+    ]
+  },
+  {
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 258876,
+      "name": "Insatiable Hunger",
+      "icon": "ability_rogue_hungerforblood",
+      "url": "https://www.wowhead.com/beta/spell=258876/insatiable-hunger"
+    },
+    "right": {
+      "id": 203555,
+      "name": "Demon Blades",
+      "icon": "inv_weapon_shortblade_92",
+      "url": "https://www.wowhead.com/beta/spell=203555/demon-blades"
+    }
+  },
+  {
+    "id": 388109,
+    "name": "Felfire Heart",
+    "icon": "ability_demonhunter_immolation",
+    "capacity": 1,
+    "cell": 28,
+    "row": 2,
+    "column": 12,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388109/felfire-heart",
+    "links": [
+      42,
+      45,
+      48
+    ]
+  },
+  {
+    "id": 206478,
+    "name": "Demonic Appetite",
+    "icon": "ability_creature_poison_01_purple",
+    "capacity": 1,
+    "cell": 36,
+    "row": 3,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=206478/demonic-appetite",
+    "links": [
+      56
+    ]
+  },
+  {
+    "id": 343017,
+    "name": "Improved Fel Rush",
+    "icon": "ability_demonhunter_felrush",
+    "capacity": 1,
+    "cell": 39,
+    "row": 3,
+    "column": 6,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343017/improved-fel-rush",
+    "links": [
+      56
+    ]
+  },
+  {
+    "id": 206416,
+    "name": "First Blood",
+    "icon": "ability_deathwing_bloodcorruption_death",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=206416/first-blood",
+    "links": [
+      56,
+      59,
+      62
+    ]
+  },
+  {
+    "id": 393029,
+    "name": "Furious Throws",
+    "icon": "ability_demonhunter_throwglaive",
+    "capacity": 1,
+    "cell": 45,
+    "row": 3,
+    "column": 12,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393029/furious-throws",
+    "links": [
+      62
+    ]
+  },
+  {
+    "id": 320374,
+    "name": "Burning Hatred",
+    "icon": "ability_demonhunter_immolation",
+    "capacity": 1,
+    "cell": 48,
+    "row": 3,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=320374/burning-hatred",
+    "links": [
+      62
+    ]
+  },
+  {
+    "id": 320413,
+    "name": "Critical Chaos",
+    "icon": "ability_demonhunter_chaosstrike",
+    "capacity": 2,
+    "cell": 56,
+    "row": 4,
+    "column": 6,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=320413/critical-chaos",
+    "links": [
+      70,
+      73,
+      76
+    ]
+  },
+  {
+    "id": 328725,
+    "name": "Mortal Dance",
+    "icon": "ability_demonhunter_vengefulretreat",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=328725/mortal-dance"
+  },
+  {
+    "id": 389978,
+    "name": "Dancing with Fate",
+    "icon": "inv_polearm_1h_felfireraid_d_02",
+    "capacity": 2,
+    "cell": 62,
+    "row": 4,
+    "column": 12,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389978/dancing-with-fate",
+    "links": [
+      76,
+      79,
+      82
+    ]
+  },
+  {
+    "id": 388108,
+    "name": "Initiative",
+    "icon": "ability_rogue_surpriseattack",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388108/initiative",
+    "links": [
+      87,
+      90
+    ]
+  },
+  {
+    "cell": 73,
+    "row": 5,
+    "column": 6,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 205411,
+      "name": "Desperate Instincts",
+      "icon": "spell_shadow_manafeed",
+      "url": "https://www.wowhead.com/beta/spell=205411/desperate-instincts"
+    },
+    "right": {
+      "id": 196555,
+      "name": "Netherwalk",
+      "icon": "spell_warlock_demonsoul",
+      "url": "https://www.wowhead.com/beta/spell=196555/netherwalk"
+    },
+    "links": [
+      90
+    ]
+  },
+  {
+    "id": 388112,
+    "name": "Chaotic Transformation",
+    "icon": "ability_demonhunter_glide",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388112/chaotic-transformation",
+    "links": [
+      90,
+      93,
+      96
+    ]
+  },
+  {
+    "id": 211881,
+    "name": "Fel Eruption",
+    "icon": "ability_bossfellord_felspike",
+    "capacity": 1,
+    "cell": 79,
+    "row": 5,
+    "column": 12,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=211881/fel-eruption",
+    "links": [
+      96
+    ]
+  },
+  {
+    "id": 258881,
+    "name": "Trail of Ruin",
+    "icon": "ability_demonhunter_bladedance",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=258881/trail-of-ruin",
+    "links": [
+      96,
+      99
+    ]
+  },
+  {
+    "id": 347461,
+    "name": "Unbound Chaos",
+    "icon": "artifactability_vengeancedemonhunter_painbringer",
+    "capacity": 2,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=347461/unbound-chaos",
+    "links": [
+      104,
+      107
+    ]
+  },
+  {
+    "id": 203550,
+    "name": "Blind Fury",
+    "icon": "ability_bosskilrogg_deadeye",
+    "capacity": 2,
+    "cell": 90,
+    "row": 6,
+    "column": 6,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=203550/blind-fury",
+    "links": [
+      107,
+      110
+    ]
+  },
+  {
+    "id": 320415,
+    "name": "Looks Can Kill",
+    "icon": "ability_demonhunter_eyebeam",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=320415/looks-can-kill"
+  },
+  {
+    "id": 390154,
+    "name": "Serrated Glaive",
+    "icon": "inv_glaive_1h_artifactaldrochi_d_03dual",
+    "capacity": 2,
+    "cell": 96,
+    "row": 6,
+    "column": 12,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390154/serrated-glaive",
+    "links": [
+      110,
+      113
+    ]
+  },
+  {
+    "id": 390158,
+    "name": "Growing Inferno",
+    "icon": "spell_fel_incinerate",
+    "capacity": 2,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390158/growing-inferno",
+    "links": [
+      113,
+      116
+    ]
+  },
+  {
+    "id": 389688,
+    "name": "Tactical Retreat",
+    "icon": "ability_demonhunter_vengefulretreat2",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389688/tactical-retreat",
+    "links": [
+      121,
+      124
+    ]
+  },
+  {
+    "id": 388113,
+    "name": "Isolated Prey",
+    "icon": "spell_shadow_shadesofdarkness",
+    "capacity": 1,
+    "cell": 107,
+    "row": 7,
+    "column": 6,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388113/isolated-prey",
+    "links": [
+      124
+    ]
+  },
+  {
+    "id": 343311,
+    "name": "Furious Gaze",
+    "icon": "ability_demonhunter_eyebeam",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343311/furious-gaze",
+    "links": [
+      126,
+      128
+    ]
+  },
+  {
+    "id": 389977,
+    "name": "Relentless Onslaught",
+    "icon": "ability_demonhunter_soulcleave2",
+    "capacity": 1,
+    "cell": 113,
+    "row": 7,
+    "column": 12,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389977/relentless-onslaught",
+    "links": [
+      130
+    ]
+  },
+  {
+    "id": 391189,
+    "name": "Burning Wound",
+    "icon": "spell_fire_felhellfire",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391189/burning-wound",
+    "links": [
+      130,
+      133
+    ]
+  },
+  {
+    "id": 206476,
+    "name": "Momentum",
+    "icon": "ability_foundryraid_demolition",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=206476/momentum",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 389687,
+    "name": "Chaos Theory",
+    "icon": "inv_glaive_1h_artifactaldrochi_d_03dual",
+    "capacity": 1,
+    "cell": 124,
+    "row": 8,
+    "column": 6,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389687/chaos-theory",
+    "links": [
+      140,
+      142
+    ]
+  },
+  {
+    "id": 390142,
+    "name": "Restless Hunter",
+    "icon": "ability_demonhunter_doublejump",
+    "capacity": 1,
+    "cell": 126,
+    "row": 8,
+    "column": 8,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390142/restless-hunter",
+    "links": [
+      142,
+      144
+    ]
+  },
+  {
+    "id": 389693,
+    "name": "Inner Demon",
+    "icon": "ability_demonhunter_glide",
+    "capacity": 1,
+    "cell": 128,
+    "row": 8,
+    "column": 10,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389693/inner-demon",
+    "links": [
+      144,
+      146
+    ]
+  },
+  {
+    "id": 391275,
+    "name": "Accelerating Blade",
+    "icon": "ability_demonhunter_throwglaive",
+    "capacity": 1,
+    "cell": 130,
+    "row": 8,
+    "column": 12,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391275/accelerating-blade",
+    "links": [
+      146,
+      148
+    ]
+  },
+  {
+    "id": 388107,
+    "name": "Ragefire",
+    "icon": "spell_fire_fireballgreen",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388107/ragefire",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 388118,
+    "name": "Know Your Enemy",
+    "icon": "ability_demonhunter_eyeofleotheras",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388118/know-your-enemy",
+    "links": [
+      159
+    ]
+  },
+  {
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 342817,
+      "name": "Glaive Tempest",
+      "icon": "inv_glaive_1h_artifactazgalor_d_06dual",
+      "url": "https://www.wowhead.com/beta/spell=342817/glaive-tempest"
+    },
+    "right": {
+      "id": 258925,
+      "name": "Fel Barrage",
+      "icon": "inv_felbarrage",
+      "url": "https://www.wowhead.com/beta/spell=258925/fel-barrage"
+    }
+  },
+  {
+    "id": 258887,
+    "name": "Cycle of Hatred",
+    "icon": "ability_ironmaidens_whirlofblood",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=258887/cycle-of-hatred",
+    "links": [
+      161
+    ]
+  },
+  {
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 391429,
+      "name": "Fodder to the Flame",
+      "icon": "ability_maldraxxus_demonhunter",
+      "url": "https://www.wowhead.com/beta/spell=391429/fodder-to-the-flame"
+    },
+    "right": {
+      "id": 390163,
+      "name": "Elysian Decree",
+      "icon": "ability_bastion_demonhunter",
+      "url": "https://www.wowhead.com/beta/spell=390163/elysian-decree"
+    }
+  },
+  {
+    "id": 388106,
+    "name": "Soulrend",
+    "icon": "ability_demonhunter_bloodlet",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388106/soulrend",
+    "links": [
+      163
+    ]
+  },
+  {
+    "id": 258860,
+    "name": "Essence Break",
+    "icon": "spell_shadow_ritualofsacrifice",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=258860/essence-break"
+  },
+  {
+    "id": 388116,
+    "name": "Shattered Destiny",
+    "icon": "achievement_boss_triumvirate_darknaaru",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388116/shattered-destiny"
+  },
+  {
+    "id": 388114,
+    "name": "Any Means Necessary",
+    "icon": "ability_warlock_demonicpower",
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388114/any-means-necessary"
+  }
+]

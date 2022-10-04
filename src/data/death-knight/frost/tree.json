@@ -1,0 +1,576 @@
+[
+  {
+    "id": 49143,
+    "name": "Frost Strike",
+    "icon": "spell_deathknight_empowerruneblade2",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=49143/frost-strike",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": 49020,
+    "name": "Obliterate",
+    "icon": "spell_deathknight_classicon",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=49020/obliterate",
+    "links": [
+      40
+    ]
+  },
+  {
+    "id": 49184,
+    "name": "Howling Blast",
+    "icon": "spell_frost_arcticwinds",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=49184/howling-blast",
+    "links": [
+      44
+    ]
+  },
+  {
+    "id": 51128,
+    "name": "Killing Machine",
+    "icon": "inv_sword_122",
+    "capacity": 1,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=51128/killing-machine",
+    "links": [
+      55,
+      57
+    ]
+  },
+  {
+    "id": 59057,
+    "name": "Rime",
+    "icon": "spell_frost_freezingbreath",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=59057/rime",
+    "links": [
+      61,
+      63
+    ]
+  },
+  {
+    "id": 376905,
+    "name": "Unleashed Frenzy",
+    "icon": "spell_deathknight_icetouch",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=376905/unleashed-frenzy",
+    "links": [
+      70,
+      73
+    ]
+  },
+  {
+    "id": 316803,
+    "name": "Improved Frost Strike",
+    "icon": "spell_deathknight_empowerruneblade2",
+    "capacity": 2,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=316803/improved-frost-strike",
+    "links": [
+      73,
+      76
+    ]
+  },
+  {
+    "id": 376251,
+    "name": "Runic Command",
+    "icon": "ability_deathknight_remorselesswinters",
+    "capacity": 2,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=376251/runic-command",
+    "links": [
+      76,
+      79
+    ]
+  },
+  {
+    "id": 196770,
+    "name": "Remorseless Winter",
+    "icon": "ability_deathknight_remorselesswinters2",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=196770/remorseless-winter",
+    "links": [
+      79,
+      82
+    ]
+  },
+  {
+    "id": 317198,
+    "name": "Improved Obliterate",
+    "icon": "spell_deathknight_classicon",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=317198/improved-obliterate",
+    "links": [
+      85,
+      87,
+      89
+    ]
+  },
+  {
+    "id": 194913,
+    "name": "Glacial Advance",
+    "icon": "ability_hunter_glacialtrap",
+    "capacity": 1,
+    "cell": 73,
+    "row": 5,
+    "column": 6,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=194913/glacial-advance"
+  },
+  {
+    "id": 51271,
+    "name": "Pillar of Frost",
+    "icon": "ability_deathknight_pillaroffrost",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=51271/pillar-of-frost",
+    "links": [
+      91,
+      95
+    ]
+  },
+  {
+    "id": 207230,
+    "name": "Frostscythe",
+    "icon": "inv_misc_2h_farmscythe_a_01",
+    "capacity": 1,
+    "cell": 79,
+    "row": 5,
+    "column": 12,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=207230/frostscythe"
+  },
+  {
+    "id": 316838,
+    "name": "Improved Rime",
+    "icon": "spell_frost_freezingbreath",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=316838/improved-rime",
+    "links": [
+      97,
+      99,
+      101
+    ]
+  },
+  {
+    "cell": 85,
+    "row": 6,
+    "column": 1,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 377073,
+      "name": "Frigid Executioner",
+      "icon": "spell_shadow_focusedpower",
+      "url": "https://www.wowhead.com/beta/spell=377073/frigid-executioner"
+    },
+    "right": {
+      "id": 377076,
+      "name": "Rage of the Frozen Champion",
+      "icon": "spell_mage_frostbomb",
+      "url": "https://www.wowhead.com/beta/spell=377076/rage-of-the-frozen-champion"
+    },
+    "links": [
+      104
+    ]
+  },
+  {
+    "id": 281208,
+    "name": "Cold Heart",
+    "icon": "spell_frost_frozencore",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=281208/cold-heart",
+    "links": [
+      104
+    ]
+  },
+  {
+    "id": 317214,
+    "name": "Frostreaper",
+    "icon": "spell_ice_rune",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=317214/frostreaper",
+    "links": [
+      104,
+      106
+    ]
+  },
+  {
+    "id": 377190,
+    "name": "Enduring Strength",
+    "icon": "spell_shadow_soulleech_2",
+    "capacity": 2,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377190/enduring-strength",
+    "links": [
+      106,
+      110
+    ]
+  },
+  {
+    "id": 377226,
+    "name": "Frostwhelp's Aid",
+    "icon": "inv_pet_dkwhelplingfrost",
+    "capacity": 2,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377226/frostwhelps-aid",
+    "links": [
+      110,
+      114
+    ]
+  },
+  {
+    "id": 57330,
+    "name": "Horn of Winter",
+    "icon": "inv_misc_horn_02",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=57330/horn-of-winter",
+    "links": [
+      114,
+      116
+    ]
+  },
+  {
+    "id": 377056,
+    "name": "Biting Cold",
+    "icon": "ability_deathknight_remorselesswinters2",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377056/biting-cold",
+    "links": [
+      116
+    ]
+  },
+  {
+    "id": 305392,
+    "name": "Chill Streak",
+    "icon": "spell_frost_piercing-chill",
+    "capacity": 1,
+    "cell": 101,
+    "row": 6,
+    "column": 17,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=305392/chill-streak",
+    "links": [
+      116,
+      118
+    ]
+  },
+  {
+    "id": 207061,
+    "name": "Murderous Efficiency",
+    "icon": "spell_frost_frostarmor",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=207061/murderous-efficiency",
+    "links": [
+      121,
+      123
+    ]
+  },
+  {
+    "id": 253593,
+    "name": "Inexorable Assault",
+    "icon": "achievement_dungeon_icecrown_frostmourne",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=253593/inexorable-assault",
+    "links": [
+      123,
+      125
+    ]
+  },
+  {
+    "id": 207126,
+    "name": "Icecap",
+    "icon": "inv_misc_herb_icecap",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=207126/icecap",
+    "links": [
+      125,
+      129
+    ]
+  },
+  {
+    "id": 392963,
+    "name": "Empower Rune Weapon",
+    "icon": "inv_sword_62",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=392963/empower-rune-weapon",
+    "links": [
+      129,
+      131
+    ]
+  },
+  {
+    "id": 194912,
+    "name": "Gathering Storm",
+    "icon": "spell_frost_ice-shards",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=194912/gathering-storm",
+    "links": [
+      131,
+      133
+    ]
+  },
+  {
+    "cell": 118,
+    "row": 7,
+    "column": 17,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 377351,
+      "name": "Piercing Chill",
+      "icon": "spell_frost_piercing-chill",
+      "url": "https://www.wowhead.com/beta/spell=377351/piercing-chill"
+    },
+    "right": {
+      "id": 377376,
+      "name": "Enduring Chill",
+      "icon": "spell_frost_piercing-chill",
+      "url": "https://www.wowhead.com/beta/spell=377376/enduring-chill"
+    }
+  },
+  {
+    "id": 81333,
+    "name": "Might of the Frozen Wastes",
+    "icon": "inv_sword_120",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=81333/might-of-the-frozen-wastes"
+  },
+  {
+    "id": 377098,
+    "name": "Bonegrinder",
+    "icon": "ability_deathknight_bonegrinder",
+    "capacity": 2,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377098/bonegrinder",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 207057,
+    "name": "Shattering Blade",
+    "icon": "inv_7af_deathknight_frostmournefragment",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=207057/shattering-blade",
+    "links": [
+      144
+    ]
+  },
+  {
+    "id": 207142,
+    "name": "Avalanche",
+    "icon": "spell_frost_icestorm",
+    "capacity": 1,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=207142/avalanche",
+    "links": [
+      144
+    ]
+  },
+  {
+    "id": 392950,
+    "name": "Icebreaker",
+    "icon": "ability_mage_icewall",
+    "capacity": 2,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392950/icebreaker",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 376938,
+    "name": "Everfrost",
+    "icon": "ability_mage_deepfreeze",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=376938/everfrost"
+  },
+  {
+    "id": 377083,
+    "name": "Cold-Blooded Rage",
+    "icon": "inv_helm_plate_raiddeathknightmythic_q_01",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377083/cold-blooded-rage",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 279302,
+    "name": "Frostwyrm's Fury",
+    "icon": "achievement_boss_sindragosa",
+    "capacity": 1,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=279302/frostwyrms-fury",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 377092,
+    "name": "Invigorating Freeze",
+    "icon": "spell_deathknight_frostfever",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377092/invigorating-freeze",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 281238,
+    "name": "Obliteration",
+    "icon": "inv_axe_114",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=281238/obliteration"
+  },
+  {
+    "id": 377047,
+    "name": "Absolute Zero",
+    "icon": "spell_fire_blueflamering",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377047/absolute-zero"
+  },
+  {
+    "id": 152279,
+    "name": "Breath of Sindragosa",
+    "icon": "spell_deathknight_breathofsindragosa",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=152279/breath-of-sindragosa"
+  }
+]

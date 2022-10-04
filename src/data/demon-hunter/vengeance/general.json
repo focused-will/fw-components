@@ -1,0 +1,644 @@
+[
+  {
+    "id": 198793,
+    "name": "Vengeful Retreat",
+    "icon": "ability_demonhunter_vengefulretreat2",
+    "capacity": 1,
+    "cell": 4,
+    "row": 1,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=198793/vengeful-retreat",
+    "links": [
+      21
+    ]
+  },
+  {
+    "id": 320416,
+    "name": "Blazing Path",
+    "icon": "ability_demonhunter_felrush",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=320416/blazing-path",
+    "links": [
+      25
+    ]
+  },
+  {
+    "id": 204596,
+    "name": "Sigil of Flame",
+    "icon": "ability_demonhunter_sigilofinquisition",
+    "capacity": 0,
+    "cell": 12,
+    "row": 1,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=204596/sigil-of-flame",
+    "links": [
+      29
+    ]
+  },
+  {
+    "id": 320770,
+    "name": "Unrestrained Fury",
+    "icon": "ability_warrior_improveddisciplines",
+    "capacity": 2,
+    "cell": 21,
+    "row": 2,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=320770/unrestrained-fury",
+    "links": [
+      36,
+      40,
+      55
+    ]
+  },
+  {
+    "id": 217832,
+    "name": "Imprison",
+    "icon": "ability_demonhunter_imprison",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=217832/imprison",
+    "links": [
+      40,
+      42,
+      44
+    ]
+  },
+  {
+    "id": 389824,
+    "name": "Shattered Restoration",
+    "icon": "ability_warlock_soulsiphon",
+    "capacity": 2,
+    "cell": 29,
+    "row": 2,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389824/shattered-restoration",
+    "links": [
+      44,
+      48,
+      63
+    ]
+  },
+  {
+    "id": 320635,
+    "name": "Vengeful Bonds",
+    "icon": "ability_demonhunter_vengefulretreat2",
+    "capacity": 1,
+    "cell": 36,
+    "row": 3,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=320635/vengeful-bonds"
+  },
+  {
+    "id": 320361,
+    "name": "Improved Disrupt",
+    "icon": "ability_demonhunter_consumemagic",
+    "capacity": 1,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=320361/improved-disrupt",
+    "links": [
+      55,
+      57,
+      59
+    ]
+  },
+  {
+    "id": 320386,
+    "name": "Bouncing Glaives",
+    "icon": "ability_demonhunter_throwglaive",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=320386/bouncing-glaives",
+    "links": [
+      59
+    ]
+  },
+  {
+    "id": 278326,
+    "name": "Consume Magic",
+    "icon": "spell_misc_zandalari_council_soulswap",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=278326/consume-magic",
+    "links": [
+      59,
+      61,
+      63
+    ]
+  },
+  {
+    "id": 389694,
+    "name": "Flames of Fury",
+    "icon": "ability_demonhunter_sigilofinquisition",
+    "capacity": 1,
+    "cell": 48,
+    "row": 3,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389694/flames-of-fury"
+  },
+  {
+    "id": 320654,
+    "name": "Pursuit",
+    "icon": "ability_warlock_demonicpower",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=320654/pursuit",
+    "links": [
+      70,
+      72
+    ]
+  },
+  {
+    "id": 183782,
+    "name": "Disrupting Fury",
+    "icon": "ability_demonhunter_consumemagic",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=183782/disrupting-fury",
+    "links": [
+      91
+    ]
+  },
+  {
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 207347,
+      "name": "Aura of Pain",
+      "icon": "ability_demonhunter_immolation",
+      "url": "https://www.wowhead.com/beta/spell=207347/aura-of-pain"
+    },
+    "right": {
+      "id": 232893,
+      "name": "Felblade",
+      "icon": "ability_demonhunter_felblade",
+      "url": "https://www.wowhead.com/beta/spell=232893/felblade"
+    }
+  },
+  {
+    "id": 320313,
+    "name": "Swallowed Anger",
+    "icon": "spell_misc_zandalari_council_soulswap",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=320313/swallowed-anger",
+    "links": [
+      95
+    ]
+  },
+  {
+    "id": 213010,
+    "name": "Charred Warblades",
+    "icon": "spell_fire_incinerate",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=213010/charred-warblades",
+    "links": [
+      80,
+      82
+    ]
+  },
+  {
+    "id": 389846,
+    "name": "Felfire Haste",
+    "icon": "inv_boots_cloth_35v4",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389846/felfire-haste",
+    "links": [
+      89
+    ]
+  },
+  {
+    "id": 389763,
+    "name": "Master of the Glaive",
+    "icon": "inv_glaive_1h_demonhunter_a_01",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389763/master-of-the-glaive",
+    "links": [
+      89
+    ]
+  },
+  {
+    "id": 320421,
+    "name": "Rush of Chaos",
+    "icon": "ability_demonhunter_metamorphasisdps",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=320421/rush-of-chaos",
+    "links": [
+      91,
+      95
+    ]
+  },
+  {
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 207666,
+      "name": "Concentrated Sigils",
+      "icon": "ability_bossfelorcs_necromancer_red",
+      "url": "https://www.wowhead.com/beta/spell=207666/concentrated-sigils"
+    },
+    "right": {
+      "id": 389799,
+      "name": "Precise Sigils",
+      "icon": "ability_bossfelorcs_necromancer_orange",
+      "url": "https://www.wowhead.com/beta/spell=389799/precise-sigils"
+    },
+    "links": [
+      97
+    ]
+  },
+  {
+    "id": 389849,
+    "name": "Lost in Darkness",
+    "icon": "inv_pet_inquisitoreye",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389849/lost-in-darkness",
+    "links": [
+      97
+    ]
+  },
+  {
+    "id": 389696,
+    "name": "Illidari Knowledge",
+    "icon": "spell_mage_overpowered",
+    "capacity": 2,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389696/illidari-knowledge",
+    "links": [
+      106
+    ]
+  },
+  {
+    "id": 204909,
+    "name": "Soul Rending",
+    "icon": "ability_demonhunter_soulcleave2",
+    "capacity": 2,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=204909/soul-rending",
+    "links": [
+      106,
+      110
+    ]
+  },
+  {
+    "id": 320331,
+    "name": "Infernal Armor",
+    "icon": "ability_demonhunter_immolation",
+    "capacity": 2,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=320331/infernal-armor",
+    "links": [
+      110,
+      114
+    ]
+  },
+  {
+    "id": 389695,
+    "name": "Will of the Illidari",
+    "icon": "ability_demonhunter_spectank",
+    "capacity": 2,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389695/will-of-the-illidari",
+    "links": [
+      114
+    ]
+  },
+  {
+    "id": 179057,
+    "name": "Chaos Nova",
+    "icon": "spell_fire_felfirenova",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=179057/chaos-nova",
+    "links": [
+      121,
+      123,
+      125
+    ]
+  },
+  {
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 213410,
+      "name": "Demonic",
+      "icon": "spell_shadow_demonform",
+      "url": "https://www.wowhead.com/beta/spell=213410/demonic"
+    },
+    "right": {
+      "id": 235893,
+      "name": "First of the Illidari",
+      "icon": "artifactability_havocdemonhunter_anguishofthedeceiver",
+      "url": "https://www.wowhead.com/beta/spell=235893/first-of-the-illidari"
+    },
+    "links": [
+      125,
+      129
+    ]
+  },
+  {
+    "id": 202137,
+    "name": "Sigil of Silence",
+    "icon": "ability_demonhunter_sigilofsilence",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=202137/sigil-of-silence",
+    "links": [
+      129,
+      131,
+      133
+    ]
+  },
+  {
+    "id": 393822,
+    "name": "Internal Struggle",
+    "icon": "ability_warlock_demonicpower",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393822/internal-struggle",
+    "links": [
+      140
+    ]
+  },
+  {
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 320412,
+      "name": "Chaos Fragments",
+      "icon": "spell_fire_felfirenova",
+      "url": "https://www.wowhead.com/beta/spell=320412/chaos-fragments"
+    },
+    "right": {
+      "id": 206477,
+      "name": "Unleashed Power",
+      "icon": "ability_demonhunter_chaosnova",
+      "url": "https://www.wowhead.com/beta/spell=206477/unleashed-power"
+    },
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 196718,
+    "name": "Darkness",
+    "icon": "ability_demonhunter_darkness",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=196718/darkness",
+    "links": [
+      142,
+      144
+    ]
+  },
+  {
+    "id": 207684,
+    "name": "Sigil of Misery",
+    "icon": "ability_demonhunter_sigilofmisery",
+    "capacity": 1,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=207684/sigil-of-misery",
+    "links": [
+      144,
+      146
+    ]
+  },
+  {
+    "id": 388111,
+    "name": "Demon Muzzle",
+    "icon": "spell_fire_fireballgreen",
+    "capacity": 1,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388111/demon-muzzle",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 391409,
+    "name": "Aldrachi Design",
+    "icon": "inv_glaive_1h_artifactaldrochi_d_01dual",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391409/aldrachi-design",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 391397,
+    "name": "Erratic Felheart",
+    "icon": "inv_archaeology_70_crystallineeyeofundravius",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391397/erratic-felheart",
+    "links": [
+      157
+    ]
+  },
+  {
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 389781,
+      "name": "Long Night",
+      "icon": "spell_fire_twilightimmolation",
+      "url": "https://www.wowhead.com/beta/spell=389781/long-night"
+    },
+    "right": {
+      "id": 389783,
+      "name": "Pitch Black",
+      "icon": "sha_spell_warlock_demonsoul",
+      "url": "https://www.wowhead.com/beta/spell=389783/pitch-black"
+    }
+  },
+  {
+    "id": 370965,
+    "name": "The Hunt",
+    "icon": "ability_ardenweald_demonhunter",
+    "capacity": 1,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=370965/the-hunt",
+    "links": [
+      161
+    ]
+  },
+  {
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 320418,
+      "name": "Improved Sigil of Misery",
+      "icon": "ability_demonhunter_sigilofmisery",
+      "url": "https://www.wowhead.com/beta/spell=320418/improved-sigil-of-misery"
+    },
+    "right": {
+      "id": 388110,
+      "name": "Misery in Defeat",
+      "icon": "ability_demonhunter_sigilofmisery",
+      "url": "https://www.wowhead.com/beta/spell=388110/misery-in-defeat"
+    }
+  },
+  {
+    "id": 389697,
+    "name": "Extended Sigils",
+    "icon": "ability_demonhunter_sigilofinquisition",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389697/extended-sigils",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 390152,
+    "name": "Collective Anguish",
+    "icon": "artifactability_havocdemonhunter_anguishofthedeceiver",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390152/collective-anguish"
+  },
+  {
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 389811,
+      "name": "Unnatural Malice",
+      "icon": "spell_animaardenweald_missile",
+      "url": "https://www.wowhead.com/beta/spell=389811/unnatural-malice"
+    },
+    "right": {
+      "id": 389819,
+      "name": "Relentless Pursuit",
+      "icon": "ability_demonhunter_demonictrample",
+      "url": "https://www.wowhead.com/beta/spell=389819/relentless-pursuit"
+    }
+  },
+  {
+    "id": 209281,
+    "name": "Quickened Sigils",
+    "icon": "ability_demonhunter_concentratedsigils",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=209281/quickened-sigils"
+  }
+]

@@ -1,0 +1,553 @@
+[
+  {
+    "id": 357211,
+    "name": "Pyre",
+    "icon": "ability_evoker_pyre",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=357211/pyre",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": 376872,
+    "name": "Ruby Essence Burst",
+    "icon": "ability_evoker_essenceburst4",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=376872/ruby-essence-burst",
+    "links": [
+      38,
+      42
+    ]
+  },
+  {
+    "id": 375721,
+    "name": "Azure Essence Burst",
+    "icon": "ability_evoker_essenceburst2",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=375721/azure-essence-burst",
+    "links": [
+      42,
+      46
+    ]
+  },
+  {
+    "id": 370962,
+    "name": "Dense Energy",
+    "icon": "ability_evoker_pyre",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=370962/dense-energy",
+    "links": [
+      53,
+      57
+    ]
+  },
+  {
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 371016,
+      "name": "Imposing Presence",
+      "icon": "ability_evoker_quell",
+      "url": "https://www.wowhead.com/beta/spell=371016/imposing-presence"
+    },
+    "right": {
+      "id": 386405,
+      "name": "Inner Radiance",
+      "icon": "spell_holy_spellwarding",
+      "url": "https://www.wowhead.com/beta/spell=386405/inner-radiance"
+    },
+    "links": [
+      59
+    ]
+  },
+  {
+    "id": 359073,
+    "name": "Eternity Surge",
+    "icon": "ability_evoker_eternitysurge",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=359073/eternity-surge",
+    "links": [
+      61,
+      65
+    ]
+  },
+  {
+    "id": 369089,
+    "name": "Volatility",
+    "icon": "spell_fire_ragnaros_lavabolt",
+    "capacity": 2,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=369089/volatility",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 369908,
+    "name": "Power Nexus",
+    "icon": "ability_evoker_powernexus",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=369908/power-nexus",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 375087,
+    "name": "Dragonrage",
+    "icon": "ability_evoker_dragonrage",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=375087/dragonrage",
+    "links": [
+      76
+    ]
+  },
+  {
+    "id": 371034,
+    "name": "Lay Waste",
+    "icon": "ability_evoker_deepbreath",
+    "capacity": 2,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=371034/lay-waste",
+    "links": [
+      80
+    ]
+  },
+  {
+    "id": 375618,
+    "name": "Arcane Intensity",
+    "icon": "ability_evoker_disintegrate",
+    "capacity": 2,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=375618/arcane-intensity",
+    "links": [
+      80
+    ]
+  },
+  {
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 365937,
+      "name": "Ruby Embers",
+      "icon": "inv_tradeskillitem_lessersorcerersfire",
+      "url": "https://www.wowhead.com/beta/spell=365937/ruby-embers"
+    },
+    "right": {
+      "id": 370837,
+      "name": "Engulfing Blaze",
+      "icon": "inv_inscription_pigment_ruby",
+      "url": "https://www.wowhead.com/beta/spell=370837/engulfing-blaze"
+    },
+    "links": [
+      87,
+      91
+    ]
+  },
+  {
+    "id": 375797,
+    "name": "Animosity",
+    "icon": "spell_nature_shamanrage",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=375797/animosity",
+    "links": [
+      91,
+      93,
+      95
+    ]
+  },
+  {
+    "id": 375722,
+    "name": "Essence Attunement",
+    "icon": "ability_evoker_essenceburststacks",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=375722/essence-attunement",
+    "links": [
+      95,
+      97,
+      99
+    ]
+  },
+  {
+    "id": 368847,
+    "name": "Firestorm",
+    "icon": "ability_evoker_firestorm",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=368847/firestorm",
+    "links": [
+      106,
+      121
+    ]
+  },
+  {
+    "id": 375725,
+    "name": "Heat Wave",
+    "icon": "spell_fire_moltenblood",
+    "capacity": 2,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=375725/heat-wave",
+    "links": [
+      106,
+      110
+    ]
+  },
+  {
+    "id": 386272,
+    "name": "Titanic Wrath",
+    "icon": "spell_fireresistancetotem_01",
+    "capacity": 2,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386272/titanic-wrath",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 371038,
+    "name": "Honed Aggression",
+    "icon": "spell_fire_blueimmolation",
+    "capacity": 2,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=371038/honed-aggression",
+    "links": [
+      110,
+      114
+    ]
+  },
+  {
+    "id": 375757,
+    "name": "Eternity's Span",
+    "icon": "spell_arcane_arcanetorrent",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=375757/eternitys-span"
+  },
+  {
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 369375,
+      "name": "Eye of Infinity",
+      "icon": "ability_socererking_arcanewrath",
+      "url": "https://www.wowhead.com/beta/spell=369375/eye-of-infinity"
+    },
+    "right": {
+      "id": 375777,
+      "name": "Causality",
+      "icon": "spell_azerite_essence_16",
+      "url": "https://www.wowhead.com/beta/spell=375777/causality"
+    },
+    "links": [
+      114,
+      116
+    ]
+  },
+  {
+    "id": 386283,
+    "name": "Catalyze",
+    "icon": "spell_fire_masterofelements",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386283/catalyze",
+    "links": [
+      125
+    ]
+  },
+  {
+    "id": 376888,
+    "name": "Tyranny",
+    "icon": "ability_evoker_dragonrage2",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=376888/tyranny",
+    "links": [
+      125,
+      127,
+      129
+    ]
+  },
+  {
+    "id": 370455,
+    "name": "Charged Blast",
+    "icon": "spell_arcane_arcanepotency",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=370455/charged-blast",
+    "links": [
+      129
+    ]
+  },
+  {
+    "id": 370452,
+    "name": "Shattering Star",
+    "icon": "ability_evoker_chargedblast",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=370452/shattering-star",
+    "links": [
+      133
+    ]
+  },
+  {
+    "id": 370783,
+    "name": "Snapfire",
+    "icon": "spell_shaman_improvedfirenova",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=370783/snapfire",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 375783,
+    "name": "Font of Magic",
+    "icon": "ability_evoker_fontofmagic",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=375783/font-of-magic",
+    "links": [
+      140,
+      142
+    ]
+  },
+  {
+    "id": 386348,
+    "name": "Onyx Legacy",
+    "icon": "inv_misc_head_dragon_black",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386348/onyx-legacy",
+    "links": [
+      142,
+      146
+    ]
+  },
+  {
+    "id": 370845,
+    "name": "Spellweaver's Dominance",
+    "icon": "spell_shaman_shockinglava",
+    "capacity": 1,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=370845/spellweavers-dominance",
+    "links": [
+      146,
+      148
+    ]
+  },
+  {
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 386336,
+      "name": "Focusing Iris",
+      "icon": "spell_mage_temporalshield",
+      "url": "https://www.wowhead.com/beta/spell=386336/focusing-iris"
+    },
+    "right": {
+      "id": 386342,
+      "name": "Arcane Vigor",
+      "icon": "spell_arcane_arcane01",
+      "url": "https://www.wowhead.com/beta/spell=386342/arcane-vigor"
+    },
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 375801,
+    "name": "Burnout",
+    "icon": "spell_fire_soulburn",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=375801/burnout",
+    "links": [
+      155
+    ]
+  },
+  {
+    "id": 370781,
+    "name": "Imminent Destruction",
+    "icon": "spell_burningbladeshaman_blazing_radiance",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=370781/imminent-destruction",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 370821,
+    "name": "Scintillation",
+    "icon": "spell_arcane_arcane03",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=370821/scintillation",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 370839,
+    "name": "Power Swell",
+    "icon": "ability_evoker_powernexus2",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=370839/power-swell",
+    "links": [
+      167
+    ]
+  },
+  {
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 369846,
+      "name": "Feed the Flames",
+      "icon": "mace_1h_blacksmithing_d_04_icon",
+      "url": "https://www.wowhead.com/beta/spell=369846/feed-the-flames"
+    },
+    "right": {
+      "id": 370819,
+      "name": "Everburning Flame",
+      "icon": "spell_fire_burnout",
+      "url": "https://www.wowhead.com/beta/spell=370819/everburning-flame"
+    }
+  },
+  {
+    "id": 375796,
+    "name": "Hoarded Power",
+    "icon": "ability_evoker_innatemagic2",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=375796/hoarded-power"
+  },
+  {
+    "id": 370867,
+    "name": "Iridescence",
+    "icon": "ability_evoker_powerswell",
+    "capacity": 1,
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=370867/iridescence"
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": 19434,
+    "name": "Aimed Shot",
+    "icon": "inv_spear_07",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=19434/aimed-shot",
+    "links": [
+      23,
+      25,
+      27
+    ]
+  },
+  {
+    "id": 321293,
+    "name": "Crack Shot",
+    "icon": "ability_hunter_focusfire",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321293/crack-shot",
+    "links": [
+      38,
+      42,
+      57
+    ]
+  },
+  {
+    "id": 321018,
+    "name": "Improved Steady Shot",
+    "icon": "ability_hunter_improvedsteadyshot",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321018/improved-steady-shot",
+    "links": [
+      42
+    ]
+  },
+  {
+    "id": 260240,
+    "name": "Precise Shots",
+    "icon": "ability_hunter_focusedaim",
+    "capacity": 2,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=260240/precise-shots",
+    "links": [
+      42,
+      46,
+      61
+    ]
+  },
+  {
+    "id": 257044,
+    "name": "Rapid Fire",
+    "icon": "ability_hunter_efficiency",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=257044/rapid-fire",
+    "links": [
+      55,
+      57
+    ]
+  },
+  {
+    "id": 155228,
+    "name": "Lone Wolf",
+    "icon": "spell_hunter_lonewolf",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=155228/lone-wolf",
+    "links": [
+      57,
+      59,
+      61
+    ]
+  },
+  {
+    "id": 342049,
+    "name": "Chimaera Shot",
+    "icon": "ability_hunter_chimerashot2",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=342049/chimaera-shot",
+    "links": [
+      61,
+      80
+    ]
+  },
+  {
+    "id": 260367,
+    "name": "Streamline",
+    "icon": "ability_hunter_aimedshot",
+    "capacity": 2,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=260367/streamline",
+    "links": [
+      70,
+      74
+    ]
+  },
+  {
+    "id": 378765,
+    "name": "Killer Accuracy",
+    "icon": "ability_hunter_piercingshots",
+    "capacity": 2,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378765/killer-accuracy",
+    "links": [
+      74,
+      76
+    ]
+  },
+  {
+    "id": 378766,
+    "name": "Hunter's Knowledge",
+    "icon": "hunter_pvp_snipershot",
+    "capacity": 2,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378766/hunters-knowledge",
+    "links": [
+      76
+    ]
+  },
+  {
+    "id": 260228,
+    "name": "Careful Aim",
+    "icon": "ability_hunter_zenarchery",
+    "capacity": 2,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=260228/careful-aim",
+    "links": [
+      76,
+      80
+    ]
+  },
+  {
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 260393,
+      "name": "Lethal Shots",
+      "icon": "ability_hunter_longshots",
+      "url": "https://www.wowhead.com/beta/spell=260393/lethal-shots"
+    },
+    "right": {
+      "id": 391559,
+      "name": "Surging Shots",
+      "icon": "ability_hunter_resistanceisfutile",
+      "url": "https://www.wowhead.com/beta/spell=391559/surging-shots"
+    },
+    "links": [
+      89
+    ]
+  },
+  {
+    "id": 378769,
+    "name": "Deathblow",
+    "icon": "ability_hunter_runningshot",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378769/deathblow",
+    "links": [
+      89,
+      91
+    ]
+  },
+  {
+    "id": 321287,
+    "name": "Target Practice",
+    "icon": "buff_epichunter",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321287/target-practice",
+    "links": [
+      95,
+      110
+    ]
+  },
+  {
+    "id": 378767,
+    "name": "Focused Aim",
+    "icon": "ability_hunter_mastermarksman",
+    "capacity": 2,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378767/focused-aim",
+    "links": [
+      95,
+      97,
+      99
+    ]
+  },
+  {
+    "id": 257620,
+    "name": "Multi-Shot",
+    "icon": "ability_upgrademoonglaive",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=257620/multi-shot",
+    "links": [
+      104,
+      106,
+      108
+    ]
+  },
+  {
+    "id": 384790,
+    "name": "Razor Fragments",
+    "icon": "ability_hunter_razorwire",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384790/razor-fragments",
+    "links": [
+      108,
+      110
+    ]
+  },
+  {
+    "id": 260402,
+    "name": "Double Tap",
+    "icon": "ability_hunter_crossfire",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=260402/double-tap",
+    "links": [
+      110,
+      114,
+      129
+    ]
+  },
+  {
+    "id": 321460,
+    "name": "Deadeye",
+    "icon": "spell_hunter_focusingshot",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321460/deadeye",
+    "links": [
+      114
+    ]
+  },
+  {
+    "id": 186387,
+    "name": "Bursting Shot",
+    "icon": "ability_hunter_burstingshot",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=186387/bursting-shot",
+    "links": [
+      116
+    ]
+  },
+  {
+    "id": 257621,
+    "name": "Trick Shots",
+    "icon": "inv_trickshot",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=257621/trick-shots",
+    "links": [
+      123,
+      138
+    ]
+  },
+  {
+    "id": 378880,
+    "name": "Bombardment",
+    "icon": "ability_hunter_thrillofthehunt",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378880/bombardment",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 260243,
+    "name": "Volley",
+    "icon": "ability_hunter_rapidkilling",
+    "capacity": 1,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=260243/volley",
+    "links": [
+      123,
+      127,
+      142
+    ]
+  },
+  {
+    "id": 193533,
+    "name": "Steady Focus",
+    "icon": "hunter_pvp_snipershot",
+    "capacity": 2,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=193533/steady-focus",
+    "links": [
+      127,
+      129
+    ]
+  },
+  {
+    "id": 378888,
+    "name": "Serpentstalker's Trickery",
+    "icon": "ability_hunter_serpentswiftness",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378888/serpentstalkers-trickery",
+    "links": [
+      129,
+      131
+    ]
+  },
+  {
+    "id": 378771,
+    "name": "Quick Load",
+    "icon": "ability_hunter_wildquiver",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378771/quick-load"
+  },
+  {
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 378910,
+      "name": "Heavy Ammo",
+      "icon": "inv_ammo_bullet_04",
+      "url": "https://www.wowhead.com/beta/spell=378910/heavy-ammo"
+    },
+    "right": {
+      "id": 378913,
+      "name": "Light Ammo",
+      "icon": "ships_ability_armorpiercingammo",
+      "url": "https://www.wowhead.com/beta/spell=378913/light-ammo"
+    },
+    "links": [
+      138,
+      142,
+      157
+    ]
+  },
+  {
+    "id": 288613,
+    "name": "Trueshot",
+    "icon": "ability_trueshot",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=288613/trueshot",
+    "links": [
+      144,
+      146
+    ]
+  },
+  {
+    "id": 194595,
+    "name": "Lock and Load",
+    "icon": "ability_hunter_lockandload",
+    "capacity": 1,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=194595/lock-and-load",
+    "links": [
+      146
+    ]
+  },
+  {
+    "id": 204089,
+    "name": "Bullseye",
+    "icon": "ability_hunter_focusedaim",
+    "capacity": 2,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=204089/bullseye",
+    "links": [
+      146,
+      150
+    ]
+  },
+  {
+    "id": 389019,
+    "name": "Bulletstorm",
+    "icon": "ability_hunter_markedshot",
+    "capacity": 1,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389019/bulletstorm",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 378907,
+    "name": "Sharpshooter",
+    "icon": "ability_hunter_aimedshot",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378907/sharpshooter",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 389449,
+    "name": "Eagletalon's True Focus",
+    "icon": "ability_hunter_aspectoftheironhawk",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389449/eagletalons-true-focus",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 392060,
+    "name": "Wailing Arrow",
+    "icon": "ability_theblackarrow",
+    "capacity": 1,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=392060/wailing-arrow",
+    "links": [
+      163
+    ]
+  },
+  {
+    "id": 190852,
+    "name": "Legacy of the Windrunners",
+    "icon": "artifactability_marksmanhunter_legacyofthewindrunners",
+    "capacity": 2,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=190852/legacy-of-the-windrunners",
+    "links": [
+      167
+    ]
+  },
+  {
+    "id": 384791,
+    "name": "Salvo",
+    "icon": "spell_hunter_exoticmunitions_incendiary",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384791/salvo"
+  },
+  {
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 260404,
+      "name": "Calling the Shots",
+      "icon": "ability_hunter_assassinate",
+      "url": "https://www.wowhead.com/beta/spell=260404/calling-the-shots"
+    },
+    "right": {
+      "id": 386878,
+      "name": "Unerring Vision",
+      "icon": "spell_hunter_exoticmunitions_frozen",
+      "url": "https://www.wowhead.com/beta/spell=386878/unerring-vision"
+    }
+  },
+  {
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 389866,
+      "name": "Windrunner's Barrage",
+      "icon": "inv_ammo_arrow_06",
+      "url": "https://www.wowhead.com/beta/spell=389866/windrunners-barrage"
+    },
+    "right": {
+      "id": 389865,
+      "name": "Readiness",
+      "icon": "ability_hunter_readiness",
+      "url": "https://www.wowhead.com/beta/spell=389865/readiness"
+    }
+  },
+  {
+    "id": 378905,
+    "name": "Windrunner's Guidance",
+    "icon": "ability_hunter_laceration",
+    "capacity": 1,
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378905/windrunners-guidance"
+  }
+]

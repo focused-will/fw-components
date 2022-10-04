@@ -1,0 +1,714 @@
+[
+  {
+    "id": 124682,
+    "name": "Enveloping Mist",
+    "icon": "spell_monk_envelopingmist",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=124682/enveloping-mist",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": 191837,
+    "name": "Essence Font",
+    "icon": "ability_monk_essencefont",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=191837/essence-font",
+    "links": [
+      38,
+      42
+    ]
+  },
+  {
+    "id": 115151,
+    "name": "Renewing Mist",
+    "icon": "ability_monk_renewingmists",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=115151/renewing-mist",
+    "links": [
+      42,
+      46
+    ]
+  },
+  {
+    "id": 116849,
+    "name": "Life Cocoon",
+    "icon": "ability_monk_chicocoon",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=116849/life-cocoon",
+    "links": [
+      53,
+      72
+    ]
+  },
+  {
+    "id": 116680,
+    "name": "Thunder Focus Tea",
+    "icon": "ability_monk_thunderfocustea",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=116680/thunder-focus-tea",
+    "links": [
+      59,
+      61
+    ]
+  },
+  {
+    "id": 274586,
+    "name": "Invigorating Mists",
+    "icon": "ability_monk_vivify",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=274586/invigorating-mists",
+    "links": [
+      65
+    ]
+  },
+  {
+    "id": 116645,
+    "name": "Teachings of the Monastery",
+    "icon": "passive_monk_teachingsofmonastery",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=116645/teachings-of-the-monastery",
+    "links": [
+      68,
+      87
+    ]
+  },
+  {
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 115310,
+      "name": "Revival",
+      "icon": "spell_monk_revival",
+      "url": "https://www.wowhead.com/beta/spell=115310/revival"
+    },
+    "right": {
+      "id": 388615,
+      "name": "Restoral",
+      "icon": "ability_monk_tigerstyle",
+      "url": "https://www.wowhead.com/beta/spell=388615/restoral"
+    },
+    "links": [
+      74,
+      76,
+      78
+    ]
+  },
+  {
+    "id": 198898,
+    "name": "Song of Chi-Ji",
+    "icon": "inv_chaos_orb",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=198898/song-of-chi-ji",
+    "links": [
+      78,
+      80
+    ]
+  },
+  {
+    "id": 281231,
+    "name": "Mastery of Mist",
+    "icon": "spell_nature_wispsplodegreen",
+    "capacity": 1,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=281231/mastery-of-mist",
+    "links": [
+      80,
+      99
+    ]
+  },
+  {
+    "id": 210802,
+    "name": "Spirit of the Crane",
+    "icon": "monk_stance_redcrane",
+    "capacity": 1,
+    "cell": 68,
+    "row": 5,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=210802/spirit-of-the-crane",
+    "links": [
+      87,
+      102
+    ]
+  },
+  {
+    "id": 388548,
+    "name": "Mists of Life",
+    "icon": "inv_shoulder__inv_leather_raidmonkmythic_s_01",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388548/mists-of-life",
+    "links": [
+      87,
+      91,
+      106
+    ]
+  },
+  {
+    "id": 388551,
+    "name": "Uplifted Spirits",
+    "icon": "monk_stance_wiseserpent",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388551/uplifted-spirits",
+    "links": [
+      91,
+      93
+    ]
+  },
+  {
+    "id": 337209,
+    "name": "Font of Life",
+    "icon": "inv_staff_2h_artifactmonkeyking_d_05",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=337209/font-of-life",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 124081,
+    "name": "Zen Pulse",
+    "icon": "ability_monk_forcesphere",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=124081/zen-pulse",
+    "links": [
+      93,
+      95
+    ]
+  },
+  {
+    "id": 122281,
+    "name": "Healing Elixir",
+    "icon": "ability_monk_jasmineforcetea",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=122281/healing-elixir",
+    "links": [
+      99,
+      114
+    ]
+  },
+  {
+    "id": 387765,
+    "name": "Nourishing Chi",
+    "icon": "inv_misc_gem_pearl_06",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387765/nourishing-chi",
+    "links": [
+      102,
+      106
+    ]
+  },
+  {
+    "id": 388511,
+    "name": "Overflowing Mists",
+    "icon": "inv_legion_faction_dreamweavers",
+    "capacity": 2,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388511/overflowing-mists",
+    "links": [
+      106,
+      108
+    ]
+  },
+  {
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 322118,
+      "name": "Invoke Yu'lon, the Jade Serpent",
+      "icon": "ability_monk_dragonkick",
+      "url": "https://www.wowhead.com/beta/spell=322118/invoke-yulon-the-jade-serpent"
+    },
+    "right": {
+      "id": 325197,
+      "name": "Invoke Chi-Ji, the Red Crane",
+      "icon": "inv_pet_cranegod",
+      "url": "https://www.wowhead.com/beta/spell=325197/invoke-chi-ji-the-red-crane"
+    },
+    "links": [
+      108,
+      110,
+      112
+    ]
+  },
+  {
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 388604,
+      "name": "Echoing Reverberation",
+      "icon": "ability_monk_legacyoftheemperor",
+      "url": "https://www.wowhead.com/beta/spell=388604/echoing-reverberation"
+    },
+    "right": {
+      "id": 388564,
+      "name": "Accumulating Mist",
+      "icon": "ability_monk_zenmeditation",
+      "url": "https://www.wowhead.com/beta/spell=388564/accumulating-mist"
+    },
+    "links": [
+      112,
+      114
+    ]
+  },
+  {
+    "id": 388847,
+    "name": "Rapid Diffusion",
+    "icon": "ability_monk_chiswirl",
+    "capacity": 2,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388847/rapid-diffusion",
+    "links": [
+      114,
+      133
+    ]
+  },
+  {
+    "id": 388218,
+    "name": "Calming Coalescence",
+    "icon": "ability_monk_healthsphere",
+    "capacity": 1,
+    "cell": 102,
+    "row": 7,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388218/calming-coalescence",
+    "links": [
+      121
+    ]
+  },
+  {
+    "id": 388038,
+    "name": "Yu'lon's Whisper",
+    "icon": "ability_monk_chiexplosion",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388038/yulons-whisper",
+    "links": [
+      121,
+      125
+    ]
+  },
+  {
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 197900,
+      "name": "Mist Wrap",
+      "icon": "ability_monk_pathofmists",
+      "url": "https://www.wowhead.com/beta/spell=197900/mist-wrap"
+    },
+    "right": {
+      "id": 196725,
+      "name": "Refreshing Jade Wind",
+      "icon": "ability_monk_rushingjadewind",
+      "url": "https://www.wowhead.com/beta/spell=196725/refreshing-jade-wind"
+    },
+    "links": [
+      125
+    ]
+  },
+  {
+    "id": 343655,
+    "name": "Enveloping Breath",
+    "icon": "ability_monk_jadeserpentbreath",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343655/enveloping-breath",
+    "links": [
+      125,
+      127
+    ]
+  },
+  {
+    "id": 388701,
+    "name": "Dancing Mists",
+    "icon": "ability_monk_serenity",
+    "capacity": 2,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388701/dancing-mists",
+    "links": [
+      131
+    ]
+  },
+  {
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 197915,
+      "name": "Lifecycles",
+      "icon": "ability_monk_souldance",
+      "url": "https://www.wowhead.com/beta/spell=197915/lifecycles"
+    },
+    "right": {
+      "id": 197908,
+      "name": "Mana Tea",
+      "icon": "monk_ability_cherrymanatea",
+      "url": "https://www.wowhead.com/beta/spell=197908/mana-tea"
+    },
+    "links": [
+      131,
+      133
+    ]
+  },
+  {
+    "id": 388193,
+    "name": "Faeline Stomp",
+    "icon": "ability_ardenweald_monk",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=388193/faeline-stomp",
+    "links": [
+      138
+    ]
+  },
+  {
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 388023,
+      "name": "Ancient Teachings",
+      "icon": "inv_misc_book_07",
+      "url": "https://www.wowhead.com/beta/spell=388023/ancient-teachings"
+    },
+    "right": {
+      "id": 388047,
+      "name": "Clouded Focus",
+      "icon": "ability_monk_soothingmists",
+      "url": "https://www.wowhead.com/beta/spell=388047/clouded-focus"
+    },
+    "links": [
+      142
+    ]
+  },
+  {
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 388031,
+      "name": "Jade Bond",
+      "icon": "inv_inscription_deck_jadeserpent",
+      "url": "https://www.wowhead.com/beta/spell=388031/jade-bond"
+    },
+    "right": {
+      "id": 388212,
+      "name": "Gift of the Celestials",
+      "icon": "inv_pet_jadeserpentpet",
+      "url": "https://www.wowhead.com/beta/spell=388212/gift-of-the-celestials"
+    },
+    "links": [
+      142,
+      144,
+      146
+    ]
+  },
+  {
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 197895,
+      "name": "Focused Thunder",
+      "icon": "spell_monk_nimblebrew",
+      "url": "https://www.wowhead.com/beta/spell=197895/focused-thunder"
+    },
+    "right": {
+      "id": 274963,
+      "name": "Upwelling",
+      "icon": "ability_monk_surgingmist",
+      "url": "https://www.wowhead.com/beta/spell=274963/upwelling"
+    },
+    "links": [
+      146,
+      150
+    ]
+  },
+  {
+    "id": 386276,
+    "name": "Bonedust Brew",
+    "icon": "ability_maldraxxus_monk",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=386276/bonedust-brew",
+    "links": [
+      150,
+      152
+    ]
+  },
+  {
+    "id": 388740,
+    "name": "Ancient Concordance",
+    "icon": "spell_animaardenweald_beam",
+    "capacity": 2,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388740/ancient-concordance",
+    "links": [
+      155,
+      157
+    ]
+  },
+  {
+    "id": 388020,
+    "name": "Resplendent Mist",
+    "icon": "spell_nature_abolishmagic",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388020/resplendent-mist",
+    "links": [
+      157,
+      161
+    ]
+  },
+  {
+    "id": 388491,
+    "name": "Secret Infusion",
+    "icon": "ability_monk_chibrew",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388491/secret-infusion",
+    "links": [
+      161,
+      163
+    ]
+  },
+  {
+    "id": 388682,
+    "name": "Misty Peaks",
+    "icon": "achievement_zone_stormpeaks_10",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388682/misty-peaks",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 388593,
+    "name": "Peaceful Mending",
+    "icon": "pandarenracial_innerpeace",
+    "capacity": 2,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388593/peaceful-mending",
+    "links": [
+      165
+    ]
+  },
+  {
+    "cell": 152,
+    "row": 9,
+    "column": 17,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 386949,
+      "name": "Bountiful Brew",
+      "icon": "ability_maldraxxus_monk",
+      "url": "https://www.wowhead.com/beta/spell=386949/bountiful-brew"
+    },
+    "right": {
+      "id": 386941,
+      "name": "Attenuation",
+      "icon": "spell_animamaldraxxus_nova",
+      "url": "https://www.wowhead.com/beta/spell=386941/attenuation"
+    }
+  },
+  {
+    "id": 388779,
+    "name": "Awakened Faeline",
+    "icon": "spell_animaardenweald_buff",
+    "capacity": 1,
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388779/awakened-faeline"
+  },
+  {
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 393460,
+      "name": "Tea of Serenity",
+      "icon": "inv_misc_food_vendor_roastedbarlytea",
+      "url": "https://www.wowhead.com/beta/spell=393460/tea-of-serenity"
+    },
+    "right": {
+      "id": 388517,
+      "name": "Tea of Plenty",
+      "icon": "inv_misc_pearlmilktea",
+      "url": "https://www.wowhead.com/beta/spell=388517/tea-of-plenty"
+    }
+  },
+  {
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 388477,
+      "name": "Unison",
+      "icon": "ability_creature_cursed_04",
+      "url": "https://www.wowhead.com/beta/spell=388477/unison"
+    },
+    "right": {
+      "id": 388509,
+      "name": "Mending Proliferation",
+      "icon": "inv_shoulder_inv_leather_raidmonk_s_01",
+      "url": "https://www.wowhead.com/beta/spell=388509/mending-proliferation"
+    }
+  },
+  {
+    "id": 388661,
+    "name": "Invoker's Delight",
+    "icon": "inv_inscription_80_warscroll_battleshout",
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388661/invokers-delight"
+  },
+  {
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 387991,
+      "name": "Tear of Morning",
+      "icon": "ability_monk_uplift",
+      "url": "https://www.wowhead.com/beta/spell=387991/tear-of-morning"
+    },
+    "right": {
+      "id": 274909,
+      "name": "Rising Mist",
+      "icon": "ability_monk_effuse",
+      "url": "https://www.wowhead.com/beta/spell=274909/rising-mist"
+    }
+  }
+]
