@@ -11,9 +11,26 @@ export default {
   argTypes: {},
 };
 
-const Template: Story<TalentTreeProps> = (args) => <TalentTree {...args} />;
+const SingleTemplate: Story<TalentTreeProps> = (args) => <TalentTree {...args} />;
+const DoubleTemplate: Story<{
+  left: TalentTreeProps;
+  right: TalentTreeProps;
+}> = (args) => {
+  return (
+    <>
+      <TalentTree {...args.left} />
+      <TalentTree {...args.right} />
+    </>
+  );
+};
 
-export const Primary = Template.bind({});
-Primary.args = {
+export const Single = SingleTemplate.bind({});
+Single.args = {
   talentNodes: Druid.BALANCE.TREE,
+};
+
+export const Double = DoubleTemplate.bind({});
+Double.args = {
+  left: { talentNodes: Druid.BALANCE.GENERAL, style: { width: "40%", display: "inline-grid" } },
+  right: { talentNodes: Druid.BALANCE.TREE, style: { width: "40%", display: "inline-grid" } },
 };
