@@ -1,0 +1,614 @@
+[
+  {
+    "id": 31935,
+    "name": "Avenger's Shield",
+    "icon": "spell_holy_avengersshield",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=31935/avengers-shield",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 53595,
+      "name": "Hammer of the Righteous",
+      "icon": "ability_paladin_hammeroftherighteous",
+      "url": "https://www.wowhead.com/beta/spell=53595/hammer-of-the-righteous"
+    },
+    "right": {
+      "id": 204019,
+      "name": "Blessed Hammer",
+      "icon": "paladin_retribution",
+      "url": "https://www.wowhead.com/beta/spell=204019/blessed-hammer"
+    },
+    "links": [
+      38,
+      42
+    ]
+  },
+  {
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 386568,
+      "name": "Inner Light",
+      "icon": "ability_paladin_shieldofvengeance",
+      "url": "https://www.wowhead.com/beta/spell=386568/inner-light"
+    },
+    "right": {
+      "id": 280373,
+      "name": "Redoubt",
+      "icon": "ability_warrior_shieldguard",
+      "url": "https://www.wowhead.com/beta/spell=280373/redoubt"
+    },
+    "links": [
+      42,
+      46
+    ]
+  },
+  {
+    "id": 152261,
+    "name": "Holy Shield",
+    "icon": "inv_shield_1h_hyrja_d_01",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=152261/holy-shield",
+    "links": [
+      55
+    ]
+  },
+  {
+    "id": 85043,
+    "name": "Grand Crusader",
+    "icon": "inv_helmet_74",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=85043/grand-crusader",
+    "links": [
+      57,
+      59,
+      61
+    ]
+  },
+  {
+    "id": 321136,
+    "name": "Shining Light",
+    "icon": "ability_paladin_toweroflight",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321136/shining-light",
+    "links": [
+      63
+    ]
+  },
+  {
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 204054,
+      "name": "Consecrated Ground",
+      "icon": "ability_paladin_righteousvengeance",
+      "url": "https://www.wowhead.com/beta/spell=204054/consecrated-ground"
+    },
+    "right": {
+      "id": 393027,
+      "name": "Improved Lay on Hands",
+      "icon": "spell_holy_layonhands",
+      "url": "https://www.wowhead.com/beta/spell=393027/improved-lay-on-hands"
+    },
+    "links": [
+      70,
+      74
+    ]
+  },
+  {
+    "id": 393022,
+    "name": "Inspiring Vanguard",
+    "icon": "inv_helmet_74",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393022/inspiring-vanguard",
+    "links": [
+      74
+    ]
+  },
+  {
+    "id": 31850,
+    "name": "Ardent Defender",
+    "icon": "spell_holy_ardentdefender",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=31850/ardent-defender",
+    "links": [
+      74,
+      76,
+      78
+    ]
+  },
+  {
+    "id": 385726,
+    "name": "Barricade of Faith",
+    "icon": "ability_paladin_barrieroffaith",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385726/barricade-of-faith",
+    "links": [
+      78
+    ]
+  },
+  {
+    "id": 379022,
+    "name": "Consecration in Flame",
+    "icon": "spell_fire_sealoffire",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=379022/consecration-in-flame",
+    "links": [
+      78,
+      82
+    ]
+  },
+  {
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 393030,
+      "name": "Improved Holy Shield",
+      "icon": "inv_shield_1h_hyrja_d_01",
+      "url": "https://www.wowhead.com/beta/spell=393030/improved-holy-shield"
+    },
+    "right": {
+      "id": 379021,
+      "name": "Sanctuary",
+      "icon": "spell_holy_innerfire",
+      "url": "https://www.wowhead.com/beta/spell=379021/sanctuary"
+    },
+    "links": [
+      89,
+      104
+    ]
+  },
+  {
+    "id": 209389,
+    "name": "Bulwark of Order",
+    "icon": "spell_holy_pureofheart",
+    "capacity": 2,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=209389/bulwark-of-order",
+    "links": [
+      89,
+      91,
+      93
+    ]
+  },
+  {
+    "id": 393114,
+    "name": "Improved Ardent Defender",
+    "icon": "spell_holy_ardentdefender",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393114/improved-ardent-defender",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 378405,
+    "name": "Light of the Titans",
+    "icon": "spell_paladin_lightofdawn",
+    "capacity": 2,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378405/light-of-the-titans",
+    "links": [
+      93,
+      95,
+      97
+    ]
+  },
+  {
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 393071,
+      "name": "Strength in Adversity",
+      "icon": "spell_holy_weaponmastery",
+      "url": "https://www.wowhead.com/beta/spell=393071/strength-in-adversity"
+    },
+    "right": {
+      "id": 380188,
+      "name": "Crusader's Resolve",
+      "icon": "ability_priest_angelicbulwark",
+      "url": "https://www.wowhead.com/beta/spell=380188/crusaders-resolve"
+    },
+    "links": [
+      97,
+      116
+    ]
+  },
+  {
+    "id": 378285,
+    "name": "Tyr's Enforcer",
+    "icon": "inv_summerfest_firespirit",
+    "capacity": 2,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378285/tyrs-enforcer",
+    "links": [
+      104,
+      108
+    ]
+  },
+  {
+    "id": 383388,
+    "name": "Relentless Inquisitor",
+    "icon": "spell_holy_mindvision",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383388/relentless-inquisitor",
+    "links": [
+      108,
+      110
+    ]
+  },
+  {
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 384442,
+      "name": "Avenging Wrath: Might",
+      "icon": "spell_holy_avenginewrath",
+      "url": "https://www.wowhead.com/beta/spell=384442/avenging-wrath-might"
+    },
+    "right": {
+      "id": 385438,
+      "name": "Sentinel",
+      "icon": "spell_holy_holynova",
+      "url": "https://www.wowhead.com/beta/spell=385438/sentinel"
+    },
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 315924,
+    "name": "Hand of the Protector",
+    "icon": "ability_paladin_blessedhands",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=315924/hand-of-the-protector",
+    "links": [
+      110,
+      112
+    ]
+  },
+  {
+    "id": 379008,
+    "name": "Strength of Conviction",
+    "icon": "spell_holy_eyeforaneye",
+    "capacity": 2,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=379008/strength-of-conviction",
+    "links": [
+      112,
+      116
+    ]
+  },
+  {
+    "id": 385422,
+    "name": "Resolute Defender",
+    "icon": "ability_crown_of_the_heavens_icon",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385422/resolute-defender",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 378974,
+    "name": "Bastion of Light",
+    "icon": "paladin_protection",
+    "capacity": 1,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=378974/bastion-of-light",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 86659,
+    "name": "Guardian of Ancient Kings",
+    "icon": "spell_holy_heroism",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=86659/guardian-of-ancient-kings",
+    "links": [
+      125,
+      127,
+      129
+    ]
+  },
+  {
+    "id": 204023,
+    "name": "Crusader's Judgment",
+    "icon": "ability_paladin_enlightenedjudgements",
+    "capacity": 1,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=204023/crusaders-judgment",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 378425,
+    "name": "Uther's Counsel",
+    "icon": "spell_holy_greaterblessingofsalvation",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378425/uthers-counsel",
+    "links": [
+      131
+    ]
+  },
+  {
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 378845,
+      "name": "Focused Enmity",
+      "icon": "ability_priest_flashoflight",
+      "url": "https://www.wowhead.com/beta/spell=378845/focused-enmity"
+    },
+    "right": {
+      "id": 378457,
+      "name": "Soaring Shield",
+      "icon": "spell_burningbladeshaman_lavaslash",
+      "url": "https://www.wowhead.com/beta/spell=378457/soaring-shield"
+    },
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 378279,
+    "name": "Gift of the Golden Val'kyr",
+    "icon": "inv_valkiergoldpet",
+    "capacity": 2,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378279/gift-of-the-golden-valkyr",
+    "links": [
+      140,
+      142
+    ]
+  },
+  {
+    "id": 387174,
+    "name": "Eye of Tyr",
+    "icon": "inv_shield_1h_artifactnorgannon_d_01",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=387174/eye-of-tyr",
+    "links": [
+      142,
+      146,
+      161
+    ]
+  },
+  {
+    "id": 204074,
+    "name": "Righteous Protector",
+    "icon": "ability_paladin_shieldofthetemplar",
+    "capacity": 2,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=204074/righteous-protector",
+    "links": [
+      146,
+      148
+    ]
+  },
+  {
+    "id": 379043,
+    "name": "Faith in the Light",
+    "icon": "spell_holy_redemption",
+    "capacity": 2,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=379043/faith-in-the-light",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 378762,
+    "name": "Ferren Marcus's Fervor",
+    "icon": "spell_holy_sealofwrath",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378762/ferren-marcuss-fervor",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 379017,
+    "name": "Faith's Armor",
+    "icon": "ability_paladin_shieldofvengeance",
+    "capacity": 1,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=379017/faiths-armor",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 204077,
+    "name": "Final Stand",
+    "icon": "spell_holy_crusade",
+    "capacity": 1,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=204077/final-stand",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 375576,
+    "name": "Divine Toll",
+    "icon": "ability_bastion_paladin",
+    "capacity": 1,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=375576/divine-toll",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 327193,
+    "name": "Moment of Glory",
+    "icon": "spell_holy_aspiration",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=327193/moment-of-glory"
+  },
+  {
+    "id": 386653,
+    "name": "Bulwark of Righteous Fury",
+    "icon": "spell_holy_sealofrighteousness",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386653/bulwark-of-righteous-fury"
+  },
+  {
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 386738,
+      "name": "Divine Resonance",
+      "icon": "ability_bastion_paladin",
+      "url": "https://www.wowhead.com/beta/spell=386738/divine-resonance"
+    },
+    "right": {
+      "id": 379391,
+      "name": "Quickened Invocations",
+      "icon": "spell_holy_pureofheart",
+      "url": "https://www.wowhead.com/beta/spell=379391/quickened-invocations"
+    }
+  }
+]

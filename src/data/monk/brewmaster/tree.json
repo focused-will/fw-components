@@ -1,0 +1,674 @@
+[
+  {
+    "id": 121253,
+    "name": "Keg Smash",
+    "icon": "achievement_brewery_2",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=121253/keg-smash",
+    "links": [
+      25
+    ]
+  },
+  {
+    "id": 115069,
+    "name": "Stagger",
+    "icon": "monk_stance_drunkenox",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=115069/stagger",
+    "links": [
+      40,
+      44
+    ]
+  },
+  {
+    "id": 119582,
+    "name": "Purifying Brew",
+    "icon": "inv_misc_beer_06",
+    "capacity": 1,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=119582/purifying-brew",
+    "links": [
+      55,
+      57,
+      59
+    ]
+  },
+  {
+    "id": 322120,
+    "name": "Shuffle",
+    "icon": "ability_monk_shuffle",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=322120/shuffle",
+    "links": [
+      59,
+      61,
+      63
+    ]
+  },
+  {
+    "id": 383695,
+    "name": "Hit Scheme",
+    "icon": "ability_monk_roundhousekick",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383695/hit-scheme",
+    "links": [
+      70,
+      72,
+      74
+    ]
+  },
+  {
+    "id": 124502,
+    "name": "Gift of the Ox",
+    "icon": "ability_druid_giftoftheearthmother",
+    "capacity": 2,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=124502/gift-of-the-ox",
+    "links": [
+      74
+    ]
+  },
+  {
+    "id": 122281,
+    "name": "Healing Elixir",
+    "icon": "ability_monk_jasmineforcetea",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=122281/healing-elixir",
+    "links": [
+      74,
+      78
+    ]
+  },
+  {
+    "id": 388505,
+    "name": "Quick Sip",
+    "icon": "achievement_faction_brewmaster",
+    "capacity": 2,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388505/quick-sip",
+    "links": [
+      78
+    ]
+  },
+  {
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 116847,
+      "name": "Rushing Jade Wind",
+      "icon": "ability_monk_rushingjadewind",
+      "url": "https://www.wowhead.com/beta/spell=116847/rushing-jade-wind"
+    },
+    "right": {
+      "id": 196730,
+      "name": "Special Delivery",
+      "icon": "achievement_brewery_2",
+      "url": "https://www.wowhead.com/beta/spell=196730/special-delivery"
+    },
+    "links": [
+      78,
+      80,
+      82
+    ]
+  },
+  {
+    "id": 325177,
+    "name": "Celestial Flames",
+    "icon": "inv_misc_volatilefire",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=325177/celestial-flames",
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 322507,
+    "name": "Celestial Brew",
+    "icon": "ability_monk_ironskinbrew",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=322507/celestial-brew",
+    "links": [
+      87,
+      89,
+      91
+    ]
+  },
+  {
+    "id": 387625,
+    "name": "Staggering Strikes",
+    "icon": "ability_monk_blackoutstrike",
+    "capacity": 2,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387625/staggering-strikes",
+    "links": [
+      91
+    ]
+  },
+  {
+    "id": 387256,
+    "name": "Graceful Exit",
+    "icon": "ability_rogue_sprint_blue",
+    "capacity": 2,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387256/graceful-exit",
+    "links": [
+      95
+    ]
+  },
+  {
+    "id": 115176,
+    "name": "Zen Meditation",
+    "icon": "ability_monk_zenmeditation",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=115176/zen-meditation",
+    "links": [
+      95,
+      97,
+      99
+    ]
+  },
+  {
+    "id": 324312,
+    "name": "Clash",
+    "icon": "ability_monk_clashingoxcharge",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=324312/clash",
+    "links": [
+      99
+    ]
+  },
+  {
+    "id": 115181,
+    "name": "Breath of Fire",
+    "icon": "ability_monk_breathoffire",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=115181/breath-of-fire",
+    "links": [
+      104,
+      106
+    ]
+  },
+  {
+    "id": 322510,
+    "name": "Improved Celestial Brew",
+    "icon": "ability_monk_ironskinbrew",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=322510/improved-celestial-brew"
+  },
+  {
+    "id": 343743,
+    "name": "Improved Purifying Brew",
+    "icon": "inv_misc_beer_06",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343743/improved-purifying-brew",
+    "links": [
+      106,
+      108,
+      110
+    ]
+  },
+  {
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 393357,
+      "name": "Tranquil Spirit",
+      "icon": "ability_monk_chiswirl",
+      "url": "https://www.wowhead.com/beta/spell=393357/tranquil-spirit"
+    },
+    "right": {
+      "id": 383700,
+      "name": "Gai Plin's Imperial Brew",
+      "icon": "inv_misc_beer_06",
+      "url": "https://www.wowhead.com/beta/spell=383700/gai-plins-imperial-brew"
+    },
+    "links": [
+      110,
+      112,
+      114
+    ]
+  },
+  {
+    "id": 387035,
+    "name": "Fundamental Observation",
+    "icon": "ability_monk_zenmeditation",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387035/fundamental-observation"
+  },
+  {
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 387638,
+      "name": "Shadowboxing Treads",
+      "icon": "ability_monk_roundhousekick",
+      "url": "https://www.wowhead.com/beta/spell=387638/shadowboxing-treads"
+    },
+    "right": {
+      "id": 387230,
+      "name": "Fluidity of Motion",
+      "icon": "ability_monk_standingkick",
+      "url": "https://www.wowhead.com/beta/spell=387230/fluidity-of-motion"
+    },
+    "links": [
+      114,
+      116
+    ]
+  },
+  {
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 383698,
+      "name": "Scalding Brew",
+      "icon": "spell_brew_bolt_dark",
+      "url": "https://www.wowhead.com/beta/spell=383698/scalding-brew"
+    },
+    "right": {
+      "id": 383697,
+      "name": "Sal'salabim's Strength",
+      "icon": "ability_warrior_unrelentingassault",
+      "url": "https://www.wowhead.com/beta/spell=383697/salsalabims-strength"
+    },
+    "links": [
+      121,
+      123
+    ]
+  },
+  {
+    "id": 322960,
+    "name": "Fortifying Brew",
+    "icon": "ability_monk_fortifyingale_new",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=322960/fortifying-brew",
+    "links": [
+      123
+    ]
+  },
+  {
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 115399,
+      "name": "Black Ox Brew",
+      "icon": "ability_monk_chibrew",
+      "url": "https://www.wowhead.com/beta/spell=115399/black-ox-brew"
+    },
+    "right": {
+      "id": 280515,
+      "name": "Bob and Weave",
+      "icon": "ability_creature_cursed_04",
+      "url": "https://www.wowhead.com/beta/spell=280515/bob-and-weave"
+    },
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 132578,
+    "name": "Invoke Niuzao, the Black Ox",
+    "icon": "spell_monk_brewmaster_spec",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=132578/invoke-niuzao-the-black-ox",
+    "links": [
+      125,
+      129
+    ]
+  },
+  {
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 325093,
+      "name": "Light Brewing",
+      "icon": "spell_brew_wheat",
+      "url": "https://www.wowhead.com/beta/spell=325093/light-brewing"
+    },
+    "right": {
+      "id": 383714,
+      "name": "Training of Niuzao",
+      "icon": "monk_stance_drunkenox",
+      "url": "https://www.wowhead.com/beta/spell=383714/training-of-niuzao"
+    },
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 393516,
+    "name": "Pretense of Instability",
+    "icon": "inv_misc_archaeology_vrykuldrinkinghorn",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393516/pretense-of-instability",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 389942,
+    "name": "Face Palm",
+    "icon": "ability_monk_tigerpalm",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389942/face-palm",
+    "links": [
+      131,
+      133
+    ]
+  },
+  {
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 383994,
+      "name": "Dragonfire Brew",
+      "icon": "spell_fire_burnout",
+      "url": "https://www.wowhead.com/beta/spell=383994/dragonfire-brew"
+    },
+    "right": {
+      "id": 386965,
+      "name": "Charred Passions",
+      "icon": "ability_monk_mightyoxkick",
+      "url": "https://www.wowhead.com/beta/spell=386965/charred-passions"
+    },
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 196737,
+    "name": "High Tolerance",
+    "icon": "monk_ability_avertharm",
+    "capacity": 2,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196737/high-tolerance",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 387219,
+    "name": "Walk with the Ox",
+    "icon": "monk_stance_drunkenox",
+    "capacity": 2,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387219/walk-with-the-ox",
+    "links": [
+      140,
+      142,
+      144
+    ]
+  },
+  {
+    "id": 387046,
+    "name": "Elusive Footwork",
+    "icon": "ability_monk_shuffle",
+    "capacity": 2,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387046/elusive-footwork",
+    "links": [
+      144,
+      146,
+      148
+    ]
+  },
+  {
+    "id": 386937,
+    "name": "Anvil & Stave",
+    "icon": "ability_monk_elusiveale",
+    "capacity": 2,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386937/anvil-stave",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 383785,
+    "name": "Counterstrike",
+    "icon": "ability_monk_palmstrike",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383785/counterstrike",
+    "links": [
+      148
+    ]
+  },
+  {
+    "id": 386276,
+    "name": "Bonedust Brew",
+    "icon": "ability_maldraxxus_monk",
+    "capacity": 1,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=386276/bonedust-brew",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 322740,
+    "name": "Invoke Niuzao, the Black Ox",
+    "icon": "spell_monk_brewmaster_spec",
+    "capacity": 1,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=322740/invoke-niuzao-the-black-ox",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 325153,
+    "name": "Exploding Keg",
+    "icon": "archaeology_5_0_emptykegofbrewfatherxinwoyin",
+    "capacity": 1,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=325153/exploding-keg",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 196736,
+    "name": "Blackout Combo",
+    "icon": "ability_monk_blackoutkick",
+    "capacity": 1,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196736/blackout-combo",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 387184,
+    "name": "Weapons of Order",
+    "icon": "ability_bastion_monk",
+    "capacity": 1,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=387184/weapons-of-order",
+    "links": [
+      165
+    ]
+  },
+  {
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 386949,
+      "name": "Bountiful Brew",
+      "icon": "ability_maldraxxus_monk",
+      "url": "https://www.wowhead.com/beta/spell=386949/bountiful-brew"
+    },
+    "right": {
+      "id": 386941,
+      "name": "Attenuation",
+      "icon": "spell_animamaldraxxus_nova",
+      "url": "https://www.wowhead.com/beta/spell=386941/attenuation"
+    }
+  },
+  {
+    "id": 383707,
+    "name": "Stormstout's Last Keg",
+    "icon": "achievement_brewery_2",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383707/stormstouts-last-keg"
+  },
+  {
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 356684,
+      "name": "Call to Arms",
+      "icon": "ability_bastion_monk",
+      "url": "https://www.wowhead.com/beta/spell=356684/call-to-arms"
+    },
+    "right": {
+      "id": 393400,
+      "name": "Chi Surge",
+      "icon": "ability_monk_chiexplosion",
+      "url": "https://www.wowhead.com/beta/spell=393400/chi-surge"
+    }
+  }
+]

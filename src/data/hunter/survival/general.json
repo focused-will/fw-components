@@ -1,0 +1,636 @@
+[
+  {
+    "id": 259489,
+    "name": "Kill Command",
+    "icon": "ability_hunter_killcommand",
+    "capacity": 0,
+    "cell": 4,
+    "row": 1,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=259489/kill-command",
+    "links": [
+      23,
+      38
+    ]
+  },
+  {
+    "id": 5116,
+    "name": "Concussive Shot",
+    "icon": "spell_frost_stun",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=5116/concussive-shot",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": 320976,
+    "name": "Kill Shot",
+    "icon": "ability_hunter_assassinate2",
+    "capacity": 1,
+    "cell": 12,
+    "row": 1,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=320976/kill-shot",
+    "links": [
+      27,
+      29
+    ]
+  },
+  {
+    "id": 199921,
+    "name": "Trailblazer",
+    "icon": "ability_hunter_aspectmastery",
+    "capacity": 2,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=199921/trailblazer",
+    "links": [
+      38,
+      42
+    ]
+  },
+  {
+    "id": 109215,
+    "name": "Posthaste",
+    "icon": "ability_hunter_posthaste",
+    "capacity": 2,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=109215/posthaste",
+    "links": [
+      42,
+      46
+    ]
+  },
+  {
+    "id": 343248,
+    "name": "Improved Kill Shot",
+    "icon": "ability_hunter_snipertraining",
+    "capacity": 1,
+    "cell": 29,
+    "row": 2,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343248/improved-kill-shot",
+    "links": [
+      46
+    ]
+  },
+  {
+    "id": 343242,
+    "name": "Wilderness Medicine",
+    "icon": "ability_hunter_mendpet",
+    "capacity": 2,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343242/wilderness-medicine",
+    "links": [
+      57,
+      72
+    ]
+  },
+  {
+    "id": 187707,
+    "name": "Muzzle",
+    "icon": "ability_hunter_negate",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=187707/muzzle",
+    "links": [
+      57,
+      59,
+      61
+    ]
+  },
+  {
+    "id": 270581,
+    "name": "Natural Mending",
+    "icon": "ability_hunter_onewithnature",
+    "capacity": 2,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=270581/natural-mending",
+    "links": [
+      61,
+      80
+    ]
+  },
+  {
+    "id": 187698,
+    "name": "Tar Trap",
+    "icon": "spell_yorsahj_bloodboil_black",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=187698/tar-trap",
+    "links": [
+      72,
+      74,
+      76
+    ]
+  },
+  {
+    "id": 34477,
+    "name": "Misdirection",
+    "icon": "ability_hunter_misdirection",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=34477/misdirection",
+    "links": [
+      76
+    ]
+  },
+  {
+    "id": 264735,
+    "name": "Survival of the Fittest",
+    "icon": "spell_nature_spiritarmor",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=264735/survival-of-the-fittest",
+    "links": [
+      76,
+      78,
+      80
+    ]
+  },
+  {
+    "id": 19801,
+    "name": "Tranquilizing Shot",
+    "icon": "spell_nature_drowsy",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=19801/tranquilizing-shot",
+    "links": [
+      87,
+      89,
+      91
+    ]
+  },
+  {
+    "id": 393344,
+    "name": "Entrapment",
+    "icon": "ability_ensnare",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393344/entrapment",
+    "links": [
+      91,
+      93
+    ]
+  },
+  {
+    "id": 343247,
+    "name": "Improved Traps",
+    "icon": "ability_hunter_traplauncher",
+    "capacity": 2,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343247/improved-traps",
+    "links": [
+      93
+    ]
+  },
+  {
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 388039,
+      "name": "Lone Survivor",
+      "icon": "ability_hunter_huntervswild",
+      "url": "https://www.wowhead.com/beta/spell=388039/lone-survivor"
+    },
+    "right": {
+      "id": 388042,
+      "name": "Nature's Endurance",
+      "icon": "spell_nature_protectionformnature",
+      "url": "https://www.wowhead.com/beta/spell=388042/natures-endurance"
+    },
+    "links": [
+      93,
+      95,
+      97
+    ]
+  },
+  {
+    "id": 266921,
+    "name": "Born To Be Wild",
+    "icon": "ability_hunter_aspectoftheviper",
+    "capacity": 2,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=266921/born-to-be-wild",
+    "links": [
+      97,
+      99
+    ]
+  },
+  {
+    "id": 1513,
+    "name": "Scare Beast",
+    "icon": "ability_druid_cower",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1513/scare-beast"
+  },
+  {
+    "id": 343244,
+    "name": "Improved Tranquilizing Shot",
+    "icon": "hunter_pvp_vipersting",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343244/improved-tranquilizing-shot",
+    "links": [
+      123
+    ]
+  },
+  {
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 19577,
+      "name": "Intimidation",
+      "icon": "ability_devour",
+      "url": "https://www.wowhead.com/beta/spell=19577/intimidation"
+    },
+    "right": {
+      "id": 236776,
+      "name": "High Explosive Trap",
+      "icon": "spell_fire_selfdestruct",
+      "url": "https://www.wowhead.com/beta/spell=236776/high-explosive-trap"
+    },
+    "links": [
+      108
+    ]
+  },
+  {
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 213691,
+      "name": "Scatter Shot",
+      "icon": "ability_golemstormbolt",
+      "url": "https://www.wowhead.com/beta/spell=213691/scatter-shot"
+    },
+    "right": {
+      "id": 109248,
+      "name": "Binding Shot",
+      "icon": "spell_shaman_bindelemental",
+      "url": "https://www.wowhead.com/beta/spell=109248/binding-shot"
+    },
+    "links": [
+      108,
+      110,
+      112
+    ]
+  },
+  {
+    "id": 385539,
+    "name": "Rejuvenating Wind",
+    "icon": "ability_druid_galewinds",
+    "capacity": 2,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385539/rejuvenating-wind",
+    "links": [
+      112
+    ]
+  },
+  {
+    "id": 199483,
+    "name": "Camouflage",
+    "icon": "ability_hunter_camouflage",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=199483/camouflage",
+    "links": [
+      112,
+      131
+    ]
+  },
+  {
+    "id": 393505,
+    "name": "Sentinel",
+    "icon": "ability_hunter_sentinelowl",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=393505/sentinel",
+    "links": [
+      116
+    ]
+  },
+  {
+    "id": 321468,
+    "name": "Binding Shackles",
+    "icon": "inv_misc_steelweaponchain",
+    "capacity": 1,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321468/binding-shackles",
+    "links": [
+      123,
+      127
+    ]
+  },
+  {
+    "id": 384799,
+    "name": "Hunter's Avoidance",
+    "icon": "rogue_burstofspeed",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384799/hunters-avoidance",
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 378002,
+    "name": "Pathfinding",
+    "icon": "ability_hunter_displacement",
+    "capacity": 2,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378002/pathfinding",
+    "links": [
+      127,
+      131
+    ]
+  },
+  {
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 388056,
+      "name": "Sentinel's Perception",
+      "icon": "spell_nature_sentinal",
+      "url": "https://www.wowhead.com/beta/spell=388056/sentinels-perception"
+    },
+    "right": {
+      "id": 388057,
+      "name": "Sentinel's Protection",
+      "icon": "ability_hunter_pet_owl",
+      "url": "https://www.wowhead.com/beta/spell=388057/sentinels-protection"
+    },
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 378007,
+    "name": "Beast Master",
+    "icon": "ability_hunter_catlikereflexes",
+    "capacity": 2,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378007/beast-master",
+    "links": [
+      138,
+      142
+    ]
+  },
+  {
+    "id": 378004,
+    "name": "Keen Eyesight",
+    "icon": "ability_hunter_silenthunter",
+    "capacity": 2,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378004/keen-eyesight",
+    "links": [
+      142,
+      146,
+      161
+    ]
+  },
+  {
+    "id": 260309,
+    "name": "Master Marksman",
+    "icon": "ability_hunter_mastermarksman",
+    "capacity": 2,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=260309/master-marksman",
+    "links": [
+      146,
+      150
+    ]
+  },
+  {
+    "id": 378010,
+    "name": "Improved Kill Command",
+    "icon": "ability_hunter_ferociousinspiration",
+    "capacity": 2,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378010/improved-kill-command",
+    "links": [
+      155
+    ]
+  },
+  {
+    "id": 389882,
+    "name": "Serrated Shots",
+    "icon": "ability_skeer_bloodletting",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389882/serrated-shots",
+    "links": [
+      159
+    ]
+  },
+  {
+    "id": 390231,
+    "name": "Arctic Bola",
+    "icon": "inv_engineering_90_bola",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390231/arctic-bola",
+    "links": [
+      163
+    ]
+  },
+  {
+    "id": 271788,
+    "name": "Serpent Sting",
+    "icon": "spell_hunter_exoticmunitions_poisoned",
+    "capacity": 1,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=271788/serpent-sting",
+    "links": [
+      167
+    ]
+  },
+  {
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 273887,
+      "name": "Killer Instinct",
+      "icon": "ability_hunter_killcommand",
+      "url": "https://www.wowhead.com/beta/spell=273887/killer-instinct"
+    },
+    "right": {
+      "id": 269737,
+      "name": "Alpha Predator",
+      "icon": "spell_druid_savagery",
+      "url": "https://www.wowhead.com/beta/spell=269737/alpha-predator"
+    }
+  },
+  {
+    "id": 162488,
+    "name": "Steel Trap",
+    "icon": "ability_hunter_steeltrap",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=162488/steel-trap"
+  },
+  {
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 201430,
+      "name": "Stampede",
+      "icon": "ability_hunter_bestialdiscipline",
+      "url": "https://www.wowhead.com/beta/spell=201430/stampede"
+    },
+    "right": {
+      "id": 375891,
+      "name": "Death Chakram",
+      "icon": "ability_maldraxxus_hunter",
+      "url": "https://www.wowhead.com/beta/spell=375891/death-chakram"
+    }
+  },
+  {
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 212431,
+      "name": "Explosive Shot",
+      "icon": "ability_hunter_explosiveshot",
+      "url": "https://www.wowhead.com/beta/spell=212431/explosive-shot"
+    },
+    "right": {
+      "id": 120360,
+      "name": "Barrage",
+      "icon": "ability_hunter_rapidregeneration",
+      "url": "https://www.wowhead.com/beta/spell=120360/barrage"
+    }
+  },
+  {
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 378014,
+      "name": "Poison Injection",
+      "icon": "ability_poisonarrow",
+      "url": "https://www.wowhead.com/beta/spell=378014/poison-injection"
+    },
+    "right": {
+      "id": 260241,
+      "name": "Hydra's Bite",
+      "icon": "inv_hydrasbite",
+      "url": "https://www.wowhead.com/beta/spell=260241/hydras-bite"
+    }
+  }
+]

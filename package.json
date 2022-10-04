@@ -22,6 +22,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "import": "node --loader ts-node/esm scripts/import.ts import ",
+    "bulk-import": "node --loader ts-node/esm scripts/import.ts bulk",
     "prepare": "husky install"
   },
   "author": "",

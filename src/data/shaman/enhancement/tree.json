@@ -1,0 +1,593 @@
+[
+  {
+    "id": 17364,
+    "name": "Stormstrike",
+    "icon": "ability_shaman_stormstrike",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=17364/stormstrike",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": 33757,
+    "name": "Windfury Weapon",
+    "icon": "spell_shaman_unleashweapon_wind",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=33757/windfury-weapon",
+    "links": [
+      38,
+      42,
+      57
+    ]
+  },
+  {
+    "id": 60103,
+    "name": "Lava Lash",
+    "icon": "ability_shaman_lavalash",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=60103/lava-lash",
+    "links": [
+      42,
+      46,
+      61
+    ]
+  },
+  {
+    "id": 262647,
+    "name": "Forceful Winds",
+    "icon": "spell_shaman_unleashweapon_wind",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=262647/forceful-winds",
+    "links": [
+      55,
+      57
+    ]
+  },
+  {
+    "id": 383303,
+    "name": "Improved Maelstrom Weapon",
+    "icon": "spell_shaman_maelstromweapon",
+    "capacity": 2,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383303/improved-maelstrom-weapon",
+    "links": [
+      57,
+      59,
+      61
+    ]
+  },
+  {
+    "id": 334033,
+    "name": "Molten Assault",
+    "icon": "spell_shaman_improvelavalash",
+    "capacity": 2,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=334033/molten-assault",
+    "links": [
+      61,
+      65
+    ]
+  },
+  {
+    "id": 390288,
+    "name": "Unruly Winds",
+    "icon": "ability_skyreach_wind_wall",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390288/unruly-winds",
+    "links": [
+      70,
+      74,
+      89
+    ]
+  },
+  {
+    "id": 196884,
+    "name": "Feral Lunge",
+    "icon": "spell_beastmaster_wolf",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=196884/feral-lunge",
+    "links": [
+      74
+    ]
+  },
+  {
+    "id": 384143,
+    "name": "Raging Maelstrom",
+    "icon": "spell_shaman_stormearthfire",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384143/raging-maelstrom",
+    "links": [
+      74,
+      76,
+      78
+    ]
+  },
+  {
+    "id": 342240,
+    "name": "Ice Strike",
+    "icon": "spell_frost_frostbolt",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=342240/ice-strike",
+    "links": [
+      78,
+      80
+    ]
+  },
+  {
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 334195,
+      "name": "Hailstorm",
+      "icon": "spell_frost_icestorm",
+      "url": "https://www.wowhead.com/beta/spell=334195/hailstorm"
+    },
+    "right": {
+      "id": 333974,
+      "name": "Fire Nova",
+      "icon": "spell_shaman_improvedfirenova",
+      "url": "https://www.wowhead.com/beta/spell=333974/fire-nova"
+    },
+    "links": [
+      80,
+      82
+    ]
+  },
+  {
+    "id": 384352,
+    "name": "Doom Winds",
+    "icon": "ability_ironmaidens_swirlingvortex",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=384352/doom-winds",
+    "links": [
+      89,
+      104
+    ]
+  },
+  {
+    "id": 197214,
+    "name": "Sundering",
+    "icon": "ability_rhyolith_lavapool",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=197214/sundering",
+    "links": [
+      89,
+      91,
+      93
+    ]
+  },
+  {
+    "id": 384149,
+    "name": "Overflowing Maelstrom",
+    "icon": "spell_shaman_maelstromweapon",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384149/overflowing-maelstrom",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 8512,
+    "name": "Windfury Totem",
+    "icon": "spell_nature_windfury",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=8512/windfury-totem",
+    "links": [
+      93,
+      97
+    ]
+  },
+  {
+    "id": 384359,
+    "name": "Swirling Maelstrom",
+    "icon": "spell_shadow_soulleech_2",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384359/swirling-maelstrom",
+    "links": [
+      97
+    ]
+  },
+  {
+    "id": 201900,
+    "name": "Hot Hand",
+    "icon": "spell_fire_playingwithfire",
+    "capacity": 2,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=201900/hot-hand",
+    "links": [
+      97,
+      99
+    ]
+  },
+  {
+    "id": 392352,
+    "name": "Storm's Wrath",
+    "icon": "spell_nature_stormreach",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392352/storms-wrath",
+    "links": [
+      104,
+      106,
+      108
+    ]
+  },
+  {
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 393905,
+      "name": "Refreshing Waters",
+      "icon": "ability_shaman_fortifyingwaters",
+      "url": "https://www.wowhead.com/beta/spell=393905/refreshing-waters"
+    },
+    "right": {
+      "id": 382197,
+      "name": "Ancestral Wolf Affinity",
+      "icon": "spell_beastmaster_wolf",
+      "url": "https://www.wowhead.com/beta/spell=382197/ancestral-wolf-affinity"
+    }
+  },
+  {
+    "id": 187874,
+    "name": "Crash Lightning",
+    "icon": "spell_shaman_crashlightning",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=187874/crash-lightning",
+    "links": [
+      108,
+      110,
+      112
+    ]
+  },
+  {
+    "id": 344357,
+    "name": "Stormflurry",
+    "icon": "ability_shaman_stormstrike",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=344357/stormflurry",
+    "links": [
+      112,
+      131
+    ]
+  },
+  {
+    "id": 390370,
+    "name": "Ashen Catalyst",
+    "icon": "spell_shaman_stormearthfire",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390370/ashen-catalyst",
+    "links": [
+      116
+    ]
+  },
+  {
+    "id": 394150,
+    "name": "Elemental Blast",
+    "icon": "shaman_talent_elementalblast",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=394150/elemental-blast",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 319930,
+    "name": "Stormblast",
+    "icon": "spell_shaman_focusedstrikes",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=319930/stormblast",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 384355,
+    "name": "Elemental Weapons",
+    "icon": "inv_mace_2h_draenorraid_d_03",
+    "capacity": 2,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384355/elemental-weapons",
+    "links": [
+      123,
+      127
+    ]
+  },
+  {
+    "id": 384363,
+    "name": "Gathering Storms",
+    "icon": "warrior_talent_icon_stormbolt",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384363/gathering-storms",
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 334308,
+    "name": "Crashing Storms",
+    "icon": "spell_nature_chainlightning",
+    "capacity": 1,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=334308/crashing-storms",
+    "links": [
+      127,
+      131
+    ]
+  },
+  {
+    "id": 334046,
+    "name": "Lashing Flames",
+    "icon": "spell_shaman_improvelavalash",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=334046/lashing-flames",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 375982,
+    "name": "Primordial Wave",
+    "icon": "ability_maldraxxus_shaman",
+    "capacity": 1,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=375982/primordial-wave",
+    "links": [
+      138,
+      142
+    ]
+  },
+  {
+    "id": 51533,
+    "name": "Feral Spirit",
+    "icon": "spell_shaman_feralspirit",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=51533/feral-spirit",
+    "links": [
+      142,
+      144,
+      146
+    ]
+  },
+  {
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 114051,
+      "name": "Ascendance",
+      "icon": "spell_fire_elementaldevastation",
+      "url": "https://www.wowhead.com/beta/spell=114051/ascendance"
+    },
+    "right": {
+      "id": 378270,
+      "name": "Deeply Rooted Elements",
+      "icon": "inv_misc_herb_liferoot_stem",
+      "url": "https://www.wowhead.com/beta/spell=378270/deeply-rooted-elements"
+    },
+    "links": [
+      146,
+      150
+    ]
+  },
+  {
+    "id": 384405,
+    "name": "Primal Maelstrom",
+    "icon": "shaman_talent_unleashedfury",
+    "capacity": 2,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384405/primal-maelstrom",
+    "links": [
+      155
+    ]
+  },
+  {
+    "id": 210853,
+    "name": "Elemental Assault",
+    "icon": "spell_shaman_improvedstormstrike",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=210853/elemental-assault"
+  },
+  {
+    "id": 384447,
+    "name": "Witch Doctor's Ancestry",
+    "icon": "inv_misc_bone_09",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384447/witch-doctors-ancestry",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 384450,
+    "name": "Legacy of the Frost Witch",
+    "icon": "ability_thunderking_thunderstruck",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384450/legacy-of-the-frost-witch"
+  },
+  {
+    "id": 384411,
+    "name": "Static Accumulation",
+    "icon": "spell_nature_callstorm",
+    "capacity": 2,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384411/static-accumulation",
+    "links": [
+      167
+    ]
+  },
+  {
+    "id": 382042,
+    "name": "Splintered Elements",
+    "icon": "spell_nature_elementalprecision_1",
+    "capacity": 1,
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382042/splintered-elements"
+  },
+  {
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 262624,
+      "name": "Elemental Spirits",
+      "icon": "spell_shaman_feralspirit",
+      "url": "https://www.wowhead.com/beta/spell=262624/elemental-spirits"
+    },
+    "right": {
+      "id": 198434,
+      "name": "Alpha Wolf",
+      "icon": "spell_beastmaster_wolf",
+      "url": "https://www.wowhead.com/beta/spell=198434/alpha-wolf"
+    }
+  },
+  {
+    "id": 384444,
+    "name": "Thorim's Invocation",
+    "icon": "spell_shaman_ancestralawakening",
+    "capacity": 1,
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384444/thorims-invocation"
+  }
+]

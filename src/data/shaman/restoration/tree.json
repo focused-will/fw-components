@@ -1,0 +1,650 @@
+[
+  {
+    "id": 61295,
+    "name": "Riptide",
+    "icon": "spell_nature_riptide",
+    "capacity": 1,
+    "cell": 7,
+    "row": 1,
+    "column": 8,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=61295/riptide",
+    "links": [
+      22,
+      24,
+      26
+    ]
+  },
+  {
+    "id": 200076,
+    "name": "Deluge",
+    "icon": "ability_shawaterelemental_reform",
+    "capacity": 2,
+    "cell": 22,
+    "row": 2,
+    "column": 6,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=200076/deluge",
+    "links": [
+      37,
+      39
+    ]
+  },
+  {
+    "id": 77472,
+    "name": "Healing Wave",
+    "icon": "spell_nature_healingwavelesser",
+    "capacity": 1,
+    "cell": 24,
+    "row": 2,
+    "column": 8,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=77472/healing-wave",
+    "links": [
+      39,
+      41,
+      43
+    ]
+  },
+  {
+    "id": 392916,
+    "name": "Healing Stream Totem",
+    "icon": "inv_spear_04",
+    "capacity": 1,
+    "cell": 26,
+    "row": 2,
+    "column": 10,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=392916/healing-stream-totem",
+    "links": [
+      43,
+      45
+    ]
+  },
+  {
+    "id": 73920,
+    "name": "Healing Rain",
+    "icon": "spell_nature_giftofthewaterspirit",
+    "capacity": 1,
+    "cell": 37,
+    "row": 3,
+    "column": 4,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=73920/healing-rain",
+    "links": [
+      52,
+      56
+    ]
+  },
+  {
+    "cell": 39,
+    "row": 3,
+    "column": 6,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 382197,
+      "name": "Ancestral Wolf Affinity",
+      "icon": "spell_beastmaster_wolf",
+      "url": "https://www.wowhead.com/beta/spell=382197/ancestral-wolf-affinity"
+    },
+    "right": {
+      "id": 383009,
+      "name": "Stormkeeper",
+      "icon": "ability_thunderking_lightningwhip",
+      "url": "https://www.wowhead.com/beta/spell=383009/stormkeeper"
+    },
+    "links": [
+      56
+    ]
+  },
+  {
+    "id": 52127,
+    "name": "Water Shield",
+    "icon": "ability_shaman_watershield",
+    "capacity": 1,
+    "cell": 41,
+    "row": 3,
+    "column": 8,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=52127/water-shield",
+    "links": [
+      56,
+      58
+    ]
+  },
+  {
+    "id": 378241,
+    "name": "Call of Thunder",
+    "icon": "ability_thunderking_balllightning",
+    "capacity": 1,
+    "cell": 43,
+    "row": 3,
+    "column": 10,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378241/call-of-thunder"
+  },
+  {
+    "id": 51564,
+    "name": "Tidal Waves",
+    "icon": "spell_shaman_tidalwaves",
+    "capacity": 1,
+    "cell": 45,
+    "row": 3,
+    "column": 12,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=51564/tidal-waves",
+    "links": [
+      60,
+      64
+    ]
+  },
+  {
+    "cell": 52,
+    "row": 4,
+    "column": 2,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 383222,
+      "name": "Overflowing Shores",
+      "icon": "spell_nature_giftofthewaterspirit",
+      "url": "https://www.wowhead.com/beta/spell=383222/overflowing-shores"
+    },
+    "right": {
+      "id": 378443,
+      "name": "Acid Rain",
+      "icon": "spell_nature_acid_01",
+      "url": "https://www.wowhead.com/beta/spell=378443/acid-rain"
+    },
+    "links": [
+      71,
+      86
+    ]
+  },
+  {
+    "id": 207401,
+    "name": "Ancestral Vigor",
+    "icon": "spell_shaman_blessingoftheeternals",
+    "capacity": 2,
+    "cell": 56,
+    "row": 4,
+    "column": 6,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=207401/ancestral-vigor",
+    "links": [
+      71,
+      75
+    ]
+  },
+  {
+    "id": 16196,
+    "name": "Resurgence",
+    "icon": "ability_shaman_watershield",
+    "capacity": 1,
+    "cell": 58,
+    "row": 4,
+    "column": 8,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=16196/resurgence",
+    "links": [
+      75
+    ]
+  },
+  {
+    "id": 280614,
+    "name": "Flash Flood",
+    "icon": "spell_frost_summonwaterelemental",
+    "capacity": 2,
+    "cell": 60,
+    "row": 4,
+    "column": 10,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=280614/flash-flood",
+    "links": [
+      75,
+      79
+    ]
+  },
+  {
+    "id": 382030,
+    "name": "Water Totem Mastery",
+    "icon": "ability_shaman_totemcooldownrefund",
+    "capacity": 1,
+    "cell": 64,
+    "row": 4,
+    "column": 14,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382030/water-totem-mastery",
+    "links": [
+      79,
+      83
+    ]
+  },
+  {
+    "cell": 71,
+    "row": 5,
+    "column": 4,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 382732,
+      "name": "Ancestral Reach",
+      "icon": "spell_nature_healingwavegreater",
+      "url": "https://www.wowhead.com/beta/spell=382732/ancestral-reach"
+    },
+    "right": {
+      "id": 382039,
+      "name": "Flow of the Tides",
+      "icon": "spell_frost_manarecharge",
+      "url": "https://www.wowhead.com/beta/spell=382039/flow-of-the-tides"
+    },
+    "links": [
+      86,
+      90
+    ]
+  },
+  {
+    "id": 98008,
+    "name": "Spirit Link Totem",
+    "icon": "spell_shaman_spiritlink",
+    "capacity": 1,
+    "cell": 75,
+    "row": 5,
+    "column": 8,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=98008/spirit-link-totem",
+    "links": [
+      90,
+      92,
+      94
+    ]
+  },
+  {
+    "cell": 79,
+    "row": 5,
+    "column": 12,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 378211,
+      "name": "Refreshing Waters",
+      "icon": "ability_shaman_fortifyingwaters",
+      "url": "https://www.wowhead.com/beta/spell=378211/refreshing-waters"
+    },
+    "right": {
+      "id": 16166,
+      "name": "Master of the Elements",
+      "icon": "spell_nature_elementalabsorption",
+      "url": "https://www.wowhead.com/beta/spell=16166/master-of-the-elements"
+    },
+    "links": [
+      94,
+      98
+    ]
+  },
+  {
+    "cell": 83,
+    "row": 5,
+    "column": 16,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 382482,
+      "name": "Living Stream",
+      "icon": "spell_nature_natureresistancetotem",
+      "url": "https://www.wowhead.com/beta/spell=382482/living-stream"
+    },
+    "right": {
+      "id": 157153,
+      "name": "Cloudburst Totem",
+      "icon": "ability_shaman_condensationtotem",
+      "url": "https://www.wowhead.com/beta/spell=157153/cloudburst-totem"
+    },
+    "links": [
+      98,
+      117
+    ]
+  },
+  {
+    "id": 381946,
+    "name": "Wavespeaker's Blessing",
+    "icon": "inv_alchemist_81_spiritedalchemiststone",
+    "capacity": 1,
+    "cell": 86,
+    "row": 6,
+    "column": 2,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381946/wavespeakers-blessing",
+    "links": [
+      105,
+      120
+    ]
+  },
+  {
+    "id": 108280,
+    "name": "Healing Tide Totem",
+    "icon": "ability_shaman_healingtide",
+    "capacity": 1,
+    "cell": 90,
+    "row": 6,
+    "column": 6,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=108280/healing-tide-totem",
+    "links": [
+      105,
+      109
+    ]
+  },
+  {
+    "id": 77756,
+    "name": "Lava Surge",
+    "icon": "spell_shaman_lavasurge",
+    "capacity": 1,
+    "cell": 92,
+    "row": 6,
+    "column": 8,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=77756/lava-surge",
+    "links": [
+      109
+    ]
+  },
+  {
+    "id": 16191,
+    "name": "Mana Tide Totem",
+    "icon": "ability_shaman_manatidetotem",
+    "capacity": 1,
+    "cell": 94,
+    "row": 6,
+    "column": 10,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=16191/mana-tide-totem",
+    "links": [
+      109,
+      113
+    ]
+  },
+  {
+    "id": 200072,
+    "name": "Torrent",
+    "icon": "spell_nature_riptide",
+    "capacity": 2,
+    "cell": 98,
+    "row": 6,
+    "column": 14,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=200072/torrent",
+    "links": [
+      113,
+      117
+    ]
+  },
+  {
+    "cell": 105,
+    "row": 7,
+    "column": 4,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 200071,
+      "name": "Undulation",
+      "icon": "spell_nature_healingway",
+      "url": "https://www.wowhead.com/beta/spell=200071/undulation"
+    },
+    "right": {
+      "id": 73685,
+      "name": "Unleash Life",
+      "icon": "spell_shaman_unleashweapon_life",
+      "url": "https://www.wowhead.com/beta/spell=73685/unleash-life"
+    },
+    "links": [
+      120,
+      124
+    ]
+  },
+  {
+    "id": 333919,
+    "name": "Echo of the Elements",
+    "icon": "ability_shaman_echooftheelements",
+    "capacity": 1,
+    "cell": 109,
+    "row": 7,
+    "column": 8,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=333919/echo-of-the-elements",
+    "links": [
+      124,
+      128
+    ]
+  },
+  {
+    "cell": 113,
+    "row": 7,
+    "column": 12,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 198838,
+      "name": "Earthen Wall Totem",
+      "icon": "spell_nature_stoneskintotem",
+      "url": "https://www.wowhead.com/beta/spell=198838/earthen-wall-totem"
+    },
+    "right": {
+      "id": 207399,
+      "name": "Ancestral Protection Totem",
+      "icon": "spell_nature_reincarnation",
+      "url": "https://www.wowhead.com/beta/spell=207399/ancestral-protection-totem"
+    },
+    "links": [
+      128,
+      132
+    ]
+  },
+  {
+    "id": 382021,
+    "name": "Earthliving Weapon",
+    "icon": "spell_shaman_giftearthmother",
+    "capacity": 1,
+    "cell": 117,
+    "row": 7,
+    "column": 16,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=382021/earthliving-weapon",
+    "links": [
+      132,
+      151
+    ]
+  },
+  {
+    "id": 375982,
+    "name": "Primordial Wave",
+    "icon": "ability_maldraxxus_shaman",
+    "capacity": 1,
+    "cell": 120,
+    "row": 8,
+    "column": 2,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=375982/primordial-wave",
+    "links": [
+      137,
+      139
+    ]
+  },
+  {
+    "id": 382309,
+    "name": "Ancestral Awakening",
+    "icon": "spell_shaman_ancestralawakening",
+    "capacity": 2,
+    "cell": 124,
+    "row": 8,
+    "column": 6,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382309/ancestral-awakening",
+    "links": [
+      139,
+      143,
+      158
+    ]
+  },
+  {
+    "id": 382020,
+    "name": "Earthen Harmony",
+    "icon": "spell_shaman_improvedearthshield",
+    "capacity": 2,
+    "cell": 128,
+    "row": 8,
+    "column": 10,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382020/earthen-harmony",
+    "links": [
+      143,
+      147,
+      162
+    ]
+  },
+  {
+    "id": 382194,
+    "name": "Undercurrent",
+    "icon": "spell_fire_bluehellfire",
+    "capacity": 2,
+    "cell": 132,
+    "row": 8,
+    "column": 14,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382194/undercurrent",
+    "links": [
+      147,
+      166
+    ]
+  },
+  {
+    "id": 382191,
+    "name": "Improved Primordial Wave",
+    "icon": "ability_maldraxxus_shaman",
+    "capacity": 2,
+    "cell": 137,
+    "row": 9,
+    "column": 2,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382191/improved-primordial-wave",
+    "links": [
+      154
+    ]
+  },
+  {
+    "id": 207778,
+    "name": "Downpour",
+    "icon": "ability_mage_waterjet",
+    "capacity": 1,
+    "cell": 139,
+    "row": 9,
+    "column": 4,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=207778/downpour"
+  },
+  {
+    "id": 382019,
+    "name": "Nature's Focus",
+    "icon": "spell_shaman_blessingofeternals",
+    "capacity": 1,
+    "cell": 143,
+    "row": 9,
+    "column": 8,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382019/natures-focus"
+  },
+  {
+    "id": 382029,
+    "name": "Ever-Rising Tide",
+    "icon": "inv_elemental_primal_water",
+    "capacity": 1,
+    "cell": 147,
+    "row": 9,
+    "column": 12,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=382029/ever-rising-tide"
+  },
+  {
+    "id": 382315,
+    "name": "Improved Earthliving Weapon",
+    "icon": "spell_shaman_giftearthmother",
+    "capacity": 2,
+    "cell": 151,
+    "row": 9,
+    "column": 16,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382315/improved-earthliving-weapon",
+    "links": [
+      166
+    ]
+  },
+  {
+    "cell": 154,
+    "row": 10,
+    "column": 2,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 382046,
+      "name": "Continuous Waves",
+      "icon": "spell_animabastion_wave",
+      "url": "https://www.wowhead.com/beta/spell=382046/continuous-waves"
+    },
+    "right": {
+      "id": 382040,
+      "name": "Tumbling Waves",
+      "icon": "spell_animamaldraxxus_wave",
+      "url": "https://www.wowhead.com/beta/spell=382040/tumbling-waves"
+    }
+  },
+  {
+    "cell": 158,
+    "row": 10,
+    "column": 6,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 382045,
+      "name": "Primal Tide Core",
+      "icon": "ability_shaman_repulsiontotem",
+      "url": "https://www.wowhead.com/beta/spell=382045/primal-tide-core"
+    },
+    "right": {
+      "id": 157154,
+      "name": "High Tide",
+      "icon": "spell_shaman_hightide",
+      "url": "https://www.wowhead.com/beta/spell=157154/high-tide"
+    }
+  },
+  {
+    "id": 114052,
+    "name": "Ascendance",
+    "icon": "spell_fire_elementaldevastation",
+    "capacity": 1,
+    "cell": 162,
+    "row": 10,
+    "column": 10,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=114052/ascendance"
+  },
+  {
+    "cell": 166,
+    "row": 10,
+    "column": 14,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 378270,
+      "name": "Deeply Rooted Elements",
+      "icon": "inv_misc_herb_liferoot_stem",
+      "url": "https://www.wowhead.com/beta/spell=378270/deeply-rooted-elements"
+    },
+    "right": {
+      "id": 197995,
+      "name": "Wellspring",
+      "icon": "ability_shawaterelemental_split",
+      "url": "https://www.wowhead.com/beta/spell=197995/wellspring"
+    }
+  }
+]

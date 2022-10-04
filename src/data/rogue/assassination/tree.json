@@ -1,0 +1,554 @@
+[
+  {
+    "id": 2823,
+    "name": "Deadly Poison",
+    "icon": "ability_rogue_dualweild",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=2823/deadly-poison",
+    "links": [
+      23,
+      25,
+      27
+    ]
+  },
+  {
+    "id": 319032,
+    "name": "Improved Shiv",
+    "icon": "inv_throwingknife_04",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=319032/improved-shiv",
+    "links": [
+      38,
+      40
+    ]
+  },
+  {
+    "id": 79134,
+    "name": "Venomous Wounds",
+    "icon": "ability_rogue_venomouswounds",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=79134/venomous-wounds",
+    "links": [
+      42
+    ]
+  },
+  {
+    "id": 394932,
+    "name": "Shadowstep",
+    "icon": "rogue_shadowfocus",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=394932/shadowstep",
+    "links": [
+      44,
+      46
+    ]
+  },
+  {
+    "id": 51667,
+    "name": "Cut to the Chase",
+    "icon": "ability_rogue_cuttothechase",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=51667/cut-to-the-chase",
+    "links": [
+      53,
+      57
+    ]
+  },
+  {
+    "id": 193640,
+    "name": "Elaborate Planning",
+    "icon": "inv_misc_map08",
+    "capacity": 2,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=193640/elaborate-planning",
+    "links": [
+      57
+    ]
+  },
+  {
+    "id": 381624,
+    "name": "Improved Poisons",
+    "icon": "ability_poisons",
+    "capacity": 2,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381624/improved-poisons",
+    "links": [
+      57,
+      59,
+      61
+    ]
+  },
+  {
+    "id": 381626,
+    "name": "Bloody Mess",
+    "icon": "ability_rogue_rupture",
+    "capacity": 2,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381626/bloody-mess",
+    "links": [
+      61
+    ]
+  },
+  {
+    "id": 381627,
+    "name": "Internal Bleeding",
+    "icon": "ability_rogue_bloodsplatter",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381627/internal-bleeding",
+    "links": [
+      61,
+      65
+    ]
+  },
+  {
+    "id": 381629,
+    "name": "Thrown Precision",
+    "icon": "ability_hunter_cobrashot",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381629/thrown-precision",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 394983,
+    "name": "Lightweight Shiv",
+    "icon": "inv_throwingknife_04",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=394983/lightweight-shiv",
+    "links": [
+      72,
+      74,
+      76
+    ]
+  },
+  {
+    "id": 392384,
+    "name": "Fatal Concoction",
+    "icon": "ability_creature_poison_06",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392384/fatal-concoction",
+    "links": [
+      76
+    ]
+  },
+  {
+    "id": 381632,
+    "name": "Improved Garrote",
+    "icon": "ability_rogue_garrote",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381632/improved-garrote",
+    "links": [
+      76,
+      78,
+      80
+    ]
+  },
+  {
+    "id": 381630,
+    "name": "Intent to Kill",
+    "icon": "ability_rogue_bloodyeye",
+    "capacity": 1,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381630/intent-to-kill",
+    "links": [
+      80
+    ]
+  },
+  {
+    "id": 121411,
+    "name": "Crimson Tempest",
+    "icon": "inv_knife_1h_cataclysm_c_05",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=121411/crimson-tempest",
+    "links": [
+      89
+    ]
+  },
+  {
+    "id": 152152,
+    "name": "Venom Rush",
+    "icon": "rogue_venomzest",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=152152/venom-rush",
+    "links": [
+      89,
+      91
+    ]
+  },
+  {
+    "id": 360194,
+    "name": "Deathmark",
+    "icon": "ability_rogue_deathmark",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=360194/deathmark",
+    "links": [
+      91,
+      95,
+      109,
+      111
+    ]
+  },
+  {
+    "id": 255989,
+    "name": "Master Assassin",
+    "icon": "ability_criticalstrike",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=255989/master-assassin",
+    "links": [
+      95,
+      97
+    ]
+  },
+  {
+    "id": 200806,
+    "name": "Exsanguinate",
+    "icon": "ability_deathwing_bloodcorruption_earth",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=200806/exsanguinate",
+    "links": [
+      97
+    ]
+  },
+  {
+    "id": 381631,
+    "name": "Flying Daggers",
+    "icon": "ability_rogue_fanofknives",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381631/flying-daggers",
+    "links": [
+      106
+    ]
+  },
+  {
+    "id": 381634,
+    "name": "Vicious Venoms",
+    "icon": "ability_rogue_deadlybrew",
+    "capacity": 2,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381634/vicious-venoms",
+    "links": [
+      106,
+      125
+    ]
+  },
+  {
+    "id": 381640,
+    "name": "Lethal Dose",
+    "icon": "ability_rogue_deviouspoisons",
+    "capacity": 2,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381640/lethal-dose",
+    "links": [
+      114,
+      129
+    ]
+  },
+  {
+    "id": 196861,
+    "name": "Iron Wire",
+    "icon": "inv_jewelcrafting_delicatecopperwire",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196861/iron-wire",
+    "links": [
+      114
+    ]
+  },
+  {
+    "id": 381652,
+    "name": "Systemic Failure",
+    "icon": "ability_skeer_bloodletting",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381652/systemic-failure",
+    "links": [
+      123,
+      125
+    ]
+  },
+  {
+    "id": 381664,
+    "name": "Amplifying Poison",
+    "icon": "inv_misc_herb_fellotus",
+    "capacity": 1,
+    "cell": 109,
+    "row": 7,
+    "column": 8,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=381664/amplifying-poison",
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 381669,
+    "name": "Twist the Knife",
+    "icon": "ability_rogue_bladetwisting",
+    "capacity": 1,
+    "cell": 111,
+    "row": 7,
+    "column": 10,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381669/twist-the-knife",
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 381673,
+    "name": "Doomblade",
+    "icon": "ability_deathwing_bloodcorruption_earth",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381673/doomblade",
+    "links": [
+      129,
+      131
+    ]
+  },
+  {
+    "id": 328085,
+    "name": "Blindside",
+    "icon": "ability_rogue_focusedattacks",
+    "capacity": 1,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=328085/blindside",
+    "links": [
+      142
+    ]
+  },
+  {
+    "id": 381800,
+    "name": "Tiny Toxic Blade",
+    "icon": "ability_rogue_poisonedknife",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381800/tiny-toxic-blade",
+    "links": [
+      142
+    ]
+  },
+  {
+    "id": 255544,
+    "name": "Poison Bomb",
+    "icon": "rogue_paralytic_poison",
+    "capacity": 2,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=255544/poison-bomb",
+    "links": [
+      144
+    ]
+  },
+  {
+    "id": 385478,
+    "name": "Shrouded Suffocation",
+    "icon": "ability_rogue_garrote",
+    "capacity": 1,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385478/shrouded-suffocation",
+    "links": [
+      146
+    ]
+  },
+  {
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 385408,
+      "name": "Sepsis",
+      "icon": "ability_ardenweald_rogue",
+      "url": "https://www.wowhead.com/beta/spell=385408/sepsis"
+    },
+    "right": {
+      "id": 385424,
+      "name": "Serrated Bone Spike",
+      "icon": "ability_maldraxxus_rogue",
+      "url": "https://www.wowhead.com/beta/spell=385424/serrated-bone-spike"
+    },
+    "links": [
+      146
+    ]
+  },
+  {
+    "id": 381798,
+    "name": "Zoldyck Recipe",
+    "icon": "archaeology_5_0_thunderkinginsignia",
+    "capacity": 3,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381798/zoldyck-recipe",
+    "links": [
+      159
+    ]
+  },
+  {
+    "id": 381797,
+    "name": "Dashing Scoundrel",
+    "icon": "ability_rogue_venomouswounds",
+    "capacity": 3,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381797/dashing-scoundrel",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 381799,
+    "name": "Scent of Blood",
+    "icon": "ability_rogue_rupture",
+    "capacity": 3,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381799/scent-of-blood",
+    "links": [
+      163
+    ]
+  },
+  {
+    "id": 385627,
+    "name": "Kingsbane",
+    "icon": "inv_knife_1h_artifactgarona_d_01",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=385627/kingsbane"
+  },
+  {
+    "id": 381801,
+    "name": "Dragon-Tempered Blades",
+    "icon": "spell_fire_flameblades",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381801/dragon-tempered-blades"
+  },
+  {
+    "id": 381802,
+    "name": "Indiscriminate Carnage",
+    "icon": "ability_rogue_indiscriminatecarnage",
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=381802/indiscriminate-carnage"
+  }
+]

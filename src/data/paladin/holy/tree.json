@@ -1,0 +1,686 @@
+[
+  {
+    "id": 20473,
+    "name": "Holy Shock",
+    "icon": "spell_holy_searinglight",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=20473/holy-shock",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": 82326,
+    "name": "Holy Light",
+    "icon": "spell_holy_surgeoflight",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=82326/holy-light",
+    "links": [
+      38,
+      42
+    ]
+  },
+  {
+    "id": 85222,
+    "name": "Light of Dawn",
+    "icon": "spell_paladin_lightofdawn",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=85222/light-of-dawn",
+    "links": [
+      42,
+      46
+    ]
+  },
+  {
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 387993,
+      "name": "Illumination",
+      "icon": "spell_paladin_clarityofpurpose",
+      "url": "https://www.wowhead.com/beta/spell=387993/illumination"
+    },
+    "right": {
+      "id": 392914,
+      "name": "Divine Insight",
+      "icon": "spell_holy_pureofheart",
+      "url": "https://www.wowhead.com/beta/spell=392914/divine-insight"
+    },
+    "links": [
+      53,
+      57,
+      72
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Divine Protection",
+    "icon": "spell_holy_divineprotection",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=498/divine-protection",
+    "links": [
+      59
+    ]
+  },
+  {
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 387998,
+      "name": "Unending Light",
+      "icon": "spell_holy_holybolt",
+      "url": "https://www.wowhead.com/beta/spell=387998/unending-light"
+    },
+    "right": {
+      "id": 223306,
+      "name": "Bestow Faith",
+      "icon": "ability_paladin_blessedmending",
+      "url": "https://www.wowhead.com/beta/spell=223306/bestow-faith"
+    },
+    "links": [
+      61,
+      65,
+      80
+    ]
+  },
+  {
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 387786,
+      "name": "Moment of Compassion",
+      "icon": "spell_holy_flashheal",
+      "url": "https://www.wowhead.com/beta/spell=387786/moment-of-compassion"
+    },
+    "right": {
+      "id": 392902,
+      "name": "Resplendent Light",
+      "icon": "ability_priest_voidshift",
+      "url": "https://www.wowhead.com/beta/spell=392902/resplendent-light"
+    },
+    "links": [
+      68
+    ]
+  },
+  {
+    "id": 392928,
+    "name": "Tirion's Devotion",
+    "icon": "spell_holy_holyguidance",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392928/tirions-devotion",
+    "links": [
+      91
+    ]
+  },
+  {
+    "id": 31821,
+    "name": "Aura Mastery",
+    "icon": "spell_holy_auramastery",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=31821/aura-mastery",
+    "links": [
+      76
+    ]
+  },
+  {
+    "id": 387791,
+    "name": "Empyreal Ward",
+    "icon": "spell_holy_layonhands",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387791/empyreal-ward",
+    "links": [
+      95
+    ]
+  },
+  {
+    "id": 214202,
+    "name": "Rule of Law",
+    "icon": "ability_paladin_longarmofthelaw",
+    "capacity": 1,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=214202/rule-of-law",
+    "links": [
+      99
+    ]
+  },
+  {
+    "id": 210294,
+    "name": "Divine Favor",
+    "icon": "spell_holy_heal",
+    "capacity": 1,
+    "cell": 68,
+    "row": 5,
+    "column": 1,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=210294/divine-favor",
+    "links": [
+      87,
+      102
+    ]
+  },
+  {
+    "id": 388005,
+    "name": "Shining Savior",
+    "icon": "ability_paladin_sacredcleansing",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388005/shining-savior",
+    "links": [
+      87,
+      89,
+      91
+    ]
+  },
+  {
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 392911,
+      "name": "Unwavering Spirit",
+      "icon": "spell_holy_fanaticism",
+      "url": "https://www.wowhead.com/beta/spell=392911/unwavering-spirit"
+    },
+    "right": {
+      "id": 200430,
+      "name": "Protection of Tyr",
+      "icon": "spell_holy_auramastery",
+      "url": "https://www.wowhead.com/beta/spell=200430/protection-of-tyr"
+    },
+    "links": [
+      91,
+      95
+    ]
+  },
+  {
+    "id": 392961,
+    "name": "Imbued Infusions",
+    "icon": "ability_priest_flashoflight",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392961/imbued-infusions",
+    "links": [
+      95,
+      97,
+      99
+    ]
+  },
+  {
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 114158,
+      "name": "Light's Hammer",
+      "icon": "spell_paladin_lightshammer",
+      "url": "https://www.wowhead.com/beta/spell=114158/lights-hammer"
+    },
+    "right": {
+      "id": 114165,
+      "name": "Holy Prism",
+      "icon": "spell_paladin_holyprism",
+      "url": "https://www.wowhead.com/beta/spell=114165/holy-prism"
+    },
+    "links": [
+      102,
+      106
+    ]
+  },
+  {
+    "id": 157047,
+    "name": "Saved by the Light",
+    "icon": "ability_paladin_savedbythelight",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=157047/saved-by-the-light",
+    "links": [
+      106
+    ]
+  },
+  {
+    "id": 231667,
+    "name": "Radiant Onslaught",
+    "icon": "spell_holy_crusaderstrike",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=231667/radiant-onslaught",
+    "links": [
+      106,
+      110
+    ]
+  },
+  {
+    "id": 231642,
+    "name": "Tower of Radiance",
+    "icon": "ability_paladin_beaconoflight",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=231642/tower-of-radiance",
+    "links": [
+      110,
+      114
+    ]
+  },
+  {
+    "id": 387801,
+    "name": "Echoing Blessings",
+    "icon": "achievement_dungeon_heroic_gloryoftheraider",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387801/echoing-blessings",
+    "links": [
+      114
+    ]
+  },
+  {
+    "id": 219562,
+    "name": "Light of the Martyr",
+    "icon": "spell_holy_power",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=219562/light-of-the-martyr",
+    "links": [
+      114,
+      118
+    ]
+  },
+  {
+    "id": 387808,
+    "name": "Divine Revelations",
+    "icon": "ability_paladin_infusionoflight",
+    "capacity": 1,
+    "cell": 102,
+    "row": 7,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387808/divine-revelations",
+    "links": [
+      121
+    ]
+  },
+  {
+    "id": 387781,
+    "name": "Commanding Light",
+    "icon": "ability_paladin_beaconoflight",
+    "capacity": 2,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387781/commanding-light",
+    "links": [
+      121,
+      123,
+      125
+    ]
+  },
+  {
+    "id": 200482,
+    "name": "Second Sunrise",
+    "icon": "spell_holy_lightsgrace",
+    "capacity": 2,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=200482/second-sunrise",
+    "links": [
+      125,
+      127,
+      129
+    ]
+  },
+  {
+    "id": 387805,
+    "name": "Divine Glimpse",
+    "icon": "achievement_dungeon_heroic_gloryoftheraider",
+    "capacity": 2,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387805/divine-glimpse",
+    "links": [
+      129,
+      131,
+      133
+    ]
+  },
+  {
+    "id": 387814,
+    "name": "Untempered Dedication",
+    "icon": "achievement_admiral_of_the_light",
+    "capacity": 1,
+    "cell": 118,
+    "row": 7,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387814/untempered-dedication",
+    "links": [
+      133,
+      135
+    ]
+  },
+  {
+    "id": 375576,
+    "name": "Divine Toll",
+    "icon": "ability_bastion_paladin",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=375576/divine-toll",
+    "links": [
+      136,
+      140
+    ]
+  },
+  {
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 156910,
+      "name": "Beacon of Faith",
+      "icon": "ability_paladin_beaconsoflight",
+      "url": "https://www.wowhead.com/beta/spell=156910/beacon-of-faith"
+    },
+    "right": {
+      "id": 200025,
+      "name": "Beacon of Virtue",
+      "icon": "ability_paladin_beaconofinsight",
+      "url": "https://www.wowhead.com/beta/spell=200025/beacon-of-virtue"
+    },
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 392938,
+    "name": "Veneration",
+    "icon": "ability_crown_of_the_heavens_icon",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392938/veneration",
+    "links": [
+      140,
+      144
+    ]
+  },
+  {
+    "id": 387879,
+    "name": "Breaking Dawn",
+    "icon": "spell_holy_rune",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387879/breaking-dawn",
+    "links": [
+      144
+    ]
+  },
+  {
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 384442,
+      "name": "Avenging Wrath: Might",
+      "icon": "spell_holy_avenginewrath",
+      "url": "https://www.wowhead.com/beta/spell=384442/avenging-wrath-might"
+    },
+    "right": {
+      "id": 394088,
+      "name": "Avenging Crusader",
+      "icon": "ability_paladin_veneration",
+      "url": "https://www.wowhead.com/beta/spell=394088/avenging-crusader"
+    },
+    "links": [
+      144,
+      148
+    ]
+  },
+  {
+    "id": 200474,
+    "name": "Power of the Silver Hand",
+    "icon": "ability_paladin_blessedhands",
+    "capacity": 1,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=200474/power-of-the-silver-hand",
+    "links": [
+      148,
+      150
+    ]
+  },
+  {
+    "id": 148039,
+    "name": "Barrier of Faith",
+    "icon": "ability_paladin_barrieroffaith",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=148039/barrier-of-faith",
+    "links": [
+      150
+    ]
+  },
+  {
+    "id": 388018,
+    "name": "Maraad's Dying Breath",
+    "icon": "paladin_icon_speedoflight",
+    "capacity": 1,
+    "cell": 135,
+    "row": 8,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388018/maraads-dying-breath",
+    "links": [
+      150
+    ]
+  },
+  {
+    "id": 387893,
+    "name": "Divine Resonance",
+    "icon": "ability_bastion_paladin",
+    "capacity": 1,
+    "cell": 136,
+    "row": 9,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387893/divine-resonance",
+    "links": [
+      155
+    ]
+  },
+  {
+    "id": 196926,
+    "name": "Crusader's Might",
+    "icon": "ability_paladin_swiftretribution",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196926/crusaders-might",
+    "links": [
+      155,
+      159
+    ]
+  },
+  {
+    "id": 248033,
+    "name": "Awakening",
+    "icon": "inv_helm_plate_raidpaladin_n_01",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=248033/awakening",
+    "links": [
+      159,
+      163
+    ]
+  },
+  {
+    "id": 383388,
+    "name": "Relentless Inquisitor",
+    "icon": "spell_holy_mindvision",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383388/relentless-inquisitor",
+    "links": [
+      163
+    ]
+  },
+  {
+    "id": 200652,
+    "name": "Tyr's Deliverance",
+    "icon": "inv_mace_2h_artifactsilverhand_d_01",
+    "capacity": 1,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=200652/tyrs-deliverance",
+    "links": [
+      167
+    ]
+  },
+  {
+    "id": 325966,
+    "name": "Glimmer of Light",
+    "icon": "ability_paladin_toweroflight",
+    "capacity": 1,
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=325966/glimmer-of-light"
+  },
+  {
+    "id": 388007,
+    "name": "Blessing of Summer",
+    "icon": "ability_ardenweald_paladin_summer",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=388007/blessing-of-summer"
+  },
+  {
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 392907,
+      "name": "Inflorescence of the Sunwell",
+      "icon": "spell_lfieblood",
+      "url": "https://www.wowhead.com/beta/spell=392907/inflorescence-of-the-sunwell"
+    },
+    "right": {
+      "id": 387170,
+      "name": "Empyrean Legacy",
+      "icon": "item_holyspark",
+      "url": "https://www.wowhead.com/beta/spell=387170/empyrean-legacy"
+    }
+  },
+  {
+    "id": 392951,
+    "name": "Boundless Salvation",
+    "icon": "ability_paladin_selflesshealer",
+    "capacity": 1,
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392951/boundless-salvation"
+  }
+]

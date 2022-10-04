@@ -1,0 +1,761 @@
+[
+  {
+    "id": 386164,
+    "name": "Battle Stance",
+    "icon": "ability_warrior_offensivestance",
+    "capacity": 0,
+    "cell": 4,
+    "row": 1,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=386164/battle-stance",
+    "links": [
+      19,
+      21,
+      25
+    ]
+  },
+  {
+    "id": 386208,
+    "name": "Defensive Stance",
+    "icon": "ability_warrior_defensivestance",
+    "capacity": 1,
+    "cell": 12,
+    "row": 1,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=386208/defensive-stance",
+    "links": [
+      25,
+      29,
+      31
+    ]
+  },
+  {
+    "id": 18499,
+    "name": "Berserker Rage",
+    "icon": "spell_nature_ancestralguardian",
+    "capacity": 1,
+    "cell": 19,
+    "row": 2,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=18499/berserker-rage",
+    "links": [
+      36,
+      38
+    ]
+  },
+  {
+    "id": 202168,
+    "name": "Impending Victory",
+    "icon": "spell_impending_victory",
+    "capacity": 1,
+    "cell": 21,
+    "row": 2,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=202168/impending-victory",
+    "links": [
+      38
+    ]
+  },
+  {
+    "id": 262231,
+    "name": "War Machine",
+    "icon": "ability_hunter_rapidkilling",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=262231/war-machine",
+    "links": [
+      38,
+      42,
+      46
+    ]
+  },
+  {
+    "id": 3411,
+    "name": "Intervene",
+    "icon": "ability_warrior_victoryrush",
+    "capacity": 1,
+    "cell": 29,
+    "row": 2,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=3411/intervene",
+    "links": [
+      46
+    ]
+  },
+  {
+    "id": 97462,
+    "name": "Rallying Cry",
+    "icon": "ability_warrior_rallyingcry",
+    "capacity": 1,
+    "cell": 31,
+    "row": 2,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=97462/rallying-cry",
+    "links": [
+      46,
+      48
+    ]
+  },
+  {
+    "cell": 36,
+    "row": 3,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 384100,
+      "name": "Berserker Shout",
+      "icon": "spell_nature_ancestralguardian",
+      "url": "https://www.wowhead.com/beta/spell=384100/berserker-shout"
+    },
+    "right": {
+      "id": 12323,
+      "name": "Piercing Howl",
+      "icon": "spell_shadow_deathscream",
+      "url": "https://www.wowhead.com/beta/spell=12323/piercing-howl"
+    },
+    "links": [
+      53
+    ]
+  },
+  {
+    "id": 382260,
+    "name": "Fast Footwork",
+    "icon": "ability_hunter_posthaste",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382260/fast-footwork",
+    "links": [
+      53,
+      57
+    ]
+  },
+  {
+    "id": 23920,
+    "name": "Spell Reflection",
+    "icon": "ability_warrior_shieldreflection",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=23920/spell-reflection",
+    "links": [
+      57,
+      59,
+      61
+    ]
+  },
+  {
+    "id": 382258,
+    "name": "Leeching Strikes",
+    "icon": "inv_artifact_bloodoftheassassinated",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382258/leeching-strikes",
+    "links": [
+      61,
+      65
+    ]
+  },
+  {
+    "cell": 48,
+    "row": 3,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 382310,
+      "name": "Inspiring Presence",
+      "icon": "ability_toughness",
+      "url": "https://www.wowhead.com/beta/spell=382310/inspiring-presence"
+    },
+    "right": {
+      "id": 29838,
+      "name": "Second Wind",
+      "icon": "ability_hunter_harass",
+      "url": "https://www.wowhead.com/beta/spell=29838/second-wind"
+    },
+    "links": [
+      65
+    ]
+  },
+  {
+    "id": 392792,
+    "name": "Frothing Berserker",
+    "icon": "warrior_talent_icon_furyintheblood",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392792/frothing-berserker",
+    "links": [
+      68,
+      70,
+      72
+    ]
+  },
+  {
+    "id": 6544,
+    "name": "Heroic Leap",
+    "icon": "ability_heroicleap",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=6544/heroic-leap",
+    "links": [
+      72,
+      91
+    ]
+  },
+  {
+    "id": 5246,
+    "name": "Intimidating Shout",
+    "icon": "ability_golemthunderclap",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=5246/intimidating-shout",
+    "links": [
+      76
+    ]
+  },
+  {
+    "id": 6343,
+    "name": "Thunder Clap",
+    "icon": "spell_nature_thunderclap",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=6343/thunder-clap",
+    "links": [
+      80,
+      95
+    ]
+  },
+  {
+    "id": 390354,
+    "name": "Furious Blows",
+    "icon": "ability_ghoulfrenzy",
+    "capacity": 1,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390354/furious-blows",
+    "links": [
+      80,
+      82,
+      84
+    ]
+  },
+  {
+    "cell": 68,
+    "row": 5,
+    "column": 1,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 384110,
+      "name": "Wrecking Throw",
+      "icon": "warrior_talent_icon_mastercleaver",
+      "url": "https://www.wowhead.com/beta/spell=384110/wrecking-throw"
+    },
+    "right": {
+      "id": 64382,
+      "name": "Shattering Throw",
+      "icon": "ability_warrior_shatteringthrow",
+      "url": "https://www.wowhead.com/beta/spell=64382/shattering-throw"
+    },
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 382764,
+    "name": "Crushing Force",
+    "icon": "spell_shadow_unholystrength",
+    "capacity": 2,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382764/crushing-force",
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 382549,
+    "name": "Pain and Gain",
+    "icon": "spell_holy_painsupression",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382549/pain-and-gain",
+    "links": [
+      87,
+      106
+    ]
+  },
+  {
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 382954,
+      "name": "Cacophonous Roar",
+      "icon": "ability_fomor_boss_shout",
+      "url": "https://www.wowhead.com/beta/spell=382954/cacophonous-roar"
+    },
+    "right": {
+      "id": 275338,
+      "name": "Menace",
+      "icon": "ability_golemthunderclap",
+      "url": "https://www.wowhead.com/beta/spell=275338/menace"
+    },
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 107570,
+    "name": "Storm Bolt",
+    "icon": "warrior_talent_icon_stormbolt",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=107570/storm-bolt",
+    "links": [
+      99,
+      114
+    ]
+  },
+  {
+    "id": 382767,
+    "name": "Overwhelming Rage",
+    "icon": "racial_orc_berserkerstrength",
+    "capacity": 2,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382767/overwhelming-rage",
+    "links": [
+      99
+    ]
+  },
+  {
+    "cell": 84,
+    "row": 5,
+    "column": 17,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 383082,
+      "name": "Barbaric Training",
+      "icon": "ability_garrosh_whirling_corruption",
+      "url": "https://www.wowhead.com/beta/spell=383082/barbaric-training"
+    },
+    "right": {
+      "id": 383115,
+      "name": "Concussive Blows",
+      "icon": "ability_warrior_intervene",
+      "url": "https://www.wowhead.com/beta/spell=383115/concussive-blows"
+    },
+    "links": [
+      99
+    ]
+  },
+  {
+    "id": 382939,
+    "name": "Reinforced Plates",
+    "icon": "inv_chest_plate04",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382939/reinforced-plates",
+    "links": [
+      106,
+      121
+    ]
+  },
+  {
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 202163,
+      "name": "Bounding Stride",
+      "icon": "ability_heroicleap",
+      "url": "https://www.wowhead.com/beta/spell=202163/bounding-stride"
+    },
+    "right": {
+      "id": 392383,
+      "name": "Wrenching Impact",
+      "icon": "spell_shaman_firenova",
+      "url": "https://www.wowhead.com/beta/spell=392383/wrenching-impact"
+    },
+    "links": [
+      106,
+      108,
+      110
+    ]
+  },
+  {
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 384277,
+      "name": "Blood and Thunder",
+      "icon": "warrior_talent_icon_bloodandthunder",
+      "url": "https://www.wowhead.com/beta/spell=384277/blood-and-thunder"
+    },
+    "right": {
+      "id": 203201,
+      "name": "Crackling Thunder",
+      "icon": "ability_thunderking_overcharge",
+      "url": "https://www.wowhead.com/beta/spell=203201/crackling-thunder"
+    },
+    "links": [
+      110,
+      112,
+      114
+    ]
+  },
+  {
+    "id": 384404,
+    "name": "Sidearm",
+    "icon": "inv_throwingaxe_06",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384404/sidearm",
+    "links": [
+      114,
+      133
+    ]
+  },
+  {
+    "id": 382461,
+    "name": "Honed Reflexes",
+    "icon": "spell_holy_borrowedtime",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382461/honed-reflexes",
+    "links": [
+      121,
+      125
+    ]
+  },
+  {
+    "id": 383762,
+    "name": "Bitter Immunity",
+    "icon": "spell_nature_shamanrage",
+    "capacity": 1,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=383762/bitter-immunity",
+    "links": [
+      125
+    ]
+  },
+  {
+    "id": 103827,
+    "name": "Double Time",
+    "icon": "inv_misc_horn_04",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=103827/double-time",
+    "links": [
+      125,
+      127,
+      129
+    ]
+  },
+  {
+    "id": 384090,
+    "name": "Titanic Throw",
+    "icon": "inv_axe_66",
+    "capacity": 1,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=384090/titanic-throw",
+    "links": [
+      129
+    ]
+  },
+  {
+    "id": 382956,
+    "name": "Seismic Reverberation",
+    "icon": "ability_warrior_bloodnova",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382956/seismic-reverberation",
+    "links": [
+      129,
+      133
+    ]
+  },
+  {
+    "id": 384124,
+    "name": "Armored to the Teeth",
+    "icon": "inv_shoulder_22",
+    "capacity": 2,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384124/armored-to-the-teeth",
+    "links": [
+      138
+    ]
+  },
+  {
+    "id": 382946,
+    "name": "Wild Strikes",
+    "icon": "ability_rogue_sprint",
+    "capacity": 2,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382946/wild-strikes",
+    "links": [
+      142
+    ]
+  },
+  {
+    "id": 382896,
+    "name": "Two-Handed Weapon Specialization",
+    "icon": "inv_axe_09",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382896/two-handed-weapon-specialization"
+  },
+  {
+    "id": 392777,
+    "name": "Cruel Strikes",
+    "icon": "ability_criticalstrike",
+    "capacity": 2,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392777/cruel-strikes",
+    "links": [
+      146
+    ]
+  },
+  {
+    "id": 382940,
+    "name": "Endurance Training",
+    "icon": "spell_nature_unyeildingstamina",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382940/endurance-training",
+    "links": [
+      150
+    ]
+  },
+  {
+    "id": 107574,
+    "name": "Avatar",
+    "icon": "warrior_talent_icon_avatar",
+    "capacity": 1,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=107574/avatar",
+    "links": [
+      155
+    ]
+  },
+  {
+    "id": 384318,
+    "name": "Thunderous Roar",
+    "icon": "ability_warrior_dragonroar",
+    "capacity": 1,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=384318/thunderous-roar",
+    "links": [
+      158,
+      160
+    ]
+  },
+  {
+    "id": 376079,
+    "name": "Spear of Bastion",
+    "icon": "ability_bastion_warrior",
+    "capacity": 1,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=376079/spear-of-bastion",
+    "links": [
+      162,
+      164
+    ]
+  },
+  {
+    "id": 46968,
+    "name": "Shockwave",
+    "icon": "ability_warrior_shockwave",
+    "capacity": 1,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=46968/shockwave",
+    "links": [
+      166,
+      168
+    ]
+  },
+  {
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 390138,
+      "name": "Blademaster's Torment",
+      "icon": "spell_nature_mirrorimage",
+      "url": "https://www.wowhead.com/beta/spell=390138/blademasters-torment"
+    },
+    "right": {
+      "id": 390140,
+      "name": "Warlord's Torment",
+      "icon": "warrior_talent_icon_innerrage",
+      "url": "https://www.wowhead.com/beta/spell=390140/warlords-torment"
+    }
+  },
+  {
+    "id": 391572,
+    "name": "Uproar",
+    "icon": "inv_misc_head_dragon_01",
+    "capacity": 1,
+    "cell": 158,
+    "row": 10,
+    "column": 6,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391572/uproar"
+  },
+  {
+    "id": 384969,
+    "name": "Thunderous Words",
+    "icon": "spell_nature_earthquake",
+    "capacity": 1,
+    "cell": 160,
+    "row": 10,
+    "column": 8,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384969/thunderous-words"
+  },
+  {
+    "id": 382948,
+    "name": "Piercing Verdict",
+    "icon": "spell_animabastion_missile",
+    "capacity": 1,
+    "cell": 162,
+    "row": 10,
+    "column": 10,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382948/piercing-verdict"
+  },
+  {
+    "id": 386285,
+    "name": "Elysian Might",
+    "icon": "ability_bastion_warrior",
+    "capacity": 1,
+    "cell": 164,
+    "row": 10,
+    "column": 12,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386285/elysian-might"
+  },
+  {
+    "id": 275339,
+    "name": "Rumbling Earth",
+    "icon": "spell_shaman_earthquake",
+    "capacity": 1,
+    "cell": 166,
+    "row": 10,
+    "column": 14,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=275339/rumbling-earth"
+  },
+  {
+    "id": 390725,
+    "name": "Sonic Boom",
+    "icon": "spell_nature_unrelentingstorm",
+    "capacity": 1,
+    "cell": 168,
+    "row": 10,
+    "column": 16,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390725/sonic-boom"
+  }
+]

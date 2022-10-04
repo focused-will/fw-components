@@ -1,0 +1,607 @@
+[
+  {
+    "id": 85948,
+    "name": "Festering Strike",
+    "icon": "spell_deathknight_festering_strike",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=85948/festering-strike",
+    "links": [
+      23,
+      27
+    ]
+  },
+  {
+    "id": 55090,
+    "name": "Scourge Strike",
+    "icon": "spell_deathknight_scourgestrike",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=55090/scourge-strike",
+    "links": [
+      40
+    ]
+  },
+  {
+    "id": 46584,
+    "name": "Raise Dead",
+    "icon": "inv_pet_ghoul",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=46584/raise-dead",
+    "links": [
+      44
+    ]
+  },
+  {
+    "id": 77575,
+    "name": "Outbreak",
+    "icon": "spell_deathvortex",
+    "capacity": 1,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=77575/outbreak",
+    "links": [
+      55,
+      57
+    ]
+  },
+  {
+    "id": 63560,
+    "name": "Dark Transformation",
+    "icon": "achievement_boss_festergutrotface",
+    "capacity": 1,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=63560/dark-transformation",
+    "links": [
+      61,
+      63
+    ]
+  },
+  {
+    "id": 115989,
+    "name": "Unholy Blight",
+    "icon": "spell_shadow_contagion",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=115989/unholy-blight",
+    "links": [
+      70,
+      72,
+      74
+    ]
+  },
+  {
+    "id": 316867,
+    "name": "Improved Festering Strike",
+    "icon": "spell_deathknight_festering_strike",
+    "capacity": 2,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=316867/improved-festering-strike",
+    "links": [
+      74,
+      76
+    ]
+  },
+  {
+    "id": 390166,
+    "name": "Runic Mastery",
+    "icon": "ability_deathknight_remorselesswinters",
+    "capacity": 2,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390166/runic-mastery",
+    "links": [
+      76
+    ]
+  },
+  {
+    "id": 207272,
+    "name": "Infected Claws",
+    "icon": "spell_deathknight_thrash_ghoul",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=207272/infected-claws",
+    "links": [
+      78,
+      80,
+      82
+    ]
+  },
+  {
+    "id": 207317,
+    "name": "Epidemic",
+    "icon": "spell_nature_nullifydisease",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=207317/epidemic",
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 377585,
+    "name": "Replenishing Wounds",
+    "icon": "spell_yorsahj_bloodboil_purpleoil",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377585/replenishing-wounds",
+    "links": [
+      87,
+      89,
+      91
+    ]
+  },
+  {
+    "id": 390161,
+    "name": "Feasting Strikes",
+    "icon": "spell_nature_rune",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390161/feasting-strikes",
+    "links": [
+      91
+    ]
+  },
+  {
+    "id": 275699,
+    "name": "Apocalypse",
+    "icon": "artifactability_unholydeathknight_deathsembrace",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=275699/apocalypse",
+    "links": [
+      91,
+      93,
+      95
+    ]
+  },
+  {
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 390175,
+      "name": "Plaguebringer",
+      "icon": "spell_deathknight_plaguestrike",
+      "url": "https://www.wowhead.com/beta/spell=390175/plaguebringer"
+    },
+    "right": {
+      "id": 207311,
+      "name": "Clawing Shadows",
+      "icon": "warlock_curse_shadow",
+      "url": "https://www.wowhead.com/beta/spell=207311/clawing-shadows"
+    },
+    "links": [
+      95
+    ]
+  },
+  {
+    "id": 49530,
+    "name": "Sudden Doom",
+    "icon": "spell_shadow_painspike",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=49530/sudden-doom",
+    "links": [
+      95,
+      97,
+      99
+    ]
+  },
+  {
+    "id": 194916,
+    "name": "All Will Serve",
+    "icon": "ability_fiegndead",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=194916/all-will-serve",
+    "links": [
+      99
+    ]
+  },
+  {
+    "id": 194917,
+    "name": "Pestilent Pustules",
+    "icon": "ability_creature_disease_03",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=194917/pestilent-pustules",
+    "links": [
+      104
+    ]
+  },
+  {
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 207264,
+      "name": "Bursting Sores",
+      "icon": "ability_druid_infectedwound",
+      "url": "https://www.wowhead.com/beta/spell=207264/bursting-sores"
+    },
+    "right": {
+      "id": 207269,
+      "name": "Ebon Fever",
+      "icon": "spell_shadow_creepingplague",
+      "url": "https://www.wowhead.com/beta/spell=207269/ebon-fever"
+    },
+    "links": [
+      104,
+      106
+    ]
+  },
+  {
+    "id": 316941,
+    "name": "Unholy Command",
+    "icon": "ability_rogue_deadlymomentum",
+    "capacity": 2,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=316941/unholy-command",
+    "links": [
+      108
+    ]
+  },
+  {
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 390196,
+      "name": "Magus of the Dead",
+      "icon": "ability_maldraxxus_mage",
+      "url": "https://www.wowhead.com/beta/spell=390196/magus-of-the-dead"
+    },
+    "right": {
+      "id": 390236,
+      "name": "Ruptured Viscera",
+      "icon": "artifactability_unholydeathknight_flagellation",
+      "url": "https://www.wowhead.com/beta/spell=390236/ruptured-viscera"
+    },
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 377580,
+    "name": "Improved Death Coil",
+    "icon": "spell_shadow_deathcoil",
+    "capacity": 2,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377580/improved-death-coil",
+    "links": [
+      112
+    ]
+  },
+  {
+    "id": 390275,
+    "name": "Rotten Touch",
+    "icon": "ability_deathwing_grasping_tendrilsgreen",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390275/rotten-touch",
+    "links": [
+      114,
+      116
+    ]
+  },
+  {
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 319230,
+      "name": "Unholy Pact",
+      "icon": "spell_shadow_deathsembrace",
+      "url": "https://www.wowhead.com/beta/spell=319230/unholy-pact"
+    },
+    "right": {
+      "id": 152280,
+      "name": "Defile",
+      "icon": "spell_deathknight_defile",
+      "url": "https://www.wowhead.com/beta/spell=152280/defile"
+    },
+    "links": [
+      116
+    ]
+  },
+  {
+    "id": 390279,
+    "name": "Vile Contagion",
+    "icon": "spell_shadow_plaguecloud",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=390279/vile-contagion",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 277234,
+    "name": "Pestilence",
+    "icon": "spell_deathknight_necroticplague",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=277234/pestilence",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 390268,
+    "name": "Eternal Agony",
+    "icon": "spell_necro_deathsdoor",
+    "capacity": 1,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390268/eternal-agony",
+    "links": [
+      123,
+      127
+    ]
+  },
+  {
+    "id": 390270,
+    "name": "Coil of Devastation",
+    "icon": "ability_malkorok_blightofyshaarj_green",
+    "capacity": 1,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390270/coil-of-devastation",
+    "links": [
+      127,
+      131
+    ]
+  },
+  {
+    "id": 276023,
+    "name": "Harbinger of Doom",
+    "icon": "spell_shadow_painspike",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=276023/harbinger-of-doom",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 377514,
+    "name": "Reaping",
+    "icon": "ability_deathwing_bloodcorruption_death",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377514/reaping",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 377537,
+    "name": "Death Rot",
+    "icon": "ability_creature_cursed_03",
+    "capacity": 1,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377537/death-rot",
+    "links": [
+      140,
+      142
+    ]
+  },
+  {
+    "id": 42650,
+    "name": "Army of the Dead",
+    "icon": "spell_deathknight_armyofthedead",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=42650/army-of-the-dead",
+    "links": [
+      142,
+      144,
+      146
+    ]
+  },
+  {
+    "id": 49206,
+    "name": "Summon Gargoyle",
+    "icon": "ability_deathknight_summongargoyle",
+    "capacity": 1,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=49206/summon-gargoyle",
+    "links": [
+      146,
+      148
+    ]
+  },
+  {
+    "id": 377590,
+    "name": "Festermight",
+    "icon": "ability_deathknight_festermight",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377590/festermight",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 377587,
+    "name": "Ghoulish Frenzy",
+    "icon": "ability_warlock_baneofhavoc",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377587/ghoulish-frenzy",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 276837,
+    "name": "Army of the Damned",
+    "icon": "artifactability_unholydeathknight_deathsembrace",
+    "capacity": 1,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=276837/army-of-the-damned",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 377592,
+    "name": "Morbidity",
+    "icon": "spell_necro_deathlyecho",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377592/morbidity",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 377440,
+    "name": "Unholy Aura",
+    "icon": "ability_deathknight_decomposingaura",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377440/unholy-aura",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 207289,
+    "name": "Unholy Assault",
+    "icon": "spell_shadow_unholyfrenzy",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=207289/unholy-assault"
+  },
+  {
+    "id": 390283,
+    "name": "Superstrain",
+    "icon": "spell_deathknight_explode_ghoul",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390283/superstrain"
+  },
+  {
+    "id": 390259,
+    "name": "Commander of the Dead",
+    "icon": "spell_shadow_fumble",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390259/commander-of-the-dead"
+  }
+]

@@ -1,0 +1,531 @@
+[
+  {
+    "id": 186270,
+    "name": "Raptor Strike",
+    "icon": "ability_hunter_raptorstrike",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=186270/raptor-strike",
+    "links": [
+      23,
+      27,
+      42
+    ]
+  },
+  {
+    "id": 259495,
+    "name": "Wildfire Bomb",
+    "icon": "inv_wildfirebomb",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=259495/wildfire-bomb",
+    "links": [
+      38,
+      42,
+      57
+    ]
+  },
+  {
+    "id": 260285,
+    "name": "Tip of the Spear",
+    "icon": "ability_bossmannoroth_glaivethrust",
+    "capacity": 2,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=260285/tip-of-the-spear",
+    "links": [
+      42,
+      46
+    ]
+  },
+  {
+    "id": 378916,
+    "name": "Ferocity",
+    "icon": "ability_hunter_sickem",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378916/ferocity",
+    "links": [
+      53,
+      57,
+      72
+    ]
+  },
+  {
+    "id": 263186,
+    "name": "Flanker's Advantage",
+    "icon": "ability_hunter_killcommand",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=263186/flankers-advantage",
+    "links": [
+      61,
+      76
+    ]
+  },
+  {
+    "id": 190925,
+    "name": "Harpoon",
+    "icon": "ability_hunter_harpoon",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=190925/harpoon",
+    "links": [
+      61,
+      65,
+      80
+    ]
+  },
+  {
+    "id": 378961,
+    "name": "Energetic Ally",
+    "icon": "ability_hunter_invigeration",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378961/energetic-ally",
+    "links": [
+      72,
+      87
+    ]
+  },
+  {
+    "id": 260248,
+    "name": "Bloodseeker",
+    "icon": "ability_druid_primaltenacity",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=260248/bloodseeker",
+    "links": [
+      72,
+      74,
+      76
+    ]
+  },
+  {
+    "id": 186289,
+    "name": "Aspect of the Eagle",
+    "icon": "spell_hunter_aspectoftheironhawk",
+    "capacity": 1,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=186289/aspect-of-the-eagle",
+    "links": [
+      76,
+      80
+    ]
+  },
+  {
+    "id": 265895,
+    "name": "Terms of Engagement",
+    "icon": "ability_hunter_harpoon",
+    "capacity": 1,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=265895/terms-of-engagement"
+  },
+  {
+    "id": 264332,
+    "name": "Guerrilla Tactics",
+    "icon": "spell_mage_flameorb",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=264332/guerrilla-tactics",
+    "links": [
+      87,
+      89
+    ]
+  },
+  {
+    "id": 378934,
+    "name": "Lunge",
+    "icon": "ability_bossmannoroth_glaivethrust",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378934/lunge",
+    "links": [
+      89
+    ]
+  },
+  {
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 187708,
+      "name": "Carve",
+      "icon": "ability_hunter_carve",
+      "url": "https://www.wowhead.com/beta/spell=187708/carve"
+    },
+    "right": {
+      "id": 212436,
+      "name": "Butchery",
+      "icon": "ability_butcher_cleave",
+      "url": "https://www.wowhead.com/beta/spell=212436/butchery"
+    },
+    "links": [
+      93,
+      95
+    ]
+  },
+  {
+    "id": 259387,
+    "name": "Mongoose Bite",
+    "icon": "ability_hunter_mongoosebite",
+    "capacity": 1,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=259387/mongoose-bite",
+    "links": [
+      95,
+      99
+    ]
+  },
+  {
+    "id": 385709,
+    "name": "Intense Focus",
+    "icon": "ability_hunter_mastertactitian",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385709/intense-focus",
+    "links": [
+      104
+    ]
+  },
+  {
+    "id": 321290,
+    "name": "Improved Wildfire Bomb",
+    "icon": "inv_eng_bombfire",
+    "capacity": 2,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321290/improved-wildfire-bomb",
+    "links": [
+      104,
+      108
+    ]
+  },
+  {
+    "id": 294029,
+    "name": "Frenzy Strikes",
+    "icon": "ability_demonhunter_manabreak",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=294029/frenzy-strikes",
+    "links": [
+      108,
+      112
+    ]
+  },
+  {
+    "id": 269751,
+    "name": "Flanking Strike",
+    "icon": "ability_hunter_invigeration",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=269751/flanking-strike",
+    "links": [
+      112,
+      114
+    ]
+  },
+  {
+    "id": 378953,
+    "name": "Spear Focus",
+    "icon": "inv_polearm_2h_heirloomspear_c_01",
+    "capacity": 2,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378953/spear-focus",
+    "links": [
+      116
+    ]
+  },
+  {
+    "id": 268501,
+    "name": "Viper's Venom",
+    "icon": "ability_hunter_potentvenom",
+    "capacity": 2,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=268501/vipers-venom",
+    "links": [
+      121,
+      123
+    ]
+  },
+  {
+    "id": 378948,
+    "name": "Sharp Edges",
+    "icon": "inv_polearm_2h_kultirasharpoon_a_01",
+    "capacity": 2,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378948/sharp-edges",
+    "links": [
+      123,
+      127
+    ]
+  },
+  {
+    "id": 378950,
+    "name": "Sweeping Spear",
+    "icon": "spell_warrior_wildstrike",
+    "capacity": 2,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378950/sweeping-spear",
+    "links": [
+      127,
+      131
+    ]
+  },
+  {
+    "id": 378951,
+    "name": "Tactical Advantage",
+    "icon": "ability_hunter_zenarchery",
+    "capacity": 2,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378951/tactical-advantage",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 385737,
+    "name": "Bloody Claws",
+    "icon": "ability_druid_disembowel",
+    "capacity": 2,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385737/bloody-claws",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 271014,
+    "name": "Wildfire Infusion",
+    "icon": "inv_misc_5potionbag_special",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=271014/wildfire-infusion",
+    "links": [
+      140
+    ]
+  },
+  {
+    "id": 378940,
+    "name": "Quick Shot",
+    "icon": "ability_hunter_fervor",
+    "capacity": 1,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378940/quick-shot",
+    "links": [
+      140,
+      142
+    ]
+  },
+  {
+    "id": 360952,
+    "name": "Coordinated Assault",
+    "icon": "inv__coordinatedassault",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=360952/coordinated-assault",
+    "links": [
+      142,
+      144,
+      146
+    ]
+  },
+  {
+    "id": 378955,
+    "name": "Killer Companion",
+    "icon": "ability_hunter_masterscall",
+    "capacity": 2,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378955/killer-companion",
+    "links": [
+      146,
+      148
+    ]
+  },
+  {
+    "id": 203415,
+    "name": "Fury of the Eagle",
+    "icon": "inv_polearm_2h_artifacteagle_d_01",
+    "capacity": 1,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=203415/fury-of-the-eagle",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 385695,
+    "name": "Ranger",
+    "icon": "ability_hunter_thrillofthehunt",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385695/ranger"
+  },
+  {
+    "id": 385739,
+    "name": "Coordinated Kill",
+    "icon": "ability_hunter_pet_goto",
+    "capacity": 2,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385739/coordinated-kill",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 378937,
+    "name": "Explosives Expert",
+    "icon": "inv_misc_bomb_05",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378937/explosives-expert"
+  },
+  {
+    "id": 360966,
+    "name": "Spearhead",
+    "icon": "ability_hunter_spearhead",
+    "capacity": 1,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=360966/spearhead",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 385718,
+    "name": "Ruthless Marauder",
+    "icon": "ability_rogue_findweakness",
+    "capacity": 3,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385718/ruthless-marauder"
+  },
+  {
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 260331,
+      "name": "Birds of Prey",
+      "icon": "spell_hunter_aspectofthehawk",
+      "url": "https://www.wowhead.com/beta/spell=260331/birds-of-prey"
+    },
+    "right": {
+      "id": 389880,
+      "name": "Bombardier",
+      "icon": "inv_eng_bombfire",
+      "url": "https://www.wowhead.com/beta/spell=389880/bombardier"
+    }
+  },
+  {
+    "id": 378962,
+    "name": "Deadly Duo",
+    "icon": "ability_hunter_separationanxiety",
+    "capacity": 2,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378962/deadly-duo"
+  }
+]

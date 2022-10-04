@@ -1,0 +1,618 @@
+[
+  {
+    "id": 116858,
+    "name": "Chaos Bolt",
+    "icon": "ability_warlock_chaosbolt",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=116858/chaos-bolt",
+    "links": [
+      23,
+      25,
+      27
+    ]
+  },
+  {
+    "id": 17962,
+    "name": "Conflagrate",
+    "icon": "spell_fire_fireball",
+    "capacity": 1,
+    "cell": 23,
+    "row": 2,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=17962/conflagrate",
+    "links": [
+      38,
+      42
+    ]
+  },
+  {
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 205148,
+      "name": "Reverse Entropy",
+      "icon": "spell_fire_playingwithfiregreen",
+      "url": "https://www.wowhead.com/beta/spell=205148/reverse-entropy"
+    },
+    "right": {
+      "id": 266134,
+      "name": "Internal Combustion",
+      "icon": "ability_mage_livingbomb",
+      "url": "https://www.wowhead.com/beta/spell=266134/internal-combustion"
+    },
+    "links": [
+      42
+    ]
+  },
+  {
+    "id": 5740,
+    "name": "Rain of Fire",
+    "icon": "spell_shadow_rainoffire",
+    "capacity": 1,
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=5740/rain-of-fire",
+    "links": [
+      42,
+      46
+    ]
+  },
+  {
+    "id": 196406,
+    "name": "Backdraft",
+    "icon": "ability_warlock_backdraft",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196406/backdraft",
+    "links": [
+      53,
+      55,
+      57
+    ]
+  },
+  {
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 387506,
+      "name": "Mayhem",
+      "icon": "spell_warlock_demonbolt",
+      "url": "https://www.wowhead.com/beta/spell=387506/mayhem"
+    },
+    "right": {
+      "id": 80240,
+      "name": "Havoc",
+      "icon": "ability_warlock_baneofhavoc",
+      "url": "https://www.wowhead.com/beta/spell=80240/havoc"
+    },
+    "links": [
+      57,
+      59,
+      61
+    ]
+  },
+  {
+    "id": 387095,
+    "name": "Pyrogenics",
+    "icon": "inv_jewelry_ring_65",
+    "capacity": 1,
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387095/pyrogenics",
+    "links": [
+      61,
+      65
+    ]
+  },
+  {
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 205184,
+      "name": "Roaring Blaze",
+      "icon": "ability_warlock_inferno",
+      "url": "https://www.wowhead.com/beta/spell=205184/roaring-blaze"
+    },
+    "right": {
+      "id": 231793,
+      "name": "Improved Conflagrate",
+      "icon": "spell_fire_fireball",
+      "url": "https://www.wowhead.com/beta/spell=231793/improved-conflagrate"
+    },
+    "links": [
+      70,
+      72
+    ]
+  },
+  {
+    "id": 388827,
+    "name": "Explosive Potential",
+    "icon": "spell_fire_felflamering_red",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388827/explosive-potential",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 196447,
+    "name": "Channel Demonfire",
+    "icon": "spell_fire_ragnaros_lavaboltgreen",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=196447/channel-demonfire",
+    "links": [
+      74
+    ]
+  },
+  {
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 387509,
+      "name": "Pandemonium",
+      "icon": "ability_ironmaidens_whirlofblood",
+      "url": "https://www.wowhead.com/beta/spell=387509/pandemonium"
+    },
+    "right": {
+      "id": 387522,
+      "name": "Cry Havoc",
+      "icon": "inv_offhand_1h_artifactskulloferedar_d_05",
+      "url": "https://www.wowhead.com/beta/spell=387522/cry-havoc"
+    },
+    "links": [
+      76,
+      78
+    ]
+  },
+  {
+    "id": 387093,
+    "name": "Improved Immolate",
+    "icon": "spell_fire_immolation",
+    "capacity": 2,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387093/improved-immolate",
+    "links": [
+      78,
+      80
+    ]
+  },
+  {
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 270545,
+      "name": "Inferno",
+      "icon": "spell_shadow_rainoffire",
+      "url": "https://www.wowhead.com/beta/spell=270545/inferno"
+    },
+    "right": {
+      "id": 152108,
+      "name": "Cataclysm",
+      "icon": "achievement_zone_cataclysm",
+      "url": "https://www.wowhead.com/beta/spell=152108/cataclysm"
+    },
+    "links": [
+      80
+    ]
+  },
+  {
+    "id": 6353,
+    "name": "Soul Fire",
+    "icon": "spell_fire_firebolt",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=6353/soul-fire",
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 17877,
+    "name": "Shadowburn",
+    "icon": "spell_shadow_scourgebuild",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=17877/shadowburn",
+    "links": [
+      89
+    ]
+  },
+  {
+    "id": 387166,
+    "name": "Raging Demonfire",
+    "icon": "spell_fire_ragnaros_lavaboltgreen",
+    "capacity": 2,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387166/raging-demonfire",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 387569,
+    "name": "Rolling Havoc",
+    "icon": "warlock_pvp_banehavoc",
+    "capacity": 2,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387569/rolling-havoc",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 387384,
+    "name": "Backlash",
+    "icon": "spell_fire_playingwithfire",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387384/backlash",
+    "links": [
+      93,
+      97
+    ]
+  },
+  {
+    "id": 196408,
+    "name": "Fire and Brimstone",
+    "icon": "ability_warlock_fireandbrimstone",
+    "capacity": 2,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196408/fire-and-brimstone",
+    "links": [
+      97
+    ]
+  },
+  {
+    "id": 387176,
+    "name": "Decimation",
+    "icon": "spell_fire_firebolt",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387176/decimation",
+    "links": [
+      104
+    ]
+  },
+  {
+    "id": 387108,
+    "name": "Conflagration of Chaos",
+    "icon": "spell_shadow_scourgebuild",
+    "capacity": 2,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387108/conflagration-of-chaos",
+    "links": [
+      104,
+      108
+    ]
+  },
+  {
+    "id": 387259,
+    "name": "Flashpoint",
+    "icon": "spell_fire_moltenblood",
+    "capacity": 2,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387259/flashpoint",
+    "links": [
+      108,
+      112
+    ]
+  },
+  {
+    "id": 388832,
+    "name": "Scalding Flames",
+    "icon": "spell_burningsoul",
+    "capacity": 2,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388832/scalding-flames",
+    "links": [
+      112,
+      116
+    ]
+  },
+  {
+    "id": 387103,
+    "name": "Ruin",
+    "icon": "spell_fire_fire",
+    "capacity": 2,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387103/ruin",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 196412,
+    "name": "Eradication",
+    "icon": "ability_warlock_eradication",
+    "capacity": 2,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196412/eradication",
+    "links": [
+      123,
+      127
+    ]
+  },
+  {
+    "id": 387252,
+    "name": "Ashen Remains",
+    "icon": "inv_enchanting_dust",
+    "capacity": 2,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387252/ashen-remains",
+    "links": [
+      127,
+      131
+    ]
+  },
+  {
+    "id": 108503,
+    "name": "Grimoire of Sacrifice",
+    "icon": "warlock_grimoireofsacrifice",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=108503/grimoire-of-sacrifice",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 1122,
+    "name": "Summon Infernal",
+    "icon": "spell_shadow_summoninfernal",
+    "capacity": 1,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1122/summon-infernal",
+    "links": [
+      138,
+      140,
+      142
+    ]
+  },
+  {
+    "id": 387173,
+    "name": "Diabolic Embers",
+    "icon": "inv_shoulder_robe_raidmage_j_01",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387173/diabolic-embers",
+    "links": [
+      142,
+      146
+    ]
+  },
+  {
+    "id": 387156,
+    "name": "Ritual of Ruin",
+    "icon": "spell_fire_twilightrainoffire",
+    "capacity": 1,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387156/ritual-of-ruin",
+    "links": [
+      146,
+      148,
+      150
+    ]
+  },
+  {
+    "id": 387355,
+    "name": "Crashing Chaos",
+    "icon": "inv_infernalmount",
+    "capacity": 2,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387355/crashing-chaos",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 387475,
+    "name": "Infernal Brand",
+    "icon": "warlock_pvp_burninglegion",
+    "capacity": 2,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387475/infernal-brand",
+    "links": [
+      157
+    ]
+  },
+  {
+    "id": 387279,
+    "name": "Power Overwhelming",
+    "icon": "ability_warlock_improvedsoulleech",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387279/power-overwhelming",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 387400,
+    "name": "Madness of the Azj'Aqir",
+    "icon": "inv_eyeofnzothpet",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387400/madness-of-the-azjaqir",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 387165,
+    "name": "Master Ritualist",
+    "icon": "spell_warlock_focusshadow",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387165/master-ritualist",
+    "links": [
+      165
+    ]
+  },
+  {
+    "id": 387153,
+    "name": "Burn to Ashes",
+    "icon": "ability_racial_foregedinflames",
+    "capacity": 2,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387153/burn-to-ashes",
+    "links": [
+      165
+    ]
+  },
+  {
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 266086,
+      "name": "Rain of Chaos",
+      "icon": "spell_fire_felrainoffire",
+      "url": "https://www.wowhead.com/beta/spell=266086/rain-of-chaos"
+    },
+    "right": {
+      "id": 387084,
+      "name": "Grand Warlock's Design",
+      "icon": "spell_warlock_demonicportal_purple",
+      "url": "https://www.wowhead.com/beta/spell=387084/grand-warlocks-design"
+    }
+  },
+  {
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 387275,
+      "name": "Chaos Incarnate",
+      "icon": "spell_fire_felflamering",
+      "url": "https://www.wowhead.com/beta/spell=387275/chaos-incarnate"
+    },
+    "right": {
+      "id": 387976,
+      "name": "Dimensional Rift",
+      "icon": "spell_warlock_demonicportal_purple",
+      "url": "https://www.wowhead.com/beta/spell=387976/dimensional-rift"
+    }
+  },
+  {
+    "id": 387159,
+    "name": "Avatar of Destruction",
+    "icon": "inv_infernalmountblue",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387159/avatar-of-destruction"
+  }
+]

@@ -1,0 +1,625 @@
+[
+  {
+    "id": 190456,
+    "name": "Ignore Pain",
+    "icon": "ability_warrior_renewedvigor",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=190456/ignore-pain",
+    "links": [
+      25
+    ]
+  },
+  {
+    "id": 6572,
+    "name": "Revenge",
+    "icon": "ability_warrior_revenge",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=6572/revenge",
+    "links": [
+      36,
+      42,
+      48
+    ]
+  },
+  {
+    "id": 1160,
+    "name": "Demoralizing Shout",
+    "icon": "ability_warrior_warcry",
+    "capacity": 1,
+    "cell": 36,
+    "row": 3,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1160/demoralizing-shout",
+    "links": [
+      51,
+      55,
+      59
+    ]
+  },
+  {
+    "id": 236279,
+    "name": "Devastator",
+    "icon": "inv_sword_11",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=236279/devastator",
+    "links": [
+      59
+    ]
+  },
+  {
+    "id": 12975,
+    "name": "Last Stand",
+    "icon": "spell_holy_ashestoashes",
+    "capacity": 1,
+    "cell": 48,
+    "row": 3,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=12975/last-stand",
+    "links": [
+      59,
+      63,
+      67
+    ]
+  },
+  {
+    "id": 386034,
+    "name": "Improved Heroic Throw",
+    "icon": "inv_axe_66",
+    "capacity": 1,
+    "cell": 51,
+    "row": 4,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386034/improved-heroic-throw",
+    "links": [
+      70
+    ]
+  },
+  {
+    "id": 202560,
+    "name": "Best Served Cold",
+    "icon": "ability_warrior_revenge",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=202560/best-served-cold",
+    "links": [
+      70
+    ]
+  },
+  {
+    "id": 384041,
+    "name": "Strategist",
+    "icon": "inv_shield_05",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384041/strategist",
+    "links": [
+      74,
+      76,
+      78
+    ]
+  },
+  {
+    "id": 386030,
+    "name": "Brace For Impact",
+    "icon": "ability_warrior_shieldguard",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386030/brace-for-impact",
+    "links": [
+      82
+    ]
+  },
+  {
+    "id": 384042,
+    "name": "Unnerving Focus",
+    "icon": "rogue_shadowfocus",
+    "capacity": 1,
+    "cell": 67,
+    "row": 4,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384042/unnerving-focus",
+    "links": [
+      82
+    ]
+  },
+  {
+    "id": 1161,
+    "name": "Challenging Shout",
+    "icon": "ability_bullrush",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1161/challenging-shout",
+    "links": [
+      85,
+      87,
+      89,
+      93
+    ]
+  },
+  {
+    "id": 394311,
+    "name": "Instigate",
+    "icon": "ability_rogue_dismantle",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=394311/instigate",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 394062,
+    "name": "Rend",
+    "icon": "ability_gouge",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=394062/rend",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 384361,
+    "name": "Bloodsurge",
+    "icon": "ability_warrior_bloodsurge",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384361/bloodsurge",
+    "links": [
+      93
+    ]
+  },
+  {
+    "cell": 82,
+    "row": 5,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 383103,
+      "name": "Fueled by Violence",
+      "icon": "ability_demonhunter_bloodlet",
+      "url": "https://www.wowhead.com/beta/spell=383103/fueled-by-violence"
+    },
+    "right": {
+      "id": 384036,
+      "name": "Brutal Vitality",
+      "icon": "ability_warrior_renewedvigor",
+      "url": "https://www.wowhead.com/beta/spell=384036/brutal-vitality"
+    },
+    "links": [
+      93,
+      97,
+      99,
+      101
+    ]
+  },
+  {
+    "id": 386071,
+    "name": "Disrupting Shout",
+    "icon": "ability_bullrush",
+    "capacity": 1,
+    "cell": 85,
+    "row": 6,
+    "column": 1,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=386071/disrupting-shout",
+    "links": [
+      104
+    ]
+  },
+  {
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 385843,
+      "name": "Show of Force",
+      "icon": "ability_rogue_reinforcedleather",
+      "url": "https://www.wowhead.com/beta/spell=385843/show-of-force"
+    },
+    "right": {
+      "id": 29725,
+      "name": "Sudden Death",
+      "icon": "ability_warrior_improveddisciplines",
+      "url": "https://www.wowhead.com/beta/spell=29725/sudden-death"
+    },
+    "links": [
+      104
+    ]
+  },
+  {
+    "id": 385840,
+    "name": "Thunderlord",
+    "icon": "ability_vehicle_electrocharge",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385840/thunderlord",
+    "links": [
+      104
+    ]
+  },
+  {
+    "id": 871,
+    "name": "Shield Wall",
+    "icon": "ability_warrior_shieldwall",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=871/shield-wall",
+    "links": [
+      108,
+      110,
+      112
+    ]
+  },
+  {
+    "id": 280001,
+    "name": "Bolster",
+    "icon": "shield_draenorcrafted_d_02_c_alliance",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=280001/bolster",
+    "links": [
+      116
+    ]
+  },
+  {
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 385888,
+      "name": "Tough as Nails",
+      "icon": "inv_titanium_shield_spike",
+      "url": "https://www.wowhead.com/beta/spell=385888/tough-as-nails"
+    },
+    "right": {
+      "id": 392966,
+      "name": "Spell Block",
+      "icon": "ability_warrior_shieldbreak",
+      "url": "https://www.wowhead.com/beta/spell=392966/spell-block"
+    },
+    "links": [
+      116
+    ]
+  },
+  {
+    "id": 385704,
+    "name": "Bloodborne",
+    "icon": "inv_artifact_bloodoftheassassinated",
+    "capacity": 2,
+    "cell": 101,
+    "row": 6,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385704/bloodborne",
+    "links": [
+      116
+    ]
+  },
+  {
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 203177,
+      "name": "Heavy Repercussions",
+      "icon": "inv_shield_32",
+      "url": "https://www.wowhead.com/beta/spell=203177/heavy-repercussions"
+    },
+    "right": {
+      "id": 202603,
+      "name": "Into the Fray",
+      "icon": "ability_warrior_bloodfrenzy",
+      "url": "https://www.wowhead.com/beta/spell=202603/into-the-fray"
+    },
+    "links": [
+      121
+    ]
+  },
+  {
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 386027,
+      "name": "Enduring Defenses",
+      "icon": "ability_defend",
+      "url": "https://www.wowhead.com/beta/spell=386027/enduring-defenses"
+    },
+    "right": {
+      "id": 281001,
+      "name": "Massacre",
+      "icon": "inv_sword_48",
+      "url": "https://www.wowhead.com/beta/spell=281001/massacre"
+    },
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 152278,
+    "name": "Anger Management",
+    "icon": "warrior_talent_icon_angermanagement",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=152278/anger-management",
+    "links": [
+      127
+    ]
+  },
+  {
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 384074,
+      "name": "Unbreakable Will",
+      "icon": "ability_warrior_stalwartprotector",
+      "url": "https://www.wowhead.com/beta/spell=384074/unbreakable-will"
+    },
+    "right": {
+      "id": 384072,
+      "name": "Impenetrable Wall",
+      "icon": "ability_warrior_shieldguard",
+      "url": "https://www.wowhead.com/beta/spell=384072/impenetrable-wall"
+    },
+    "links": [
+      127
+    ]
+  },
+  {
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 275334,
+      "name": "Punish",
+      "icon": "ability_deathknight_sanguinfortitude",
+      "url": "https://www.wowhead.com/beta/spell=275334/punish"
+    },
+    "right": {
+      "id": 393967,
+      "name": "Juggernaut",
+      "icon": "warrior_talent_icon_skirmisher",
+      "url": "https://www.wowhead.com/beta/spell=393967/juggernaut"
+    },
+    "links": [
+      133
+    ]
+  },
+  {
+    "id": 384067,
+    "name": "Focused Vigor",
+    "icon": "spell_nature_strength",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384067/focused-vigor",
+    "links": [
+      138
+    ]
+  },
+  {
+    "id": 386011,
+    "name": "Shield Specialization",
+    "icon": "inv_shield_76",
+    "capacity": 2,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386011/shield-specialization",
+    "links": [
+      138,
+      142,
+      144,
+      146,
+      150
+    ]
+  },
+  {
+    "id": 384063,
+    "name": "Enduring Alacrity",
+    "icon": "spell_nature_unyeildingstamina",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384063/enduring-alacrity",
+    "links": [
+      150
+    ]
+  },
+  {
+    "id": 385952,
+    "name": "Shield Charge",
+    "icon": "ability_warrior_shieldcharge",
+    "capacity": 1,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=385952/shield-charge",
+    "links": [
+      153,
+      157
+    ]
+  },
+  {
+    "id": 202743,
+    "name": "Booming Voice",
+    "icon": "ability_warrior_commandingshout",
+    "capacity": 1,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=202743/booming-voice",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 202095,
+    "name": "Indomitable",
+    "icon": "ability_warrior_intensifyrage",
+    "capacity": 1,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=202095/indomitable",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 386477,
+    "name": "Violent Outburst",
+    "icon": "ability_warrior_furiousresolve",
+    "capacity": 1,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386477/violent-outburst",
+    "links": [
+      161
+    ]
+  },
+  {
+    "id": 228920,
+    "name": "Ravager",
+    "icon": "warrior_talent_icon_ravager",
+    "capacity": 1,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=228920/ravager",
+    "links": [
+      165,
+      169
+    ]
+  },
+  {
+    "id": 394312,
+    "name": "Battering Ram",
+    "icon": "ability_warrior_bullrush",
+    "capacity": 1,
+    "cell": 153,
+    "row": 10,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=394312/battering-ram"
+  },
+  {
+    "id": 386328,
+    "name": "Champion's Bulwark",
+    "icon": "ability_warrior_shieldmastery",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386328/champions-bulwark"
+  },
+  {
+    "id": 386394,
+    "name": "Battle-Scarred Veteran",
+    "icon": "ability_warrior_endlessrage",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=386394/battle-scarred-veteran"
+  },
+  {
+    "id": 393965,
+    "name": "Dance of Death",
+    "icon": "ability_butcher_whirl",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393965/dance-of-death"
+  },
+  {
+    "id": 382953,
+    "name": "Storm of Steel",
+    "icon": "ability_creature_cursed_04",
+    "capacity": 1,
+    "cell": 169,
+    "row": 10,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382953/storm-of-steel"
+  }
+]
