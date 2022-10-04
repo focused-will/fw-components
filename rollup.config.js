@@ -36,14 +36,7 @@ export default [
       swc({ sourceMaps: true, tsconfig: "tsconfig.build.json" }),
       terser(),
     ],
-    external: [
-      "react",
-      "react-dom",
-      "@stitches/react",
-      "@radix-ui/react-tooltip",
-      "react-xarrows",
-      "zod",
-    ],
+    external: ["react", "react-dom"],
   },
   {
     input: "src/index.ts",
