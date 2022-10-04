@@ -1,8 +1,7 @@
 import React from "react";
 import { Story } from "@storybook/react";
 
-import { Priest } from "@/lib/trees/priest";
-import { Druid } from "@/lib/trees/druid";
+import * as Classes from "@/lib/trees";
 import { TalentTree, TalentTreeProps } from ".";
 import { ParsedSpecTalents } from "../../lib/trees/types";
 
@@ -18,27 +17,34 @@ const DoubleTemplate: Story<{
   right: TalentTreeProps;
 }> = (args) => {
   return (
-    <>
+    <div
+      style={{
+        display: "flex",
+        flexWrap: "wrap",
+        justifyContent: "space-around",
+        gap: "48px",
+      }}
+    >
       <TalentTree {...args.left} />
       <TalentTree {...args.right} />
-    </>
+    </div>
   );
 };
 
 export const Single = SingleTemplate.bind({});
 Single.args = {
-  talentNodes: Druid.BALANCE.TREE,
+  talentNodes: Classes.Druid.BALANCE.TREE,
   onChange: console.log,
 };
 
 export const Double = DoubleTemplate.bind({});
 Double.args = {
   left: {
-    talentNodes: Druid.BALANCE.GENERAL,
-    style: { width: "40%", display: "inline-grid" },
+    talentNodes: Classes.Monk.MISTWEAVER.GENERAL,
+    style: { display: "inline-grid" },
   },
   right: {
-    talentNodes: Druid.BALANCE.TREE,
-    style: { width: "40%", display: "inline-grid" },
+    talentNodes: Classes.Monk.MISTWEAVER.TREE,
+    style: { display: "inline-grid" },
   },
 };
