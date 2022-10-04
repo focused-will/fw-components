@@ -1,5 +1,7 @@
 import { z } from "zod";
 import { TalentNodeDataSchema } from "@/components/TalentTree/types";
+import { GENERAL_TREE_LIMIT, SPEC_TREE_LIMIT } from "../constants";
+import { ParsedClassTalents } from "../types";
 
 const parser = z.array(TalentNodeDataSchema);
 
@@ -15,17 +17,17 @@ import holyTree from "@/data/priest/holy/tree.json";
 import shadowGeneral from "@/data/priest/shadow/general.json";
 import shadowTree from "@/data/priest/shadow/tree.json";
 
-export const Priest = {
+export const Priest: ParsedClassTalents = {
   DISCIPLINE: {
-    GENERAL: parser.parse(discGeneral),
-    TREE: parser.parse(discTree),
+    GENERAL: { TALENTS: parser.parse(discGeneral), LIMIT: GENERAL_TREE_LIMIT },
+    TREE: { TALENTS: parser.parse(discTree), LIMIT: SPEC_TREE_LIMIT },
   },
   HOLY: {
-    GENERAL: parser.parse(holyGeneral),
-    TREE: parser.parse(holyTree),
+    GENERAL: { TALENTS: parser.parse(holyGeneral), LIMIT: GENERAL_TREE_LIMIT },
+    TREE: { TALENTS: parser.parse(holyTree), LIMIT: SPEC_TREE_LIMIT },
   },
   SHADOW: {
-    GENERAL: parser.parse(shadowGeneral),
-    TREE: parser.parse(shadowTree),
+    GENERAL: { TALENTS: parser.parse(shadowGeneral), LIMIT: GENERAL_TREE_LIMIT },
+    TREE: { TALENTS: parser.parse(shadowTree), LIMIT: SPEC_TREE_LIMIT },
   },
 };
