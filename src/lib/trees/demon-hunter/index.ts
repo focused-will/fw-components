@@ -16,10 +16,12 @@ import havocTree from "@/data/demon-hunter/havoc/tree.json";
 
 export const DemonHunter: ParsedClassTalents = {
   VENGEANCE: {
+    SLUG: "demon-hunter/vengeance",
     GENERAL: { TALENTS: parser.parse(vengeanceGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(vengeanceTree), LIMIT: SPEC_TREE_LIMIT },
   },
   HAVOC: {
+    SLUG: "demon-hunter/havoc",
     GENERAL: { TALENTS: parser.parse(havocGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(havocTree), LIMIT: SPEC_TREE_LIMIT },
   },

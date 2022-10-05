@@ -22,18 +22,22 @@ import guardianDTree from "@/data/druid/guardian/tree.json";
 
 export const Druid: ParsedClassTalents = {
   RESTORATION: {
+    SLUG: "druid/restoration",
     GENERAL: { TALENTS: parser.parse(restoDGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(restoDTree), LIMIT: SPEC_TREE_LIMIT },
   },
   BALANCE: {
+    SLUG: "druid/balance",
     GENERAL: { TALENTS: parser.parse(balanceDGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(balanceDTree), LIMIT: SPEC_TREE_LIMIT },
   },
   FERAL: {
+    SLUG: "druid/feral",
     GENERAL: { TALENTS: parser.parse(feralGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(feralTree), LIMIT: SPEC_TREE_LIMIT },
   },
   GUARDIAN: {
+    SLUG: "druid/guardian",
     GENERAL: { TALENTS: parser.parse(guardianGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(guardianDTree), LIMIT: SPEC_TREE_LIMIT },
   },
