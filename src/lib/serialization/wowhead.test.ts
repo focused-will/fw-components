@@ -24,7 +24,6 @@ describe("wowhead serialization", () => {
               talentType: 2,
               links: [38, 40, 42],
             },
-            selectedId: 393870,
             points: 1,
           },
           {
@@ -65,7 +64,6 @@ describe("wowhead serialization", () => {
               talentType: 2,
               links: [23, 25, 27],
             },
-            selectedId: 81749,
             points: 1,
           },
           {
@@ -80,7 +78,6 @@ describe("wowhead serialization", () => {
               talentType: 1,
               links: [42],
             },
-            selectedId: 33206,
             points: 1,
           },
           {

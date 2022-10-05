@@ -7,7 +7,8 @@ import { TalentNodeData } from "../../components/TalentTree/types";
  */
 export interface TalentNodeWithMetadata {
   talentNodeData: TalentNodeData;
-  selectedId: number;
+  // Only set for selection nodes
+  selectedId?: number;
   points: number;
 }
 
@@ -23,11 +24,16 @@ export function serialize(
   selectedTalents: SelectedTalents
 ) {}
 
+export interface DeserializedTalents {
+  GENERAL: TalentNodeWithMetadata[];
+  TREE: TalentNodeWithMetadata[];
+}
+
 export function deserialize(
   str: string,
   classTalents: ParsedSpecTalents,
   specTalents: ParsedSpecTalents
-): { GENERAL: TalentNodeWithMetadata[]; TREE: TalentNodeWithMetadata[] } {
+): DeserializedTalents {
   /**
    * Start of hacky bs code for WoWhead deserialization
    */
@@ -75,7 +81,6 @@ export function deserialize(
         if ("id" in talent) {
           acc.push({
             talentNodeData: talent,
-            selectedId: talent.id,
             points: curr,
           });
         }

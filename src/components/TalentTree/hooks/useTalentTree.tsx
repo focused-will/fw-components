@@ -1,3 +1,4 @@
+import { TalentNodeWithMetadata } from "@/lib/serialization/wowhead";
 import { ParsedSpecTalents } from "@/lib/trees/types";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { PointCount, TalentNodeData } from "../types";
@@ -32,9 +33,21 @@ function pointThresholdMet(row: number, currentPoints: number) {
 }
 
 /**
+ * Map TalentNodeWithMetadata into a talentNode
+ */
+function toTalentNodeFromMetadata(metadataTalents: TalentNodeWithMetadata[]) {
+  return metadataTalents.map((metadataTalent) => {
+    return toTalentNode(metadataTalent.talentNodeData, {
+      investment: metadataTalent.points,
+      selectedId: metadataTalent.selectedId,
+    });
+  });
+}
+
+/**
  * Map talentNodeData into a talentNode
  */
-function toTalentNode(talent: TalentNodeData): ITalentNode {
+function toTalentNode(talent: TalentNodeData, overrides = {}): ITalentNode {
   const isInitialSelection = talent.capacity === 0;
   const hasId = "id" in talent;
 
@@ -43,17 +56,38 @@ function toTalentNode(talent: TalentNodeData): ITalentNode {
     parentNodes: [],
     investment: 0,
     selectedId: isInitialSelection && hasId ? talent.id : undefined,
+    ...overrides,
   };
 }
 
 export function useTalentTree(
   parsedSpecTalents: ParsedSpecTalents,
-  onChange?: (selectedTalents: SelectedTalents, pointCount: PointCount) => any
+  onChange?: (selectedTalents: SelectedTalents, pointCount: PointCount) => any,
+  initialSelectedTalents?: TalentNodeWithMetadata[]
 ) {
   const { LIMIT, TALENTS } = parsedSpecTalents;
   const loaded = useRef(false);
   const [pointCount, setPointCount] = useState(0);
   const [talents, setTalents] = useState<Record<string, ITalentNode>>({});
+
+  /**
+   * Load initialSelectedTalents
+   */
+  useEffect(() => {
+    if (initialSelectedTalents) {
+      const talentNodes = toTalentNodeFromMetadata(initialSelectedTalents);
+
+      const talents = talentNodes.reduce<{ [key: string]: ITalentNode }>((acc, talentNode) => {
+        const id = "id" in talentNode.data ? talentNode.data.id : talentNode.selectedId;
+        if (id === undefined) return acc;
+
+        acc[id] = talentNode;
+        return acc;
+      }, {});
+
+      setTalents(talents);
+    }
+  }, [initialSelectedTalents]);
 
   /**
    * Build initial tree
