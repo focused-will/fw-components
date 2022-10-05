@@ -10,17 +10,18 @@ import { ParsedSpecTalents } from "@/lib/trees/types";
 import { PointCount } from "./types";
 
 export type TalentTreeOnChange = (selectedTalents: SelectedTalents, pointCount: PointCount) => void;
+export type LinkStyle = {
+  strokeWidth?: number;
+  strokeColor?: string;
+  curveness?: number;
+};
 
 export type TalentTreeProps = {
   talentNodes: ParsedSpecTalents;
   onChange?: TalentTreeOnChange;
   className?: string;
   style?: CSSProperties;
-  linkStyle?: {
-    strokeWidth?: number;
-    strokeColor?: string;
-    curveness?: number;
-  };
+  linkStyle?: LinkStyle;
 };
 
 export function TalentTree({
