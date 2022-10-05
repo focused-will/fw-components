@@ -9,9 +9,11 @@ import { useUniqueId } from "./hooks/useUniqueId";
 import { ParsedSpecTalents } from "@/lib/trees/types";
 import { PointCount } from "./types";
 
+export type TalentTreeOnChange = (selectedTalents: SelectedTalents, pointCount: PointCount) => void;
+
 export type TalentTreeProps = {
   talentNodes: ParsedSpecTalents;
-  onChange?: (selectedTalents: SelectedTalents, pointCount: PointCount) => any;
+  onChange?: TalentTreeOnChange;
   className?: string;
   style?: CSSProperties;
   linkStyle?: {
