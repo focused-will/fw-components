@@ -2,7 +2,8 @@
  * Component exports
  */
 export { TalentTree } from "./components/TalentTree";
-export { TalentSet, TalentSetReturn, TreeReturn } from "./components/TalentSet";
+export { TalentSet } from "./components/TalentSet";
+export type { TalentSetReturn, TreeReturn } from "./components/TalentSet";
 
 /**
  * Helper exports
