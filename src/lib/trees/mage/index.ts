@@ -19,14 +19,17 @@ import frostTree from "@/data/mage/frost/tree.json";
 
 export const Mage: ParsedClassTalents = {
   ARCANE: {
+    SLUG: "mage/arcane",
     GENERAL: { TALENTS: parser.parse(arcaneGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(arcaneTree), LIMIT: SPEC_TREE_LIMIT },
   },
   FIRE: {
+    SLUG: "mage/fire",
     GENERAL: { TALENTS: parser.parse(fireGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(fireTree), LIMIT: SPEC_TREE_LIMIT },
   },
   FROST: {
+    SLUG: "mage/frost",
     GENERAL: { TALENTS: parser.parse(frostGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(frostTree), LIMIT: SPEC_TREE_LIMIT },
   },

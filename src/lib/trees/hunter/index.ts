@@ -19,14 +19,17 @@ import survivalTree from "@/data/hunter/survival/tree.json";
 
 export const Hunter: ParsedClassTalents = {
   BEAST_MASTERY: {
+    SLUG: "hunter/beast-mastery",
     GENERAL: { TALENTS: parser.parse(beastMasteryGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(beastMasteryTree), LIMIT: SPEC_TREE_LIMIT },
   },
   MARKSMANSHIP: {
+    SLUG: "hunter/marksmanship",
     GENERAL: { TALENTS: parser.parse(marksmanshipGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(marksmanshipTree), LIMIT: SPEC_TREE_LIMIT },
   },
   SURVIVAL: {
+    SLUG: "hunter/survival",
     GENERAL: { TALENTS: parser.parse(survivalGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(survivalTree), LIMIT: SPEC_TREE_LIMIT },
   },

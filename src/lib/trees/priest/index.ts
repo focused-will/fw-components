@@ -19,14 +19,17 @@ import shadowTree from "@/data/priest/shadow/tree.json";
 
 export const Priest: ParsedClassTalents = {
   DISCIPLINE: {
+    SLUG: "priest/discipline",
     GENERAL: { TALENTS: parser.parse(discGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(discTree), LIMIT: SPEC_TREE_LIMIT },
   },
   HOLY: {
+    SLUG: "priest/holy",
     GENERAL: { TALENTS: parser.parse(holyGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(holyTree), LIMIT: SPEC_TREE_LIMIT },
   },
   SHADOW: {
+    SLUG: "priest/shadow",
     GENERAL: { TALENTS: parser.parse(shadowGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(shadowTree), LIMIT: SPEC_TREE_LIMIT },
   },

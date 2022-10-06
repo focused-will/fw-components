@@ -19,14 +19,17 @@ import restorationTree from "@/data/shaman/restoration/tree.json";
 
 export const Shaman: ParsedClassTalents = {
   ELEMENTAL: {
+    SLUG: "shaman/elemental",
     GENERAL: { TALENTS: parser.parse(elementalGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(elementalTree), LIMIT: SPEC_TREE_LIMIT },
   },
   ENHANCEMENT: {
+    SLUG: "shaman/enhancement",
     GENERAL: { TALENTS: parser.parse(enhancementGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(enhancementTree), LIMIT: SPEC_TREE_LIMIT },
   },
   RESTORATION: {
+    SLUG: "shaman/restoration",
     GENERAL: { TALENTS: parser.parse(restorationGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(restorationTree), LIMIT: SPEC_TREE_LIMIT },
   },

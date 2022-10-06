@@ -19,14 +19,17 @@ import unholyTree from "@/data/death-knight/unholy/tree.json";
 
 export const DeathKnight: ParsedClassTalents = {
   BLOOD: {
+    SLUG: "death-knight/blood",
     GENERAL: { TALENTS: parser.parse(bloodGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(bloodTree), LIMIT: SPEC_TREE_LIMIT },
   },
   FROST: {
+    SLUG: "death-knight/frost",
     GENERAL: { TALENTS: parser.parse(frostGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(frostTree), LIMIT: SPEC_TREE_LIMIT },
   },
   UNHOLY: {
+    SLUG: "death-knight/unholy",
     GENERAL: { TALENTS: parser.parse(unholyGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(unholyTree), LIMIT: SPEC_TREE_LIMIT },
   },

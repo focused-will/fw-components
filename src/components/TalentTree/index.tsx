@@ -8,17 +8,22 @@ import { TalentNode } from "./Talent/index";
 import { useUniqueId } from "./hooks/useUniqueId";
 import { ParsedSpecTalents } from "@/lib/trees/types";
 import { PointCount } from "./types";
+import { TalentNodeWithMetadata } from "@/lib/serialization/wowhead";
+
+export type TalentTreeOnChange = (selectedTalents: SelectedTalents, pointCount: PointCount) => void;
+export type LinkStyle = {
+  strokeWidth?: number;
+  strokeColor?: string;
+  curveness?: number;
+};
 
 export type TalentTreeProps = {
   talentNodes: ParsedSpecTalents;
-  onChange?: (selectedTalents: SelectedTalents, pointCount: PointCount) => any;
+  onChange?: TalentTreeOnChange;
   className?: string;
   style?: CSSProperties;
-  linkStyle?: {
-    strokeWidth?: number;
-    strokeColor?: string;
-    curveness?: number;
-  };
+  linkStyle?: LinkStyle;
+  initialSelectedTalents?: TalentNodeWithMetadata[];
 };
 
 export function TalentTree({
@@ -27,8 +32,13 @@ export function TalentTree({
   className,
   style,
   linkStyle,
+  initialSelectedTalents,
 }: TalentTreeProps) {
-  const { talents, invest, uninvest } = useTalentTree(talentNodes, onChange);
+  const { talents, invest, uninvest } = useTalentTree(
+    talentNodes,
+    onChange,
+    initialSelectedTalents
+  );
   const treeId = useUniqueId();
 
   return (

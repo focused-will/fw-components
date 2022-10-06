@@ -19,14 +19,17 @@ import destructionTree from "@/data/warlock/destruction/tree.json";
 
 export const Warlock: ParsedClassTalents = {
   AFFLICTION: {
+    SLUG: "warlock/affliction",
     GENERAL: { TALENTS: parser.parse(afflictionGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(afflictionTree), LIMIT: SPEC_TREE_LIMIT },
   },
   DEMONOLOGY: {
+    SLUG: "warlock/demonology",
     GENERAL: { TALENTS: parser.parse(demonologyGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(demonologyTree), LIMIT: SPEC_TREE_LIMIT },
   },
   DESTRUCTION: {
+    SLUG: "warlock/destruction",
     GENERAL: { TALENTS: parser.parse(destructionGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(destructionTree), LIMIT: SPEC_TREE_LIMIT },
   },

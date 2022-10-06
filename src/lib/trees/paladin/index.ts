@@ -19,14 +19,17 @@ import retributionTree from "@/data/paladin/retribution/tree.json";
 
 export const Paladin: ParsedClassTalents = {
   PROTECTION: {
+    SLUG: "paladin/protection",
     GENERAL: { TALENTS: parser.parse(protectionGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(protectionTree), LIMIT: SPEC_TREE_LIMIT },
   },
   HOLY: {
+    SLUG: "paladin/holy",
     GENERAL: { TALENTS: parser.parse(holyGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(holyTree), LIMIT: SPEC_TREE_LIMIT },
   },
   RETRIBUTION: {
+    SLUG: "paladin/retribution",
     GENERAL: { TALENTS: parser.parse(retributionGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(retributionTree), LIMIT: SPEC_TREE_LIMIT },
   },

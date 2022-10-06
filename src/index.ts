@@ -2,6 +2,7 @@
  * Component exports
  */
 export { TalentTree } from "./components/TalentTree";
+export { TalentSet } from "./components/TalentSet";
 
 /**
  * Helper exports

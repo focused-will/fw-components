@@ -16,10 +16,12 @@ import preservationTree from "@/data/evoker/preservation/tree.json";
 
 export const Evoker: ParsedClassTalents = {
   DEVASTATION: {
+    SLUG: "evoker/devastation",
     GENERAL: { TALENTS: parser.parse(devastationGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(devastationTree), LIMIT: SPEC_TREE_LIMIT },
   },
   PRESERVATION: {
+    SLUG: "evoker/preservation",
     GENERAL: { TALENTS: parser.parse(preservationGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(preservationTree), LIMIT: SPEC_TREE_LIMIT },
   },

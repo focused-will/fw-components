@@ -19,14 +19,17 @@ import subtletyTree from "@/data/rogue/subtlety/tree.json";
 
 export const Rogue: ParsedClassTalents = {
   ASSASSINATION: {
+    SLUG: "rogue/assassination",
     GENERAL: { TALENTS: parser.parse(assassinationGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(assassinationTree), LIMIT: SPEC_TREE_LIMIT },
   },
   OUTLAW: {
+    SLUG: "rogue/outlaw",
     GENERAL: { TALENTS: parser.parse(outlawGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(outlawTree), LIMIT: SPEC_TREE_LIMIT },
   },
   SUBTLETY: {
+    SLUG: "rogue/subtlety",
     GENERAL: { TALENTS: parser.parse(subtletyGeneral), LIMIT: GENERAL_TREE_LIMIT },
     TREE: { TALENTS: parser.parse(subtletyTree), LIMIT: SPEC_TREE_LIMIT },
   },
