@@ -122,15 +122,15 @@
     ]
   },
   {
-    "id": 383676,
-    "name": "Impetus",
-    "icon": "spell_arcane_arcanetorrent",
+    "id": 383782,
+    "name": "Nether Precision",
+    "icon": "spell_arcane_blast_nightborne",
     "capacity": 1,
     "cell": 63,
     "row": 4,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383676/impetus",
+    "url": "https://www.wowhead.com/beta/spell=383782/nether-precision",
     "links": [
       80,
       82
@@ -174,15 +174,15 @@
     ]
   },
   {
-    "id": 231564,
-    "name": "Arcing Cleave",
-    "icon": "ability_mage_arcanebarrage",
+    "id": 205028,
+    "name": "Resonance",
+    "icon": "spell_arcane_arcane01",
     "capacity": 1,
     "cell": 74,
     "row": 5,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=231564/arcing-cleave",
+    "url": "https://www.wowhead.com/beta/spell=205028/resonance",
     "links": [
       91,
       93
@@ -215,15 +215,15 @@
     ]
   },
   {
-    "id": 383782,
-    "name": "Nether Precision",
-    "icon": "spell_arcane_blast_nightborne",
+    "id": 236457,
+    "name": "Slipstream",
+    "icon": "spell_holy_mindsooth",
     "capacity": 1,
     "cell": 80,
     "row": 5,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383782/nether-precision",
+    "url": "https://www.wowhead.com/beta/spell=236457/slipstream",
     "links": [
       97,
       99
@@ -274,15 +274,15 @@
     ]
   },
   {
-    "id": 205028,
-    "name": "Resonance",
-    "icon": "spell_arcane_arcane01",
+    "id": 231564,
+    "name": "Arcing Cleave",
+    "icon": "ability_mage_arcanebarrage",
     "capacity": 1,
     "cell": 91,
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=205028/resonance",
+    "url": "https://www.wowhead.com/beta/spell=231564/arcing-cleave",
     "links": [
       108,
       110
@@ -326,15 +326,15 @@
     ]
   },
   {
-    "id": 236457,
-    "name": "Slipstream",
-    "icon": "spell_holy_mindsooth",
+    "id": 383676,
+    "name": "Impetus",
+    "icon": "spell_arcane_arcanetorrent",
     "capacity": 1,
     "cell": 97,
     "row": 6,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=236457/slipstream",
+    "url": "https://www.wowhead.com/beta/spell=383676/impetus",
     "links": [
       112,
       131

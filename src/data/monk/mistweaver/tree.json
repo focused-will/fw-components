@@ -206,7 +206,7 @@
   {
     "id": 337209,
     "name": "Font of Life",
-    "icon": "inv_staff_2h_artifactmonkeyking_d_05",
+    "icon": "spell_shaman_tidalwaves",
     "capacity": 1,
     "cell": 76,
     "row": 5,
@@ -622,7 +622,7 @@
     "left": {
       "id": 386949,
       "name": "Bountiful Brew",
-      "icon": "ability_maldraxxus_monk",
+      "icon": "spell_animamaldraxxus_wave",
       "url": "https://www.wowhead.com/beta/spell=386949/bountiful-brew"
     },
     "right": {

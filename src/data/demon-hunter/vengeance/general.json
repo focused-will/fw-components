@@ -314,16 +314,17 @@
     ]
   },
   {
-    "id": 389696,
-    "name": "Illidari Knowledge",
-    "icon": "spell_mage_overpowered",
-    "capacity": 2,
+    "id": 179057,
+    "name": "Chaos Nova",
+    "icon": "spell_fire_felfirenova",
+    "capacity": 1,
     "cell": 89,
     "row": 6,
     "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389696/illidari-knowledge",
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=179057/chaos-nova",
     "links": [
+      104,
       106
     ]
   },
@@ -358,31 +359,50 @@
     ]
   },
   {
-    "id": 389695,
-    "name": "Will of the Illidari",
-    "icon": "ability_demonhunter_spectank",
-    "capacity": 2,
+    "id": 207684,
+    "name": "Sigil of Misery",
+    "icon": "ability_demonhunter_sigilofmisery",
+    "capacity": 1,
     "cell": 97,
     "row": 6,
     "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389695/will-of-the-illidari",
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=207684/sigil-of-misery",
     "links": [
-      114
+      114,
+      116
     ]
   },
   {
-    "id": 179057,
-    "name": "Chaos Nova",
-    "icon": "spell_fire_felfirenova",
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 3,
     "capacity": 1,
+    "left": {
+      "id": 320412,
+      "name": "Chaos Fragments",
+      "icon": "spell_fire_felfirenova",
+      "url": "https://www.wowhead.com/beta/spell=320412/chaos-fragments"
+    },
+    "right": {
+      "id": 206477,
+      "name": "Unleashed Power",
+      "icon": "ability_demonhunter_chaosnova",
+      "url": "https://www.wowhead.com/beta/spell=206477/unleashed-power"
+    }
+  },
+  {
+    "id": 389696,
+    "name": "Illidari Knowledge",
+    "icon": "spell_mage_overpowered",
+    "capacity": 2,
     "cell": 106,
     "row": 7,
     "column": 5,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=179057/chaos-nova",
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389696/illidari-knowledge",
     "links": [
-      121,
       123,
       125
     ]
@@ -411,53 +431,49 @@
     ]
   },
   {
-    "id": 202137,
-    "name": "Sigil of Silence",
-    "icon": "ability_demonhunter_sigilofsilence",
-    "capacity": 1,
+    "id": 389695,
+    "name": "Will of the Illidari",
+    "icon": "ability_demonhunter_spectank",
+    "capacity": 2,
     "cell": 114,
     "row": 7,
     "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=202137/sigil-of-silence",
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389695/will-of-the-illidari",
     "links": [
       129,
-      131,
-      133
+      131
     ]
+  },
+  {
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 320418,
+      "name": "Improved Sigil of Misery",
+      "icon": "ability_demonhunter_sigilofmisery",
+      "url": "https://www.wowhead.com/beta/spell=320418/improved-sigil-of-misery"
+    },
+    "right": {
+      "id": 388110,
+      "name": "Misery in Defeat",
+      "icon": "ability_demonhunter_sigilofmisery",
+      "url": "https://www.wowhead.com/beta/spell=388110/misery-in-defeat"
+    }
   },
   {
     "id": 393822,
     "name": "Internal Struggle",
     "icon": "ability_warlock_demonicpower",
     "capacity": 1,
-    "cell": 121,
-    "row": 8,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393822/internal-struggle",
-    "links": [
-      140
-    ]
-  },
-  {
     "cell": 123,
     "row": 8,
     "column": 5,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 320412,
-      "name": "Chaos Fragments",
-      "icon": "spell_fire_felfirenova",
-      "url": "https://www.wowhead.com/beta/spell=320412/chaos-fragments"
-    },
-    "right": {
-      "id": 206477,
-      "name": "Unleashed Power",
-      "icon": "ability_demonhunter_chaosnova",
-      "url": "https://www.wowhead.com/beta/spell=206477/unleashed-power"
-    },
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393822/internal-struggle",
     "links": [
       140
     ]
@@ -478,32 +494,18 @@
     ]
   },
   {
-    "id": 207684,
-    "name": "Sigil of Misery",
-    "icon": "ability_demonhunter_sigilofmisery",
+    "id": 395446,
+    "name": "Soul Sigils",
+    "icon": "ability_demonhunter_sigilofinquisition",
     "capacity": 1,
     "cell": 129,
     "row": 8,
     "column": 11,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=207684/sigil-of-misery",
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=395446/soul-sigils",
     "links": [
       144,
       146
-    ]
-  },
-  {
-    "id": 388111,
-    "name": "Demon Muzzle",
-    "icon": "spell_fire_fireballgreen",
-    "capacity": 1,
-    "cell": 131,
-    "row": 8,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388111/demon-muzzle",
-    "links": [
-      148
     ]
   },
   {
@@ -511,9 +513,9 @@
     "name": "Aldrachi Design",
     "icon": "inv_glaive_1h_artifactaldrochi_d_01dual",
     "capacity": 1,
-    "cell": 133,
+    "cell": 131,
     "row": 8,
-    "column": 15,
+    "column": 13,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391409/aldrachi-design",
     "links": [
@@ -568,23 +570,15 @@
     ]
   },
   {
+    "id": 388111,
+    "name": "Demon Muzzle",
+    "icon": "spell_fire_fireballgreen",
+    "capacity": 1,
     "cell": 146,
     "row": 9,
     "column": 11,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 320418,
-      "name": "Improved Sigil of Misery",
-      "icon": "ability_demonhunter_sigilofmisery",
-      "url": "https://www.wowhead.com/beta/spell=320418/improved-sigil-of-misery"
-    },
-    "right": {
-      "id": 388110,
-      "name": "Misery in Defeat",
-      "icon": "ability_demonhunter_sigilofmisery",
-      "url": "https://www.wowhead.com/beta/spell=388110/misery-in-defeat"
-    }
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388111/demon-muzzle"
   },
   {
     "id": 389697,

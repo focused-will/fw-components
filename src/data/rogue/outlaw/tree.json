@@ -89,15 +89,15 @@
     ]
   },
   {
-    "id": 315341,
-    "name": "Between the Eyes",
-    "icon": "inv_weapon_rifle_01",
+    "id": 196922,
+    "name": "Hit and Run",
+    "icon": "ability_rogue_fleetfooted",
     "capacity": 1,
     "cell": 29,
     "row": 2,
     "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=315341/between-the-eyes",
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=196922/hit-and-run",
     "links": [
       44,
       48
@@ -165,15 +165,15 @@
     ]
   },
   {
-    "id": 381828,
-    "name": "Ace Up Your Sleeve",
-    "icon": "inv_weapon_rifle_01",
+    "id": 381878,
+    "name": "Deft Maneuvers",
+    "icon": "spell_warrior_wildstrike",
     "capacity": 1,
     "cell": 48,
     "row": 3,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381828/ace-up-your-sleeve",
+    "url": "https://www.wowhead.com/beta/spell=381878/deft-maneuvers",
     "links": [
       63,
       67
@@ -251,15 +251,15 @@
     ]
   },
   {
-    "id": 196922,
-    "name": "Hit and Run",
-    "icon": "ability_rogue_fleetfooted",
+    "id": 235484,
+    "name": "Improved Between the Eyes",
+    "icon": "inv_weapon_rifle_01",
     "capacity": 1,
     "cell": 63,
     "row": 4,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=196922/hit-and-run",
+    "url": "https://www.wowhead.com/beta/spell=235484/improved-between-the-eyes",
     "links": [
       80,
       82
@@ -340,15 +340,15 @@
     ]
   },
   {
-    "id": 381878,
-    "name": "Deft Maneuvers",
-    "icon": "spell_warrior_wildstrike",
+    "id": 381828,
+    "name": "Ace Up Your Sleeve",
+    "icon": "inv_weapon_rifle_01",
     "capacity": 1,
     "cell": 82,
     "row": 5,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381878/deft-maneuvers",
+    "url": "https://www.wowhead.com/beta/spell=381828/ace-up-your-sleeve",
     "links": [
       99
     ]
@@ -506,15 +506,15 @@
     ]
   },
   {
-    "id": 382794,
-    "name": "Restless Crew",
-    "icon": "ability_rogue_restlessblades",
+    "id": 395422,
+    "name": "Improved Adrenaline Rush",
+    "icon": "spell_shadow_shadowworddominate",
     "capacity": 1,
     "cell": 127,
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382794/restless-crew",
+    "url": "https://www.wowhead.com/beta/spell=395422/improved-adrenaline-rush",
     "links": [
       144
     ]

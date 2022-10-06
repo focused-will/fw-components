@@ -411,23 +411,15 @@
     ]
   },
   {
+    "id": 202163,
+    "name": "Bounding Stride",
+    "icon": "ability_heroicleap",
+    "capacity": 1,
     "cell": 91,
     "row": 6,
     "column": 7,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 202163,
-      "name": "Bounding Stride",
-      "icon": "ability_heroicleap",
-      "url": "https://www.wowhead.com/beta/spell=202163/bounding-stride"
-    },
-    "right": {
-      "id": 392383,
-      "name": "Wrenching Impact",
-      "icon": "spell_shaman_firenova",
-      "url": "https://www.wowhead.com/beta/spell=392383/wrenching-impact"
-    },
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=202163/bounding-stride",
     "links": [
       106,
       108,

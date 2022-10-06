@@ -298,7 +298,7 @@
     "id": 376179,
     "name": "Lifeforce Mender",
     "icon": "ability_evoker_dragonrage2",
-    "capacity": 3,
+    "capacity": 2,
     "cell": 93,
     "row": 6,
     "column": 9,
@@ -357,15 +357,15 @@
     ]
   },
   {
-    "id": 373270,
-    "name": "Lifebind",
-    "icon": "ability_evoker_hoverred",
+    "id": 373834,
+    "name": "Call of Ysera",
+    "icon": "4096390",
     "capacity": 1,
     "cell": 106,
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373270/lifebind",
+    "url": "https://www.wowhead.com/beta/spell=373834/call-of-ysera",
     "links": [
       121,
       123,
@@ -373,15 +373,15 @@
     ]
   },
   {
-    "id": 373834,
-    "name": "Call of Ysera",
-    "icon": "4096390",
+    "id": 373270,
+    "name": "Lifebind",
+    "icon": "ability_evoker_hoverred",
     "capacity": 1,
     "cell": 110,
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373834/call-of-ysera",
+    "url": "https://www.wowhead.com/beta/spell=373270/lifebind",
     "links": [
       125,
       127,

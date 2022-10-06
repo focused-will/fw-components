@@ -10,7 +10,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=319949/improved-backstab",
     "links": [
-      19,
+      21,
       23
     ]
   },
@@ -42,7 +42,7 @@
     "url": "https://www.wowhead.com/beta/spell=319951/improved-shuriken-storm",
     "links": [
       27,
-      31
+      29
     ]
   },
   {
@@ -50,9 +50,9 @@
     "name": "Weaponmaster",
     "icon": "ability_ironmaidens_bladerush",
     "capacity": 1,
-    "cell": 19,
+    "cell": 21,
     "row": 2,
-    "column": 3,
+    "column": 5,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=193537/weaponmaster",
     "links": [
@@ -106,9 +106,9 @@
     "name": "Black Powder",
     "icon": "spell_priest_divinestar_shadow",
     "capacity": 1,
-    "cell": 31,
+    "cell": 29,
     "row": 2,
-    "column": 15,
+    "column": 13,
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=319175/black-powder",
     "links": [

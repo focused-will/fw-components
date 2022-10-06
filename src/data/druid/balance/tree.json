@@ -285,7 +285,7 @@
     ]
   },
   {
-    "id": 194223,
+    "id": 395022,
     "name": "Celestial Alignment",
     "icon": "spell_nature_natureguardian",
     "capacity": 1,
@@ -293,7 +293,7 @@
     "row": 6,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=194223/celestial-alignment",
+    "url": "https://www.wowhead.com/beta/spell=395022/celestial-alignment",
     "links": [
       108,
       110,
@@ -451,7 +451,7 @@
   {
     "id": 392999,
     "name": "Fungal Growth",
-    "icon": "ability_druid_eclipse",
+    "icon": "druid_ability_wildmushroom_b",
     "capacity": 1,
     "cell": 133,
     "row": 8,

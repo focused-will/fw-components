@@ -213,14 +213,14 @@
   },
   {
     "id": 344359,
-    "name": "Paralysis",
+    "name": "Improved Paralysis",
     "icon": "ability_monk_paralysis",
     "capacity": 1,
     "cell": 63,
     "row": 4,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=344359/paralysis",
+    "url": "https://www.wowhead.com/beta/spell=344359/improved-paralysis",
     "links": [
       80,
       82
