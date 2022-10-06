@@ -39,7 +39,9 @@ export function deserialize(
    */
 
   const [, , ...actualString] = str;
-  const bits = [...actualString].map((char) => VALID_CHARS.indexOf(char));
+  const bits = [...actualString].map((char) =>
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_".indexOf(char)
+  );
 
   const TREES: { points: number[]; choices: number[] }[] = [
     {

@@ -7,7 +7,7 @@ import { DemonHunter } from "@/lib/trees";
 describe("TalentSet", () => {
   it("should render", () => {
     const { baseElement } = render(
-      <TalentSet classTalents={DemonHunter.HAVOC} onChange={console.log} />
+      <TalentSet classTalents={DemonHunter.HAVOC} onChange={() => null} />
     );
     expect(baseElement).toBeTruthy();
   });
