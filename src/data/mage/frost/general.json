@@ -227,7 +227,7 @@
     "left": {
       "id": 382569,
       "name": "Reduplication",
-      "icon": "spell_magic_lesserinvisibilty",
+      "icon": "ability_mage_massinvisibility",
       "url": "https://www.wowhead.com/beta/spell=382569/reduplication"
     },
     "right": {
@@ -415,7 +415,7 @@
   {
     "id": 382481,
     "name": "Rigid Ice",
-    "icon": "spell_frost_frostnova",
+    "icon": "spell_hunter_blackicetrap",
     "capacity": 1,
     "cell": 106,
     "row": 7,
@@ -429,7 +429,7 @@
   {
     "id": 382493,
     "name": "Tome of Rhonin",
-    "icon": "spell_chargepositive",
+    "icon": "inv_misc_book_04",
     "capacity": 1,
     "cell": 108,
     "row": 7,
@@ -444,7 +444,7 @@
   {
     "id": 382490,
     "name": "Tome of Antonidas",
-    "icon": "spell_chargepositive",
+    "icon": "inv_misc_book_18",
     "capacity": 1,
     "cell": 112,
     "row": 7,

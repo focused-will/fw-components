@@ -262,8 +262,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=152278/anger-management",
     "links": [
-      108,
-      112
+      109,
+      111
     ]
   },
   {
@@ -353,9 +353,9 @@
     ]
   },
   {
-    "cell": 108,
+    "cell": 109,
     "row": 7,
-    "column": 7,
+    "column": 8,
     "talentType": 3,
     "capacity": 1,
     "left": {
@@ -375,9 +375,9 @@
     ]
   },
   {
-    "cell": 112,
+    "cell": 111,
     "row": 7,
-    "column": 11,
+    "column": 10,
     "talentType": 3,
     "capacity": 1,
     "left": {

@@ -161,7 +161,7 @@
   {
     "id": 378198,
     "name": "Perpetual Winter",
-    "icon": "ability_warlock_burningembersblue",
+    "icon": "spell_frost_arcticwinds",
     "capacity": 1,
     "cell": 72,
     "row": 5,
@@ -229,7 +229,7 @@
   {
     "id": 378947,
     "name": "Glacial Assault",
-    "icon": "spell_mage_cometstorm2",
+    "icon": "inv_staff_15",
     "capacity": 2,
     "cell": 87,
     "row": 6,
@@ -265,7 +265,7 @@
   {
     "id": 378406,
     "name": "Wintertide",
-    "icon": "ability_mage_burstofcold",
+    "icon": "ability_deathknight_frozencenter",
     "capacity": 2,
     "cell": 91,
     "row": 6,
@@ -293,7 +293,7 @@
   {
     "id": 379993,
     "name": "Flash Freeze",
-    "icon": "ability_mage_coldasice",
+    "icon": "spell_hunter_icetrap",
     "capacity": 1,
     "cell": 97,
     "row": 6,
@@ -352,7 +352,7 @@
   {
     "id": 379049,
     "name": "Splintering Cold",
-    "icon": "spell_frost_iceshard",
+    "icon": "spell_fire_blueflamestrike",
     "capacity": 2,
     "cell": 114,
     "row": 7,
@@ -395,7 +395,7 @@
   {
     "id": 378433,
     "name": "Icy Propulsion",
-    "icon": "spell_frost_coldhearted",
+    "icon": "spell_frost_wisp",
     "capacity": 1,
     "cell": 127,
     "row": 8,
@@ -453,7 +453,7 @@
   {
     "id": 378901,
     "name": "Snap Freeze",
-    "icon": "spell_frost_coldhearted",
+    "icon": "ability_mage_freeze",
     "capacity": 1,
     "cell": 142,
     "row": 9,
@@ -517,7 +517,7 @@
   {
     "id": 382103,
     "name": "Freezing Winds",
-    "icon": "spell_shadow_soulleech_2",
+    "icon": "spell_fire_blueflamering",
     "capacity": 1,
     "cell": 159,
     "row": 10,

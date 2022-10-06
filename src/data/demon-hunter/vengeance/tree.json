@@ -127,15 +127,23 @@
     ]
   },
   {
-    "id": 391178,
-    "name": "Roaring Fire",
-    "icon": "spell_fire_felflamering",
-    "capacity": 1,
     "cell": 59,
     "row": 4,
     "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391178/roaring-fire",
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 391178,
+      "name": "Roaring Fire",
+      "icon": "spell_fire_felflamering",
+      "url": "https://www.wowhead.com/beta/spell=391178/roaring-fire"
+    },
+    "right": {
+      "id": 202137,
+      "name": "Sigil of Silence",
+      "icon": "ability_demonhunter_sigilofsilence",
+      "url": "https://www.wowhead.com/beta/spell=202137/sigil-of-silence"
+    },
     "links": [
       72,
       76,

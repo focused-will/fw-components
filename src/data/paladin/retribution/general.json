@@ -400,23 +400,15 @@
     ]
   },
   {
+    "id": 384909,
+    "name": "Improved Blessing of Protection",
+    "icon": "spell_holy_sealofprotection",
+    "capacity": 1,
     "cell": 112,
     "row": 7,
     "column": 11,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 384909,
-      "name": "Improved Blessing of Protection",
-      "icon": "spell_holy_sealofprotection",
-      "url": "https://www.wowhead.com/beta/spell=384909/improved-blessing-of-protection"
-    },
-    "right": {
-      "id": 204018,
-      "name": "Blessing of Spellwarding",
-      "icon": "spell_holy_blessingofprotection",
-      "url": "https://www.wowhead.com/beta/spell=204018/blessing-of-spellwarding"
-    },
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384909/improved-blessing-of-protection",
     "links": [
       127,
       131

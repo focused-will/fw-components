@@ -568,14 +568,14 @@
   },
   {
     "id": 322740,
-    "name": "Invoke Niuzao, the Black Ox",
+    "name": "Improved Invoke Niuzao, the Black Ox",
     "icon": "spell_monk_brewmaster_spec",
     "capacity": 1,
     "cell": 142,
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=322740/invoke-niuzao-the-black-ox",
+    "url": "https://www.wowhead.com/beta/spell=322740/improved-invoke-niuzao-the-black-ox",
     "links": [
       161
     ]
@@ -631,7 +631,7 @@
     "left": {
       "id": 386949,
       "name": "Bountiful Brew",
-      "icon": "ability_maldraxxus_monk",
+      "icon": "spell_animamaldraxxus_wave",
       "url": "https://www.wowhead.com/beta/spell=386949/bountiful-brew"
     },
     "right": {

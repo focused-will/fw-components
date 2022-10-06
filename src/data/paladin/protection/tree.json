@@ -226,15 +226,23 @@
     ]
   },
   {
-    "id": 393114,
-    "name": "Improved Ardent Defender",
-    "icon": "spell_holy_ardentdefender",
-    "capacity": 1,
     "cell": 76,
     "row": 5,
     "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393114/improved-ardent-defender",
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 204018,
+      "name": "Blessing of Spellwarding",
+      "icon": "spell_holy_blessingofprotection",
+      "url": "https://www.wowhead.com/beta/spell=204018/blessing-of-spellwarding"
+    },
+    "right": {
+      "id": 393114,
+      "name": "Improved Ardent Defender",
+      "icon": "spell_holy_ardentdefender",
+      "url": "https://www.wowhead.com/beta/spell=393114/improved-ardent-defender"
+    },
     "links": [
       93
     ]

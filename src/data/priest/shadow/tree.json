@@ -16,33 +16,17 @@
     ]
   },
   {
-    "id": 15487,
-    "name": "Silence",
-    "icon": "ability_priest_silence",
+    "id": 47585,
+    "name": "Dispersion",
+    "icon": "spell_shadow_dispersion",
     "capacity": 1,
     "cell": 23,
     "row": 2,
     "column": 7,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=15487/silence",
-    "links": [
-      38,
-      40
-    ]
-  },
-  {
-    "id": 47585,
-    "name": "Dispersion",
-    "icon": "spell_shadow_dispersion",
-    "capacity": 1,
-    "cell": 25,
-    "row": 2,
-    "column": 9,
-    "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=47585/dispersion",
     "links": [
-      40,
-      42
+      40
     ]
   },
   {
@@ -50,65 +34,33 @@
     "name": "Shadowy Apparitions",
     "icon": "ability_priest_shadowyapparition",
     "capacity": 1,
-    "cell": 27,
+    "cell": 25,
     "row": 2,
-    "column": 11,
+    "column": 9,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=341491/shadowy-apparitions",
     "links": [
-      44
+      42
     ]
   },
   {
-    "cell": 38,
-    "row": 3,
-    "column": 5,
-    "talentType": 3,
+    "id": 15487,
+    "name": "Silence",
+    "icon": "ability_priest_silence",
     "capacity": 1,
-    "left": {
-      "id": 263716,
-      "name": "Last Word",
-      "icon": "ability_priest_silence",
-      "url": "https://www.wowhead.com/beta/spell=263716/last-word"
-    },
-    "right": {
-      "id": 64044,
-      "name": "Psychic Horror",
-      "icon": "spell_shadow_psychichorrors",
-      "url": "https://www.wowhead.com/beta/spell=64044/psychic-horror"
-    },
+    "cell": 27,
+    "row": 2,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=15487/silence",
     "links": [
-      55
+      44
     ]
   },
   {
     "cell": 40,
     "row": 3,
     "column": 7,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 238558,
-      "name": "Misery",
-      "icon": "ability_rogue_envelopingshadows",
-      "url": "https://www.wowhead.com/beta/spell=238558/misery"
-    },
-    "right": {
-      "id": 263346,
-      "name": "Dark Void",
-      "icon": "inv_elemental_primal_shadow",
-      "url": "https://www.wowhead.com/beta/spell=263346/dark-void"
-    },
-    "links": [
-      55,
-      57,
-      59
-    ]
-  },
-  {
-    "cell": 42,
-    "row": 3,
-    "column": 9,
     "talentType": 3,
     "capacity": 1,
     "left": {
@@ -124,7 +76,31 @@
       "url": "https://www.wowhead.com/beta/spell=377065/mental-fortitude"
     },
     "links": [
-      59
+      57
+    ]
+  },
+  {
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 238558,
+      "name": "Misery",
+      "icon": "ability_rogue_envelopingshadows",
+      "url": "https://www.wowhead.com/beta/spell=238558/misery"
+    },
+    "right": {
+      "id": 263346,
+      "name": "Dark Void",
+      "icon": "inv_elemental_primal_shadow",
+      "url": "https://www.wowhead.com/beta/spell=263346/dark-void"
+    },
+    "links": [
+      57,
+      59,
+      61
     ]
   },
   {
@@ -134,36 +110,32 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
-      "id": 155271,
-      "name": "Auspicious Spirits",
-      "icon": "ability_priest_auspiciousspirits",
-      "url": "https://www.wowhead.com/beta/spell=155271/auspicious-spirits"
+      "id": 263716,
+      "name": "Last Word",
+      "icon": "ability_priest_silence",
+      "url": "https://www.wowhead.com/beta/spell=263716/last-word"
     },
     "right": {
-      "id": 391284,
-      "name": "Tormented Spirits",
-      "icon": "spell_shadow_painandsuffering",
-      "url": "https://www.wowhead.com/beta/spell=391284/tormented-spirits"
-    },
-    "links": [
-      59,
-      61,
-      63
-    ]
+      "id": 64044,
+      "name": "Psychic Horror",
+      "icon": "spell_shadow_psychichorrors",
+      "url": "https://www.wowhead.com/beta/spell=64044/psychic-horror"
+    }
   },
   {
     "id": 391242,
     "name": "Coalescing Shadows",
     "icon": "spell_priest_shadoworbs",
     "capacity": 1,
-    "cell": 55,
+    "cell": 57,
     "row": 4,
-    "column": 5,
+    "column": 7,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391242/coalescing-shadows",
     "links": [
-      70,
-      74
+      72,
+      74,
+      76
     ]
   },
   {
@@ -171,51 +143,13 @@
     "name": "Mind Sear",
     "icon": "spell_shadow_mindshear",
     "capacity": 1,
-    "cell": 57,
-    "row": 4,
-    "column": 7,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=48045/mind-sear",
-    "links": [
-      74
-    ]
-  },
-  {
     "cell": 59,
     "row": 4,
     "column": 9,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 391109,
-      "name": "Dark Ascension",
-      "icon": "ability_priest_darkarchangel",
-      "url": "https://www.wowhead.com/beta/spell=391109/dark-ascension"
-    },
-    "right": {
-      "id": 228260,
-      "name": "Void Eruption",
-      "icon": "spell_priest_void-blast",
-      "url": "https://www.wowhead.com/beta/spell=228260/void-eruption"
-    },
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=48045/mind-sear",
     "links": [
-      74,
-      76,
-      78
-    ]
-  },
-  {
-    "id": 199484,
-    "name": "Psychic Link",
-    "icon": "ability_priest_psychiclink",
-    "capacity": 2,
-    "cell": 61,
-    "row": 4,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=199484/psychic-link",
-    "links": [
-      78
+      76
     ]
   },
   {
@@ -223,14 +157,15 @@
     "name": "Mind Spike",
     "icon": "spell_priest_mindspike",
     "capacity": 1,
-    "cell": 63,
+    "cell": 61,
     "row": 4,
-    "column": 13,
+    "column": 11,
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=73510/mind-spike",
     "links": [
+      76,
       78,
-      82
+      80
     ]
   },
   {
@@ -238,13 +173,14 @@
     "name": "Puppet Master",
     "icon": "ability_rogue_masterofsubtlety",
     "capacity": 1,
-    "cell": 70,
+    "cell": 72,
     "row": 5,
-    "column": 3,
+    "column": 5,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377387/puppet-master",
     "links": [
-      87
+      87,
+      91
     ]
   },
   {
@@ -262,30 +198,39 @@
     ]
   },
   {
-    "id": 341240,
-    "name": "Ancient Madness",
-    "icon": "spell_priest_void-flay",
-    "capacity": 2,
     "cell": 76,
     "row": 5,
     "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=341240/ancient-madness",
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 391109,
+      "name": "Dark Ascension",
+      "icon": "ability_priest_darkarchangel",
+      "url": "https://www.wowhead.com/beta/spell=391109/dark-ascension"
+    },
+    "right": {
+      "id": 228260,
+      "name": "Void Eruption",
+      "icon": "spell_priest_void-blast",
+      "url": "https://www.wowhead.com/beta/spell=228260/void-eruption"
+    },
     "links": [
       91,
+      93,
       95
     ]
   },
   {
-    "id": 375888,
-    "name": "Shadowy Insight",
-    "icon": "spell_shadow_possession",
+    "id": 341273,
+    "name": "Unfurling Darkness",
+    "icon": "spell_priest_shadow-mend",
     "capacity": 1,
     "cell": 78,
     "row": 5,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375888/shadowy-insight",
+    "url": "https://www.wowhead.com/beta/spell=341273/unfurling-darkness",
     "links": [
       95
     ]
@@ -295,12 +240,13 @@
     "name": "Surge of Darkness",
     "icon": "ability_priest_surgeofdarkness",
     "capacity": 1,
-    "cell": 82,
+    "cell": 80,
     "row": 5,
-    "column": 15,
+    "column": 13,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=162448/surge-of-darkness",
     "links": [
+      95,
       99
     ]
   },
@@ -315,22 +261,39 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391296/harnessed-shadows",
     "links": [
-      106
+      106,
+      121
     ]
   },
   {
-    "id": 341273,
-    "name": "Unfurling Darkness",
-    "icon": "spell_priest_shadow-mend",
+    "id": 375888,
+    "name": "Shadowy Insight",
+    "icon": "spell_shadow_possession",
     "capacity": 1,
     "cell": 91,
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=341273/unfurling-darkness",
+    "url": "https://www.wowhead.com/beta/spell=375888/shadowy-insight",
     "links": [
       106,
-      110
+      108
+    ]
+  },
+  {
+    "id": 341240,
+    "name": "Ancient Madness",
+    "icon": "spell_priest_void-flay",
+    "capacity": 2,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=341240/ancient-madness",
+    "links": [
+      108,
+      110,
+      112
     ]
   },
   {
@@ -344,7 +307,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=205385/shadow-crash",
     "links": [
-      110,
+      112,
       114
     ]
   },
@@ -359,7 +322,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391090/mind-melt",
     "links": [
-      114
+      114,
+      133
     ]
   },
   {
@@ -382,13 +346,49 @@
     "name": "Dark Evangelism",
     "icon": "spell_mage_presenceofmind",
     "capacity": 2,
-    "cell": 110,
+    "cell": 108,
     "row": 7,
-    "column": 9,
+    "column": 7,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391095/dark-evangelism",
     "links": [
+      125
+    ]
+  },
+  {
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 155271,
+      "name": "Auspicious Spirits",
+      "icon": "ability_priest_auspiciousspirits",
+      "url": "https://www.wowhead.com/beta/spell=155271/auspicious-spirits"
+    },
+    "right": {
+      "id": 391284,
+      "name": "Tormented Spirits",
+      "icon": "spell_shadow_painandsuffering",
+      "url": "https://www.wowhead.com/beta/spell=391284/tormented-spirits"
+    },
+    "links": [
       125,
+      129
+    ]
+  },
+  {
+    "id": 199484,
+    "name": "Psychic Link",
+    "icon": "ability_priest_psychiclink",
+    "capacity": 2,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=199484/psychic-link",
+    "links": [
       129
     ]
   },

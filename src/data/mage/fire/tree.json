@@ -440,9 +440,23 @@
     ]
   },
   {
+    "id": 384174,
+    "name": "Master of Flame",
+    "icon": "inv_trinket_firelands_02",
+    "capacity": 1,
     "cell": 131,
     "row": 8,
     "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384174/master-of-flame",
+    "links": [
+      150
+    ]
+  },
+  {
+    "cell": 135,
+    "row": 8,
+    "column": 17,
     "talentType": 3,
     "capacity": 1,
     "left": {
@@ -457,20 +471,6 @@
       "icon": "spell_mage_meteor",
       "url": "https://www.wowhead.com/beta/spell=384033/firefall"
     },
-    "links": [
-      150
-    ]
-  },
-  {
-    "id": 384174,
-    "name": "Master of Flame",
-    "icon": "inv_trinket_firelands_02",
-    "capacity": 1,
-    "cell": 135,
-    "row": 8,
-    "column": 17,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384174/master-of-flame",
     "links": [
       150
     ]

@@ -7,9 +7,16 @@ import { PointCount } from "../TalentTree/types";
 import { SubmitInput } from "../SubmitInput";
 import { deserialize, TalentNodeWithMetadata } from "@/lib/serialization/wowhead";
 
-interface TreeReturn {
+export interface TreeReturn {
   selectedTalents: SelectedTalents;
   points: PointCount;
+}
+
+export interface TalentSetReturn {
+  // The general tree changes for the class
+  GENERAL?: TreeReturn;
+  // The spec trees changes for the class
+  TREE?: TreeReturn;
 }
 
 export interface TalentSetProps extends Omit<ComponentPropsWithoutRef<"div">, "onChange"> {
