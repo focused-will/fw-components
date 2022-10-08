@@ -25,13 +25,7 @@ export interface TalentSetProps extends Omit<ComponentPropsWithoutRef<"div">, "o
   linkStyle?: LinkStyle;
 }
 
-export function TalentSet({
-  classTalents,
-  className,
-  onChange,
-  linkStyle,
-  ...rest
-}: TalentSetProps) {
+function _TalentSet({ classTalents, className, onChange, linkStyle, ...rest }: TalentSetProps) {
   const [generalTalents, setGeneral] = React.useState<TalentNodeWithMetadata[]>();
   const [treeTalents, setTree] = React.useState<TalentNodeWithMetadata[]>();
 
@@ -75,3 +69,6 @@ export function TalentSet({
     </div>
   );
 }
+
+export const TalentSet = React.memo(_TalentSet);
+TalentSet.displayName = "TalentSet";

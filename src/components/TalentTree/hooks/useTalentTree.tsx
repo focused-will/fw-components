@@ -231,14 +231,19 @@ export function useTalentTree(
 
     const selectedTalents = Object.values(talents)
       .filter((talent) => talent.investment === talent.data.capacity || talent.investment > 0)
-      .reduce(
-        (acc, talent) =>
-          acc.set(talent.selectedId!, {
-            talentId: talent.selectedId!,
-            points: talent.investment,
-          }),
-        new Map<number, SelectedTalent>()
-      );
+      .reduce((acc, talent) => {
+        const id = ("id" in talent.data && talent.data.id) || talent.selectedId;
+
+        if (!id) {
+          throw new Error("TalentNode has no id");
+        }
+
+        acc.set(id, {
+          talentId: id,
+          points: talent.investment,
+        });
+        return acc;
+      }, new Map<number, SelectedTalent>());
 
     onChange(selectedTalents, {
       current: pointCount.lower + pointCount.middle + pointCount.upper,
