@@ -26,7 +26,7 @@ export type TalentTreeProps = {
   initialSelectedTalents?: TalentNodeWithMetadata[];
 };
 
-export function TalentTree({
+function _TalentTree({
   talentNodes,
   onChange,
   className,
@@ -79,3 +79,6 @@ export function TalentTree({
     </Tooltip.Provider>
   );
 }
+
+export const TalentTree = React.memo(_TalentTree);
+TalentTree.displayName = "TalentTree";

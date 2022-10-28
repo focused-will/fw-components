@@ -41,6 +41,14 @@ export default [
   {
     input: "src/index.ts",
     output: [{ file: "dist/types/index.d.ts", format: "esm" }],
-    plugins: [dts({})],
+    plugins: [
+      dts({
+        compilerOptions: {
+          paths: {
+            "@/*": ["./src/*"],
+          },
+        },
+      }),
+    ],
   },
 ];
