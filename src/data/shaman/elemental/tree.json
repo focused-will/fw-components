@@ -249,7 +249,7 @@
     ]
   },
   {
-    "id": 392714,
+    "id": 191634,
     "name": "Stormkeeper",
     "icon": "ability_thunderking_lightningwhip",
     "capacity": 1,
@@ -257,7 +257,7 @@
     "row": 6,
     "column": 3,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=392714/stormkeeper",
+    "url": "https://www.wowhead.com/beta/spell=191634/stormkeeper",
     "links": [
       102,
       106
@@ -348,7 +348,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381708/eye-of-the-storm",
+    "url": "https://www.wowhead.com/beta/spell=381708/eye-of-the-storm?def=106821&rank=1",
     "links": [
       121,
       125,
@@ -364,7 +364,7 @@
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=191861/power-of-the-maelstrom",
+    "url": "https://www.wowhead.com/beta/spell=191861/power-of-the-maelstrom?def=106824&rank=1",
     "links": [
       125,
       129,
@@ -380,7 +380,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=16166/master-of-the-elements",
+    "url": "https://www.wowhead.com/beta/spell=16166/master-of-the-elements?def=106829&rank=1",
     "links": [
       129,
       133,
@@ -489,7 +489,7 @@
     "row": 9,
     "column": 1,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384087/echoes-of-great-sundering",
+    "url": "https://www.wowhead.com/beta/spell=384087/echoes-of-great-sundering?def=106844&rank=1",
     "links": [
       155
     ]
@@ -503,7 +503,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378271/elemental-equilibrium",
+    "url": "https://www.wowhead.com/beta/spell=378271/elemental-equilibrium?def=106841&rank=1",
     "links": [
       155
     ]
@@ -517,7 +517,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386443/rolling-magma",
+    "url": "https://www.wowhead.com/beta/spell=386443/rolling-magma?def=106858&rank=1",
     "links": [
       159
     ]
@@ -531,7 +531,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382032/echo-chamber",
+    "url": "https://www.wowhead.com/beta/spell=382032/echo-chamber?def=106839&rank=1",
     "links": [
       161
     ]
@@ -545,7 +545,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381785/oath-of-the-far-seer",
+    "url": "https://www.wowhead.com/beta/spell=381785/oath-of-the-far-seer?def=106826&rank=1",
     "links": [
       163
     ]
@@ -559,7 +559,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381932/magma-chamber",
+    "url": "https://www.wowhead.com/beta/spell=381932/magma-chamber?def=106850&rank=1",
     "links": [
       167
     ]
@@ -573,7 +573,7 @@
     "row": 9,
     "column": 17,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381782/searing-flames",
+    "url": "https://www.wowhead.com/beta/spell=381782/searing-flames?def=106847&rank=1",
     "links": [
       167
     ]
@@ -591,10 +591,10 @@
       "url": "https://www.wowhead.com/beta/spell=210689/lightning-rod"
     },
     "right": {
-      "id": 392763,
+      "id": 191634,
       "name": "Stormkeeper",
       "icon": "ability_thunderking_lightningwhip",
-      "url": "https://www.wowhead.com/beta/spell=392763/stormkeeper"
+      "url": "https://www.wowhead.com/beta/spell=191634/stormkeeper"
     }
   },
   {
@@ -605,9 +605,9 @@
     "capacity": 1,
     "left": {
       "id": 386474,
-      "name": "Heat Wave",
+      "name": "Primordial Surge",
       "icon": "ability_rhyolith_magmaflow_wave",
-      "url": "https://www.wowhead.com/beta/spell=386474/heat-wave"
+      "url": "https://www.wowhead.com/beta/spell=386474/primordial-surge"
     },
     "right": {
       "id": 382042,

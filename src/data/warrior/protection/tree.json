@@ -342,7 +342,7 @@
     "row": 6,
     "column": 17,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385704/bloodborne",
+    "url": "https://www.wowhead.com/beta/spell=385704/bloodborne?def=117326&rank=1",
     "links": [
       116
     ]
@@ -412,10 +412,10 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
-      "id": 384074,
-      "name": "Unbreakable Will",
+      "id": 397103,
+      "name": "Defender's Aegis",
       "icon": "ability_warrior_stalwartprotector",
-      "url": "https://www.wowhead.com/beta/spell=384074/unbreakable-will"
+      "url": "https://www.wowhead.com/beta/spell=397103/defenders-aegis"
     },
     "right": {
       "id": 384072,
@@ -472,7 +472,7 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386011/shield-specialization",
+    "url": "https://www.wowhead.com/beta/spell=386011/shield-specialization?def=117176&rank=1",
     "links": [
       138,
       142,

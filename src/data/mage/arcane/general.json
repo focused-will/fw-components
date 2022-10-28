@@ -70,7 +70,7 @@
     "row": 3,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382424/winters-protection",
+    "url": "https://www.wowhead.com/beta/spell=382424/winters-protection?def=85185&rank=1",
     "links": [
       55
     ]
@@ -98,7 +98,7 @@
     "row": 3,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382289/tempest-barrier",
+    "url": "https://www.wowhead.com/beta/spell=382289/tempest-barrier?def=85172&rank=1",
     "links": [
       55,
       59
@@ -113,7 +113,7 @@
     "row": 3,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382293/incantation-of-swiftness",
+    "url": "https://www.wowhead.com/beta/spell=382293/incantation-of-swiftness?def=85173&rank=1",
     "links": [
       59,
       63
@@ -142,7 +142,7 @@
     "row": 3,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383092/arcane-warding",
+    "url": "https://www.wowhead.com/beta/spell=383092/arcane-warding?def=85176&rank=1",
     "links": [
       63
     ]
@@ -212,7 +212,7 @@
     "row": 5,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382292/cryo-freeze",
+    "url": "https://www.wowhead.com/beta/spell=382292/cryo-freeze?def=85168&rank=1",
     "links": [
       89,
       104
@@ -309,7 +309,7 @@
     "row": 5,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382270/diverted-energy",
+    "url": "https://www.wowhead.com/beta/spell=382270/diverted-energy?def=85161&rank=1",
     "links": [
       97,
       116
@@ -493,7 +493,7 @@
     "row": 8,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=235224/frigid-winds",
+    "url": "https://www.wowhead.com/beta/spell=235224/frigid-winds?def=85191&rank=1",
     "links": [
       138,
       142
@@ -508,7 +508,7 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382268/flow-of-time",
+    "url": "https://www.wowhead.com/beta/spell=382268/flow-of-time?def=85156&rank=1",
     "links": [
       142,
       144,
@@ -524,7 +524,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382826/temporal-velocity",
+    "url": "https://www.wowhead.com/beta/spell=382826/temporal-velocity?def=85159&rank=1",
     "links": [
       146,
       150
@@ -554,7 +554,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387807/time-manipulation",
+    "url": "https://www.wowhead.com/beta/spell=387807/time-manipulation?def=85192&rank=1",
     "links": [
       157
     ]
@@ -582,7 +582,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382800/accumulative-shielding",
+    "url": "https://www.wowhead.com/beta/spell=382800/accumulative-shielding?def=85152&rank=1",
     "links": [
       165
     ]

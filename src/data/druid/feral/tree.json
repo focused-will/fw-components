@@ -40,7 +40,7 @@
     "row": 2,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391037/primal-claws"
+    "url": "https://www.wowhead.com/beta/spell=391037/primal-claws?def=108149&rank=1"
   },
   {
     "id": 285381,
@@ -60,16 +60,17 @@
   },
   {
     "id": 231063,
-    "name": "Merciless Strikes",
+    "name": "Merciless Claws",
     "icon": "inv_misc_monsterclaw_03",
     "capacity": 1,
     "cell": 38,
     "row": 3,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=231063/merciless-strikes",
+    "url": "https://www.wowhead.com/beta/spell=231063/merciless-claws",
     "links": [
       53,
+      55,
       57
     ]
   },
@@ -100,8 +101,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391700/double-clawed-rake",
     "links": [
-      61,
-      65
+      61
     ]
   },
   {
@@ -114,6 +114,20 @@
     "column": 3,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391947/protective-growth",
+    "links": [
+      72
+    ]
+  },
+  {
+    "id": 155580,
+    "name": "Lunar Inspiration",
+    "icon": "spell_druid_lunarinspiration",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=155580/lunar-inspiration",
     "links": [
       72
     ]
@@ -143,7 +157,7 @@
     "row": 4,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383352/tireless-energy"
+    "url": "https://www.wowhead.com/beta/spell=383352/tireless-energy?def=108190&rank=1"
   },
   {
     "id": 390772,
@@ -162,20 +176,6 @@
     ]
   },
   {
-    "id": 155580,
-    "name": "Lunar Inspiration",
-    "icon": "spell_druid_lunarinspiration",
-    "capacity": 1,
-    "cell": 65,
-    "row": 4,
-    "column": 15,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=155580/lunar-inspiration",
-    "links": [
-      80
-    ]
-  },
-  {
     "id": 384667,
     "name": "Sudden Ambush",
     "icon": "ability_hunter_catlikereflexes",
@@ -184,9 +184,8 @@
     "row": 5,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384667/sudden-ambush",
+    "url": "https://www.wowhead.com/beta/spell=384667/sudden-ambush?def=108170&rank=1",
     "links": [
-      87,
       89
     ]
   },
@@ -205,7 +204,7 @@
     ]
   },
   {
-    "id": 343223,
+    "id": 106951,
     "name": "Berserk",
     "icon": "ability_druid_berserk",
     "capacity": 1,
@@ -213,9 +212,10 @@
     "row": 5,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=343223/berserk",
+    "url": "https://www.wowhead.com/beta/spell=106951/berserk",
     "links": [
-      93
+      92,
+      94
     ]
   },
   {
@@ -241,22 +241,11 @@
     "row": 5,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384665/taste-for-blood",
+    "url": "https://www.wowhead.com/beta/spell=384665/taste-for-blood?def=108187&rank=1",
     "links": [
       97,
       99
     ]
-  },
-  {
-    "id": 48484,
-    "name": "Infected Wounds",
-    "icon": "ability_druid_infectedwound",
-    "capacity": 1,
-    "cell": 87,
-    "row": 6,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=48484/infected-wounds"
   },
   {
     "id": 16974,
@@ -279,11 +268,25 @@
     "name": "Moment of Clarity",
     "icon": "spell_druid_momentofclarity",
     "capacity": 1,
-    "cell": 93,
+    "cell": 92,
     "row": 6,
-    "column": 9,
+    "column": 8,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=236068/moment-of-clarity",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 48484,
+    "name": "Infected Wounds",
+    "icon": "ability_druid_infectedwound",
+    "capacity": 1,
+    "cell": 94,
+    "row": 6,
+    "column": 10,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=48484/infected-wounds",
     "links": [
       110
     ]
@@ -412,7 +415,7 @@
     "row": 8,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390902/carnivorous-instinct",
+    "url": "https://www.wowhead.com/beta/spell=390902/carnivorous-instinct?def=108178&rank=1",
     "links": [
       138,
       142,
@@ -428,7 +431,7 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391875/frantic-momentum",
+    "url": "https://www.wowhead.com/beta/spell=391875/frantic-momentum?def=108184&rank=1",
     "links": [
       142,
       144,
@@ -444,7 +447,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386318/cats-curiosity",
+    "url": "https://www.wowhead.com/beta/spell=386318/cats-curiosity?def=108160&rank=1",
     "links": [
       146,
       150,

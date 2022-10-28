@@ -271,7 +271,7 @@
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388511/overflowing-mists",
+    "url": "https://www.wowhead.com/beta/spell=388511/overflowing-mists?def=106389&rank=1",
     "links": [
       106,
       108
@@ -333,7 +333,7 @@
     "row": 6,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388847/rapid-diffusion",
+    "url": "https://www.wowhead.com/beta/spell=388847/rapid-diffusion?def=106387&rank=1",
     "links": [
       114,
       133
@@ -414,7 +414,7 @@
     "row": 7,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388701/dancing-mists",
+    "url": "https://www.wowhead.com/beta/spell=388701/dancing-mists?def=106395&rank=1",
     "links": [
       131
     ]
@@ -549,7 +549,7 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388740/ancient-concordance",
+    "url": "https://www.wowhead.com/beta/spell=388740/ancient-concordance?def=106373&rank=1",
     "links": [
       155,
       157
@@ -564,7 +564,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388020/resplendent-mist",
+    "url": "https://www.wowhead.com/beta/spell=388020/resplendent-mist?def=106393&rank=1",
     "links": [
       157,
       161
@@ -579,7 +579,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388491/secret-infusion",
+    "url": "https://www.wowhead.com/beta/spell=388491/secret-infusion?def=106374&rank=1",
     "links": [
       161,
       163
@@ -594,7 +594,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388682/misty-peaks",
+    "url": "https://www.wowhead.com/beta/spell=388682/misty-peaks?def=106404&rank=1",
     "links": [
       165
     ]
@@ -608,7 +608,7 @@
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388593/peaceful-mending",
+    "url": "https://www.wowhead.com/beta/spell=388593/peaceful-mending?def=106401&rank=1",
     "links": [
       165
     ]

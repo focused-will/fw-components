@@ -97,7 +97,7 @@
     "row": 4,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=316867/improved-festering-strike",
+    "url": "https://www.wowhead.com/beta/spell=316867/improved-festering-strike?def=101331&rank=1",
     "links": [
       74,
       76
@@ -112,7 +112,7 @@
     "row": 4,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390166/runic-mastery",
+    "url": "https://www.wowhead.com/beta/spell=390166/runic-mastery?def=101325&rank=1",
     "links": [
       76
     ]
@@ -291,7 +291,7 @@
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=316941/unholy-command",
+    "url": "https://www.wowhead.com/beta/spell=316941/unholy-command?def=101333&rank=1",
     "links": [
       108
     ]
@@ -327,7 +327,7 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377580/improved-death-coil",
+    "url": "https://www.wowhead.com/beta/spell=377580/improved-death-coil?def=101323&rank=1",
     "links": [
       112
     ]
@@ -510,7 +510,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377590/festermight",
+    "url": "https://www.wowhead.com/beta/spell=377590/festermight?def=101288&rank=1",
     "links": [
       157
     ]
@@ -524,7 +524,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377587/ghoulish-frenzy",
+    "url": "https://www.wowhead.com/beta/spell=377587/ghoulish-frenzy?def=101290&rank=1",
     "links": [
       161
     ]
@@ -552,7 +552,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377592/morbidity",
+    "url": "https://www.wowhead.com/beta/spell=377592/morbidity?def=101336&rank=1",
     "links": [
       161
     ]
@@ -566,7 +566,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377440/unholy-aura",
+    "url": "https://www.wowhead.com/beta/spell=377440/unholy-aura?def=101286&rank=1",
     "links": [
       165
     ]

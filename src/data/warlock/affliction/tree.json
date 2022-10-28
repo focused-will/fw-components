@@ -98,7 +98,7 @@
     "row": 4,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=32388/shadow-embrace",
+    "url": "https://www.wowhead.com/beta/spell=32388/shadow-embrace?def=96567&rank=1",
     "links": [
       72,
       87
@@ -113,7 +113,7 @@
     "row": 4,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=201424/harvester-of-souls",
+    "url": "https://www.wowhead.com/beta/spell=201424/harvester-of-souls?def=96566&rank=1",
     "links": [
       72,
       76,
@@ -129,7 +129,7 @@
     "row": 4,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=196102/writhe-in-agony",
+    "url": "https://www.wowhead.com/beta/spell=196102/writhe-in-agony?def=96563&rank=1",
     "links": [
       76,
       80,
@@ -145,14 +145,14 @@
     "row": 4,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386922/agonizing-corruption",
+    "url": "https://www.wowhead.com/beta/spell=386922/agonizing-corruption?def=96561&rank=1",
     "links": [
       80,
       99
     ]
   },
   {
-    "id": 388667,
+    "id": 198590,
     "name": "Drain Soul",
     "icon": "spell_shadow_haunting",
     "capacity": 1,
@@ -160,7 +160,7 @@
     "row": 5,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=388667/drain-soul",
+    "url": "https://www.wowhead.com/beta/spell=198590/drain-soul",
     "links": [
       87,
       91,
@@ -239,7 +239,7 @@
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=334319/inevitable-demise",
+    "url": "https://www.wowhead.com/beta/spell=334319/inevitable-demise?def=96569&rank=1",
     "links": [
       106,
       110
@@ -268,7 +268,7 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=199471/soul-flame",
+    "url": "https://www.wowhead.com/beta/spell=199471/soul-flame?def=96564&rank=1",
     "links": [
       110,
       114
@@ -298,7 +298,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386759/pandemic-invocation",
+    "url": "https://www.wowhead.com/beta/spell=386759/pandemic-invocation?def=96575&rank=1",
     "links": [
       121,
       125
@@ -313,7 +313,7 @@
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386976/withering-bolt",
+    "url": "https://www.wowhead.com/beta/spell=386976/withering-bolt?def=96579&rank=1",
     "links": [
       125,
       129
@@ -328,7 +328,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386986/sacrolashs-dark-strike",
+    "url": "https://www.wowhead.com/beta/spell=386986/sacrolashs-dark-strike?def=96557&rank=1",
     "links": [
       129,
       133
@@ -403,7 +403,7 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389761/malefic-affliction",
+    "url": "https://www.wowhead.com/beta/spell=389761/malefic-affliction?def=96431&rank=1",
     "links": [
       155
     ]
@@ -428,7 +428,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387250/seized-vitality",
+    "url": "https://www.wowhead.com/beta/spell=387250/seized-vitality?def=96509&rank=1",
     "links": [
       159
     ]
@@ -442,7 +442,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387273/malevolent-visionary",
+    "url": "https://www.wowhead.com/beta/spell=387273/malevolent-visionary?def=96506&rank=1",
     "links": [
       163
     ]
@@ -467,7 +467,7 @@
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389630/soul-eaters-gluttony",
+    "url": "https://www.wowhead.com/beta/spell=389630/soul-eaters-gluttony?def=96430&rank=1",
     "links": [
       167
     ]

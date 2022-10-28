@@ -258,7 +258,7 @@
     "row": 4,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=48263/veteran-of-the-third-war",
+    "url": "https://www.wowhead.com/beta/spell=48263/veteran-of-the-third-war?def=101199&rank=1",
     "links": [
       76
     ]
@@ -543,7 +543,7 @@
     "row": 8,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=374598/blood-draw",
+    "url": "https://www.wowhead.com/beta/spell=374598/blood-draw?def=101210&rank=1",
     "links": [
       140,
       144
@@ -558,7 +558,7 @@
     "row": 8,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=206967/will-of-the-necropolis",
+    "url": "https://www.wowhead.com/beta/spell=206967/will-of-the-necropolis?def=101184&rank=1",
     "links": [
       144,
       148
@@ -587,7 +587,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=194878/icy-talons",
+    "url": "https://www.wowhead.com/beta/spell=194878/icy-talons?def=101181&rank=1",
     "links": [
       157
     ]
@@ -601,7 +601,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=374574/rune-mastery",
+    "url": "https://www.wowhead.com/beta/spell=374574/rune-mastery?def=101211&rank=1",
     "links": [
       161
     ]
@@ -615,13 +615,13 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=374261/unholy-bond",
+    "url": "https://www.wowhead.com/beta/spell=374261/unholy-bond?def=101185&rank=1",
     "links": [
       165
     ]
   },
   {
-    "id": 392962,
+    "id": 47568,
     "name": "Empower Rune Weapon",
     "icon": "inv_sword_62",
     "capacity": 1,
@@ -629,7 +629,7 @@
     "row": 10,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=392962/empower-rune-weapon"
+    "url": "https://www.wowhead.com/beta/spell=47568/empower-rune-weapon"
   },
   {
     "id": 383269,

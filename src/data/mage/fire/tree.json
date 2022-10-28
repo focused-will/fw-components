@@ -157,7 +157,7 @@
     "row": 5,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383604/improved-scorch",
+    "url": "https://www.wowhead.com/beta/spell=383604/improved-scorch?def=85282&rank=1",
     "links": [
       89,
       104
@@ -172,7 +172,7 @@
     "row": 5,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=117216/critical-mass",
+    "url": "https://www.wowhead.com/beta/spell=117216/critical-mass?def=85290&rank=1",
     "links": [
       89,
       93
@@ -201,7 +201,7 @@
     "row": 5,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=205029/flame-on",
+    "url": "https://www.wowhead.com/beta/spell=205029/flame-on?def=85259&rank=1",
     "links": [
       93,
       97
@@ -314,7 +314,7 @@
     "row": 7,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383499/firemind",
+    "url": "https://www.wowhead.com/beta/spell=383499/firemind?def=85279&rank=1",
     "links": [
       123
     ]
@@ -352,7 +352,7 @@
     "row": 7,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383391/feel-the-burn",
+    "url": "https://www.wowhead.com/beta/spell=383391/feel-the-burn?def=85264&rank=1",
     "links": [
       131
     ]
@@ -409,7 +409,7 @@
     "row": 8,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=203275/flame-accelerant",
+    "url": "https://www.wowhead.com/beta/spell=203275/flame-accelerant?def=85270&rank=1",
     "links": [
       161
     ]
@@ -434,7 +434,7 @@
     "row": 8,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383489/wildfire",
+    "url": "https://www.wowhead.com/beta/spell=383489/wildfire?def=85273&rank=1",
     "links": [
       161
     ]
@@ -484,7 +484,7 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383669/controlled-destruction",
+    "url": "https://www.wowhead.com/beta/spell=383669/controlled-destruction?def=85275&rank=1",
     "links": [
       155
     ]
@@ -498,7 +498,7 @@
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383810/fevered-incantation",
+    "url": "https://www.wowhead.com/beta/spell=383810/fevered-incantation?def=85256&rank=1",
     "links": [
       167
     ]

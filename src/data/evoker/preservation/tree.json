@@ -177,7 +177,7 @@
     "row": 5,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=359793/fluttering-seedlings",
+    "url": "https://www.wowhead.com/beta/spell=359793/fluttering-seedlings?def=92634&rank=1",
     "links": [
       89,
       91
@@ -192,7 +192,7 @@
     "row": 5,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=371426/life-givers-flame",
+    "url": "https://www.wowhead.com/beta/spell=371426/life-givers-flame?def=92618&rank=1",
     "links": [
       93
     ]
@@ -277,7 +277,7 @@
     "row": 6,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377100/exhilarating-burst"
+    "url": "https://www.wowhead.com/beta/spell=377100/exhilarating-burst?def=92597&rank=1"
   },
   {
     "id": 370062,
@@ -303,7 +303,7 @@
     "row": 6,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=376179/lifeforce-mender",
+    "url": "https://www.wowhead.com/beta/spell=376179/lifeforce-mender?def=92619&rank=1",
     "links": [
       110
     ]
@@ -317,7 +317,7 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=372527/time-lord",
+    "url": "https://www.wowhead.com/beta/spell=372527/time-lord?def=92617&rank=1",
     "links": [
       110,
       114
@@ -332,7 +332,7 @@
     "row": 6,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385696/flow-state"
+    "url": "https://www.wowhead.com/beta/spell=385696/flow-state?def=92612&rank=1"
   },
   {
     "cell": 99,
@@ -521,7 +521,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=371257/renewing-breath",
+    "url": "https://www.wowhead.com/beta/spell=371257/renewing-breath?def=92601&rank=1",
     "links": [
       157
     ]
@@ -535,7 +535,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=376239/grace-period",
+    "url": "https://www.wowhead.com/beta/spell=376239/grace-period?def=92623&rank=1",
     "links": [
       161
     ]
@@ -549,7 +549,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=376240/timeless-magic",
+    "url": "https://www.wowhead.com/beta/spell=376240/timeless-magic?def=92607&rank=1",
     "links": [
       165
     ]

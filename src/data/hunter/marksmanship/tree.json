@@ -54,7 +54,7 @@
     "row": 2,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=260240/precise-shots",
+    "url": "https://www.wowhead.com/beta/spell=260240/precise-shots?def=105584&rank=1",
     "links": [
       42,
       46,
@@ -116,7 +116,7 @@
     "row": 4,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=260367/streamline",
+    "url": "https://www.wowhead.com/beta/spell=260367/streamline?def=105600&rank=1",
     "links": [
       70,
       74
@@ -131,7 +131,7 @@
     "row": 4,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378765/killer-accuracy",
+    "url": "https://www.wowhead.com/beta/spell=378765/killer-accuracy?def=105608&rank=1",
     "links": [
       74,
       76
@@ -146,7 +146,7 @@
     "row": 4,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378766/hunters-knowledge",
+    "url": "https://www.wowhead.com/beta/spell=378766/hunters-knowledge?def=105595&rank=1",
     "links": [
       76
     ]
@@ -160,7 +160,7 @@
     "row": 4,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=260228/careful-aim",
+    "url": "https://www.wowhead.com/beta/spell=260228/careful-aim?def=105586&rank=1",
     "links": [
       76,
       80
@@ -227,7 +227,7 @@
     "row": 5,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378767/focused-aim",
+    "url": "https://www.wowhead.com/beta/spell=378767/focused-aim?def=105603&rank=1",
     "links": [
       95,
       97,
@@ -363,7 +363,7 @@
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=193533/steady-focus",
+    "url": "https://www.wowhead.com/beta/spell=193533/steady-focus?def=105598&rank=1",
     "links": [
       127,
       129
@@ -457,7 +457,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=204089/bullseye",
+    "url": "https://www.wowhead.com/beta/spell=204089/bullseye?def=105583&rank=1",
     "links": [
       146,
       150
@@ -486,7 +486,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378907/sharpshooter",
+    "url": "https://www.wowhead.com/beta/spell=378907/sharpshooter?def=105594&rank=1",
     "links": [
       157
     ]
@@ -500,7 +500,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389449/eagletalons-true-focus",
+    "url": "https://www.wowhead.com/beta/spell=389449/eagletalons-true-focus?def=105609&rank=1",
     "links": [
       161
     ]
@@ -528,7 +528,7 @@
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=190852/legacy-of-the-windrunners",
+    "url": "https://www.wowhead.com/beta/spell=190852/legacy-of-the-windrunners?def=105607&rank=1",
     "links": [
       167
     ]

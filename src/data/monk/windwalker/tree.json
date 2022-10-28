@@ -84,7 +84,7 @@
     "row": 3,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388856/touch-of-the-tiger",
+    "url": "https://www.wowhead.com/beta/spell=388856/touch-of-the-tiger?def=106435&rank=1",
     "links": [
       55,
       59
@@ -99,7 +99,7 @@
     "row": 3,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391383/hardened-soles",
+    "url": "https://www.wowhead.com/beta/spell=391383/hardened-soles?def=106423&rank=1",
     "links": [
       59
     ]
@@ -107,13 +107,13 @@
   {
     "id": 388854,
     "name": "Flashing Fists",
-    "icon": "monk_ability_fistoffury",
+    "icon": "inv_weapon_hand_08",
     "capacity": 2,
     "cell": 44,
     "row": 3,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388854/flashing-fists",
+    "url": "https://www.wowhead.com/beta/spell=388854/flashing-fists?def=106427&rank=1",
     "links": [
       59,
       63
@@ -134,7 +134,7 @@
     ]
   },
   {
-    "id": 228287,
+    "id": 220357,
     "name": "Mark of the Crane",
     "icon": "ability_monk_cranekick_new",
     "capacity": 1,
@@ -142,7 +142,7 @@
     "row": 4,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=228287/mark-of-the-crane",
+    "url": "https://www.wowhead.com/beta/spell=220357/mark-of-the-crane",
     "links": [
       70,
       74
@@ -419,7 +419,7 @@
     "row": 8,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388848/crane-vortex",
+    "url": "https://www.wowhead.com/beta/spell=388848/crane-vortex?def=106485&rank=1",
     "links": [
       138,
       140
@@ -442,7 +442,7 @@
     ]
   },
   {
-    "id": 287055,
+    "id": 396166,
     "name": "Fury of Xuen",
     "icon": "ability_monk_prideofthetiger",
     "capacity": 1,
@@ -450,13 +450,13 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=287055/fury-of-xuen",
+    "url": "https://www.wowhead.com/beta/spell=396166/fury-of-xuen",
     "links": [
       144
     ]
   },
   {
-    "id": 335913,
+    "id": 323999,
     "name": "Empowered Tiger Lightning",
     "icon": "ability_monk_summontigerstatue",
     "capacity": 1,
@@ -464,7 +464,7 @@
     "row": 8,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=335913/empowered-tiger-lightning",
+    "url": "https://www.wowhead.com/beta/spell=323999/empowered-tiger-lightning",
     "links": [
       144,
       146,
@@ -480,7 +480,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388849/rising-star",
+    "url": "https://www.wowhead.com/beta/spell=388849/rising-star?def=106491&rank=1",
     "links": [
       148,
       150
@@ -544,7 +544,7 @@
   {
     "id": 195300,
     "name": "Transfer the Power",
-    "icon": "monk_ability_fistoffury",
+    "icon": "ability_thunderking_kickshell",
     "capacity": 1,
     "cell": 146,
     "row": 9,

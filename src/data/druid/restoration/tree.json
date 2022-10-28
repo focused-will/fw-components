@@ -293,7 +293,7 @@
     "left": {
       "id": 197061,
       "name": "Stonebark",
-      "icon": "spell_druid_ironbark",
+      "icon": "archaeology_5_0_crackedmogurunestone",
       "url": "https://www.wowhead.com/beta/spell=197061/stonebark"
     },
     "right": {
@@ -345,7 +345,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383191/regenesis",
+    "url": "https://www.wowhead.com/beta/spell=383191/regenesis?def=108122&rank=1",
     "links": [
       121,
       125
@@ -360,7 +360,7 @@
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392256/harmonious-blooming",
+    "url": "https://www.wowhead.com/beta/spell=392256/harmonious-blooming?def=108126&rank=1",
     "links": [
       125,
       129
@@ -375,7 +375,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382559/unstoppable-growth",
+    "url": "https://www.wowhead.com/beta/spell=382559/unstoppable-growth?def=108143&rank=1",
     "links": [
       129,
       133
@@ -384,7 +384,7 @@
   {
     "id": 392116,
     "name": "Regenerative Heartwood",
-    "icon": "ability_druid_manatree",
+    "icon": "spell_nature_naturetouchgrow",
     "capacity": 1,
     "cell": 118,
     "row": 7,
@@ -506,7 +506,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392167/budding-leaves",
+    "url": "https://www.wowhead.com/beta/spell=392167/budding-leaves?def=108133&rank=1",
     "links": [
       155,
       157,
@@ -536,7 +536,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392124/embrace-of-the-dream",
+    "url": "https://www.wowhead.com/beta/spell=392124/embrace-of-the-dream?def=108131&rank=1",
     "links": [
       159,
       163
@@ -565,7 +565,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392315/luxuriant-soil",
+    "url": "https://www.wowhead.com/beta/spell=392315/luxuriant-soil?def=108129&rank=1",
     "links": [
       163,
       167

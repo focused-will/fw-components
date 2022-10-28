@@ -45,15 +45,15 @@
     ]
   },
   {
-    "id": 394932,
+    "id": 36554,
     "name": "Shadowstep",
-    "icon": "rogue_shadowfocus",
+    "icon": "ability_rogue_shadowstep",
     "capacity": 1,
     "cell": 27,
     "row": 2,
     "column": 11,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=394932/shadowstep",
+    "url": "https://www.wowhead.com/beta/spell=36554/shadowstep",
     "links": [
       44,
       46
@@ -83,7 +83,7 @@
     "row": 3,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=193640/elaborate-planning",
+    "url": "https://www.wowhead.com/beta/spell=193640/elaborate-planning?def=117517&rank=1",
     "links": [
       57
     ]
@@ -97,7 +97,7 @@
     "row": 3,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381624/improved-poisons",
+    "url": "https://www.wowhead.com/beta/spell=381624/improved-poisons?def=117524&rank=1",
     "links": [
       57,
       59,
@@ -113,7 +113,7 @@
     "row": 3,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381626/bloody-mess",
+    "url": "https://www.wowhead.com/beta/spell=381626/bloody-mess?def=117515&rank=1",
     "links": [
       61
     ]
@@ -305,7 +305,7 @@
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381634/vicious-venoms",
+    "url": "https://www.wowhead.com/beta/spell=381634/vicious-venoms?def=117670&rank=1",
     "links": [
       106,
       125
@@ -320,7 +320,7 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381640/lethal-dose",
+    "url": "https://www.wowhead.com/beta/spell=381640/lethal-dose?def=117514&rank=1",
     "links": [
       114,
       129
@@ -435,7 +435,7 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=255544/poison-bomb",
+    "url": "https://www.wowhead.com/beta/spell=255544/poison-bomb?def=117665&rank=1",
     "links": [
       144
     ]
@@ -485,7 +485,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381798/zoldyck-recipe",
+    "url": "https://www.wowhead.com/beta/spell=381798/zoldyck-recipe?def=117683&rank=1",
     "links": [
       159
     ]
@@ -499,7 +499,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381797/dashing-scoundrel",
+    "url": "https://www.wowhead.com/beta/spell=381797/dashing-scoundrel?def=117664&rank=1",
     "links": [
       161
     ]
@@ -513,7 +513,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381799/scent-of-blood",
+    "url": "https://www.wowhead.com/beta/spell=381799/scent-of-blood?def=117673&rank=1",
     "links": [
       163
     ]

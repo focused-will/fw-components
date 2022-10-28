@@ -284,7 +284,7 @@
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=197419/contrition",
+    "url": "https://www.wowhead.com/beta/spell=197419/contrition?def=108733&rank=1",
     "links": [
       106,
       110
@@ -321,7 +321,7 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390689/pain-and-suffering",
+    "url": "https://www.wowhead.com/beta/spell=390689/pain-and-suffering?def=108708&rank=1",
     "links": [
       110,
       114
@@ -358,7 +358,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390691/borrowed-time",
+    "url": "https://www.wowhead.com/beta/spell=390691/borrowed-time?def=108734&rank=1",
     "links": [
       121,
       125
@@ -388,7 +388,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373054/stolen-psyche",
+    "url": "https://www.wowhead.com/beta/spell=373054/stolen-psyche?def=108714&rank=1",
     "links": [
       129,
       133
@@ -460,7 +460,8 @@
     "url": "https://www.wowhead.com/beta/spell=123040/mindbender",
     "links": [
       148,
-      150
+      150,
+      167
     ]
   },
   {
@@ -472,7 +473,7 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=47515/divine-aegis",
+    "url": "https://www.wowhead.com/beta/spell=47515/divine-aegis?def=108737&rank=1",
     "links": [
       155
     ]
@@ -486,7 +487,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=280391/sins-of-the-many",
+    "url": "https://www.wowhead.com/beta/spell=280391/sins-of-the-many?def=108698&rank=1",
     "links": [
       157
     ]
@@ -500,7 +501,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390765/resplendent-light",
+    "url": "https://www.wowhead.com/beta/spell=390765/resplendent-light?def=108704&rank=1",
     "links": [
       159
     ]
@@ -514,7 +515,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373180/harsh-discipline",
+    "url": "https://www.wowhead.com/beta/spell=373180/harsh-discipline?def=108702&rank=1",
     "links": [
       163
     ]
@@ -528,43 +529,35 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390832/expiation",
+    "url": "https://www.wowhead.com/beta/spell=390832/expiation?def=108716&rank=1",
     "links": [
       163
     ]
   },
   {
-    "id": 390770,
-    "name": "Void Summoner",
-    "icon": "spell_shadow_shadowfiend",
+    "id": 373427,
+    "name": "Inescapable Torment",
+    "icon": "spell_shadow_chilltouch",
     "capacity": 2,
     "cell": 150,
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390770/void-summoner",
+    "url": "https://www.wowhead.com/beta/spell=373427/inescapable-torment?def=108717&rank=1",
     "links": [
-      165
+      167
     ]
   },
   {
+    "id": 238135,
+    "name": "Aegis of Wrath",
+    "icon": "spell_holy_powerwordshield",
+    "capacity": 1,
     "cell": 155,
     "row": 10,
     "column": 3,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 238135,
-      "name": "Aegis of Wrath",
-      "icon": "spell_holy_powerwordshield",
-      "url": "https://www.wowhead.com/beta/spell=238135/aegis-of-wrath"
-    },
-    "right": {
-      "id": 391079,
-      "name": "Make Amends",
-      "icon": "spell_holy_penance",
-      "url": "https://www.wowhead.com/beta/spell=391079/make-amends"
-    }
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=238135/aegis-of-wrath"
   },
   {
     "id": 390786,
@@ -600,14 +593,17 @@
     "url": "https://www.wowhead.com/beta/spell=390705/twilight-equilibrium"
   },
   {
-    "id": 373427,
-    "name": "Inescapable Torment",
-    "icon": "spell_shadow_chilltouch",
+    "id": 390770,
+    "name": "Void Summoner",
+    "icon": "spell_shadow_shadowfiend",
     "capacity": 1,
-    "cell": 165,
+    "cell": 167,
     "row": 10,
-    "column": 13,
+    "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373427/inescapable-torment"
+    "url": "https://www.wowhead.com/beta/spell=390770/void-summoner?def=108700&rank=1",
+    "links": [
+      150
+    ]
   }
 ]

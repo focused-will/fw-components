@@ -96,7 +96,7 @@
     "row": 4,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=316803/improved-frost-strike",
+    "url": "https://www.wowhead.com/beta/spell=316803/improved-frost-strike?def=101235&rank=1",
     "links": [
       73,
       76
@@ -111,7 +111,7 @@
     "row": 4,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=376251/runic-command",
+    "url": "https://www.wowhead.com/beta/spell=376251/runic-command?def=101234&rank=1",
     "links": [
       76,
       79
@@ -261,7 +261,7 @@
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377190/enduring-strength",
+    "url": "https://www.wowhead.com/beta/spell=377190/enduring-strength?def=101232&rank=1",
     "links": [
       106,
       110
@@ -276,7 +276,7 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377226/frostwhelps-aid",
+    "url": "https://www.wowhead.com/beta/spell=377226/frostwhelps-aid?def=101238&rank=1",
     "links": [
       110,
       114
@@ -372,7 +372,7 @@
     ]
   },
   {
-    "id": 392963,
+    "id": 47568,
     "name": "Empower Rune Weapon",
     "icon": "inv_sword_62",
     "capacity": 1,
@@ -380,7 +380,7 @@
     "row": 7,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=392963/empower-rune-weapon",
+    "url": "https://www.wowhead.com/beta/spell=47568/empower-rune-weapon",
     "links": [
       129,
       131
@@ -440,7 +440,7 @@
     "row": 8,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377098/bonegrinder",
+    "url": "https://www.wowhead.com/beta/spell=377098/bonegrinder?def=101255&rank=1",
     "links": [
       140
     ]
@@ -482,7 +482,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392950/icebreaker",
+    "url": "https://www.wowhead.com/beta/spell=392950/icebreaker?def=101163&rank=1",
     "links": [
       148
     ]
@@ -507,7 +507,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377083/cold-blooded-rage",
+    "url": "https://www.wowhead.com/beta/spell=377083/cold-blooded-rage?def=101256&rank=1",
     "links": [
       157
     ]
@@ -535,7 +535,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377092/invigorating-freeze",
+    "url": "https://www.wowhead.com/beta/spell=377092/invigorating-freeze?def=101240&rank=1",
     "links": [
       165
     ]

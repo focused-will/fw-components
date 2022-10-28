@@ -147,7 +147,7 @@
     "row": 4,
     "column": 6,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=320413/critical-chaos",
+    "url": "https://www.wowhead.com/beta/spell=320413/critical-chaos?def=117956&rank=1",
     "links": [
       70,
       73,
@@ -174,7 +174,7 @@
     "row": 4,
     "column": 12,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389978/dancing-with-fate",
+    "url": "https://www.wowhead.com/beta/spell=389978/dancing-with-fate?def=117941&rank=1",
     "links": [
       76,
       79,
@@ -272,7 +272,7 @@
     "row": 6,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=347461/unbound-chaos",
+    "url": "https://www.wowhead.com/beta/spell=347461/unbound-chaos?def=117947&rank=1",
     "links": [
       104,
       107
@@ -287,7 +287,7 @@
     "row": 6,
     "column": 6,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=203550/blind-fury",
+    "url": "https://www.wowhead.com/beta/spell=203550/blind-fury?def=117954&rank=1",
     "links": [
       107,
       110
@@ -313,7 +313,7 @@
     "row": 6,
     "column": 12,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390154/serrated-glaive",
+    "url": "https://www.wowhead.com/beta/spell=390154/serrated-glaive?def=117939&rank=1",
     "links": [
       110,
       113
@@ -328,7 +328,7 @@
     "row": 6,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390158/growing-inferno",
+    "url": "https://www.wowhead.com/beta/spell=390158/growing-inferno?def=117830&rank=1",
     "links": [
       113,
       116
@@ -504,7 +504,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388118/know-your-enemy",
+    "url": "https://www.wowhead.com/beta/spell=388118/know-your-enemy?def=117962&rank=1",
     "links": [
       159
     ]
@@ -537,7 +537,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=258887/cycle-of-hatred",
+    "url": "https://www.wowhead.com/beta/spell=258887/cycle-of-hatred?def=117960&rank=1",
     "links": [
       161
     ]
@@ -570,7 +570,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388106/soulrend",
+    "url": "https://www.wowhead.com/beta/spell=388106/soulrend?def=117834&rank=1",
     "links": [
       163
     ]

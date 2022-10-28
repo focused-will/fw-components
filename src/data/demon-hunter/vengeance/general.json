@@ -50,7 +50,7 @@
     "row": 2,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=320770/unrestrained-fury",
+    "url": "https://www.wowhead.com/beta/spell=320770/unrestrained-fury?def=117857&rank=1",
     "links": [
       36,
       40,
@@ -82,7 +82,7 @@
     "row": 2,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389824/shattered-restoration",
+    "url": "https://www.wowhead.com/beta/spell=389824/shattered-restoration?def=117868&rank=1",
     "links": [
       44,
       48,
@@ -337,7 +337,7 @@
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=204909/soul-rending",
+    "url": "https://www.wowhead.com/beta/spell=204909/soul-rending?def=117852&rank=1",
     "links": [
       106,
       110
@@ -352,7 +352,7 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=320331/infernal-armor",
+    "url": "https://www.wowhead.com/beta/spell=320331/infernal-armor?def=117929&rank=1",
     "links": [
       110,
       114
@@ -401,7 +401,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389696/illidari-knowledge",
+    "url": "https://www.wowhead.com/beta/spell=389696/illidari-knowledge?def=117851&rank=1",
     "links": [
       123,
       125
@@ -439,7 +439,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389695/will-of-the-illidari",
+    "url": "https://www.wowhead.com/beta/spell=389695/will-of-the-illidari?def=117923&rank=1",
     "links": [
       129,
       131
@@ -531,7 +531,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391397/erratic-felheart",
+    "url": "https://www.wowhead.com/beta/spell=391397/erratic-felheart?def=117919&rank=1",
     "links": [
       157
     ]
@@ -589,7 +589,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389697/extended-sigils",
+    "url": "https://www.wowhead.com/beta/spell=389697/extended-sigils?def=117921&rank=1",
     "links": [
       165
     ]

@@ -160,7 +160,7 @@
     "row": 4,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393611/ursocs-endurance"
+    "url": "https://www.wowhead.com/beta/spell=393611/ursocs-endurance?def=108199&rank=1"
   },
   {
     "id": 200854,
@@ -186,7 +186,7 @@
     "row": 5,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393427/flashing-claws",
+    "url": "https://www.wowhead.com/beta/spell=393427/flashing-claws?def=108231&rank=1",
     "links": [
       87,
       89
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "id": 279552,
+    "id": 384721,
     "name": "Layered Mane",
     "icon": "ability_druid_ironfur",
     "capacity": 2,
@@ -217,7 +217,7 @@
     "row": 5,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=279552/layered-mane",
+    "url": "https://www.wowhead.com/beta/spell=384721/layered-mane?def=108220&rank=1",
     "links": [
       93,
       95,
@@ -233,7 +233,7 @@
     "row": 5,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=238049/scintillating-moonlight",
+    "url": "https://www.wowhead.com/beta/spell=238049/scintillating-moonlight?def=108218&rank=1",
     "links": [
       97,
       99
@@ -273,7 +273,7 @@
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=372618/vulnerable-flesh",
+    "url": "https://www.wowhead.com/beta/spell=372618/vulnerable-flesh?def=108202&rank=1",
     "links": [
       106,
       110
@@ -353,7 +353,7 @@
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=370695/fury-of-nature",
+    "url": "https://www.wowhead.com/beta/spell=370695/fury-of-nature?def=108208&rank=1",
     "links": [
       125,
       129
@@ -382,7 +382,7 @@
     "row": 8,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=372945/reinvigoration",
+    "url": "https://www.wowhead.com/beta/spell=372945/reinvigoration?def=108228&rank=1",
     "links": [
       138,
       142
@@ -425,7 +425,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=203965/survival-of-the-fittest",
+    "url": "https://www.wowhead.com/beta/spell=203965/survival-of-the-fittest?def=108215&rank=1",
     "links": [
       146,
       150

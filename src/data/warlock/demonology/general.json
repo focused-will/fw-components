@@ -53,7 +53,7 @@
     "row": 2,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386113/fel-pact",
+    "url": "https://www.wowhead.com/beta/spell=386113/fel-pact?def=96442&rank=1",
     "links": [
       38
     ]
@@ -67,7 +67,7 @@
     "row": 2,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=219272/demon-skin",
+    "url": "https://www.wowhead.com/beta/spell=219272/demon-skin?def=96465&rank=1",
     "links": [
       38,
       42
@@ -82,7 +82,7 @@
     "row": 2,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386124/fel-armor",
+    "url": "https://www.wowhead.com/beta/spell=386124/fel-armor?def=96463&rank=1",
     "links": [
       42,
       46
@@ -97,7 +97,7 @@
     "row": 2,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386110/fiendish-stride",
+    "url": "https://www.wowhead.com/beta/spell=386110/fiendish-stride?def=96461&rank=1",
     "links": [
       46
     ]
@@ -270,7 +270,7 @@
     "row": 5,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386619/desperate-pact",
+    "url": "https://www.wowhead.com/beta/spell=386619/desperate-pact?def=96439&rank=1",
     "links": [
       89
     ]
@@ -299,7 +299,7 @@
     "row": 5,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389623/gorefiends-resolve",
+    "url": "https://www.wowhead.com/beta/spell=389623/gorefiends-resolve?def=96424&rank=1",
     "links": [
       93
     ]
@@ -328,7 +328,7 @@
     "row": 5,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386648/nightmare",
+    "url": "https://www.wowhead.com/beta/spell=386648/nightmare?def=96457&rank=1",
     "links": [
       97
     ]
@@ -431,7 +431,7 @@
     "row": 7,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386613/accrued-vitality",
+    "url": "https://www.wowhead.com/beta/spell=386613/accrued-vitality?def=96466&rank=1",
     "links": [
       123,
       127
@@ -446,7 +446,7 @@
     "row": 7,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386646/lifeblood",
+    "url": "https://www.wowhead.com/beta/spell=386646/lifeblood?def=96451&rank=1",
     "links": [
       127,
       131
@@ -529,7 +529,7 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389359/resolute-barrier",
+    "url": "https://www.wowhead.com/beta/spell=389359/resolute-barrier?def=96423&rank=1",
     "links": [
       157
     ]
@@ -543,7 +543,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=171975/grimoire-of-synergy",
+    "url": "https://www.wowhead.com/beta/spell=171975/grimoire-of-synergy?def=96434&rank=1",
     "links": [
       157,
       161
@@ -558,7 +558,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389576/profane-bargain",
+    "url": "https://www.wowhead.com/beta/spell=389576/profane-bargain?def=96428&rank=1",
     "links": [
       161
     ]
@@ -572,7 +572,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=215941/soul-conduit",
+    "url": "https://www.wowhead.com/beta/spell=215941/soul-conduit?def=96433&rank=1",
     "links": [
       161,
       165
@@ -587,7 +587,7 @@
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389590/demonic-resilience",
+    "url": "https://www.wowhead.com/beta/spell=389590/demonic-resilience?def=96426&rank=1",
     "links": [
       165
     ]
@@ -610,10 +610,10 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
-      "id": 386244,
+      "id": 386256,
       "name": "Summon Soulkeeper",
       "icon": "spell_fel_elementaldevastation",
-      "url": "https://www.wowhead.com/beta/spell=386244/summon-soulkeeper"
+      "url": "https://www.wowhead.com/beta/spell=386256/summon-soulkeeper"
     },
     "right": {
       "id": 386344,

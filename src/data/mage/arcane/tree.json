@@ -84,7 +84,7 @@
     "row": 4,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383661/improved-arcane-missiles",
+    "url": "https://www.wowhead.com/beta/spell=383661/improved-arcane-missiles?def=85312&rank=1",
     "links": [
       72,
       74
@@ -115,7 +115,7 @@
     "row": 4,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=321752/crackling-energy",
+    "url": "https://www.wowhead.com/beta/spell=321752/crackling-energy?def=85300&rank=1",
     "links": [
       78,
       80
@@ -463,7 +463,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384060/illuminated-thoughts",
+    "url": "https://www.wowhead.com/beta/spell=384060/illuminated-thoughts?def=85295&rank=1",
     "links": [
       148
     ]
@@ -502,7 +502,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384612/prodigious-savant",
+    "url": "https://www.wowhead.com/beta/spell=384612/prodigious-savant?def=85200&rank=1",
     "links": [
       157
     ]

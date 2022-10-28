@@ -53,7 +53,7 @@
     "row": 2,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=199921/trailblazer",
+    "url": "https://www.wowhead.com/beta/spell=199921/trailblazer?def=105646&rank=1",
     "links": [
       38,
       42
@@ -68,7 +68,7 @@
     "row": 2,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=109215/posthaste",
+    "url": "https://www.wowhead.com/beta/spell=109215/posthaste?def=105636&rank=1",
     "links": [
       42,
       46
@@ -97,7 +97,7 @@
     "row": 3,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=343242/wilderness-medicine",
+    "url": "https://www.wowhead.com/beta/spell=343242/wilderness-medicine?def=105651&rank=1",
     "links": [
       57,
       72
@@ -128,7 +128,7 @@
     "row": 3,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=270581/natural-mending",
+    "url": "https://www.wowhead.com/beta/spell=270581/natural-mending?def=105640&rank=1",
     "links": [
       61,
       80
@@ -220,7 +220,7 @@
     "row": 5,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=343247/improved-traps",
+    "url": "https://www.wowhead.com/beta/spell=343247/improved-traps?def=105638&rank=1",
     "links": [
       93
     ]
@@ -258,7 +258,7 @@
     "row": 5,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=266921/born-to-be-wild",
+    "url": "https://www.wowhead.com/beta/spell=266921/born-to-be-wild?def=105648&rank=1",
     "links": [
       97,
       99
@@ -344,7 +344,7 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385539/rejuvenating-wind",
+    "url": "https://www.wowhead.com/beta/spell=385539/rejuvenating-wind?def=105621&rank=1",
     "links": [
       112
     ]
@@ -365,15 +365,15 @@
     ]
   },
   {
-    "id": 393505,
-    "name": "Sentinel",
+    "id": 388045,
+    "name": "Sentinel Owl",
     "icon": "ability_hunter_sentinelowl",
     "capacity": 1,
     "cell": 99,
     "row": 6,
     "column": 15,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=393505/sentinel",
+    "url": "https://www.wowhead.com/beta/spell=388045/sentinel-owl",
     "links": [
       116
     ]
@@ -416,7 +416,7 @@
     "row": 7,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378002/pathfinding",
+    "url": "https://www.wowhead.com/beta/spell=378002/pathfinding?def=105633&rank=1",
     "links": [
       127,
       131
@@ -453,7 +453,7 @@
     "row": 8,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378007/beast-master",
+    "url": "https://www.wowhead.com/beta/spell=378007/beast-master?def=105641&rank=1",
     "links": [
       138,
       142
@@ -468,7 +468,7 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378004/keen-eyesight",
+    "url": "https://www.wowhead.com/beta/spell=378004/keen-eyesight?def=105637&rank=1",
     "links": [
       142,
       146,
@@ -484,7 +484,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=260309/master-marksman",
+    "url": "https://www.wowhead.com/beta/spell=260309/master-marksman?def=105627&rank=1",
     "links": [
       146,
       150
@@ -499,7 +499,7 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378010/improved-kill-command",
+    "url": "https://www.wowhead.com/beta/spell=378010/improved-kill-command?def=105647&rank=1",
     "links": [
       155
     ]
@@ -513,7 +513,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389882/serrated-shots",
+    "url": "https://www.wowhead.com/beta/spell=389882/serrated-shots?def=105515&rank=1",
     "links": [
       159
     ]
@@ -527,7 +527,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390231/arctic-bola",
+    "url": "https://www.wowhead.com/beta/spell=390231/arctic-bola?def=105516&rank=1",
     "links": [
       163
     ]

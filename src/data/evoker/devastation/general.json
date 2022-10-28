@@ -109,7 +109,7 @@
     "row": 3,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375520/innate-magic",
+    "url": "https://www.wowhead.com/beta/spell=375520/innate-magic?def=92712&rank=1",
     "links": [
       55,
       57,
@@ -136,7 +136,7 @@
     "row": 3,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375554/enkindled",
+    "url": "https://www.wowhead.com/beta/spell=375554/enkindled?def=92706&rank=1",
     "links": [
       59,
       61,
@@ -251,7 +251,7 @@
     "row": 5,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=376164/instinctive-arcana",
+    "url": "https://www.wowhead.com/beta/spell=376164/instinctive-arcana?def=92695&rank=1",
     "links": [
       106
     ]
@@ -281,7 +281,7 @@
     "row": 5,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=376930/attuned-to-the-dream",
+    "url": "https://www.wowhead.com/beta/spell=376930/attuned-to-the-dream?def=92701&rank=1",
     "links": [
       97,
       99
@@ -307,7 +307,7 @@
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=376166/draconic-legacy",
+    "url": "https://www.wowhead.com/beta/spell=376166/draconic-legacy?def=92714&rank=1",
     "links": [
       106,
       108
@@ -315,14 +315,14 @@
   },
   {
     "id": 375544,
-    "name": "Tempered Scales",
+    "name": "Inherent Resistance",
     "icon": "inv_misc_rubysanctum1",
     "capacity": 2,
     "cell": 93,
     "row": 6,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375544/tempered-scales",
+    "url": "https://www.wowhead.com/beta/spell=375544/inherent-resistance?def=92699&rank=1",
     "links": [
       110
     ]
@@ -336,7 +336,7 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375517/extended-flight",
+    "url": "https://www.wowhead.com/beta/spell=375517/extended-flight?def=92708&rank=1",
     "links": [
       112,
       114
@@ -376,7 +376,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375510/blast-furnace",
+    "url": "https://www.wowhead.com/beta/spell=375510/blast-furnace?def=92696&rank=1",
     "links": [
       121,
       123,
@@ -386,7 +386,7 @@
   {
     "id": 375542,
     "name": "Exuberance",
-    "icon": "achievement_guildperk_mountup",
+    "icon": "ability_evoker_hover2",
     "capacity": 1,
     "cell": 108,
     "row": 7,
@@ -525,7 +525,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375561/lush-growth",
+    "url": "https://www.wowhead.com/beta/spell=375561/lush-growth?def=92680&rank=1",
     "links": [
       165
     ]

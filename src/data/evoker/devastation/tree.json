@@ -105,7 +105,7 @@
     "row": 4,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=369089/volatility",
+    "url": "https://www.wowhead.com/beta/spell=369089/volatility?def=92674&rank=1",
     "links": [
       72
     ]
@@ -147,7 +147,7 @@
     "row": 4,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=371034/lay-waste",
+    "url": "https://www.wowhead.com/beta/spell=371034/lay-waste?def=92650&rank=1",
     "links": [
       80
     ]
@@ -161,7 +161,7 @@
     "row": 4,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375618/arcane-intensity",
+    "url": "https://www.wowhead.com/beta/spell=375618/arcane-intensity?def=92648&rank=1",
     "links": [
       80
     ]
@@ -245,7 +245,7 @@
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375725/heat-wave",
+    "url": "https://www.wowhead.com/beta/spell=375725/heat-wave?def=92663&rank=1",
     "links": [
       106,
       110
@@ -260,7 +260,7 @@
     "row": 6,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386272/titanic-wrath",
+    "url": "https://www.wowhead.com/beta/spell=386272/titanic-wrath?def=92665&rank=1",
     "links": [
       110
     ]
@@ -274,7 +274,7 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=371038/honed-aggression",
+    "url": "https://www.wowhead.com/beta/spell=371038/honed-aggression?def=92652&rank=1",
     "links": [
       110,
       114
@@ -462,7 +462,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375801/burnout",
+    "url": "https://www.wowhead.com/beta/spell=375801/burnout?def=92659&rank=1",
     "links": [
       155
     ]
@@ -476,7 +476,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=370781/imminent-destruction",
+    "url": "https://www.wowhead.com/beta/spell=370781/imminent-destruction?def=92657&rank=1",
     "links": [
       161
     ]
@@ -490,7 +490,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=370821/scintillation",
+    "url": "https://www.wowhead.com/beta/spell=370821/scintillation?def=92655&rank=1",
     "links": [
       161
     ]
@@ -504,7 +504,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=370839/power-swell",
+    "url": "https://www.wowhead.com/beta/spell=370839/power-swell?def=92646&rank=1",
     "links": [
       167
     ]
