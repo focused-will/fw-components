@@ -40,7 +40,7 @@
     "row": 2,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=260285/tip-of-the-spear",
+    "url": "https://www.wowhead.com/beta/spell=260285/tip-of-the-spear?def=105556&rank=1",
     "links": [
       42,
       46
@@ -240,7 +240,7 @@
     "row": 6,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=321290/improved-wildfire-bomb",
+    "url": "https://www.wowhead.com/beta/spell=321290/improved-wildfire-bomb?def=105557&rank=1",
     "links": [
       104,
       108
@@ -285,7 +285,7 @@
     "row": 6,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378953/spear-focus",
+    "url": "https://www.wowhead.com/beta/spell=378953/spear-focus?def=105560&rank=1",
     "links": [
       116
     ]
@@ -299,7 +299,7 @@
     "row": 7,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=268501/vipers-venom",
+    "url": "https://www.wowhead.com/beta/spell=268501/vipers-venom?def=105532&rank=1",
     "links": [
       121,
       123
@@ -314,7 +314,7 @@
     "row": 7,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378948/sharp-edges",
+    "url": "https://www.wowhead.com/beta/spell=378948/sharp-edges?def=105549&rank=1",
     "links": [
       123,
       127
@@ -329,7 +329,7 @@
     "row": 7,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378950/sweeping-spear",
+    "url": "https://www.wowhead.com/beta/spell=378950/sweeping-spear?def=105563&rank=1",
     "links": [
       127,
       131
@@ -344,7 +344,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378951/tactical-advantage",
+    "url": "https://www.wowhead.com/beta/spell=378951/tactical-advantage?def=105558&rank=1",
     "links": [
       131
     ]
@@ -358,7 +358,7 @@
     "row": 7,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385737/bloody-claws",
+    "url": "https://www.wowhead.com/beta/spell=385737/bloody-claws?def=105534&rank=1",
     "links": [
       131
     ]
@@ -417,7 +417,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378955/killer-companion",
+    "url": "https://www.wowhead.com/beta/spell=378955/killer-companion?def=105561&rank=1",
     "links": [
       146,
       148
@@ -446,7 +446,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385695/ranger"
+    "url": "https://www.wowhead.com/beta/spell=385695/ranger?def=105531&rank=1"
   },
   {
     "id": 385739,
@@ -457,7 +457,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385739/coordinated-kill",
+    "url": "https://www.wowhead.com/beta/spell=385739/coordinated-kill?def=105530&rank=1",
     "links": [
       161
     ]
@@ -471,7 +471,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378937/explosives-expert"
+    "url": "https://www.wowhead.com/beta/spell=378937/explosives-expert?def=105565&rank=1"
   },
   {
     "id": 360966,
@@ -496,7 +496,7 @@
     "row": 10,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385718/ruthless-marauder"
+    "url": "https://www.wowhead.com/beta/spell=385718/ruthless-marauder?def=105535&rank=1"
   },
   {
     "cell": 161,
@@ -526,6 +526,6 @@
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378962/deadly-duo"
+    "url": "https://www.wowhead.com/beta/spell=378962/deadly-duo?def=105576&rank=1"
   }
 ]

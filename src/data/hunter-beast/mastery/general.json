@@ -1,6 +1,6 @@
 [
   {
-    "id": 259489,
+    "id": 34026,
     "name": "Kill Command",
     "icon": "ability_hunter_killcommand",
     "capacity": 0,
@@ -8,7 +8,7 @@
     "row": 1,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=259489/kill-command",
+    "url": "https://www.wowhead.com/beta/spell=34026/kill-command",
     "links": [
       23,
       38
@@ -30,7 +30,7 @@
     ]
   },
   {
-    "id": 320976,
+    "id": 53351,
     "name": "Kill Shot",
     "icon": "ability_hunter_assassinate2",
     "capacity": 1,
@@ -38,7 +38,7 @@
     "row": 1,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=320976/kill-shot",
+    "url": "https://www.wowhead.com/beta/spell=53351/kill-shot",
     "links": [
       27,
       29
@@ -104,15 +104,15 @@
     ]
   },
   {
-    "id": 187707,
-    "name": "Muzzle",
-    "icon": "ability_hunter_negate",
+    "id": 147362,
+    "name": "Counter Shot",
+    "icon": "inv_ammo_arrow_03",
     "capacity": 1,
     "cell": 42,
     "row": 3,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=187707/muzzle",
+    "url": "https://www.wowhead.com/beta/spell=147362/counter-shot",
     "links": [
       57,
       59,

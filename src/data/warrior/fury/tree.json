@@ -246,7 +246,7 @@
     "row": 6,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383885/vicious-contempt",
+    "url": "https://www.wowhead.com/beta/spell=383885/vicious-contempt?def=117278&rank=1",
     "links": [
       106
     ]
@@ -446,7 +446,7 @@
     "row": 8,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383295/deft-experience",
+    "url": "https://www.wowhead.com/beta/spell=383295/deft-experience?def=117297&rank=1",
     "links": [
       136,
       140
@@ -461,7 +461,7 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383459/swift-strikes",
+    "url": "https://www.wowhead.com/beta/spell=383459/swift-strikes?def=117291&rank=1",
     "links": [
       140,
       144,
@@ -477,7 +477,7 @@
     "row": 8,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383297/critical-thinking",
+    "url": "https://www.wowhead.com/beta/spell=383297/critical-thinking?def=117301&rank=1",
     "links": [
       148,
       152
@@ -524,10 +524,10 @@
       "url": "https://www.wowhead.com/beta/spell=152278/anger-management"
     },
     "right": {
-      "id": 202751,
+      "id": 396749,
       "name": "Reckless Abandon",
-      "icon": "ability_warrior_battleshout",
-      "url": "https://www.wowhead.com/beta/spell=202751/reckless-abandon"
+      "icon": "spell_fire_incinerate",
+      "url": "https://www.wowhead.com/beta/spell=396749/reckless-abandon"
     },
     "links": [
       160,

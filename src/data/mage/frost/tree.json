@@ -235,7 +235,7 @@
     "row": 6,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378947/glacial-assault",
+    "url": "https://www.wowhead.com/beta/spell=378947/glacial-assault?def=85251&rank=1",
     "links": [
       121
     ]
@@ -271,7 +271,7 @@
     "row": 6,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378406/wintertide",
+    "url": "https://www.wowhead.com/beta/spell=378406/wintertide?def=85239&rank=1",
     "links": [
       110
     ]
@@ -285,7 +285,7 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381706/snowstorm",
+    "url": "https://www.wowhead.com/beta/spell=381706/snowstorm?def=85237&rank=1",
     "links": [
       110
     ]
@@ -313,7 +313,7 @@
     "row": 6,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=380154/subzero",
+    "url": "https://www.wowhead.com/beta/spell=380154/subzero?def=85226&rank=1",
     "links": [
       133
     ]
@@ -327,7 +327,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378749/deep-shatter",
+    "url": "https://www.wowhead.com/beta/spell=378749/deep-shatter?def=85225&rank=1",
     "links": [
       121,
       125
@@ -358,7 +358,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=379049/splintering-cold",
+    "url": "https://www.wowhead.com/beta/spell=379049/splintering-cold?def=85228&rank=1",
     "links": [
       129,
       133
@@ -445,7 +445,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378448/fractured-frost",
+    "url": "https://www.wowhead.com/beta/spell=378448/fractured-frost?def=85253&rank=1",
     "links": [
       157
     ]
@@ -498,7 +498,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381244/hailstones",
+    "url": "https://www.wowhead.com/beta/spell=381244/hailstones?def=85224&rank=1",
     "links": [
       165
     ]

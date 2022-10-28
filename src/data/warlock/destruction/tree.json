@@ -205,7 +205,7 @@
     "row": 4,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387093/improved-immolate",
+    "url": "https://www.wowhead.com/beta/spell=387093/improved-immolate?def=96492&rank=1",
     "links": [
       78,
       80
@@ -270,7 +270,7 @@
     "row": 5,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387166/raging-demonfire",
+    "url": "https://www.wowhead.com/beta/spell=387166/raging-demonfire?def=96587&rank=1",
     "links": [
       93
     ]
@@ -284,7 +284,7 @@
     "row": 5,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387569/rolling-havoc",
+    "url": "https://www.wowhead.com/beta/spell=387569/rolling-havoc?def=96476&rank=1",
     "links": [
       93
     ]
@@ -313,7 +313,7 @@
     "row": 5,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=196408/fire-and-brimstone",
+    "url": "https://www.wowhead.com/beta/spell=196408/fire-and-brimstone?def=96501&rank=1",
     "links": [
       97
     ]
@@ -341,7 +341,7 @@
     "row": 6,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387108/conflagration-of-chaos",
+    "url": "https://www.wowhead.com/beta/spell=387108/conflagration-of-chaos?def=96585&rank=1",
     "links": [
       104,
       108
@@ -356,7 +356,7 @@
     "row": 6,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387259/flashpoint",
+    "url": "https://www.wowhead.com/beta/spell=387259/flashpoint?def=96487&rank=1",
     "links": [
       108,
       112
@@ -371,7 +371,7 @@
     "row": 6,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388832/scalding-flames",
+    "url": "https://www.wowhead.com/beta/spell=388832/scalding-flames?def=96488&rank=1",
     "links": [
       112,
       116
@@ -386,7 +386,7 @@
     "row": 7,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387103/ruin",
+    "url": "https://www.wowhead.com/beta/spell=387103/ruin?def=96586&rank=1",
     "links": [
       123
     ]
@@ -400,7 +400,7 @@
     "row": 7,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=196412/eradication",
+    "url": "https://www.wowhead.com/beta/spell=196412/eradication?def=96503&rank=1",
     "links": [
       123,
       127
@@ -415,7 +415,7 @@
     "row": 7,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387252/ashen-remains",
+    "url": "https://www.wowhead.com/beta/spell=387252/ashen-remains?def=96484&rank=1",
     "links": [
       127,
       131
@@ -491,7 +491,7 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387355/crashing-chaos",
+    "url": "https://www.wowhead.com/beta/spell=387355/crashing-chaos?def=96475&rank=1",
     "links": [
       157
     ]
@@ -505,7 +505,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387475/infernal-brand",
+    "url": "https://www.wowhead.com/beta/spell=387475/infernal-brand?def=96472&rank=1",
     "links": [
       157
     ]
@@ -519,7 +519,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387279/power-overwhelming",
+    "url": "https://www.wowhead.com/beta/spell=387279/power-overwhelming?def=96480&rank=1",
     "links": [
       161
     ]
@@ -533,7 +533,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387400/madness-of-the-azjaqir",
+    "url": "https://www.wowhead.com/beta/spell=387400/madness-of-the-azjaqir?def=96482&rank=1",
     "links": [
       161
     ]
@@ -547,7 +547,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387165/master-ritualist",
+    "url": "https://www.wowhead.com/beta/spell=387165/master-ritualist?def=96477&rank=1",
     "links": [
       165
     ]
@@ -561,7 +561,7 @@
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387153/burn-to-ashes",
+    "url": "https://www.wowhead.com/beta/spell=387153/burn-to-ashes?def=96479&rank=1",
     "links": [
       165
     ]

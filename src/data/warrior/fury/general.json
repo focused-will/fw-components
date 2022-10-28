@@ -241,7 +241,7 @@
     ]
   },
   {
-    "id": 6343,
+    "id": 396719,
     "name": "Thunder Clap",
     "icon": "spell_nature_thunderclap",
     "capacity": 1,
@@ -249,7 +249,7 @@
     "row": 4,
     "column": 11,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=6343/thunder-clap",
+    "url": "https://www.wowhead.com/beta/spell=396719/thunder-clap",
     "links": [
       80,
       95
@@ -302,7 +302,7 @@
     "row": 5,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382764/crushing-force",
+    "url": "https://www.wowhead.com/beta/spell=382764/crushing-force?def=117217&rank=1",
     "links": [
       87
     ]
@@ -368,7 +368,7 @@
     "row": 5,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382767/overwhelming-rage",
+    "url": "https://www.wowhead.com/beta/spell=382767/overwhelming-rage?def=117250&rank=1",
     "links": [
       99
     ]
@@ -380,10 +380,10 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
-      "id": 390674,
-      "name": "Barbaric Training",
-      "icon": "ability_garrosh_whirling_corruption",
-      "url": "https://www.wowhead.com/beta/spell=390674/barbaric-training"
+      "id": 384404,
+      "name": "Sidearm",
+      "icon": "inv_throwingaxe_06",
+      "url": "https://www.wowhead.com/beta/spell=384404/sidearm"
     },
     "right": {
       "id": 383115,
@@ -451,15 +451,15 @@
     ]
   },
   {
-    "id": 384404,
-    "name": "Sidearm",
-    "icon": "inv_throwingaxe_06",
+    "id": 390674,
+    "name": "Barbaric Training",
+    "icon": "ability_garrosh_whirling_corruption",
     "capacity": 1,
     "cell": 99,
     "row": 6,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384404/sidearm",
+    "url": "https://www.wowhead.com/beta/spell=390674/barbaric-training",
     "links": [
       114,
       133
@@ -548,7 +548,7 @@
     "row": 8,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384124/armored-to-the-teeth",
+    "url": "https://www.wowhead.com/beta/spell=384124/armored-to-the-teeth?def=117113&rank=1",
     "links": [
       138
     ]
@@ -562,7 +562,7 @@
     "row": 8,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382946/wild-strikes",
+    "url": "https://www.wowhead.com/beta/spell=382946/wild-strikes?def=117229&rank=1",
     "links": [
       142
     ]
@@ -587,7 +587,7 @@
     "row": 8,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392777/cruel-strikes",
+    "url": "https://www.wowhead.com/beta/spell=392777/cruel-strikes?def=117253&rank=1",
     "links": [
       146
     ]

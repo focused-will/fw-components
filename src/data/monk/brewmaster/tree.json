@@ -85,7 +85,7 @@
     "row": 4,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=124502/gift-of-the-ox",
+    "url": "https://www.wowhead.com/beta/spell=124502/gift-of-the-ox?def=106454&rank=1",
     "links": [
       74
     ]
@@ -114,7 +114,7 @@
     "row": 4,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388505/quick-sip",
+    "url": "https://www.wowhead.com/beta/spell=388505/quick-sip?def=106458&rank=1",
     "links": [
       78
     ]
@@ -182,7 +182,7 @@
     "row": 5,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387625/staggering-strikes",
+    "url": "https://www.wowhead.com/beta/spell=387625/staggering-strikes?def=106461&rank=1",
     "links": [
       91
     ]
@@ -196,7 +196,7 @@
     "row": 5,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387256/graceful-exit",
+    "url": "https://www.wowhead.com/beta/spell=387256/graceful-exit?def=106459&rank=1",
     "links": [
       95
     ]
@@ -356,14 +356,14 @@
   },
   {
     "id": 322960,
-    "name": "Fortifying Brew",
+    "name": "Fortifying Brew: Determination",
     "icon": "ability_monk_fortifyingale_new",
     "capacity": 1,
     "cell": 106,
     "row": 7,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=322960/fortifying-brew",
+    "url": "https://www.wowhead.com/beta/spell=322960/fortifying-brew-determination",
     "links": [
       123
     ]
@@ -487,7 +487,7 @@
     "row": 8,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=196737/high-tolerance",
+    "url": "https://www.wowhead.com/beta/spell=196737/high-tolerance?def=106471&rank=1",
     "links": [
       140
     ]
@@ -501,7 +501,7 @@
     "row": 8,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387219/walk-with-the-ox",
+    "url": "https://www.wowhead.com/beta/spell=387219/walk-with-the-ox?def=106545&rank=1",
     "links": [
       140,
       142,
@@ -517,7 +517,7 @@
     "row": 8,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387046/elusive-footwork",
+    "url": "https://www.wowhead.com/beta/spell=387046/elusive-footwork?def=106414&rank=1",
     "links": [
       144,
       146,
@@ -533,7 +533,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386937/anvil-stave",
+    "url": "https://www.wowhead.com/beta/spell=386937/anvil-stave?def=106448&rank=1",
     "links": [
       148
     ]
@@ -659,10 +659,10 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
-      "id": 356684,
+      "id": 397251,
       "name": "Call to Arms",
       "icon": "ability_bastion_monk",
-      "url": "https://www.wowhead.com/beta/spell=356684/call-to-arms"
+      "url": "https://www.wowhead.com/beta/spell=397251/call-to-arms"
     },
     "right": {
       "id": 393400,

@@ -174,7 +174,7 @@
     "row": 4,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388811/grace-of-the-crane",
+    "url": "https://www.wowhead.com/beta/spell=388811/grace-of-the-crane?def=106531&rank=1",
     "links": [
       89
     ]
@@ -204,7 +204,7 @@
     "row": 4,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388674/ferocity-of-xuen",
+    "url": "https://www.wowhead.com/beta/spell=388674/ferocity-of-xuen?def=106526&rank=1",
     "links": [
       76,
       80,
@@ -235,7 +235,7 @@
     "row": 5,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388681/elusive-mists",
+    "url": "https://www.wowhead.com/beta/spell=388681/elusive-mists?def=106415&rank=1",
     "links": [
       89,
       104
@@ -273,7 +273,7 @@
     ]
   },
   {
-    "id": 388917,
+    "id": 115203,
     "name": "Fortifying Brew",
     "icon": "ability_monk_fortifyingale_new",
     "capacity": 1,
@@ -281,7 +281,7 @@
     "row": 5,
     "column": 15,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=388917/fortifying-brew",
+    "url": "https://www.wowhead.com/beta/spell=115203/fortifying-brew",
     "links": [
       97,
       99
@@ -349,7 +349,7 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388809/fast-feet",
+    "url": "https://www.wowhead.com/beta/spell=388809/fast-feet?def=106525&rank=1",
     "links": [
       112,
       114
@@ -494,7 +494,7 @@
     "row": 8,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389574/close-to-heart",
+    "url": "https://www.wowhead.com/beta/spell=389574/close-to-heart?def=106527&rank=1",
     "links": [
       140
     ]
@@ -508,7 +508,7 @@
     "row": 8,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=394110/escape-from-reality",
+    "url": "https://www.wowhead.com/beta/spell=394110/escape-from-reality?def=106536&rank=1",
     "links": [
       140,
       144
@@ -523,7 +523,7 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=157411/windwalking"
+    "url": "https://www.wowhead.com/beta/spell=157411/windwalking?def=106519&rank=1"
   },
   {
     "id": 394123,
@@ -534,7 +534,7 @@
     "row": 8,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=394123/fatal-touch",
+    "url": "https://www.wowhead.com/beta/spell=394123/fatal-touch?def=106523&rank=1",
     "links": [
       144,
       148
@@ -549,7 +549,7 @@
     "row": 8,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389575/generous-pour",
+    "url": "https://www.wowhead.com/beta/spell=389575/generous-pour?def=106502&rank=1",
     "links": [
       148
     ]
@@ -563,7 +563,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389579/save-them-all",
+    "url": "https://www.wowhead.com/beta/spell=389579/save-them-all?def=106535&rank=1",
     "links": [
       157
     ]
@@ -577,7 +577,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389578/resonant-fists",
+    "url": "https://www.wowhead.com/beta/spell=389578/resonant-fists?def=106522&rank=1",
     "links": [
       161
     ]
@@ -591,7 +591,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389577/bounce-back",
+    "url": "https://www.wowhead.com/beta/spell=389577/bounce-back?def=106538&rank=1",
     "links": [
       165
     ]

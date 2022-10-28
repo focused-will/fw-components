@@ -289,7 +289,7 @@
     "row": 6,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=341240/ancient-madness",
+    "url": "https://www.wowhead.com/beta/spell=341240/ancient-madness?def=108803&rank=1",
     "links": [
       108,
       110,
@@ -335,7 +335,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391228/maddening-touch",
+    "url": "https://www.wowhead.com/beta/spell=391228/maddening-touch?def=108789&rank=1",
     "links": [
       121,
       125
@@ -350,7 +350,7 @@
     "row": 7,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391095/dark-evangelism",
+    "url": "https://www.wowhead.com/beta/spell=391095/dark-evangelism?def=108807&rank=1",
     "links": [
       125
     ]
@@ -387,7 +387,7 @@
     "row": 7,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=199484/psychic-link",
+    "url": "https://www.wowhead.com/beta/spell=199484/psychic-link?def=108819&rank=1",
     "links": [
       129
     ]
@@ -401,7 +401,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391137/whispers-of-the-damned",
+    "url": "https://www.wowhead.com/beta/spell=391137/whispers-of-the-damned?def=108691&rank=1",
     "links": [
       129,
       133
@@ -493,7 +493,7 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373427/inescapable-torment",
+    "url": "https://www.wowhead.com/beta/spell=373427/inescapable-torment?def=108788&rank=1",
     "links": [
       155
     ]
@@ -507,7 +507,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375767/screams-of-the-void",
+    "url": "https://www.wowhead.com/beta/spell=375767/screams-of-the-void?def=108794&rank=1",
     "links": [
       159
     ]
@@ -521,7 +521,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391288/pain-of-death",
+    "url": "https://www.wowhead.com/beta/spell=391288/pain-of-death?def=108821&rank=1",
     "links": [
       163
     ]
@@ -535,7 +535,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373202/mind-devourer",
+    "url": "https://www.wowhead.com/beta/spell=373202/mind-devourer?def=108689&rank=1",
     "links": [
       163
     ]
@@ -549,7 +549,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373212/insidious-ire",
+    "url": "https://www.wowhead.com/beta/spell=373212/insidious-ire?def=108688&rank=1",
     "links": [
       167
     ]
@@ -563,7 +563,7 @@
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373221/malediction",
+    "url": "https://www.wowhead.com/beta/spell=373221/malediction?def=108802&rank=1",
     "links": [
       167
     ]

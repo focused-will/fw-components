@@ -217,7 +217,7 @@
     "row": 5,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=207548/agonizing-flames",
+    "url": "https://www.wowhead.com/beta/spell=207548/agonizing-flames?def=117892&rank=1",
     "links": [
       87,
       91
@@ -232,7 +232,7 @@
     "row": 5,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389721/extended-spikes",
+    "url": "https://www.wowhead.com/beta/spell=389721/extended-spikes?def=117886&rank=1",
     "links": [
       91,
       93,
@@ -248,7 +248,7 @@
     "row": 5,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390213/burning-blood",
+    "url": "https://www.wowhead.com/beta/spell=390213/burning-blood?def=117908&rank=1",
     "links": [
       95,
       99
@@ -387,7 +387,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=207387/painbringer",
+    "url": "https://www.wowhead.com/beta/spell=207387/painbringer?def=117897&rank=1",
     "links": [
       121,
       123,
@@ -403,7 +403,7 @@
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389708/darkglare-boon",
+    "url": "https://www.wowhead.com/beta/spell=389708/darkglare-boon?def=117906&rank=1",
     "links": [
       127
     ]
@@ -417,7 +417,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389220/fiery-demise",
+    "url": "https://www.wowhead.com/beta/spell=389220/fiery-demise?def=117877&rank=1",
     "links": [
       127,
       131,
@@ -517,7 +517,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389976/vulnerability",
+    "url": "https://www.wowhead.com/beta/spell=389976/vulnerability?def=117902&rank=1",
     "links": [
       157,
       159
@@ -532,7 +532,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=218612/feed-the-demon",
+    "url": "https://www.wowhead.com/beta/spell=218612/feed-the-demon?def=117904&rank=1",
     "links": [
       159,
       161,
@@ -548,7 +548,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=336639/charred-flesh",
+    "url": "https://www.wowhead.com/beta/spell=336639/charred-flesh?def=117882&rank=1",
     "links": [
       163,
       165

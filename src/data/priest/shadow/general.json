@@ -532,7 +532,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373456/unwavering-will",
+    "url": "https://www.wowhead.com/beta/spell=373456/unwavering-will?def=108852&rank=1",
     "links": [
       121,
       125
@@ -547,7 +547,7 @@
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390972/twist-of-fate",
+    "url": "https://www.wowhead.com/beta/spell=390972/twist-of-fate?def=108838&rank=1",
     "links": [
       125,
       129
@@ -562,7 +562,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377422/throes-of-pain",
+    "url": "https://www.wowhead.com/beta/spell=377422/throes-of-pain?def=108866&rank=1",
     "links": [
       129,
       133
@@ -653,7 +653,7 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=109186/surge-of-light",
+    "url": "https://www.wowhead.com/beta/spell=109186/surge-of-light?def=108828&rank=1",
     "links": [
       155
     ]
@@ -667,7 +667,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373450/lights-inspiration",
+    "url": "https://www.wowhead.com/beta/spell=373450/lights-inspiration?def=108831&rank=1",
     "links": [
       159
     ]
@@ -681,7 +681,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373457/crystalline-reflection",
+    "url": "https://www.wowhead.com/beta/spell=373457/crystalline-reflection?def=108834&rank=1",
     "links": [
       159,
       163
@@ -696,7 +696,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390670/improved-fade",
+    "url": "https://www.wowhead.com/beta/spell=390670/improved-fade?def=108841&rank=1",
     "links": [
       163
     ]
@@ -710,7 +710,7 @@
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390996/manipulation",
+    "url": "https://www.wowhead.com/beta/spell=390996/manipulation?def=108823&rank=1",
     "links": [
       167
     ]

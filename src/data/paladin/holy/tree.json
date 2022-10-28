@@ -336,15 +336,15 @@
     ]
   },
   {
-    "id": 219562,
+    "id": 183998,
     "name": "Light of the Martyr",
-    "icon": "spell_holy_power",
+    "icon": "ability_paladin_lightofthemartyr",
     "capacity": 1,
     "cell": 99,
     "row": 6,
     "column": 15,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=219562/light-of-the-martyr",
+    "url": "https://www.wowhead.com/beta/spell=183998/light-of-the-martyr",
     "links": [
       114,
       118
@@ -373,7 +373,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387781/commanding-light",
+    "url": "https://www.wowhead.com/beta/spell=387781/commanding-light?def=107569&rank=1",
     "links": [
       121,
       123,
@@ -389,7 +389,7 @@
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=200482/second-sunrise",
+    "url": "https://www.wowhead.com/beta/spell=200482/second-sunrise?def=107572&rank=1",
     "links": [
       125,
       127,
@@ -405,7 +405,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387805/divine-glimpse",
+    "url": "https://www.wowhead.com/beta/spell=387805/divine-glimpse?def=107575&rank=1",
     "links": [
       129,
       131,
@@ -562,7 +562,7 @@
   {
     "id": 387893,
     "name": "Divine Resonance",
-    "icon": "ability_bastion_paladin",
+    "icon": "ability_mount_goatmountwhite",
     "capacity": 1,
     "cell": 136,
     "row": 9,
@@ -582,7 +582,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=196926/crusaders-might",
+    "url": "https://www.wowhead.com/beta/spell=196926/crusaders-might?def=107585&rank=1",
     "links": [
       155,
       159
@@ -597,7 +597,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=248033/awakening",
+    "url": "https://www.wowhead.com/beta/spell=248033/awakening?def=107583&rank=1",
     "links": [
       159,
       163
@@ -612,7 +612,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383388/relentless-inquisitor",
+    "url": "https://www.wowhead.com/beta/spell=383388/relentless-inquisitor?def=107580&rank=1",
     "links": [
       163
     ]

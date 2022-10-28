@@ -275,15 +275,15 @@
     ]
   },
   {
-    "id": 394931,
+    "id": 36554,
     "name": "Shadowstep",
-    "icon": "rogue_shadowfocus",
+    "icon": "ability_rogue_shadowstep",
     "capacity": 1,
     "cell": 63,
     "row": 4,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=394931/shadowstep",
+    "url": "https://www.wowhead.com/beta/spell=36554/shadowstep",
     "links": [
       78,
       80
@@ -392,7 +392,7 @@
     "row": 6,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381542/deadly-precision",
+    "url": "https://www.wowhead.com/beta/spell=381542/deadly-precision?def=117657&rank=1",
     "links": [
       106
     ]
@@ -406,7 +406,7 @@
     "row": 6,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381619/thiefs-versatility",
+    "url": "https://www.wowhead.com/beta/spell=381619/thiefs-versatility?def=117650&rank=1",
     "links": [
       110
     ]
@@ -420,7 +420,7 @@
     "row": 6,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=14062/nightstalker",
+    "url": "https://www.wowhead.com/beta/spell=14062/nightstalker?def=117586&rank=1",
     "links": [
       114
     ]
@@ -494,7 +494,7 @@
     "row": 8,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382238/lethality",
+    "url": "https://www.wowhead.com/beta/spell=382238/lethality?def=117645&rank=1",
     "links": [
       142
     ]
@@ -522,7 +522,7 @@
     "row": 8,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=193539/alacrity",
+    "url": "https://www.wowhead.com/beta/spell=193539/alacrity?def=117648&rank=1",
     "links": [
       146
     ]
@@ -550,7 +550,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=14190/seal-fate",
+    "url": "https://www.wowhead.com/beta/spell=14190/seal-fate?def=117654&rank=1",
     "links": [
       159
     ]
@@ -608,7 +608,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=91023/find-weakness",
+    "url": "https://www.wowhead.com/beta/spell=91023/find-weakness?def=117583&rank=1",
     "links": [
       163
     ]
@@ -644,14 +644,14 @@
     }
   },
   {
-    "id": 394930,
+    "id": 185313,
     "name": "Shadow Dance",
-    "icon": "rogue_shadowfocus",
+    "icon": "ability_rogue_shadowdance",
     "capacity": 1,
     "cell": 163,
     "row": 10,
     "column": 11,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=394930/shadow-dance"
+    "url": "https://www.wowhead.com/beta/spell=185313/shadow-dance"
   }
 ]

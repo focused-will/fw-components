@@ -238,7 +238,7 @@
     "row": 5,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=267216/inner-demons",
+    "url": "https://www.wowhead.com/beta/spell=267216/inner-demons?def=96549&rank=1",
     "links": [
       89,
       93
@@ -253,7 +253,7 @@
     "row": 5,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=205145/demonic-calling",
+    "url": "https://www.wowhead.com/beta/spell=205145/demonic-calling?def=96537&rank=1",
     "links": [
       93,
       97
@@ -358,7 +358,7 @@
     "row": 7,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387432/fel-covenant",
+    "url": "https://www.wowhead.com/beta/spell=387432/fel-covenant?def=96520&rank=1",
     "links": [
       123
     ]
@@ -372,7 +372,7 @@
     "row": 7,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387445/imp-gang-boss",
+    "url": "https://www.wowhead.com/beta/spell=387445/imp-gang-boss?def=96518&rank=1",
     "links": [
       123,
       127
@@ -387,7 +387,7 @@
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387483/kazaaks-final-curse",
+    "url": "https://www.wowhead.com/beta/spell=387483/kazaaks-final-curse?def=96551&rank=1",
     "links": [
       127
     ]
@@ -401,7 +401,7 @@
     "row": 7,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387485/ripped-through-the-portal",
+    "url": "https://www.wowhead.com/beta/spell=387485/ripped-through-the-portal?def=96529&rank=1",
     "links": [
       127,
       131
@@ -416,7 +416,7 @@
     "row": 7,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387488/hounds-of-war",
+    "url": "https://www.wowhead.com/beta/spell=387488/hounds-of-war?def=96531&rank=1",
     "links": [
       131
     ]
@@ -478,7 +478,7 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387526/nerzhuls-volition",
+    "url": "https://www.wowhead.com/beta/spell=387526/nerzhuls-volition?def=96516&rank=1",
     "links": [
       155
     ]
@@ -503,7 +503,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=267214/sacrificed-souls"
+    "url": "https://www.wowhead.com/beta/spell=267214/sacrificed-souls?def=96513&rank=1"
   },
   {
     "id": 334585,
@@ -514,7 +514,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=334585/soulbound-tyrant",
+    "url": "https://www.wowhead.com/beta/spell=334585/soulbound-tyrant?def=96512&rank=1",
     "links": [
       161
     ]
@@ -528,7 +528,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387541/pact-of-the-imp-mother"
+    "url": "https://www.wowhead.com/beta/spell=387541/pact-of-the-imp-mother?def=96524&rank=1"
   },
   {
     "id": 387600,
@@ -550,7 +550,7 @@
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387549/infernal-command",
+    "url": "https://www.wowhead.com/beta/spell=387549/infernal-command?def=96526&rank=1",
     "links": [
       167
     ]

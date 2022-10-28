@@ -218,7 +218,7 @@
     "row": 5,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=209389/bulwark-of-order",
+    "url": "https://www.wowhead.com/beta/spell=209389/bulwark-of-order?def=107473&rank=1",
     "links": [
       89,
       91,
@@ -232,16 +232,16 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
-      "id": 204018,
-      "name": "Blessing of Spellwarding",
-      "icon": "spell_holy_blessingofprotection",
-      "url": "https://www.wowhead.com/beta/spell=204018/blessing-of-spellwarding"
-    },
-    "right": {
       "id": 393114,
       "name": "Improved Ardent Defender",
       "icon": "spell_holy_ardentdefender",
       "url": "https://www.wowhead.com/beta/spell=393114/improved-ardent-defender"
+    },
+    "right": {
+      "id": 204018,
+      "name": "Blessing of Spellwarding",
+      "icon": "spell_holy_blessingofprotection",
+      "url": "https://www.wowhead.com/beta/spell=204018/blessing-of-spellwarding"
     },
     "links": [
       93
@@ -256,7 +256,7 @@
     "row": 5,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378405/light-of-the-titans",
+    "url": "https://www.wowhead.com/beta/spell=378405/light-of-the-titans?def=107477&rank=1",
     "links": [
       93,
       95,
@@ -289,13 +289,13 @@
   {
     "id": 378285,
     "name": "Tyr's Enforcer",
-    "icon": "inv_summerfest_firespirit",
+    "icon": "spell_holy_persecution",
     "capacity": 2,
     "cell": 89,
     "row": 6,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378285/tyrs-enforcer",
+    "url": "https://www.wowhead.com/beta/spell=378285/tyrs-enforcer?def=107442&rank=1",
     "links": [
       104,
       108
@@ -323,16 +323,16 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
-      "id": 384442,
-      "name": "Avenging Wrath: Might",
+      "id": 31884,
+      "name": "Avenging Wrath",
       "icon": "spell_holy_avenginewrath",
-      "url": "https://www.wowhead.com/beta/spell=384442/avenging-wrath-might"
+      "url": "https://www.wowhead.com/beta/spell=31884/avenging-wrath"
     },
     "right": {
-      "id": 385438,
+      "id": 389539,
       "name": "Sentinel",
       "icon": "spell_holy_holynova",
-      "url": "https://www.wowhead.com/beta/spell=385438/sentinel"
+      "url": "https://www.wowhead.com/beta/spell=389539/sentinel"
     },
     "links": [
       110
@@ -362,7 +362,7 @@
     "row": 6,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=379008/strength-of-conviction",
+    "url": "https://www.wowhead.com/beta/spell=379008/strength-of-conviction?def=107455&rank=1",
     "links": [
       112,
       116
@@ -471,7 +471,7 @@
     "row": 8,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378279/gift-of-the-golden-valkyr",
+    "url": "https://www.wowhead.com/beta/spell=378279/gift-of-the-golden-valkyr?def=107454&rank=1",
     "links": [
       140,
       142
@@ -502,7 +502,7 @@
     "row": 8,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=204074/righteous-protector",
+    "url": "https://www.wowhead.com/beta/spell=204074/righteous-protector?def=107445&rank=1",
     "links": [
       146,
       148
@@ -517,7 +517,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=379043/faith-in-the-light",
+    "url": "https://www.wowhead.com/beta/spell=379043/faith-in-the-light?def=107449&rank=1",
     "links": [
       148
     ]
@@ -531,7 +531,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378762/ferren-marcuss-fervor",
+    "url": "https://www.wowhead.com/beta/spell=378762/ferren-marcuss-fervor?def=107451&rank=1",
     "links": [
       157
     ]
@@ -609,7 +609,7 @@
     "left": {
       "id": 386738,
       "name": "Divine Resonance",
-      "icon": "ability_bastion_paladin",
+      "icon": "ability_mount_goatmountwhite",
       "url": "https://www.wowhead.com/beta/spell=386738/divine-resonance"
     },
     "right": {

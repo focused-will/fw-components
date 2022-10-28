@@ -434,7 +434,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381894/triple-threat",
+    "url": "https://www.wowhead.com/beta/spell=381894/triple-threat?def=117571&rank=1",
     "links": [
       123,
       125
@@ -449,7 +449,7 @@
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381982/count-the-odds",
+    "url": "https://www.wowhead.com/beta/spell=381982/count-the-odds?def=117546&rank=1",
     "links": [
       127
     ]
@@ -463,7 +463,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382746/improved-main-gauche",
+    "url": "https://www.wowhead.com/beta/spell=382746/improved-main-gauche?def=117560&rank=1",
     "links": [
       129,
       131
@@ -558,13 +558,13 @@
   {
     "id": 382742,
     "name": "Take 'em by Surprise",
-    "icon": "ability_stealth",
+    "icon": "ability_rogue_masterofsubtlety",
     "capacity": 2,
     "cell": 140,
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382742/take-em-by-surprise",
+    "url": "https://www.wowhead.com/beta/spell=382742/take-em-by-surprise?def=117568&rank=1",
     "links": [
       159
     ]
@@ -578,7 +578,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381990/summarily-dispatched",
+    "url": "https://www.wowhead.com/beta/spell=381990/summarily-dispatched?def=117544&rank=1",
     "links": [
       161
     ]
@@ -592,7 +592,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381846/fan-the-hammer",
+    "url": "https://www.wowhead.com/beta/spell=381846/fan-the-hammer?def=117558&rank=1",
     "links": [
       163
     ]

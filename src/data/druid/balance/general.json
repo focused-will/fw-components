@@ -206,7 +206,7 @@
     "row": 4,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=108299/killer-instinct",
+    "url": "https://www.wowhead.com/beta/spell=108299/killer-instinct?def=108308&rank=1",
     "links": [
       72
     ]
@@ -234,7 +234,7 @@
     "row": 4,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=33873/nurturing-instinct",
+    "url": "https://www.wowhead.com/beta/spell=33873/nurturing-instinct?def=108297&rank=1",
     "links": [
       80
     ]
@@ -259,7 +259,7 @@
     "row": 5,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=131768/feline-swiftness",
+    "url": "https://www.wowhead.com/beta/spell=131768/feline-swiftness?def=108323&rank=1",
     "links": [
       85,
       104
@@ -285,7 +285,7 @@
     "row": 5,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=16931/thick-hide",
+    "url": "https://www.wowhead.com/beta/spell=16931/thick-hide?def=108311&rank=1",
     "links": [
       93,
       108
@@ -322,7 +322,7 @@
     "row": 5,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377796/natural-recovery",
+    "url": "https://www.wowhead.com/beta/spell=377796/natural-recovery?def=108289&rank=1",
     "links": [
       93,
       97,
@@ -349,7 +349,7 @@
     "row": 5,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=197524/astral-influence",
+    "url": "https://www.wowhead.com/beta/spell=197524/astral-influence?def=108293&rank=1",
     "links": [
       97,
       101
@@ -507,7 +507,7 @@
     "row": 8,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377842/ursine-vigor"
+    "url": "https://www.wowhead.com/beta/spell=377842/ursine-vigor?def=108318&rank=1"
   },
   {
     "id": 378988,
@@ -518,7 +518,7 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378988/lycaras-teachings",
+    "url": "https://www.wowhead.com/beta/spell=378988/lycaras-teachings?def=108316&rank=1",
     "links": [
       143,
       145
@@ -566,7 +566,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377847/well-honed-instincts",
+    "url": "https://www.wowhead.com/beta/spell=377847/well-honed-instincts?def=108331&rank=1",
     "links": [
       157
     ]

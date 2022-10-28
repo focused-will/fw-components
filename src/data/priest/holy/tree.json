@@ -271,7 +271,7 @@
     "row": 5,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=200128/trail-of-light",
+    "url": "https://www.wowhead.com/beta/spell=200128/trail-of-light?def=108775&rank=1",
     "links": [
       91
     ]
@@ -367,7 +367,7 @@
     "row": 6,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=372370/gales-of-song",
+    "url": "https://www.wowhead.com/beta/spell=372370/gales-of-song?def=108752&rank=1",
     "links": [
       110
     ]
@@ -410,7 +410,7 @@
     "row": 7,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390954/crisis-management",
+    "url": "https://www.wowhead.com/beta/spell=390954/crisis-management?def=108767&rank=1",
     "links": [
       121,
       125
@@ -425,7 +425,7 @@
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390967/prismatic-echoes",
+    "url": "https://www.wowhead.com/beta/spell=390967/prismatic-echoes?def=108753&rank=1",
     "links": [
       125,
       129
@@ -440,7 +440,7 @@
     "row": 7,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390977/prayers-of-the-virtuous",
+    "url": "https://www.wowhead.com/beta/spell=390977/prayers-of-the-virtuous?def=108755&rank=1",
     "links": [
       129,
       133
@@ -532,7 +532,7 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=372309/resonant-words",
+    "url": "https://www.wowhead.com/beta/spell=372309/resonant-words?def=108740&rank=1",
     "links": [
       157
     ]
@@ -546,7 +546,7 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391381/desperate-times",
+    "url": "https://www.wowhead.com/beta/spell=391381/desperate-times?def=108746&rank=1",
     "links": [
       157
     ]
@@ -560,7 +560,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=196985/light-of-the-naaru",
+    "url": "https://www.wowhead.com/beta/spell=196985/light-of-the-naaru?def=108769&rank=1",
     "links": [
       161
     ]
@@ -574,7 +574,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390994/harmonious-apparatus",
+    "url": "https://www.wowhead.com/beta/spell=390994/harmonious-apparatus?def=108749&rank=1",
     "links": [
       161
     ]
@@ -588,7 +588,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=372611/searing-light",
+    "url": "https://www.wowhead.com/beta/spell=372611/searing-light?def=108743&rank=1",
     "links": [
       165
     ]
@@ -602,7 +602,7 @@
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391387/answered-prayers",
+    "url": "https://www.wowhead.com/beta/spell=391387/answered-prayers?def=108745&rank=1",
     "links": [
       165
     ]

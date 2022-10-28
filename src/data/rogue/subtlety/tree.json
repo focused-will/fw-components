@@ -15,15 +15,15 @@
     ]
   },
   {
-    "id": 394935,
+    "id": 36554,
     "name": "Shadowstep",
-    "icon": "rogue_shadowfocus",
+    "icon": "ability_rogue_shadowstep",
     "capacity": 1,
     "cell": 8,
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=394935/shadowstep",
+    "url": "https://www.wowhead.com/beta/spell=36554/shadowstep",
     "links": [
       23,
       25,
@@ -237,7 +237,7 @@
   {
     "id": 382017,
     "name": "Veiltouched",
-    "icon": "spell_nature_slowpoison",
+    "icon": "spell_arcane_prismaticcloak",
     "capacity": 1,
     "cell": 61,
     "row": 4,
@@ -351,7 +351,7 @@
     "row": 6,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382508/planned-execution",
+    "url": "https://www.wowhead.com/beta/spell=382508/planned-execution?def=117596&rank=1",
     "links": [
       106,
       108
@@ -366,7 +366,7 @@
     "row": 6,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393972/improved-shadow-dance",
+    "url": "https://www.wowhead.com/beta/spell=393972/improved-shadow-dance?def=117628&rank=1",
     "links": [
       108,
       112
@@ -381,7 +381,7 @@
     "row": 6,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382511/shadowed-finishers",
+    "url": "https://www.wowhead.com/beta/spell=382511/shadowed-finishers?def=117616&rank=1",
     "links": [
       112,
       114
@@ -484,7 +484,7 @@
     "row": 8,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382518/perforated-veins",
+    "url": "https://www.wowhead.com/beta/spell=382518/perforated-veins?def=117600&rank=1",
     "links": [
       142
     ]
@@ -498,7 +498,7 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=245687/dark-shadow",
+    "url": "https://www.wowhead.com/beta/spell=245687/dark-shadow?def=117625&rank=1",
     "links": [
       144
     ]
@@ -512,7 +512,7 @@
     "row": 8,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382517/deeper-daggers",
+    "url": "https://www.wowhead.com/beta/spell=382517/deeper-daggers?def=117614&rank=1",
     "links": [
       146
     ]
@@ -537,7 +537,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382523/invigorating-shadowdust",
+    "url": "https://www.wowhead.com/beta/spell=382523/invigorating-shadowdust?def=117599&rank=1",
     "links": [
       159
     ]
@@ -551,7 +551,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382524/lingering-shadow",
+    "url": "https://www.wowhead.com/beta/spell=382524/lingering-shadow?def=117624&rank=1",
     "links": [
       161
     ]
@@ -565,7 +565,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382525/finality",
+    "url": "https://www.wowhead.com/beta/spell=382525/finality?def=117613&rank=1",
     "links": [
       163
     ]

@@ -332,7 +332,7 @@
     "row": 7,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383287/bloodborne",
+    "url": "https://www.wowhead.com/beta/spell=383287/bloodborne?def=117140&rank=1",
     "links": [
       121
     ]
@@ -456,7 +456,7 @@
     "row": 8,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389308/deft-experience",
+    "url": "https://www.wowhead.com/beta/spell=389308/deft-experience?def=117314&rank=1",
     "links": [
       136,
       140
@@ -471,7 +471,7 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383338/valor-in-victory",
+    "url": "https://www.wowhead.com/beta/spell=383338/valor-in-victory?def=117320&rank=1",
     "links": [
       144
     ]
@@ -485,7 +485,7 @@
     "row": 8,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389306/critical-thinking",
+    "url": "https://www.wowhead.com/beta/spell=389306/critical-thinking?def=117322&rank=1",
     "links": [
       148,
       152

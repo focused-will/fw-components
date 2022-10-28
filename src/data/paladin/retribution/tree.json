@@ -180,7 +180,7 @@
     "row": 5,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383271/highlords-judgment",
+    "url": "https://www.wowhead.com/beta/spell=383271/highlords-judgment?def=107510&rank=1",
     "links": [
       85,
       89
@@ -397,7 +397,7 @@
     "row": 6,
     "column": 17,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387640/sealed-verdict",
+    "url": "https://www.wowhead.com/beta/spell=387640/sealed-verdict?def=107493&rank=1",
     "links": [
       116
     ]
@@ -515,7 +515,7 @@
     "row": 8,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383388/relentless-inquisitor",
+    "url": "https://www.wowhead.com/beta/spell=383388/relentless-inquisitor?def=107519&rank=1",
     "links": [
       140,
       142
@@ -530,7 +530,7 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383276/ashes-to-ashes",
+    "url": "https://www.wowhead.com/beta/spell=383276/ashes-to-ashes?def=107531&rank=1",
     "links": [
       142,
       144,
@@ -546,7 +546,7 @@
     "row": 8,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383274/templars-vindication",
+    "url": "https://www.wowhead.com/beta/spell=383274/templars-vindication?def=107490&rank=1",
     "links": [
       146,
       148
@@ -600,13 +600,13 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383304/virtuous-command",
+    "url": "https://www.wowhead.com/beta/spell=383304/virtuous-command?def=107530&rank=1",
     "links": [
       163
     ]
   },
   {
-    "id": 383327,
+    "id": 383328,
     "name": "Final Verdict",
     "icon": "spell_paladin_templarsverdict",
     "capacity": 1,
@@ -614,7 +614,7 @@
     "row": 9,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=383327/final-verdict",
+    "url": "https://www.wowhead.com/beta/spell=383328/final-verdict",
     "links": [
       165
     ]
@@ -641,7 +641,7 @@
   {
     "id": 384027,
     "name": "Divine Resonance",
-    "icon": "ability_bastion_paladin",
+    "icon": "ability_mount_goatmountwhite",
     "capacity": 1,
     "cell": 159,
     "row": 10,
@@ -669,6 +669,6 @@
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383314/vanguards-momentum"
+    "url": "https://www.wowhead.com/beta/spell=383314/vanguards-momentum?def=107488&rank=1"
   }
 ]

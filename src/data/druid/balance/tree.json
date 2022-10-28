@@ -31,15 +31,15 @@
     ]
   },
   {
-    "id": 202425,
-    "name": "Warrior of Elune",
-    "icon": "spell_holy_elunesgrace",
+    "id": 202430,
+    "name": "Nature's Balance",
+    "icon": "ability_druid_balanceofpower",
     "capacity": 1,
     "cell": 25,
     "row": 2,
     "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=202425/warrior-of-elune",
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=202430/natures-balance",
     "links": [
       40,
       44
@@ -70,7 +70,7 @@
     "row": 3,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=343647/solstice",
+    "url": "https://www.wowhead.com/beta/spell=343647/solstice?def=114840&rank=1",
     "links": [
       55,
       70
@@ -85,7 +85,7 @@
     "row": 3,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383195/umbral-intensity",
+    "url": "https://www.wowhead.com/beta/spell=383195/umbral-intensity?def=114858&rank=1",
     "links": [
       55,
       59
@@ -100,7 +100,7 @@
     "row": 3,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393760/umbral-embrace",
+    "url": "https://www.wowhead.com/beta/spell=393760/umbral-embrace?def=114855&rank=1",
     "links": [
       59,
       63
@@ -115,7 +115,7 @@
     "row": 3,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=327541/aetherial-kindling",
+    "url": "https://www.wowhead.com/beta/spell=327541/aetherial-kindling?def=114848&rank=1",
     "links": [
       63
     ]
@@ -131,27 +131,20 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393868/lunar-shrapnel",
     "links": [
+      63,
       82
     ]
   },
   {
+    "id": 202347,
+    "name": "Stellar Flare",
+    "icon": "ability_druid_stellarflare",
+    "capacity": 1,
     "cell": 55,
     "row": 4,
     "column": 5,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 202347,
-      "name": "Stellar Flare",
-      "icon": "ability_druid_stellarflare",
-      "url": "https://www.wowhead.com/beta/spell=202347/stellar-flare"
-    },
-    "right": {
-      "id": 279620,
-      "name": "Twin Moons",
-      "icon": "spell_nature_starfall",
-      "url": "https://www.wowhead.com/beta/spell=279620/twin-moons"
-    },
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=202347/stellar-flare",
     "links": [
       74,
       89
@@ -199,19 +192,20 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383197/orbit-breaker",
     "links": [
-      89
+      89,
+      104
     ]
   },
   {
-    "id": 383194,
-    "name": "Stellar Inspiration",
-    "icon": "ability_skyreach_lens_flare",
+    "id": 279620,
+    "name": "Twin Moons",
+    "icon": "spell_nature_starfall",
     "capacity": 1,
     "cell": 74,
     "row": 5,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383194/stellar-inspiration",
+    "url": "https://www.wowhead.com/beta/spell=279620/twin-moons",
     "links": [
       89,
       93
@@ -232,15 +226,15 @@
     ]
   },
   {
-    "id": 202430,
-    "name": "Nature's Balance",
-    "icon": "ability_druid_balanceofpower",
+    "id": 394115,
+    "name": "Stellar Innervation",
+    "icon": "sha_ability_mage_firestarter_nightborne",
     "capacity": 1,
     "cell": 78,
     "row": 5,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=202430/natures-balance",
+    "url": "https://www.wowhead.com/beta/spell=394115/stellar-innervation",
     "links": [
       93,
       97
@@ -265,7 +259,8 @@
       "url": "https://www.wowhead.com/beta/spell=393940/starweaver"
     },
     "links": [
-      97
+      97,
+      116
     ]
   },
   {
@@ -277,7 +272,7 @@
     "row": 6,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393956/waning-twilight",
+    "url": "https://www.wowhead.com/beta/spell=393956/waning-twilight?def=114839&rank=1",
     "links": [
       104,
       108,
@@ -285,7 +280,7 @@
     ]
   },
   {
-    "id": 395022,
+    "id": 194223,
     "name": "Celestial Alignment",
     "icon": "spell_nature_natureguardian",
     "capacity": 1,
@@ -293,7 +288,7 @@
     "row": 6,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=395022/celestial-alignment",
+    "url": "https://www.wowhead.com/beta/spell=194223/celestial-alignment",
     "links": [
       108,
       110,
@@ -309,7 +304,7 @@
     "row": 6,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=202345/starlord",
+    "url": "https://www.wowhead.com/beta/spell=202345/starlord?def=114837&rank=1",
     "links": [
       112,
       116,
@@ -353,9 +348,9 @@
     "capacity": 1,
     "left": {
       "id": 390378,
-      "name": "Syzygy",
+      "name": "Orbital Strike",
       "icon": "ability_druid_cresentburn",
-      "url": "https://www.wowhead.com/beta/spell=390378/syzygy"
+      "url": "https://www.wowhead.com/beta/spell=390378/orbital-strike"
     },
     "right": {
       "id": 393960,
@@ -486,7 +481,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=394058/astral-smolder",
+    "url": "https://www.wowhead.com/beta/spell=394058/astral-smolder?def=114841&rank=1",
     "links": [
       157
     ]
@@ -511,7 +506,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=394048/balance-of-all-things",
+    "url": "https://www.wowhead.com/beta/spell=394048/balance-of-all-things?def=114853&rank=1",
     "links": [
       165
     ]
@@ -551,26 +546,26 @@
     "url": "https://www.wowhead.com/beta/spell=394081/friend-of-the-fae"
   },
   {
-    "id": 394094,
-    "name": "Sundered Firmament",
-    "icon": "spell_druid_equinox",
+    "id": 202425,
+    "name": "Warrior of Elune",
+    "icon": "spell_holy_elunesgrace",
     "capacity": 1,
     "cell": 157,
     "row": 10,
     "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=394094/sundered-firmament"
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=202425/warrior-of-elune"
   },
   {
-    "id": 394115,
-    "name": "Stellar Innervation",
-    "icon": "sha_ability_mage_firestarter_nightborne",
+    "id": 394094,
+    "name": "Sundered Firmament",
+    "icon": "spell_druid_equinox",
     "capacity": 1,
     "cell": 165,
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=394115/stellar-innervation"
+    "url": "https://www.wowhead.com/beta/spell=394094/sundered-firmament"
   },
   {
     "id": 394121,

@@ -123,7 +123,7 @@
     "row": 3,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=234299/fist-of-justice",
+    "url": "https://www.wowhead.com/beta/spell=234299/fist-of-justice?def=107594&rank=1",
     "links": [
       65,
       80
@@ -183,7 +183,7 @@
     ]
   },
   {
-    "id": 231663,
+    "id": 231644,
     "name": "Greater Judgment",
     "icon": "spell_holy_righteousfury",
     "capacity": 1,
@@ -191,7 +191,7 @@
     "row": 4,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=231663/greater-judgment",
+    "url": "https://www.wowhead.com/beta/spell=231644/greater-judgment",
     "links": [
       80,
       82
@@ -200,13 +200,13 @@
   {
     "id": 385515,
     "name": "Holy Aegis",
-    "icon": "spell_holy_divineprotection",
+    "icon": "ability_paladin_touchedbylight",
     "capacity": 2,
     "cell": 72,
     "row": 5,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385515/holy-aegis",
+    "url": "https://www.wowhead.com/beta/spell=385515/holy-aegis?def=107602&rank=1",
     "links": [
       87,
       89,
@@ -214,7 +214,7 @@
     ]
   },
   {
-    "id": 384376,
+    "id": 31884,
     "name": "Avenging Wrath",
     "icon": "spell_holy_avenginewrath",
     "capacity": 1,
@@ -222,7 +222,7 @@
     "row": 5,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=384376/avenging-wrath",
+    "url": "https://www.wowhead.com/beta/spell=31884/avenging-wrath",
     "links": [
       91,
       95
@@ -327,7 +327,7 @@
     "row": 6,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377053/seal-of-reprisal",
+    "url": "https://www.wowhead.com/beta/spell=377053/seal-of-reprisal?def=107626&rank=1",
     "links": [
       114,
       133
@@ -342,7 +342,7 @@
     "row": 7,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384897/seal-of-mercy",
+    "url": "https://www.wowhead.com/beta/spell=384897/seal-of-mercy?def=107604&rank=1",
     "links": [
       121
     ]
@@ -446,7 +446,7 @@
     "row": 8,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384815/seal-of-clarity",
+    "url": "https://www.wowhead.com/beta/spell=384815/seal-of-clarity?def=107605&rank=1",
     "links": [
       140
     ]
@@ -460,7 +460,7 @@
     "row": 8,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385416/aspiration-of-divinity",
+    "url": "https://www.wowhead.com/beta/spell=385416/aspiration-of-divinity?def=107618&rank=1",
     "links": [
       140,
       142
@@ -541,7 +541,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385450/seal-of-might",
+    "url": "https://www.wowhead.com/beta/spell=385450/seal-of-might?def=107617&rank=1",
     "links": [
       161
     ]
@@ -555,7 +555,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385425/seal-of-alacrity",
+    "url": "https://www.wowhead.com/beta/spell=385425/seal-of-alacrity?def=107614&rank=1",
     "links": [
       161
     ]
@@ -569,7 +569,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385728/seal-of-the-crusader",
+    "url": "https://www.wowhead.com/beta/spell=385728/seal-of-the-crusader?def=107622&rank=1",
     "links": [
       165
     ]
@@ -592,16 +592,16 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
+      "id": 31884,
+      "name": "$@spellname53376",
+      "icon": "ability_paladin_judgementsofthejust",
+      "url": "https://www.wowhead.com/beta/spell=31884/avenging-wrath"
+    },
+    "right": {
       "id": 152262,
       "name": "Seraphim",
       "icon": "ability_paladin_seraphim",
       "url": "https://www.wowhead.com/beta/spell=152262/seraphim"
-    },
-    "right": {
-      "id": 53376,
-      "name": "Sanctified Wrath",
-      "icon": "ability_paladin_judgementsofthejust",
-      "url": "https://www.wowhead.com/beta/spell=53376/sanctified-wrath"
     }
   },
   {

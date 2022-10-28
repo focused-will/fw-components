@@ -70,7 +70,7 @@
     "row": 3,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383303/improved-maelstrom-weapon",
+    "url": "https://www.wowhead.com/beta/spell=383303/improved-maelstrom-weapon?def=106865&rank=1",
     "links": [
       57,
       59,
@@ -86,7 +86,7 @@
     "row": 3,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=334033/molten-assault",
+    "url": "https://www.wowhead.com/beta/spell=334033/molten-assault?def=106863&rank=1",
     "links": [
       61,
       65
@@ -259,7 +259,7 @@
     "row": 5,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=201900/hot-hand",
+    "url": "https://www.wowhead.com/beta/spell=201900/hot-hand?def=106898&rank=1",
     "links": [
       97,
       99
@@ -346,7 +346,7 @@
     ]
   },
   {
-    "id": 394150,
+    "id": 117014,
     "name": "Elemental Blast",
     "icon": "shaman_talent_elementalblast",
     "capacity": 1,
@@ -354,7 +354,7 @@
     "row": 7,
     "column": 3,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=394150/elemental-blast",
+    "url": "https://www.wowhead.com/beta/spell=117014/elemental-blast",
     "links": [
       123
     ]
@@ -382,7 +382,7 @@
     "row": 7,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384355/elemental-weapons",
+    "url": "https://www.wowhead.com/beta/spell=384355/elemental-weapons?def=106861&rank=1",
     "links": [
       123,
       127
@@ -390,14 +390,14 @@
   },
   {
     "id": 384363,
-    "name": "Gathering Storms",
+    "name": "Converging Storms",
     "icon": "warrior_talent_icon_stormbolt",
     "capacity": 1,
     "cell": 110,
     "row": 7,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384363/gathering-storms",
+    "url": "https://www.wowhead.com/beta/spell=384363/converging-storms",
     "links": [
       127
     ]
@@ -469,16 +469,16 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
-      "id": 114051,
-      "name": "Ascendance",
-      "icon": "spell_fire_elementaldevastation",
-      "url": "https://www.wowhead.com/beta/spell=114051/ascendance"
-    },
-    "right": {
       "id": 378270,
       "name": "Deeply Rooted Elements",
       "icon": "inv_misc_herb_liferoot_stem",
       "url": "https://www.wowhead.com/beta/spell=378270/deeply-rooted-elements"
+    },
+    "right": {
+      "id": 114051,
+      "name": "Ascendance",
+      "icon": "spell_fire_elementaldevastation",
+      "url": "https://www.wowhead.com/beta/spell=114051/ascendance"
     },
     "links": [
       146,
@@ -494,7 +494,7 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384405/primal-maelstrom",
+    "url": "https://www.wowhead.com/beta/spell=384405/primal-maelstrom?def=106884&rank=1",
     "links": [
       155
     ]
@@ -508,7 +508,7 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=210853/elemental-assault"
+    "url": "https://www.wowhead.com/beta/spell=210853/elemental-assault?def=106860&rank=1"
   },
   {
     "id": 384447,
@@ -519,7 +519,7 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384447/witch-doctors-ancestry",
+    "url": "https://www.wowhead.com/beta/spell=384447/witch-doctors-ancestry?def=106891&rank=1",
     "links": [
       161
     ]
@@ -533,7 +533,7 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384450/legacy-of-the-frost-witch"
+    "url": "https://www.wowhead.com/beta/spell=384450/legacy-of-the-frost-witch?def=106893&rank=1"
   },
   {
     "id": 384411,
@@ -544,7 +544,7 @@
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384411/static-accumulation",
+    "url": "https://www.wowhead.com/beta/spell=384411/static-accumulation?def=106881&rank=1",
     "links": [
       167
     ]

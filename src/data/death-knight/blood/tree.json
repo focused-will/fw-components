@@ -97,7 +97,7 @@
     "row": 4,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=317133/improved-vampiric-blood",
+    "url": "https://www.wowhead.com/beta/spell=317133/improved-vampiric-blood?def=101274&rank=1",
     "links": [
       74,
       76
@@ -112,7 +112,7 @@
     "row": 4,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=374717/improved-heart-strike",
+    "url": "https://www.wowhead.com/beta/spell=374717/improved-heart-strike?def=101259&rank=1",
     "links": [
       76,
       78
@@ -157,7 +157,7 @@
     "row": 5,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=221536/heartbreaker",
+    "url": "https://www.wowhead.com/beta/spell=221536/heartbreaker?def=101268&rank=1",
     "links": [
       89,
       91
@@ -214,7 +214,7 @@
     "row": 5,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=374747/perseverance-of-the-ebon-blade",
+    "url": "https://www.wowhead.com/beta/spell=374747/perseverance-of-the-ebon-blade?def=101257&rank=1",
     "links": [
       95,
       97
@@ -473,13 +473,13 @@
   {
     "id": 377640,
     "name": "Shattering Bone",
-    "icon": "ability_deathknight_boneshield",
+    "icon": "ability_deathknight_shatteringbone",
     "capacity": 2,
     "cell": 140,
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377640/shattering-bone",
+    "url": "https://www.wowhead.com/beta/spell=377640/shattering-bone?def=101261&rank=1",
     "links": [
       157
     ]
@@ -536,7 +536,7 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=205723/red-thirst",
+    "url": "https://www.wowhead.com/beta/spell=205723/red-thirst?def=101265&rank=1",
     "links": [
       165
     ]
