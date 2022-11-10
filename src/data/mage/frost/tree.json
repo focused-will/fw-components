@@ -8,12 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=30455/ice-lance",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=30455/ice-lance"
   },
   {
     "id": 84714,
@@ -26,7 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=84714/frozen-orb",
     "links": [
-      40
+      8
     ]
   },
   {
@@ -40,7 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=190356/blizzard",
     "links": [
-      59
+      8
     ]
   },
   {
@@ -54,7 +49,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=112965/fingers-of-frost",
     "links": [
-      44
+      8
     ]
   },
   {
@@ -68,8 +63,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=44614/flurry",
     "links": [
-      55,
-      57
+      23
     ]
   },
   {
@@ -83,8 +77,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=12982/shatter",
     "links": [
-      61,
-      63
+      27
     ]
   },
   {
@@ -98,7 +91,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=190447/brain-freeze",
     "links": [
-      72
+      40
     ]
   },
   {
@@ -112,7 +105,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385167/everlasting-frost",
     "links": [
-      72
+      40
     ]
   },
   {
@@ -126,8 +119,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=235219/cold-snap",
     "links": [
-      74,
-      78
+      25
     ]
   },
   {
@@ -141,7 +133,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378756/frostbite",
     "links": [
-      80
+      44
     ]
   },
   {
@@ -155,7 +147,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378919/piercing-cold",
     "links": [
-      80
+      44
     ]
   },
   {
@@ -169,8 +161,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378198/perpetual-winter",
     "links": [
-      87,
-      89
+      55,
+      57
     ]
   },
   {
@@ -192,8 +184,7 @@
       "url": "https://www.wowhead.com/beta/spell=31687/summon-water-elemental"
     },
     "links": [
-      89,
-      91
+      59
     ]
   },
   {
@@ -207,8 +198,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=236662/ice-caller",
     "links": [
-      95,
-      97
+      59
     ]
   },
   {
@@ -222,8 +212,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=205027/bone-chilling",
     "links": [
-      97,
-      99
+      61,
+      63
     ]
   },
   {
@@ -237,7 +227,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378947/glacial-assault?def=85251&rank=1",
     "links": [
-      121
+      72
     ]
   },
   {
@@ -259,7 +249,8 @@
       "url": "https://www.wowhead.com/beta/spell=257537/ebonbolt"
     },
     "links": [
-      106
+      72,
+      74
     ]
   },
   {
@@ -273,7 +264,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378406/wintertide?def=85239&rank=1",
     "links": [
-      110
+      74
     ]
   },
   {
@@ -287,7 +278,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381706/snowstorm?def=85237&rank=1",
     "links": [
-      110
+      78
     ]
   },
   {
@@ -301,7 +292,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=379993/flash-freeze",
     "links": [
-      114
+      78,
+      80
     ]
   },
   {
@@ -315,22 +307,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=380154/subzero?def=85226&rank=1",
     "links": [
-      133
-    ]
-  },
-  {
-    "id": 378749,
-    "name": "Deep Shatter",
-    "icon": "inv_misc_frostemblem_01",
-    "capacity": 2,
-    "cell": 106,
-    "row": 7,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378749/deep-shatter?def=85225&rank=1",
-    "links": [
-      121,
-      125
+      80
     ]
   },
   {
@@ -344,9 +321,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=12472/icy-veins",
     "links": [
-      125,
-      127,
-      129
+      91,
+      95
     ]
   },
   {
@@ -360,36 +336,21 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=379049/splintering-cold?def=85228&rank=1",
     "links": [
-      129,
-      133
+      97
     ]
   },
   {
-    "id": 153595,
-    "name": "Comet Storm",
-    "icon": "spell_mage_cometstorm2",
-    "capacity": 1,
-    "cell": 121,
-    "row": 8,
-    "column": 3,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=153595/comet-storm",
-    "links": [
-      140
-    ]
-  },
-  {
-    "id": 270233,
-    "name": "Freezing Rain",
-    "icon": "spell_frost_frozenorb",
-    "capacity": 1,
-    "cell": 125,
-    "row": 8,
-    "column": 7,
+    "id": 378749,
+    "name": "Deep Shatter",
+    "icon": "inv_misc_frostemblem_01",
+    "capacity": 2,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=270233/freezing-rain",
+    "url": "https://www.wowhead.com/beta/spell=378749/deep-shatter?def=85225&rank=1",
     "links": [
-      140
+      89
     ]
   },
   {
@@ -403,9 +364,37 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378433/icy-propulsion",
     "links": [
-      142,
-      144,
-      146
+      110
+    ]
+  },
+  {
+    "id": 153595,
+    "name": "Comet Storm",
+    "icon": "spell_mage_cometstorm2",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=153595/comet-storm",
+    "links": [
+      87,
+      106
+    ]
+  },
+  {
+    "id": 270233,
+    "name": "Freezing Rain",
+    "icon": "spell_frost_frozenorb",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=270233/freezing-rain",
+    "links": [
+      106,
+      110
     ]
   },
   {
@@ -419,7 +408,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=205021/ray-of-frost",
     "links": [
-      148
+      110,
+      114
     ]
   },
   {
@@ -433,7 +423,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=56377/splitting-ice",
     "links": [
-      148
+      99,
+      114
     ]
   },
   {
@@ -447,7 +438,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378448/fractured-frost?def=85253&rank=1",
     "links": [
-      157
+      121,
+      125
     ]
   },
   {
@@ -461,7 +453,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378901/snap-freeze",
     "links": [
-      159
+      127
     ]
   },
   {
@@ -473,7 +465,10 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382144/slick-ice"
+    "url": "https://www.wowhead.com/beta/spell=382144/slick-ice",
+    "links": [
+      127
+    ]
   },
   {
     "id": 278309,
@@ -486,7 +481,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=278309/chain-reaction",
     "links": [
-      163
+      127
     ]
   },
   {
@@ -500,7 +495,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381244/hailstones?def=85224&rank=1",
     "links": [
-      165
+      129,
+      133
     ]
   },
   {
@@ -512,7 +508,10 @@
     "row": 10,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382110/cold-front"
+    "url": "https://www.wowhead.com/beta/spell=382110/cold-front",
+    "links": [
+      140
+    ]
   },
   {
     "id": 382103,
@@ -523,7 +522,10 @@
     "row": 10,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382103/freezing-winds"
+    "url": "https://www.wowhead.com/beta/spell=382103/freezing-winds",
+    "links": [
+      142
+    ]
   },
   {
     "id": 155149,
@@ -534,7 +536,10 @@
     "row": 10,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=155149/thermal-void"
+    "url": "https://www.wowhead.com/beta/spell=155149/thermal-void",
+    "links": [
+      146
+    ]
   },
   {
     "id": 199786,
@@ -545,6 +550,9 @@
     "row": 10,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=199786/glacial-spike"
+    "url": "https://www.wowhead.com/beta/spell=199786/glacial-spike",
+    "links": [
+      148
+    ]
   }
 ]

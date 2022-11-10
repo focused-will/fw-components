@@ -8,11 +8,7 @@
     "row": 1,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=319949/improved-backstab",
-    "links": [
-      21,
-      23
-    ]
+    "url": "https://www.wowhead.com/beta/spell=319949/improved-backstab"
   },
   {
     "id": 36554,
@@ -23,12 +19,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=36554/shadowstep",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=36554/shadowstep"
   },
   {
     "id": 319951,
@@ -39,11 +30,7 @@
     "row": 1,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=319951/improved-shuriken-storm",
-    "links": [
-      27,
-      29
-    ]
+    "url": "https://www.wowhead.com/beta/spell=319951/improved-shuriken-storm"
   },
   {
     "id": 193537,
@@ -56,8 +43,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=193537/weaponmaster",
     "links": [
-      36,
-      38
+      4
     ]
   },
   {
@@ -71,8 +57,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=108209/shadow-focus",
     "links": [
-      38,
-      42
+      4,
+      8
     ]
   },
   {
@@ -84,7 +70,10 @@
     "row": 2,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382503/quick-decisions"
+    "url": "https://www.wowhead.com/beta/spell=382503/quick-decisions",
+    "links": [
+      8
+    ]
   },
   {
     "id": 58423,
@@ -97,8 +86,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=58423/relentless-strikes",
     "links": [
-      42,
-      46
+      8,
+      12
     ]
   },
   {
@@ -112,8 +101,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=319175/black-powder",
     "links": [
-      46,
-      48
+      12
     ]
   },
   {
@@ -127,7 +115,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=257505/shot-in-the-dark",
     "links": [
-      53
+      21
     ]
   },
   {
@@ -141,8 +129,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=343160/premeditation",
     "links": [
-      53,
-      57
+      21,
+      23
     ]
   },
   {
@@ -156,9 +144,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=121471/shadow-blades",
     "links": [
-      57,
-      59,
-      61
+      23,
+      27
     ]
   },
   {
@@ -172,8 +159,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385722/silent-storm",
     "links": [
-      61,
-      65
+      27,
+      29
     ]
   },
   {
@@ -187,7 +174,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=277953/night-terrors",
     "links": [
-      65
+      29
     ]
   },
   {
@@ -201,7 +188,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=200758/gloomblade",
     "links": [
-      72
+      36,
+      38
     ]
   },
   {
@@ -215,8 +203,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=394023/improved-shadow-techniques",
     "links": [
-      72,
-      74
+      38,
+      42
     ]
   },
   {
@@ -230,8 +218,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382509/stiletto-staccato",
     "links": [
-      74,
-      78
+      42
     ]
   },
   {
@@ -245,8 +232,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382017/veiltouched",
     "links": [
-      78,
-      80
+      42,
+      46
     ]
   },
   {
@@ -260,7 +247,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=280719/secret-technique",
     "links": [
-      80
+      46,
+      48
     ]
   },
   {
@@ -274,8 +262,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=394309/swift-death",
     "links": [
-      87,
-      89
+      53,
+      57
     ]
   },
   {
@@ -297,8 +285,8 @@
       "url": "https://www.wowhead.com/beta/spell=196976/master-of-shadows"
     },
     "links": [
-      89,
-      93
+      57,
+      59
     ]
   },
   {
@@ -312,8 +300,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=185314/deepening-shadows",
     "links": [
-      93,
-      97
+      59,
+      61
     ]
   },
   {
@@ -327,8 +315,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382506/replicating-shadows",
     "links": [
-      97,
-      99
+      61,
+      65
     ]
   },
   {
@@ -340,7 +328,10 @@
     "row": 6,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382507/shrouded-in-darkness"
+    "url": "https://www.wowhead.com/beta/spell=382507/shrouded-in-darkness",
+    "links": [
+      72
+    ]
   },
   {
     "id": 382508,
@@ -353,8 +344,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382508/planned-execution?def=117596&rank=1",
     "links": [
-      106,
-      108
+      72,
+      74
     ]
   },
   {
@@ -368,8 +359,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393972/improved-shadow-dance?def=117628&rank=1",
     "links": [
-      108,
-      112
+      74,
+      78
     ]
   },
   {
@@ -383,8 +374,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382511/shadowed-finishers?def=117616&rank=1",
     "links": [
-      112,
-      114
+      78,
+      80
     ]
   },
   {
@@ -396,7 +387,10 @@
     "row": 6,
     "column": 15,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=277925/shuriken-tornado"
+    "url": "https://www.wowhead.com/beta/spell=277925/shuriken-tornado",
+    "links": [
+      80
+    ]
   },
   {
     "id": 382512,
@@ -409,8 +403,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382512/inevitability",
     "links": [
-      123,
-      125
+      89
     ]
   },
   {
@@ -424,7 +417,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382513/without-a-trace",
     "links": [
-      127
+      89,
+      93
     ]
   },
   {
@@ -446,7 +440,8 @@
       "url": "https://www.wowhead.com/beta/spell=382514/fade-to-nothing"
     },
     "links": [
-      127
+      93,
+      97
     ]
   },
   {
@@ -460,8 +455,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=394320/secret-stratagem",
     "links": [
-      129,
-      131
+      97
     ]
   },
   {
@@ -473,7 +467,10 @@
     "row": 8,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=385408/sepsis"
+    "url": "https://www.wowhead.com/beta/spell=385408/sepsis",
+    "links": [
+      106
+    ]
   },
   {
     "id": 382518,
@@ -486,7 +483,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382518/perforated-veins?def=117600&rank=1",
     "links": [
-      142
+      106
     ]
   },
   {
@@ -500,7 +497,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=245687/dark-shadow?def=117625&rank=1",
     "links": [
-      144
+      108,
+      112
     ]
   },
   {
@@ -514,7 +512,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382517/deeper-daggers?def=117614&rank=1",
     "links": [
-      146
+      114
     ]
   },
   {
@@ -526,7 +524,10 @@
     "row": 8,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=384631/flagellation"
+    "url": "https://www.wowhead.com/beta/spell=384631/flagellation",
+    "links": [
+      114
+    ]
   },
   {
     "id": 382523,
@@ -539,7 +540,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382523/invigorating-shadowdust?def=117599&rank=1",
     "links": [
-      159
+      125
     ]
   },
   {
@@ -553,7 +554,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382524/lingering-shadow?def=117624&rank=1",
     "links": [
-      161
+      127
     ]
   },
   {
@@ -567,7 +568,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382525/finality?def=117613&rank=1",
     "links": [
-      163
+      129
     ]
   },
   {
@@ -579,7 +580,10 @@
     "row": 10,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382015/the-rotten"
+    "url": "https://www.wowhead.com/beta/spell=382015/the-rotten",
+    "links": [
+      142
+    ]
   },
   {
     "id": 382528,
@@ -590,7 +594,10 @@
     "row": 10,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382528/danse-macabre"
+    "url": "https://www.wowhead.com/beta/spell=382528/danse-macabre",
+    "links": [
+      144
+    ]
   },
   {
     "id": 382504,
@@ -601,6 +608,9 @@
     "row": 10,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382504/dark-brew"
+    "url": "https://www.wowhead.com/beta/spell=382504/dark-brew",
+    "links": [
+      146
+    ]
   }
 ]

@@ -8,28 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=235313/blazing-barrier",
-    "links": [
-      21,
-      25,
-      29
-    ]
-  },
-  {
-    "id": 45438,
-    "name": "Ice Block",
-    "icon": "spell_frost_frost",
-    "capacity": 1,
-    "cell": 21,
-    "row": 2,
-    "column": 5,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=45438/ice-block",
-    "links": [
-      36,
-      38,
-      40
-    ]
+    "url": "https://www.wowhead.com/beta/spell=235313/blazing-barrier"
   },
   {
     "id": 390218,
@@ -42,7 +21,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390218/overflowing-energy",
     "links": [
-      59
+      8
     ]
   },
   {
@@ -56,9 +35,21 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=66/invisibility",
     "links": [
-      44,
-      46,
-      48
+      8
+    ]
+  },
+  {
+    "id": 45438,
+    "name": "Ice Block",
+    "icon": "spell_frost_frost",
+    "capacity": 1,
+    "cell": 21,
+    "row": 2,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=45438/ice-block",
+    "links": [
+      8
     ]
   },
   {
@@ -72,7 +63,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382424/winters-protection?def=85185&rank=1",
     "links": [
-      55
+      21
     ]
   },
   {
@@ -86,7 +77,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=30449/spellsteal",
     "links": [
-      55
+      21
     ]
   },
   {
@@ -100,8 +91,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382289/tempest-barrier?def=85172&rank=1",
     "links": [
-      55,
-      59
+      21
     ]
   },
   {
@@ -115,8 +105,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382293/incantation-of-swiftness?def=85173&rank=1",
     "links": [
-      59,
-      63
+      29
     ]
   },
   {
@@ -130,7 +119,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=475/remove-curse",
     "links": [
-      63
+      29
     ]
   },
   {
@@ -144,7 +133,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383092/arcane-warding?def=85176&rank=1",
     "links": [
-      63
+      29
     ]
   },
   {
@@ -158,9 +147,25 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=55342/mirror-image",
     "links": [
-      70,
-      72,
-      74
+      36,
+      38,
+      40
+    ]
+  },
+  {
+    "id": 342245,
+    "name": "Alter Time",
+    "icon": "spell_mage_altertime",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=342245/alter-time",
+    "links": [
+      44,
+      46,
+      48
     ]
   },
   {
@@ -182,25 +187,39 @@
       "url": "https://www.wowhead.com/beta/spell=116011/rune-of-power"
     },
     "links": [
-      74,
-      76,
-      78
+      25,
+      40,
+      44
     ]
   },
   {
-    "id": 342245,
-    "name": "Alter Time",
-    "icon": "spell_mage_altertime",
+    "id": 382297,
+    "name": "Quick Witted",
+    "icon": "ability_priest_surgeofdarkness",
     "capacity": 1,
-    "cell": 63,
-    "row": 4,
-    "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=342245/alter-time",
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382297/quick-witted",
     "links": [
-      78,
-      80,
-      82
+      55,
+      59
+    ]
+  },
+  {
+    "id": 31589,
+    "name": "Slow",
+    "icon": "spell_nature_slow",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=31589/slow",
+    "links": [
+      59,
+      63
     ]
   },
   {
@@ -214,8 +233,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382292/cryo-freeze?def=85168&rank=1",
     "links": [
-      89,
-      104
+      55
     ]
   },
   {
@@ -237,23 +255,7 @@
       "url": "https://www.wowhead.com/beta/spell=382820/reabsorption"
     },
     "links": [
-      89
-    ]
-  },
-  {
-    "id": 382297,
-    "name": "Quick Witted",
-    "icon": "ability_priest_surgeofdarkness",
-    "capacity": 1,
-    "cell": 74,
-    "row": 5,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382297/quick-witted",
-    "links": [
-      89,
-      91,
-      93
+      55
     ]
   },
   {
@@ -267,23 +269,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=383121/mass-polymorph",
     "links": [
-      93
-    ]
-  },
-  {
-    "id": 31589,
-    "name": "Slow",
-    "icon": "spell_nature_slow",
-    "capacity": 1,
-    "cell": 78,
-    "row": 5,
-    "column": 11,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=31589/slow",
-    "links": [
-      93,
-      95,
-      97
+      59
     ]
   },
   {
@@ -297,7 +283,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=342249/master-of-time",
     "links": [
-      97
+      63
     ]
   },
   {
@@ -311,8 +297,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382270/diverted-energy?def=85161&rank=1",
     "links": [
-      97,
-      116
+      63
     ]
   },
   {
@@ -326,8 +311,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=113724/ring-of-frost",
     "links": [
-      104,
-      106
+      70,
+      72,
+      74
     ]
   },
   {
@@ -341,8 +327,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=157997/ice-nova",
     "links": [
-      106,
-      108
+      74
     ]
   },
   {
@@ -364,8 +349,9 @@
       "url": "https://www.wowhead.com/beta/spell=108839/ice-floes"
     },
     "links": [
-      108,
-      112
+      74,
+      76,
+      78
     ]
   },
   {
@@ -379,7 +365,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391102/mass-slow",
     "links": [
-      112
+      78
     ]
   },
   {
@@ -393,67 +379,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=157981/blast-wave",
     "links": [
-      112,
-      114,
-      116
-    ]
-  },
-  {
-    "id": 343183,
-    "name": "Improved Frost Nova",
-    "icon": "spell_frost_frostnova",
-    "capacity": 1,
-    "cell": 104,
-    "row": 7,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=343183/improved-frost-nova",
-    "links": [
-      123
-    ]
-  },
-  {
-    "id": 382481,
-    "name": "Rigid Ice",
-    "icon": "spell_hunter_blackicetrap",
-    "capacity": 1,
-    "cell": 106,
-    "row": 7,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382481/rigid-ice",
-    "links": [
-      123
-    ]
-  },
-  {
-    "id": 382493,
-    "name": "Tome of Rhonin",
-    "icon": "inv_misc_book_04",
-    "capacity": 1,
-    "cell": 108,
-    "row": 7,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382493/tome-of-rhonin",
-    "links": [
-      123,
-      127
-    ]
-  },
-  {
-    "id": 382490,
-    "name": "Tome of Antonidas",
-    "icon": "inv_misc_book_18",
-    "capacity": 1,
-    "cell": 112,
-    "row": 7,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382490/tome-of-antonidas",
-    "links": [
-      127,
-      131
+      78,
+      80,
+      82
     ]
   },
   {
@@ -467,7 +395,53 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389627/volatile-detonation",
     "links": [
-      131
+      97
+    ]
+  },
+  {
+    "id": 343183,
+    "name": "Improved Frost Nova",
+    "icon": "spell_frost_frostnova",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=343183/improved-frost-nova",
+    "links": [
+      70,
+      89
+    ]
+  },
+  {
+    "id": 382493,
+    "name": "Tome of Rhonin",
+    "icon": "inv_misc_book_04",
+    "capacity": 1,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382493/tome-of-rhonin",
+    "links": [
+      91,
+      93
+    ]
+  },
+  {
+    "id": 382490,
+    "name": "Tome of Antonidas",
+    "icon": "inv_misc_book_18",
+    "capacity": 1,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382490/tome-of-antonidas",
+    "links": [
+      93,
+      95,
+      97
     ]
   },
   {
@@ -481,7 +455,23 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386828/energized-barriers",
     "links": [
-      131
+      82,
+      97
+    ]
+  },
+  {
+    "id": 382481,
+    "name": "Rigid Ice",
+    "icon": "spell_hunter_blackicetrap",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382481/rigid-ice",
+    "links": [
+      89,
+      91
     ]
   },
   {
@@ -495,24 +485,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=235224/frigid-winds?def=85191&rank=1",
     "links": [
-      138,
-      142
-    ]
-  },
-  {
-    "id": 382268,
-    "name": "Flow of Time",
-    "icon": "spell_arcane_blink",
-    "capacity": 2,
-    "cell": 127,
-    "row": 8,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382268/flow-of-time?def=85156&rank=1",
-    "links": [
-      142,
-      144,
-      146
+      104,
+      106,
+      108
     ]
   },
   {
@@ -526,51 +501,24 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382826/temporal-velocity?def=85159&rank=1",
     "links": [
-      146,
-      150
+      112,
+      114,
+      116
     ]
   },
   {
-    "id": 205036,
-    "name": "Ice Ward",
-    "icon": "spell_frost_frostward",
-    "capacity": 1,
-    "cell": 138,
-    "row": 9,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=205036/ice-ward",
-    "links": [
-      155,
-      157
-    ]
-  },
-  {
-    "id": 387807,
-    "name": "Time Manipulation",
-    "icon": "spell_nature_timestop",
+    "id": 382268,
+    "name": "Flow of Time",
+    "icon": "spell_arcane_blink",
     "capacity": 2,
-    "cell": 142,
-    "row": 9,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387807/time-manipulation?def=85192&rank=1",
-    "links": [
-      157
-    ]
-  },
-  {
-    "id": 110959,
-    "name": "Greater Invisibility",
-    "icon": "ability_mage_greaterinvisibility",
-    "capacity": 1,
-    "cell": 144,
-    "row": 9,
+    "cell": 127,
+    "row": 8,
     "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=110959/greater-invisibility",
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382268/flow-of-time?def=85156&rank=1",
     "links": [
-      161
+      108,
+      112
     ]
   },
   {
@@ -584,7 +532,51 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382800/accumulative-shielding?def=85152&rank=1",
     "links": [
-      165
+      127,
+      131
+    ]
+  },
+  {
+    "id": 205036,
+    "name": "Ice Ward",
+    "icon": "spell_frost_frostward",
+    "capacity": 1,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=205036/ice-ward",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 387807,
+    "name": "Time Manipulation",
+    "icon": "spell_nature_timestop",
+    "capacity": 2,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387807/time-manipulation?def=85192&rank=1",
+    "links": [
+      123,
+      127
+    ]
+  },
+  {
+    "id": 110959,
+    "name": "Greater Invisibility",
+    "icon": "ability_mage_greaterinvisibility",
+    "capacity": 1,
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=110959/greater-invisibility",
+    "links": [
+      127
     ]
   },
   {
@@ -598,8 +590,36 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=31661/dragons-breath",
     "links": [
-      165,
-      167
+      131
+    ]
+  },
+  {
+    "id": 389713,
+    "name": "Displacement",
+    "icon": "ability_hunter_displacement",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=389713/displacement",
+    "links": [
+      146,
+      150
+    ]
+  },
+  {
+    "id": 153561,
+    "name": "Meteor",
+    "icon": "spell_mage_meteor",
+    "capacity": 1,
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=153561/meteor",
+    "links": [
+      150
     ]
   },
   {
@@ -611,7 +631,10 @@
     "row": 10,
     "column": 3,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=382440/shifting-power"
+    "url": "https://www.wowhead.com/beta/spell=382440/shifting-power",
+    "links": [
+      138
+    ]
   },
   {
     "id": 386763,
@@ -622,7 +645,11 @@
     "row": 10,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386763/freezing-cold"
+    "url": "https://www.wowhead.com/beta/spell=386763/freezing-cold",
+    "links": [
+      138,
+      142
+    ]
   },
   {
     "cell": 161,
@@ -641,28 +668,9 @@
       "name": "Temporal Warp",
       "icon": "ability_bossmagistrix_timewarp2",
       "url": "https://www.wowhead.com/beta/spell=386539/temporal-warp"
-    }
-  },
-  {
-    "id": 389713,
-    "name": "Displacement",
-    "icon": "ability_hunter_displacement",
-    "capacity": 1,
-    "cell": 165,
-    "row": 10,
-    "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=389713/displacement"
-  },
-  {
-    "id": 153561,
-    "name": "Meteor",
-    "icon": "spell_mage_meteor",
-    "capacity": 1,
-    "cell": 167,
-    "row": 10,
-    "column": 15,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=153561/meteor"
+    },
+    "links": [
+      144
+    ]
   }
 ]

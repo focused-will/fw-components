@@ -8,10 +8,7 @@
     "row": 1,
     "column": 3,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=1822/rake",
-    "links": [
-      21
-    ]
+    "url": "https://www.wowhead.com/beta/spell=1822/rake"
   },
   {
     "id": 22842,
@@ -22,11 +19,7 @@
     "row": 1,
     "column": 7,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=22842/frenzied-regeneration",
-    "links": [
-      21,
-      25
-    ]
+    "url": "https://www.wowhead.com/beta/spell=22842/frenzied-regeneration"
   },
   {
     "id": 774,
@@ -37,11 +30,7 @@
     "row": 1,
     "column": 11,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=774/rejuvenation",
-    "links": [
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=774/rejuvenation"
   },
   {
     "id": 197628,
@@ -52,10 +41,7 @@
     "row": 1,
     "column": 15,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=197628/starfire",
-    "links": [
-      31
-    ]
+    "url": "https://www.wowhead.com/beta/spell=197628/starfire"
   },
   {
     "id": 106832,
@@ -68,8 +54,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=106832/thrash",
     "links": [
-      36,
-      38
+      2,
+      6
     ]
   },
   {
@@ -83,7 +69,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=327993/improved-barkskin",
     "links": [
-      42
+      6,
+      10
     ]
   },
   {
@@ -97,7 +84,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=18562/swiftmend",
     "links": [
-      44
+      10
     ]
   },
   {
@@ -111,7 +98,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=197626/starsurge",
     "links": [
-      48
+      14
     ]
   },
   {
@@ -125,8 +112,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=1079/rip",
     "links": [
-      51,
-      70
+      21
     ]
   },
   {
@@ -140,8 +126,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=213764/swipe",
     "links": [
-      55,
-      57
+      21
     ]
   },
   {
@@ -153,7 +138,10 @@
     "row": 3,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=301768/verdant-heart"
+    "url": "https://www.wowhead.com/beta/spell=301768/verdant-heart",
+    "links": [
+      25
+    ]
   },
   {
     "id": 2782,
@@ -166,8 +154,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=2782/remove-corruption",
     "links": [
-      63,
-      78
+      27
     ]
   },
   {
@@ -181,9 +168,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=197625/moonkin-form",
     "links": [
-      63,
-      67,
-      82
+      31
     ]
   },
   {
@@ -195,7 +180,10 @@
     "row": 4,
     "column": 1,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=22570/maim"
+    "url": "https://www.wowhead.com/beta/spell=22570/maim",
+    "links": [
+      36
+    ]
   },
   {
     "id": 108299,
@@ -208,7 +196,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=108299/killer-instinct?def=108308&rank=1",
     "links": [
-      72
+      38
     ]
   },
   {
@@ -222,7 +210,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=192081/ironfur",
     "links": [
-      74
+      38
     ]
   },
   {
@@ -236,7 +224,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=33873/nurturing-instinct?def=108297&rank=1",
     "links": [
-      80
+      44,
+      48
     ]
   },
   {
@@ -248,7 +237,10 @@
     "row": 4,
     "column": 17,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=2637/hibernate"
+    "url": "https://www.wowhead.com/beta/spell=2637/hibernate",
+    "links": [
+      48
+    ]
   },
   {
     "id": 131768,
@@ -261,8 +253,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=131768/feline-swiftness?def=108323&rank=1",
     "links": [
-      85,
-      104
+      36
     ]
   },
   {
@@ -274,7 +265,10 @@
     "row": 5,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=106839/skull-bash"
+    "url": "https://www.wowhead.com/beta/spell=106839/skull-bash",
+    "links": [
+      55
+    ]
   },
   {
     "id": 16931,
@@ -287,8 +281,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=16931/thick-hide?def=108311&rank=1",
     "links": [
-      93,
-      108
+      57
     ]
   },
   {
@@ -308,10 +301,7 @@
       "name": "Tiger Dash",
       "icon": "ability_druid_dash_orange",
       "url": "https://www.wowhead.com/beta/spell=252216/tiger-dash"
-    },
-    "links": [
-      93
-    ]
+    }
   },
   {
     "id": 377796,
@@ -324,9 +314,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377796/natural-recovery?def=108289&rank=1",
     "links": [
-      93,
-      97,
-      112
+      44
     ]
   },
   {
@@ -338,7 +326,10 @@
     "row": 5,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=33786/cyclone"
+    "url": "https://www.wowhead.com/beta/spell=33786/cyclone",
+    "links": [
+      63
+    ]
   },
   {
     "id": 197524,
@@ -351,8 +342,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=197524/astral-influence?def=108293&rank=1",
     "links": [
-      97,
-      101
+      48
     ]
   },
   {
@@ -364,7 +354,10 @@
     "row": 6,
     "column": 1,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377801/tireless-pursuit"
+    "url": "https://www.wowhead.com/beta/spell=377801/tireless-pursuit",
+    "links": [
+      70
+    ]
   },
   {
     "id": 2908,
@@ -377,7 +370,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=2908/soothe",
     "links": [
-      110
+      74,
+      76,
+      78
     ]
   },
   {
@@ -391,8 +386,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=93402/sunfire",
     "links": [
-      116,
-      131
+      78,
+      82
     ]
   },
   {
@@ -404,7 +399,10 @@
     "row": 6,
     "column": 17,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=132469/typhoon"
+    "url": "https://www.wowhead.com/beta/spell=132469/typhoon",
+    "links": [
+      82
+    ]
   },
   {
     "id": 159286,
@@ -417,7 +415,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=159286/primal-fury",
     "links": [
-      123
+      70
     ]
   },
   {
@@ -431,8 +429,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385786/matted-fur",
     "links": [
-      123,
-      125
+      74
     ]
   },
   {
@@ -446,8 +443,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=106898/stampeding-roar",
     "links": [
-      125,
-      127
+      93
     ]
   },
   {
@@ -461,8 +457,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=48438/wild-growth",
     "links": [
-      129,
-      131
+      78
     ]
   },
   {
@@ -474,7 +469,10 @@
     "row": 7,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=231050/improved-sunfire"
+    "url": "https://www.wowhead.com/beta/spell=231050/improved-sunfire",
+    "links": [
+      97
+    ]
   },
   {
     "cell": 123,
@@ -495,7 +493,8 @@
       "url": "https://www.wowhead.com/beta/spell=5211/mighty-bash"
     },
     "links": [
-      140
+      104,
+      108
     ]
   },
   {
@@ -507,7 +506,11 @@
     "row": 8,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377842/ursine-vigor?def=108318&rank=1"
+    "url": "https://www.wowhead.com/beta/spell=377842/ursine-vigor?def=108318&rank=1",
+    "links": [
+      108,
+      110
+    ]
   },
   {
     "id": 378988,
@@ -520,8 +523,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378988/lycaras-teachings?def=108316&rank=1",
     "links": [
-      143,
-      145
+      110
     ]
   },
   {
@@ -533,7 +535,10 @@
     "row": 8,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=231040/improved-rejuvenation"
+    "url": "https://www.wowhead.com/beta/spell=231040/improved-rejuvenation",
+    "links": [
+      112
+    ]
   },
   {
     "cell": 131,
@@ -554,7 +559,8 @@
       "url": "https://www.wowhead.com/beta/spell=102793/ursols-vortex"
     },
     "links": [
-      148
+      97,
+      112
     ]
   },
   {
@@ -568,7 +574,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377847/well-honed-instincts?def=108331&rank=1",
     "links": [
-      157
+      123
     ]
   },
   {
@@ -582,7 +588,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=288826/improved-stampeding-roar",
     "links": [
-      161
+      127
     ]
   },
   {
@@ -596,7 +602,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=108238/renewal",
     "links": [
-      161
+      127
     ]
   },
   {
@@ -610,7 +616,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=29166/innervate",
     "links": [
-      165
+      131
     ]
   },
   {
@@ -622,7 +628,10 @@
     "row": 10,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378986/protector-of-the-pack"
+    "url": "https://www.wowhead.com/beta/spell=378986/protector-of-the-pack",
+    "links": [
+      140
+    ]
   },
   {
     "id": 319454,
@@ -633,7 +642,11 @@
     "row": 10,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=319454/heart-of-the-wild"
+    "url": "https://www.wowhead.com/beta/spell=319454/heart-of-the-wild",
+    "links": [
+      143,
+      145
+    ]
   },
   {
     "id": 124974,
@@ -644,6 +657,9 @@
     "row": 10,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=124974/natures-vigil"
+    "url": "https://www.wowhead.com/beta/spell=124974/natures-vigil",
+    "links": [
+      148
+    ]
   }
 ]

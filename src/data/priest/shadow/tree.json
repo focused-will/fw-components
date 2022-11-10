@@ -8,12 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=335467/devouring-plague",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=335467/devouring-plague"
   },
   {
     "id": 47585,
@@ -26,7 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=47585/dispersion",
     "links": [
-      40
+      8
     ]
   },
   {
@@ -40,7 +35,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=341491/shadowy-apparitions",
     "links": [
-      42
+      8
     ]
   },
   {
@@ -54,7 +49,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=15487/silence",
     "links": [
-      44
+      8
     ]
   },
   {
@@ -76,7 +71,7 @@
       "url": "https://www.wowhead.com/beta/spell=377065/mental-fortitude"
     },
     "links": [
-      57
+      23
     ]
   },
   {
@@ -98,9 +93,7 @@
       "url": "https://www.wowhead.com/beta/spell=263346/dark-void"
     },
     "links": [
-      57,
-      59,
-      61
+      25
     ]
   },
   {
@@ -120,7 +113,10 @@
       "name": "Psychic Horror",
       "icon": "spell_shadow_psychichorrors",
       "url": "https://www.wowhead.com/beta/spell=64044/psychic-horror"
-    }
+    },
+    "links": [
+      27
+    ]
   },
   {
     "id": 391242,
@@ -133,9 +129,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391242/coalescing-shadows",
     "links": [
-      72,
-      74,
-      76
+      40,
+      42
     ]
   },
   {
@@ -149,7 +144,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=48045/mind-sear",
     "links": [
-      76
+      42
     ]
   },
   {
@@ -163,9 +158,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=73510/mind-spike",
     "links": [
-      76,
-      78,
-      80
+      42
     ]
   },
   {
@@ -179,8 +172,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377387/puppet-master",
     "links": [
-      87,
-      91
+      57
     ]
   },
   {
@@ -194,7 +186,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375994/mental-decay",
     "links": [
-      91
+      57
     ]
   },
   {
@@ -216,9 +208,9 @@
       "url": "https://www.wowhead.com/beta/spell=228260/void-eruption"
     },
     "links": [
-      91,
-      93,
-      95
+      57,
+      59,
+      61
     ]
   },
   {
@@ -232,7 +224,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=341273/unfurling-darkness",
     "links": [
-      95
+      61
     ]
   },
   {
@@ -246,8 +238,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=162448/surge-of-darkness",
     "links": [
-      95,
-      99
+      61
     ]
   },
   {
@@ -261,8 +252,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391296/harnessed-shadows",
     "links": [
-      106,
-      121
+      72
     ]
   },
   {
@@ -276,8 +266,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375888/shadowy-insight",
     "links": [
-      106,
-      108
+      72,
+      74,
+      76
     ]
   },
   {
@@ -291,9 +282,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=341240/ancient-madness?def=108803&rank=1",
     "links": [
-      108,
-      110,
-      112
+      76
     ]
   },
   {
@@ -307,8 +296,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=205385/shadow-crash",
     "links": [
-      112,
-      114
+      76,
+      78,
+      80
     ]
   },
   {
@@ -322,8 +312,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391090/mind-melt",
     "links": [
-      114,
-      133
+      80
     ]
   },
   {
@@ -337,8 +326,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391228/maddening-touch?def=108789&rank=1",
     "links": [
-      121,
-      125
+      87,
+      91
     ]
   },
   {
@@ -352,7 +341,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391095/dark-evangelism?def=108807&rank=1",
     "links": [
-      125
+      91,
+      93
     ]
   },
   {
@@ -374,8 +364,7 @@
       "url": "https://www.wowhead.com/beta/spell=391284/tormented-spirits"
     },
     "links": [
-      125,
-      129
+      93
     ]
   },
   {
@@ -389,7 +378,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=199484/psychic-link?def=108819&rank=1",
     "links": [
-      129
+      93,
+      95
     ]
   },
   {
@@ -403,8 +393,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391137/whispers-of-the-damned?def=108691&rank=1",
     "links": [
-      129,
-      133
+      95,
+      99
     ]
   },
   {
@@ -418,8 +408,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=200174/mindbender",
     "links": [
-      138,
-      140
+      87,
+      106
     ]
   },
   {
@@ -441,8 +431,9 @@
       "url": "https://www.wowhead.com/beta/spell=391399/mind-flay-insanity"
     },
     "links": [
-      140,
-      144
+      106,
+      108,
+      110
     ]
   },
   {
@@ -456,9 +447,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391235/encroaching-shadows",
     "links": [
-      144,
-      146,
-      148
+      110,
+      112,
+      114
     ]
   },
   {
@@ -480,8 +471,8 @@
       "url": "https://www.wowhead.com/beta/spell=263165/void-torrent"
     },
     "links": [
-      148,
-      150
+      99,
+      114
     ]
   },
   {
@@ -495,7 +486,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373427/inescapable-torment?def=108788&rank=1",
     "links": [
-      155
+      121
     ]
   },
   {
@@ -509,7 +500,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375767/screams-of-the-void?def=108794&rank=1",
     "links": [
-      159
+      121,
+      125
     ]
   },
   {
@@ -523,7 +515,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391288/pain-of-death?def=108821&rank=1",
     "links": [
-      163
+      125,
+      129
     ]
   },
   {
@@ -537,7 +530,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373202/mind-devourer?def=108689&rank=1",
     "links": [
-      163
+      129
     ]
   },
   {
@@ -551,7 +544,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373212/insidious-ire?def=108688&rank=1",
     "links": [
-      167
+      129,
+      133
     ]
   },
   {
@@ -565,7 +559,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373221/malediction?def=108802&rank=1",
     "links": [
-      167
+      133
     ]
   },
   {
@@ -577,7 +571,10 @@
     "row": 10,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373310/idol-of-yshaarj"
+    "url": "https://www.wowhead.com/beta/spell=373310/idol-of-yshaarj",
+    "links": [
+      138
+    ]
   },
   {
     "id": 377349,
@@ -588,7 +585,10 @@
     "row": 10,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377349/idol-of-cthun"
+    "url": "https://www.wowhead.com/beta/spell=377349/idol-of-cthun",
+    "links": [
+      140
+    ]
   },
   {
     "id": 373273,
@@ -599,7 +599,11 @@
     "row": 10,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373273/idol-of-yogg-saron"
+    "url": "https://www.wowhead.com/beta/spell=373273/idol-of-yogg-saron",
+    "links": [
+      144,
+      146
+    ]
   },
   {
     "id": 373280,
@@ -610,6 +614,10 @@
     "row": 10,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=373280/idol-of-nzoth"
+    "url": "https://www.wowhead.com/beta/spell=373280/idol-of-nzoth",
+    "links": [
+      148,
+      150
+    ]
   }
 ]

@@ -8,12 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=2823/deadly-poison",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=2823/deadly-poison"
   },
   {
     "id": 319032,
@@ -26,8 +21,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=319032/improved-shiv",
     "links": [
-      38,
-      40
+      8
     ]
   },
   {
@@ -41,7 +35,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=79134/venomous-wounds",
     "links": [
-      42
+      8
     ]
   },
   {
@@ -55,8 +49,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=36554/shadowstep",
     "links": [
-      44,
-      46
+      8
     ]
   },
   {
@@ -70,8 +63,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=51667/cut-to-the-chase",
     "links": [
-      53,
-      57
+      23
     ]
   },
   {
@@ -85,7 +77,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=193640/elaborate-planning?def=117517&rank=1",
     "links": [
-      57
+      23
     ]
   },
   {
@@ -99,9 +91,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381624/improved-poisons?def=117524&rank=1",
     "links": [
-      57,
-      59,
-      61
+      25
     ]
   },
   {
@@ -115,7 +105,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381626/bloody-mess?def=117515&rank=1",
     "links": [
-      61
+      27
     ]
   },
   {
@@ -129,8 +119,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381627/internal-bleeding",
     "links": [
-      61,
-      65
+      27
     ]
   },
   {
@@ -144,7 +133,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381629/thrown-precision",
     "links": [
-      72
+      38
     ]
   },
   {
@@ -158,23 +147,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=394983/lightweight-shiv",
     "links": [
-      72,
-      74,
-      76
-    ]
-  },
-  {
-    "id": 392384,
-    "name": "Fatal Concoction",
-    "icon": "ability_creature_poison_06",
-    "capacity": 1,
-    "cell": 59,
-    "row": 4,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392384/fatal-concoction",
-    "links": [
-      76
+      38,
+      40,
+      42
     ]
   },
   {
@@ -188,9 +163,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381632/improved-garrote",
     "links": [
-      76,
-      78,
-      80
+      42,
+      44,
+      46
     ]
   },
   {
@@ -204,7 +179,21 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381630/intent-to-kill",
     "links": [
-      80
+      46
+    ]
+  },
+  {
+    "id": 392384,
+    "name": "Fatal Concoction",
+    "icon": "ability_creature_poison_06",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392384/fatal-concoction",
+    "links": [
+      42
     ]
   },
   {
@@ -218,7 +207,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=121411/crimson-tempest",
     "links": [
-      89
+      53,
+      57
     ]
   },
   {
@@ -232,8 +222,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=152152/venom-rush",
     "links": [
-      89,
-      91
+      57
     ]
   },
   {
@@ -247,10 +236,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=360194/deathmark",
     "links": [
-      91,
-      95,
-      109,
-      111
+      57,
+      59,
+      61
     ]
   },
   {
@@ -264,8 +252,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=255989/master-assassin",
     "links": [
-      95,
-      97
+      61
     ]
   },
   {
@@ -279,7 +266,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=200806/exsanguinate",
     "links": [
-      97
+      61,
+      65
     ]
   },
   {
@@ -293,7 +281,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381631/flying-daggers",
     "links": [
-      106
+      72,
+      74
     ]
   },
   {
@@ -307,8 +296,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381634/vicious-venoms?def=117670&rank=1",
     "links": [
-      106,
-      125
+      74,
+      76
     ]
   },
   {
@@ -322,8 +311,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381640/lethal-dose?def=117514&rank=1",
     "links": [
-      114,
-      129
+      76,
+      78
     ]
   },
   {
@@ -337,7 +326,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196861/iron-wire",
     "links": [
-      114
+      78,
+      80
     ]
   },
   {
@@ -351,8 +341,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381652/systemic-failure",
     "links": [
-      123,
-      125
+      89,
+      91
     ]
   },
   {
@@ -366,7 +356,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=381664/amplifying-poison",
     "links": [
-      127
+      76
     ]
   },
   {
@@ -380,7 +370,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381669/twist-the-knife",
     "links": [
-      127
+      76
     ]
   },
   {
@@ -394,8 +384,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381673/doomblade",
     "links": [
-      129,
-      131
+      95,
+      97
     ]
   },
   {
@@ -409,7 +399,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=328085/blindside",
     "links": [
-      142
+      106
     ]
   },
   {
@@ -423,7 +413,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381800/tiny-toxic-blade",
     "links": [
-      142
+      91,
+      106
     ]
   },
   {
@@ -437,7 +428,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=255544/poison-bomb?def=117665&rank=1",
     "links": [
-      144
+      109,
+      111
     ]
   },
   {
@@ -451,7 +443,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385478/shrouded-suffocation",
     "links": [
-      146
+      95,
+      114
     ]
   },
   {
@@ -473,7 +466,7 @@
       "url": "https://www.wowhead.com/beta/spell=385424/serrated-bone-spike"
     },
     "links": [
-      146
+      114
     ]
   },
   {
@@ -487,7 +480,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381798/zoldyck-recipe?def=117683&rank=1",
     "links": [
-      159
+      123,
+      125
     ]
   },
   {
@@ -501,7 +495,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381797/dashing-scoundrel?def=117664&rank=1",
     "links": [
-      161
+      127
     ]
   },
   {
@@ -515,7 +509,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381799/scent-of-blood?def=117673&rank=1",
     "links": [
-      163
+      129,
+      131
     ]
   },
   {
@@ -527,18 +522,10 @@
     "row": 10,
     "column": 7,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=385627/kingsbane"
-  },
-  {
-    "id": 381801,
-    "name": "Dragon-Tempered Blades",
-    "icon": "spell_fire_flameblades",
-    "capacity": 1,
-    "cell": 161,
-    "row": 10,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381801/dragon-tempered-blades"
+    "url": "https://www.wowhead.com/beta/spell=385627/kingsbane",
+    "links": [
+      142
+    ]
   },
   {
     "id": 381802,
@@ -549,6 +536,23 @@
     "row": 10,
     "column": 11,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=381802/indiscriminate-carnage"
+    "url": "https://www.wowhead.com/beta/spell=381802/indiscriminate-carnage",
+    "links": [
+      146
+    ]
+  },
+  {
+    "id": 381801,
+    "name": "Dragon-Tempered Blades",
+    "icon": "spell_fire_flameblades",
+    "capacity": 1,
+    "cell": 161,
+    "row": 10,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=381801/dragon-tempered-blades",
+    "links": [
+      144
+    ]
   }
 ]

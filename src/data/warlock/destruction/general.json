@@ -8,11 +8,7 @@
     "row": 1,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=333889/fel-domination",
-    "links": [
-      19,
-      23
-    ]
+    "url": "https://www.wowhead.com/beta/spell=333889/fel-domination"
   },
   {
     "id": 268358,
@@ -23,11 +19,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=268358/demonic-circle",
-    "links": [
-      23,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=268358/demonic-circle"
   },
   {
     "id": 111400,
@@ -38,11 +30,7 @@
     "row": 1,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=111400/burning-rush",
-    "links": [
-      27,
-      31
-    ]
+    "url": "https://www.wowhead.com/beta/spell=111400/burning-rush"
   },
   {
     "id": 386113,
@@ -55,7 +43,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386113/fel-pact?def=96442&rank=1",
     "links": [
-      38
+      4
     ]
   },
   {
@@ -69,8 +57,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=219272/demon-skin?def=96465&rank=1",
     "links": [
-      38,
-      42
+      4,
+      8
     ]
   },
   {
@@ -84,8 +72,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386124/fel-armor?def=96463&rank=1",
     "links": [
-      42,
-      46
+      8,
+      12
     ]
   },
   {
@@ -99,7 +87,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386110/fiendish-stride?def=96461&rank=1",
     "links": [
-      46
+      12
     ]
   },
   {
@@ -113,9 +101,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=386105/curses-of-enfeeblement",
     "links": [
-      53,
-      55,
-      57
+      19,
+      23
     ]
   },
   {
@@ -129,8 +116,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389609/abyss-walker",
     "links": [
-      57,
-      61
+      23,
+      27
     ]
   },
   {
@@ -152,9 +139,8 @@
       "url": "https://www.wowhead.com/beta/spell=6789/mortal-coil"
     },
     "links": [
-      61,
-      63,
-      65
+      27,
+      31
     ]
   },
   {
@@ -168,8 +154,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=328774/amplify-curse",
     "links": [
-      70,
-      72
+      38
     ]
   },
   {
@@ -183,7 +168,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=288843/demonic-embrace",
     "links": [
-      72
+      38
     ]
   },
   {
@@ -197,9 +182,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386858/demonic-inspiration",
     "links": [
-      72,
-      74,
-      76
+      38,
+      42
     ]
   },
   {
@@ -213,9 +197,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386864/wrathful-minion",
     "links": [
-      76,
-      78,
-      80
+      42,
+      46
     ]
   },
   {
@@ -229,7 +212,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386617/demonic-fortitude",
     "links": [
-      80
+      46
     ]
   },
   {
@@ -243,8 +226,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=710/banish",
     "links": [
-      80,
-      82
+      46
     ]
   },
   {
@@ -258,7 +240,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387972/teachings-of-the-satyr",
     "links": [
-      89
+      53
     ]
   },
   {
@@ -272,7 +254,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386619/desperate-pact?def=96439&rank=1",
     "links": [
-      89
+      53,
+      55,
+      57
     ]
   },
   {
@@ -286,8 +270,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386620/sweet-souls",
     "links": [
-      89,
-      93
+      57
     ]
   },
   {
@@ -301,7 +284,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389623/gorefiends-resolve?def=96424&rank=1",
     "links": [
-      93
+      57,
+      61
     ]
   },
   {
@@ -315,8 +299,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=111771/demonic-gateway",
     "links": [
-      93,
-      97
+      61
     ]
   },
   {
@@ -330,7 +313,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386648/nightmare?def=96457&rank=1",
     "links": [
-      97
+      61,
+      63,
+      65
     ]
   },
   {
@@ -344,7 +329,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386651/greater-banish",
     "links": [
-      97
+      65
     ]
   },
   {
@@ -358,8 +343,25 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=108416/dark-pact",
     "links": [
-      104,
-      108
+      70,
+      72,
+      74
+    ]
+  },
+  {
+    "id": 30283,
+    "name": "Shadowfury",
+    "icon": "ability_warlock_shadowfurytga",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=30283/shadowfury",
+    "links": [
+      78,
+      80,
+      82
     ]
   },
   {
@@ -381,23 +383,9 @@
       "url": "https://www.wowhead.com/beta/spell=386659/dark-accord"
     },
     "links": [
-      108,
-      112
-    ]
-  },
-  {
-    "id": 30283,
-    "name": "Shadowfury",
-    "icon": "ability_warlock_shadowfurytga",
-    "capacity": 1,
-    "cell": 97,
-    "row": 6,
-    "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=30283/shadowfury",
-    "links": [
-      112,
-      116
+      74,
+      76,
+      78
     ]
   },
   {
@@ -419,7 +407,7 @@
       "url": "https://www.wowhead.com/beta/spell=386686/frequent-donor"
     },
     "links": [
-      123
+      89
     ]
   },
   {
@@ -433,8 +421,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386613/accrued-vitality?def=96466&rank=1",
     "links": [
-      123,
-      127
+      89,
+      93
     ]
   },
   {
@@ -448,8 +436,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386646/lifeblood?def=96451&rank=1",
     "links": [
-      127,
-      131
+      93,
+      97
     ]
   },
   {
@@ -471,7 +459,7 @@
       "url": "https://www.wowhead.com/beta/spell=384069/shadowflame"
     },
     "links": [
-      131
+      97
     ]
   },
   {
@@ -485,8 +473,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389367/fel-synergy",
     "links": [
-      138,
-      142
+      104,
+      108
     ]
   },
   {
@@ -500,9 +488,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=108415/soul-link",
     "links": [
-      142,
-      144,
-      146
+      108,
+      112
     ]
   },
   {
@@ -516,8 +503,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385881/teachings-of-the-black-harvest",
     "links": [
-      146,
-      150
+      112,
+      116
     ]
   },
   {
@@ -531,7 +518,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389359/resolute-barrier?def=96423&rank=1",
     "links": [
-      157
+      123
     ]
   },
   {
@@ -545,8 +532,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=171975/grimoire-of-synergy?def=96434&rank=1",
     "links": [
-      157,
-      161
+      123,
+      127
     ]
   },
   {
@@ -560,7 +547,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389576/profane-bargain?def=96428&rank=1",
     "links": [
-      161
+      127
     ]
   },
   {
@@ -574,8 +561,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=215941/soul-conduit?def=96433&rank=1",
     "links": [
-      161,
-      165
+      127,
+      131
     ]
   },
   {
@@ -589,7 +576,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389590/demonic-resilience?def=96426&rank=1",
     "links": [
-      165
+      131
     ]
   },
   {
@@ -601,7 +588,11 @@
     "row": 10,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386689/grim-feast"
+    "url": "https://www.wowhead.com/beta/spell=386689/grim-feast",
+    "links": [
+      138,
+      142
+    ]
   },
   {
     "cell": 161,
@@ -620,7 +611,12 @@
       "name": "Inquisitor's Gaze",
       "icon": "inv_pet_inquisitoreye",
       "url": "https://www.wowhead.com/beta/spell=386344/inquisitors-gaze"
-    }
+    },
+    "links": [
+      142,
+      144,
+      146
+    ]
   },
   {
     "id": 385899,
@@ -631,6 +627,10 @@
     "row": 10,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=385899/soulburn"
+    "url": "https://www.wowhead.com/beta/spell=385899/soulburn",
+    "links": [
+      146,
+      150
+    ]
   }
 ]

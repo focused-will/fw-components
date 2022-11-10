@@ -8,10 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=44425/arcane-barrage",
-    "links": [
-      25
-    ]
+    "url": "https://www.wowhead.com/beta/spell=44425/arcane-barrage"
   },
   {
     "id": 5143,
@@ -24,8 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=5143/arcane-missiles",
     "links": [
-      40,
-      44
+      8
     ]
   },
   {
@@ -39,9 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=153626/arcane-orb",
     "links": [
-      55,
-      57,
-      59
+      25
     ]
   },
   {
@@ -55,9 +49,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=79684/clearcasting",
     "links": [
-      59,
-      61,
-      63
+      25
     ]
   },
   {
@@ -71,8 +63,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383980/arcane-tempo",
     "links": [
-      70,
-      72
+      40
     ]
   },
   {
@@ -86,8 +77,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383661/improved-arcane-missiles?def=85312&rank=1",
     "links": [
-      72,
-      74
+      40
     ]
   },
   {
@@ -101,9 +91,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=365350/arcane-surge",
     "links": [
-      74,
-      76,
-      78
+      40,
+      44
     ]
   },
   {
@@ -117,8 +106,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321752/crackling-energy?def=85300&rank=1",
     "links": [
-      78,
-      80
+      44
     ]
   },
   {
@@ -132,8 +120,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383782/nether-precision",
     "links": [
-      80,
-      82
+      44
     ]
   },
   {
@@ -155,7 +142,7 @@
       "url": "https://www.wowhead.com/beta/spell=205022/arcane-familiar"
     },
     "links": [
-      87
+      55
     ]
   },
   {
@@ -169,8 +156,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384651/charged-orb",
     "links": [
-      87,
-      89
+      55,
+      57
     ]
   },
   {
@@ -184,8 +171,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=205028/resonance",
     "links": [
-      91,
-      93
+      57,
+      59
     ]
   },
   {
@@ -197,7 +184,10 @@
     "row": 5,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=321739/arcane-power"
+    "url": "https://www.wowhead.com/beta/spell=321739/arcane-power",
+    "links": [
+      59
+    ]
   },
   {
     "id": 321526,
@@ -210,8 +200,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321526/mana-adept",
     "links": [
-      93,
-      95
+      59,
+      61
     ]
   },
   {
@@ -225,8 +215,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=236457/slipstream",
     "links": [
-      97,
-      99
+      61,
+      63
     ]
   },
   {
@@ -240,7 +230,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=236628/amplification",
     "links": [
-      99
+      63
     ]
   },
   {
@@ -254,8 +244,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=205025/presence-of-mind",
     "links": [
-      121,
-      123
+      70,
+      72
     ]
   },
   {
@@ -269,8 +259,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384861/foresight",
     "links": [
-      108,
-      123
+      72
     ]
   },
   {
@@ -284,8 +273,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=231564/arcing-cleave",
     "links": [
-      108,
-      110
+      74
     ]
   },
   {
@@ -307,7 +295,8 @@
       "url": "https://www.wowhead.com/beta/spell=114923/nether-tempest"
     },
     "links": [
-      110
+      74,
+      78
     ]
   },
   {
@@ -321,8 +310,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321745/improved-prismatic-barrier",
     "links": [
-      110,
-      112
+      78
     ]
   },
   {
@@ -336,8 +324,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383676/impetus",
     "links": [
-      112,
-      131
+      80
     ]
   },
   {
@@ -351,8 +338,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321420/improved-clearcasting",
     "links": [
-      131,
-      133
+      80,
+      82
     ]
   },
   {
@@ -366,13 +353,14 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=235711/chrono-shift",
     "links": [
-      123
+      89,
+      91
     ]
   },
   {
     "id": 321507,
     "name": "Touch of the Magi",
-    "icon": "spell_mage_icenova",
+    "icon": "ability_mage_netherwindpresence",
     "capacity": 1,
     "cell": 110,
     "row": 7,
@@ -380,8 +368,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=321507/touch-of-the-magi",
     "links": [
-      125,
-      129
+      91,
+      93,
+      95
     ]
   },
   {
@@ -395,7 +384,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=157980/supernova",
     "links": [
-      131
+      95,
+      97
     ]
   },
   {
@@ -409,7 +399,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=12051/evocation",
     "links": [
-      138
+      87
     ]
   },
   {
@@ -423,7 +413,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321387/enlightened",
     "links": [
-      140
+      87,
+      89,
+      108
     ]
   },
   {
@@ -437,7 +429,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=342231/arcane-echo",
     "links": [
-      144
+      110
     ]
   },
   {
@@ -451,7 +443,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384581/arcane-bombardment",
     "links": [
-      144
+      110
     ]
   },
   {
@@ -465,7 +457,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384060/illuminated-thoughts?def=85295&rank=1",
     "links": [
-      148
+      97,
+      99,
+      112
     ]
   },
   {
@@ -479,7 +473,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=759/conjure-mana-gem",
     "links": [
-      150
+      99
     ]
   },
   {
@@ -491,7 +485,10 @@
     "row": 9,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384187/siphon-storm"
+    "url": "https://www.wowhead.com/beta/spell=384187/siphon-storm",
+    "links": [
+      121
+    ]
   },
   {
     "id": 384612,
@@ -504,7 +501,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384612/prodigious-savant?def=85200&rank=1",
     "links": [
-      157
+      123
     ]
   },
   {
@@ -518,7 +515,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=376103/radiant-spark",
     "links": [
-      161
+      125,
+      129
     ]
   },
   {
@@ -532,7 +530,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384374/concentration",
     "links": [
-      165
+      131
     ]
   },
   {
@@ -544,7 +542,10 @@
     "row": 9,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384276/cascading-power"
+    "url": "https://www.wowhead.com/beta/spell=384276/cascading-power",
+    "links": [
+      133
+    ]
   },
   {
     "id": 384858,
@@ -555,7 +556,10 @@
     "row": 10,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384858/orb-barrage"
+    "url": "https://www.wowhead.com/beta/spell=384858/orb-barrage",
+    "links": [
+      140
+    ]
   },
   {
     "id": 384683,
@@ -566,7 +570,10 @@
     "row": 10,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384683/harmonic-echo"
+    "url": "https://www.wowhead.com/beta/spell=384683/harmonic-echo",
+    "links": [
+      144
+    ]
   },
   {
     "id": 384452,
@@ -577,6 +584,9 @@
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384452/arcane-harmony"
+    "url": "https://www.wowhead.com/beta/spell=384452/arcane-harmony",
+    "links": [
+      148
+    ]
   }
 ]

@@ -8,11 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=124682/enveloping-mist",
-    "links": [
-      23,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=124682/enveloping-mist"
   },
   {
     "id": 191837,
@@ -25,8 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=191837/essence-font",
     "links": [
-      38,
-      42
+      8
     ]
   },
   {
@@ -40,23 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=115151/renewing-mist",
     "links": [
-      42,
-      46
-    ]
-  },
-  {
-    "id": 116849,
-    "name": "Life Cocoon",
-    "icon": "ability_monk_chicocoon",
-    "capacity": 1,
-    "cell": 38,
-    "row": 3,
-    "column": 5,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=116849/life-cocoon",
-    "links": [
-      53,
-      72
+      8
     ]
   },
   {
@@ -70,8 +49,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=116680/thunder-focus-tea",
     "links": [
-      59,
-      61
+      23,
+      27
     ]
   },
   {
@@ -85,7 +64,21 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=274586/invigorating-mists",
     "links": [
-      65
+      27
+    ]
+  },
+  {
+    "id": 116849,
+    "name": "Life Cocoon",
+    "icon": "ability_monk_chicocoon",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=116849/life-cocoon",
+    "links": [
+      23
     ]
   },
   {
@@ -99,8 +92,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=116645/teachings-of-the-monastery",
     "links": [
-      68,
-      87
+      38
     ]
   },
   {
@@ -122,9 +114,7 @@
       "url": "https://www.wowhead.com/beta/spell=388615/restoral"
     },
     "links": [
-      74,
-      76,
-      78
+      42
     ]
   },
   {
@@ -138,8 +128,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=198898/song-of-chi-ji",
     "links": [
-      78,
-      80
+      42
     ]
   },
   {
@@ -153,8 +142,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=281231/mastery-of-mist",
     "links": [
-      80,
-      99
+      46
     ]
   },
   {
@@ -168,8 +156,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=210802/spirit-of-the-crane",
     "links": [
-      87,
-      102
+      53
     ]
   },
   {
@@ -183,9 +170,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388548/mists-of-life",
     "links": [
-      87,
-      91,
-      106
+      38
     ]
   },
   {
@@ -199,8 +184,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388551/uplifted-spirits",
     "links": [
-      91,
-      93
+      59
     ]
   },
   {
@@ -214,7 +198,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=337209/font-of-life",
     "links": [
-      93
+      59
     ]
   },
   {
@@ -228,8 +212,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=124081/zen-pulse",
     "links": [
-      93,
-      95
+      59,
+      61
     ]
   },
   {
@@ -243,38 +227,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=122281/healing-elixir",
     "links": [
-      99,
-      114
-    ]
-  },
-  {
-    "id": 387765,
-    "name": "Nourishing Chi",
-    "icon": "inv_misc_gem_pearl_06",
-    "capacity": 1,
-    "cell": 87,
-    "row": 6,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387765/nourishing-chi",
-    "links": [
-      102,
-      106
-    ]
-  },
-  {
-    "id": 388511,
-    "name": "Overflowing Mists",
-    "icon": "inv_legion_faction_dreamweavers",
-    "capacity": 2,
-    "cell": 91,
-    "row": 6,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388511/overflowing-mists?def=106389&rank=1",
-    "links": [
-      106,
-      108
+      61,
+      65
     ]
   },
   {
@@ -296,9 +250,40 @@
       "url": "https://www.wowhead.com/beta/spell=325197/invoke-chi-ji-the-red-crane"
     },
     "links": [
-      108,
-      110,
-      112
+      74,
+      76,
+      78
+    ]
+  },
+  {
+    "id": 387765,
+    "name": "Nourishing Chi",
+    "icon": "inv_misc_gem_pearl_06",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387765/nourishing-chi",
+    "links": [
+      53,
+      68,
+      72
+    ]
+  },
+  {
+    "id": 388511,
+    "name": "Overflowing Mists",
+    "icon": "inv_legion_faction_dreamweavers",
+    "capacity": 2,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388511/overflowing-mists?def=106389&rank=1",
+    "links": [
+      72,
+      74
     ]
   },
   {
@@ -320,8 +305,7 @@
       "url": "https://www.wowhead.com/beta/spell=388564/accumulating-mist"
     },
     "links": [
-      112,
-      114
+      78
     ]
   },
   {
@@ -335,8 +319,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388847/rapid-diffusion?def=106387&rank=1",
     "links": [
-      114,
-      133
+      65,
+      80
     ]
   },
   {
@@ -350,7 +334,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388218/calming-coalescence",
     "links": [
-      121
+      68,
+      87
     ]
   },
   {
@@ -364,8 +349,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388038/yulons-whisper",
     "links": [
-      121,
-      125
+      72,
+      87,
+      91
     ]
   },
   {
@@ -387,7 +373,8 @@
       "url": "https://www.wowhead.com/beta/spell=196725/refreshing-jade-wind"
     },
     "links": [
-      125
+      91,
+      93
     ]
   },
   {
@@ -401,8 +388,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=343655/enveloping-breath",
     "links": [
-      125,
-      127
+      93
     ]
   },
   {
@@ -416,7 +402,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388701/dancing-mists?def=106395&rank=1",
     "links": [
-      131
+      93,
+      95
     ]
   },
   {
@@ -438,44 +425,9 @@
       "url": "https://www.wowhead.com/beta/spell=197908/mana-tea"
     },
     "links": [
-      131,
-      133
-    ]
-  },
-  {
-    "id": 388193,
-    "name": "Faeline Stomp",
-    "icon": "ability_ardenweald_monk",
-    "capacity": 1,
-    "cell": 121,
-    "row": 8,
-    "column": 3,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=388193/faeline-stomp",
-    "links": [
-      138
-    ]
-  },
-  {
-    "cell": 125,
-    "row": 8,
-    "column": 7,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 388023,
-      "name": "Ancient Teachings",
-      "icon": "inv_misc_book_07",
-      "url": "https://www.wowhead.com/beta/spell=388023/ancient-teachings"
-    },
-    "right": {
-      "id": 388047,
-      "name": "Clouded Focus",
-      "icon": "ability_monk_soothingmists",
-      "url": "https://www.wowhead.com/beta/spell=388047/clouded-focus"
-    },
-    "links": [
-      142
+      80,
+      95,
+      99
     ]
   },
   {
@@ -497,9 +449,46 @@
       "url": "https://www.wowhead.com/beta/spell=388212/gift-of-the-celestials"
     },
     "links": [
-      142,
-      144,
-      146
+      110
+    ]
+  },
+  {
+    "id": 388193,
+    "name": "Faeline Stomp",
+    "icon": "ability_ardenweald_monk",
+    "capacity": 1,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=388193/faeline-stomp",
+    "links": [
+      102,
+      106
+    ]
+  },
+  {
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 388023,
+      "name": "Ancient Teachings",
+      "icon": "inv_misc_book_07",
+      "url": "https://www.wowhead.com/beta/spell=388023/ancient-teachings"
+    },
+    "right": {
+      "id": 388047,
+      "name": "Clouded Focus",
+      "icon": "ability_monk_soothingmists",
+      "url": "https://www.wowhead.com/beta/spell=388047/clouded-focus"
+    },
+    "links": [
+      106,
+      108,
+      110
     ]
   },
   {
@@ -521,8 +510,8 @@
       "url": "https://www.wowhead.com/beta/spell=274963/upwelling"
     },
     "links": [
-      146,
-      150
+      112,
+      114
     ]
   },
   {
@@ -536,8 +525,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=386276/bonedust-brew",
     "links": [
-      150,
-      152
+      99,
+      114
     ]
   },
   {
@@ -551,8 +540,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388740/ancient-concordance?def=106373&rank=1",
     "links": [
-      155,
-      157
+      121
     ]
   },
   {
@@ -566,8 +554,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388020/resplendent-mist?def=106393&rank=1",
     "links": [
-      157,
-      161
+      125,
+      127
     ]
   },
   {
@@ -581,8 +569,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388491/secret-infusion?def=106374&rank=1",
     "links": [
-      161,
-      163
+      127
     ]
   },
   {
@@ -596,7 +583,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388682/misty-peaks?def=106404&rank=1",
     "links": [
-      165
+      127,
+      131
     ]
   },
   {
@@ -610,7 +598,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388593/peaceful-mending?def=106401&rank=1",
     "links": [
-      165
+      131,
+      133
     ]
   },
   {
@@ -630,7 +619,10 @@
       "name": "Attenuation",
       "icon": "spell_animamaldraxxus_nova",
       "url": "https://www.wowhead.com/beta/spell=386941/attenuation"
-    }
+    },
+    "links": [
+      133
+    ]
   },
   {
     "id": 388779,
@@ -641,7 +633,10 @@
     "row": 10,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388779/awakened-faeline"
+    "url": "https://www.wowhead.com/beta/spell=388779/awakened-faeline",
+    "links": [
+      138
+    ]
   },
   {
     "cell": 157,
@@ -660,7 +655,11 @@
       "name": "Tea of Plenty",
       "icon": "inv_misc_pearlmilktea",
       "url": "https://www.wowhead.com/beta/spell=388517/tea-of-plenty"
-    }
+    },
+    "links": [
+      138,
+      142
+    ]
   },
   {
     "cell": 161,
@@ -679,7 +678,11 @@
       "name": "Mending Proliferation",
       "icon": "inv_shoulder_inv_leather_raidmonk_s_01",
       "url": "https://www.wowhead.com/beta/spell=388509/mending-proliferation"
-    }
+    },
+    "links": [
+      142,
+      144
+    ]
   },
   {
     "id": 388661,
@@ -690,7 +693,10 @@
     "row": 10,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388661/invokers-delight"
+    "url": "https://www.wowhead.com/beta/spell=388661/invokers-delight",
+    "links": [
+      144
+    ]
   },
   {
     "cell": 165,
@@ -709,6 +715,10 @@
       "name": "Rising Mist",
       "icon": "ability_monk_effuse",
       "url": "https://www.wowhead.com/beta/spell=274909/rising-mist"
-    }
+    },
+    "links": [
+      146,
+      150
+    ]
   }
 ]

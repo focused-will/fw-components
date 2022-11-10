@@ -8,10 +8,7 @@
     "row": 1,
     "column": 3,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=5938/shiv",
-    "links": [
-      21
-    ]
+    "url": "https://www.wowhead.com/beta/spell=5938/shiv"
   },
   {
     "id": 2094,
@@ -22,10 +19,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=2094/blind",
-    "links": [
-      25
-    ]
+    "url": "https://www.wowhead.com/beta/spell=2094/blind"
   },
   {
     "id": 6770,
@@ -36,10 +30,7 @@
     "row": 1,
     "column": 15,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=6770/sap",
-    "links": [
-      29
-    ]
+    "url": "https://www.wowhead.com/beta/spell=6770/sap"
   },
   {
     "id": 5277,
@@ -52,9 +43,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=5277/evasion",
     "links": [
-      36,
-      38,
-      40
+      2
     ]
   },
   {
@@ -68,9 +57,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=1966/feint",
     "links": [
-      40,
-      42,
-      44
+      8
     ]
   },
   {
@@ -84,9 +71,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=31224/cloak-of-shadows",
     "links": [
-      44,
-      46,
-      48
+      14
     ]
   },
   {
@@ -100,8 +85,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378436/master-poisoner",
     "links": [
-      53,
-      55
+      21
     ]
   },
   {
@@ -123,7 +107,7 @@
       "url": "https://www.wowhead.com/beta/spell=381637/atrophic-poison"
     },
     "links": [
-      55
+      21
     ]
   },
   {
@@ -137,9 +121,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378427/nimble-fingers",
     "links": [
-      55,
-      57,
-      59
+      21,
+      25
     ]
   },
   {
@@ -153,7 +136,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=1776/gouge",
     "links": [
-      59
+      25
     ]
   },
   {
@@ -167,9 +150,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=379005/blackjack",
     "links": [
-      59,
-      61,
-      63
+      25,
+      29
     ]
   },
   {
@@ -183,7 +165,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=57934/tricks-of-the-trade",
     "links": [
-      63
+      29
     ]
   },
   {
@@ -197,8 +179,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378807/shadowrunner",
     "links": [
-      63,
-      65
+      29
     ]
   },
   {
@@ -212,7 +193,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=319066/improved-wound-poison",
     "links": [
-      72
+      36
     ]
   },
   {
@@ -226,8 +207,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378813/fleet-footed",
     "links": [
-      72,
-      74
+      36,
+      38,
+      40
     ]
   },
   {
@@ -241,8 +223,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=193546/iron-stomach",
     "links": [
-      74,
-      76
+      40
     ]
   },
   {
@@ -256,7 +237,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=231691/improved-sprint",
     "links": [
-      76
+      40,
+      42,
+      44
     ]
   },
   {
@@ -270,8 +253,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=131511/prey-on-the-weak",
     "links": [
-      76,
-      78
+      44
     ]
   },
   {
@@ -285,8 +267,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=36554/shadowstep",
     "links": [
-      78,
-      80
+      44,
+      46,
+      48
     ]
   },
   {
@@ -300,7 +283,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=108208/subterfuge",
     "links": [
-      80
+      48
     ]
   },
   {
@@ -314,7 +297,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381543/virulent-poisons",
     "links": [
-      89
+      53,
+      55
     ]
   },
   {
@@ -328,8 +312,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=231719/deadened-nerves",
     "links": [
-      89,
-      93
+      55,
+      57
     ]
   },
   {
@@ -351,7 +335,9 @@
       "url": "https://www.wowhead.com/beta/spell=31230/cheat-death"
     },
     "links": [
-      93
+      57,
+      59,
+      61
     ]
   },
   {
@@ -365,8 +351,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378803/rushed-setup",
     "links": [
-      93,
-      97
+      61,
+      63
     ]
   },
   {
@@ -380,7 +366,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381621/tight-spender",
     "links": [
-      97
+      63,
+      65
     ]
   },
   {
@@ -394,7 +381,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381542/deadly-precision?def=117657&rank=1",
     "links": [
-      106
+      72,
+      74
     ]
   },
   {
@@ -408,7 +396,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381619/thiefs-versatility?def=117650&rank=1",
     "links": [
-      110
+      74,
+      76,
+      78
     ]
   },
   {
@@ -422,7 +412,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=14062/nightstalker?def=117586&rank=1",
     "links": [
-      114
+      78,
+      80
     ]
   },
   {
@@ -436,8 +427,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=14983/vigor",
     "links": [
-      123,
-      125
+      89
     ]
   },
   {
@@ -451,9 +441,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196924/acrobatic-strikes",
     "links": [
-      125,
-      127,
-      129
+      93
     ]
   },
   {
@@ -467,8 +455,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381620/improved-ambush",
     "links": [
-      129,
-      131
+      97
     ]
   },
   {
@@ -482,7 +469,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=280716/leeching-poison",
     "links": [
-      140
+      106
     ]
   },
   {
@@ -496,7 +483,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382238/lethality?def=117645&rank=1",
     "links": [
-      142
+      106,
+      110
     ]
   },
   {
@@ -510,7 +498,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378996/recuperator",
     "links": [
-      144
+      110
     ]
   },
   {
@@ -524,7 +512,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=193539/alacrity?def=117648&rank=1",
     "links": [
-      146
+      110,
+      114
     ]
   },
   {
@@ -538,7 +527,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393970/soothing-darkness",
     "links": [
-      148
+      114
     ]
   },
   {
@@ -552,7 +541,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=14190/seal-fate?def=117654&rank=1",
     "links": [
-      159
+      123
     ]
   },
   {
@@ -564,7 +553,10 @@
     "row": 9,
     "column": 7,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=382245/cold-blood"
+    "url": "https://www.wowhead.com/beta/spell=382245/cold-blood",
+    "links": [
+      125
+    ]
   },
   {
     "id": 385616,
@@ -577,7 +569,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=385616/echoing-reprimand",
     "links": [
-      161
+      127
     ]
   },
   {
@@ -597,7 +589,10 @@
       "name": "Marked for Death",
       "icon": "achievement_bg_killingblow_berserker",
       "url": "https://www.wowhead.com/beta/spell=137619/marked-for-death"
-    }
+    },
+    "links": [
+      129
+    ]
   },
   {
     "id": 91023,
@@ -610,7 +605,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=91023/find-weakness?def=117583&rank=1",
     "links": [
-      163
+      131
     ]
   },
   {
@@ -622,7 +617,10 @@
     "row": 10,
     "column": 7,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=381623/thistle-tea"
+    "url": "https://www.wowhead.com/beta/spell=381623/thistle-tea",
+    "links": [
+      140
+    ]
   },
   {
     "cell": 161,
@@ -641,7 +639,10 @@
       "name": "Reverberation",
       "icon": "spell_animabastion_buff",
       "url": "https://www.wowhead.com/beta/spell=394332/reverberation"
-    }
+    },
+    "links": [
+      144
+    ]
   },
   {
     "id": 185313,
@@ -652,6 +653,9 @@
     "row": 10,
     "column": 11,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=185313/shadow-dance"
+    "url": "https://www.wowhead.com/beta/spell=185313/shadow-dance",
+    "links": [
+      148
+    ]
   }
 ]

@@ -8,11 +8,20 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=113656/fists-of-fury",
+    "url": "https://www.wowhead.com/beta/spell=113656/fists-of-fury"
+  },
+  {
+    "id": 115396,
+    "name": "Ascension",
+    "icon": "ability_monk_ascension",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=115396/ascension",
     "links": [
-      23,
-      25,
-      27
+      8
     ]
   },
   {
@@ -26,24 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=122470/touch-of-karma",
     "links": [
-      38,
-      40
-    ]
-  },
-  {
-    "id": 115396,
-    "name": "Ascension",
-    "icon": "ability_monk_ascension",
-    "capacity": 1,
-    "cell": 25,
-    "row": 2,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=115396/ascension",
-    "links": [
-      40,
-      42,
-      44
+      8
     ]
   },
   {
@@ -57,8 +49,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=121817/power-strikes",
     "links": [
-      44,
-      46
+      8
     ]
   },
   {
@@ -72,51 +63,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388846/widening-whirl",
     "links": [
-      55
-    ]
-  },
-  {
-    "id": 388856,
-    "name": "Touch of the Tiger",
-    "icon": "ability_monk_tigerpalm",
-    "capacity": 2,
-    "cell": 40,
-    "row": 3,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388856/touch-of-the-tiger?def=106435&rank=1",
-    "links": [
-      55,
-      59
-    ]
-  },
-  {
-    "id": 391383,
-    "name": "Hardened Soles",
-    "icon": "ability_monk_roundhousekick",
-    "capacity": 2,
-    "cell": 42,
-    "row": 3,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391383/hardened-soles?def=106423&rank=1",
-    "links": [
-      59
-    ]
-  },
-  {
-    "id": 388854,
-    "name": "Flashing Fists",
-    "icon": "inv_weapon_hand_08",
-    "capacity": 2,
-    "cell": 44,
-    "row": 3,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388854/flashing-fists?def=106427&rank=1",
-    "links": [
-      59,
-      63
+      23
     ]
   },
   {
@@ -130,7 +77,51 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392970/open-palm-strikes",
     "links": [
-      63
+      27
+    ]
+  },
+  {
+    "id": 388856,
+    "name": "Touch of the Tiger",
+    "icon": "ability_monk_tigerpalm",
+    "capacity": 2,
+    "cell": 40,
+    "row": 3,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388856/touch-of-the-tiger?def=106435&rank=1",
+    "links": [
+      23,
+      25
+    ]
+  },
+  {
+    "id": 391383,
+    "name": "Hardened Soles",
+    "icon": "ability_monk_roundhousekick",
+    "capacity": 2,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391383/hardened-soles?def=106423&rank=1",
+    "links": [
+      25
+    ]
+  },
+  {
+    "id": 388854,
+    "name": "Flashing Fists",
+    "icon": "inv_weapon_hand_08",
+    "capacity": 2,
+    "cell": 44,
+    "row": 3,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388854/flashing-fists?def=106427&rank=1",
+    "links": [
+      25,
+      27
     ]
   },
   {
@@ -144,24 +135,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=220357/mark-of-the-crane",
     "links": [
-      70,
-      74
-    ]
-  },
-  {
-    "id": 101545,
-    "name": "Flying Serpent Kick",
-    "icon": "ability_monk_flyingdragonkick",
-    "capacity": 1,
-    "cell": 59,
-    "row": 4,
-    "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=101545/flying-serpent-kick",
-    "links": [
-      74,
-      76,
-      78
+      38,
+      40
     ]
   },
   {
@@ -175,9 +150,24 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392958/glory-of-the-dawn",
     "links": [
-      78,
-      82,
-      97
+      44,
+      46
+    ]
+  },
+  {
+    "id": 101545,
+    "name": "Flying Serpent Kick",
+    "icon": "ability_monk_flyingdragonkick",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=101545/flying-serpent-kick",
+    "links": [
+      40,
+      42,
+      44
     ]
   },
   {
@@ -191,8 +181,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392982/shadowboxing-treads",
     "links": [
-      89,
-      104
+      55
     ]
   },
   {
@@ -206,9 +195,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=195243/inner-peace",
     "links": [
-      89,
-      91,
-      93
+      55,
+      59
     ]
   },
   {
@@ -230,7 +218,7 @@
       "url": "https://www.wowhead.com/beta/spell=152173/serenity"
     },
     "links": [
-      93
+      59
     ]
   },
   {
@@ -244,8 +232,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391330/meridian-strikes",
     "links": [
-      93,
-      95
+      59,
+      63
     ]
   },
   {
@@ -259,38 +247,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=392983/strike-of-the-windlord",
     "links": [
-      97,
-      116
-    ]
-  },
-  {
-    "id": 325201,
-    "name": "Dance of Chi-Ji",
-    "icon": "ability_monk_cranekick_new",
-    "capacity": 1,
-    "cell": 89,
-    "row": 6,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=325201/dance-of-chi-ji",
-    "links": [
-      104,
-      108
-    ]
-  },
-  {
-    "id": 392979,
-    "name": "Jade Ignition",
-    "icon": "ability_monk_chiexplosion",
-    "capacity": 1,
-    "cell": 91,
-    "row": 6,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392979/jade-ignition",
-    "links": [
-      108,
-      110
+      63
     ]
   },
   {
@@ -304,7 +261,38 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391370/drinking-horn-cover",
     "links": [
-      110
+      74,
+      76,
+      78
+    ]
+  },
+  {
+    "id": 325201,
+    "name": "Dance of Chi-Ji",
+    "icon": "ability_monk_cranekick_new",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=325201/dance-of-chi-ji",
+    "links": [
+      70,
+      74
+    ]
+  },
+  {
+    "id": 392979,
+    "name": "Jade Ignition",
+    "icon": "ability_monk_chiexplosion",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392979/jade-ignition",
+    "links": [
+      74
     ]
   },
   {
@@ -318,8 +306,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=280197/spiritual-focus",
     "links": [
-      110,
-      112
+      78
     ]
   },
   {
@@ -333,7 +320,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196740/hit-combo",
     "links": [
-      112
+      63,
+      82
     ]
   },
   {
@@ -347,7 +335,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=116847/rushing-jade-wind",
     "links": [
-      123
+      70,
+      89
     ]
   },
   {
@@ -361,24 +350,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393098/forbidden-technique",
     "links": [
-      123,
-      125
-    ]
-  },
-  {
-    "id": 123904,
-    "name": "Invoke Xuen, the White Tiger",
-    "icon": "ability_monk_summontigerstatue",
-    "capacity": 1,
-    "cell": 110,
-    "row": 7,
-    "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=123904/invoke-xuen-the-white-tiger",
-    "links": [
-      125,
-      127,
-      129
+      89,
+      91
     ]
   },
   {
@@ -392,8 +365,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=116645/teachings-of-the-monastery",
     "links": [
-      129,
-      131
+      95,
+      97
     ]
   },
   {
@@ -407,7 +380,23 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392985/thunderfist",
     "links": [
-      131
+      82
+    ]
+  },
+  {
+    "id": 123904,
+    "name": "Invoke Xuen, the White Tiger",
+    "icon": "ability_monk_summontigerstatue",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=123904/invoke-xuen-the-white-tiger",
+    "links": [
+      91,
+      93,
+      95
     ]
   },
   {
@@ -421,8 +410,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388848/crane-vortex?def=106485&rank=1",
     "links": [
-      138,
-      140
+      104,
+      108
     ]
   },
   {
@@ -436,9 +425,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392986/xuens-bond",
     "links": [
-      140,
-      142,
-      144
+      108,
+      110
     ]
   },
   {
@@ -452,7 +440,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=396166/fury-of-xuen",
     "links": [
-      144
+      110
     ]
   },
   {
@@ -466,9 +454,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=323999/empowered-tiger-lightning",
     "links": [
-      144,
-      146,
-      148
+      110,
+      112
     ]
   },
   {
@@ -482,48 +469,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388849/rising-star?def=106491&rank=1",
     "links": [
-      148,
-      150
-    ]
-  },
-  {
-    "id": 386276,
-    "name": "Bonedust Brew",
-    "icon": "ability_maldraxxus_monk",
-    "capacity": 1,
-    "cell": 138,
-    "row": 9,
-    "column": 3,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=386276/bonedust-brew",
-    "links": [
-      153,
-      155
-    ]
-  },
-  {
-    "id": 394923,
-    "name": "Fatal Flying Guillotine",
-    "icon": "ability_monk_touchofdeath",
-    "capacity": 1,
-    "cell": 140,
-    "row": 9,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=394923/fatal-flying-guillotine"
-  },
-  {
-    "id": 392989,
-    "name": "Last Emperor's Capacitor",
-    "icon": "ability_warrior_unrelentingassault",
-    "capacity": 1,
-    "cell": 142,
-    "row": 9,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392989/last-emperors-capacitor",
-    "links": [
-      159
+      112,
+      116
     ]
   },
   {
@@ -537,8 +484,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392993/xuens-battlegear",
     "links": [
-      159,
-      163
+      125,
+      127,
+      129
     ]
   },
   {
@@ -552,19 +500,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=195300/transfer-the-power",
     "links": [
-      163
+      129
     ]
-  },
-  {
-    "id": 152175,
-    "name": "Whirling Dragon Punch",
-    "icon": "ability_monk_hurricanestrike",
-    "capacity": 1,
-    "cell": 148,
-    "row": 9,
-    "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=152175/whirling-dragon-punch"
   },
   {
     "id": 388193,
@@ -577,8 +514,137 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=388193/faeline-stomp",
     "links": [
-      167,
-      169
+      131
+    ]
+  },
+  {
+    "id": 386276,
+    "name": "Bonedust Brew",
+    "icon": "ability_maldraxxus_monk",
+    "capacity": 1,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=386276/bonedust-brew",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 394923,
+    "name": "Fatal Flying Guillotine",
+    "icon": "ability_monk_touchofdeath",
+    "capacity": 1,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=394923/fatal-flying-guillotine",
+    "links": [
+      123,
+      125
+    ]
+  },
+  {
+    "id": 392989,
+    "name": "Last Emperor's Capacitor",
+    "icon": "ability_warrior_unrelentingassault",
+    "capacity": 1,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392989/last-emperors-capacitor",
+    "links": [
+      125
+    ]
+  },
+  {
+    "id": 152175,
+    "name": "Whirling Dragon Punch",
+    "icon": "ability_monk_hurricanestrike",
+    "capacity": 1,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=152175/whirling-dragon-punch",
+    "links": [
+      129,
+      131
+    ]
+  },
+  {
+    "id": 394093,
+    "name": "Dust in the Wind",
+    "icon": "inv_misc_powder_tin",
+    "capacity": 1,
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=394093/dust-in-the-wind",
+    "links": [
+      138
+    ]
+  },
+  {
+    "id": 392991,
+    "name": "Skyreach",
+    "icon": "inv__fistofthewhitetiger",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392991/skyreach",
+    "links": [
+      142,
+      144
+    ]
+  },
+  {
+    "id": 388661,
+    "name": "Invoker's Delight",
+    "icon": "inv_inscription_80_warscroll_battleshout",
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388661/invokers-delight",
+    "links": [
+      144,
+      146
+    ]
+  },
+  {
+    "id": 392994,
+    "name": "Way of the Fae",
+    "icon": "spell_animaardenweald_beam",
+    "capacity": 1,
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392994/way-of-the-fae",
+    "links": [
+      150
+    ]
+  },
+  {
+    "id": 391412,
+    "name": "Faeline Harmony",
+    "icon": "ability_ardenweald_monk",
+    "capacity": 1,
+    "cell": 169,
+    "row": 10,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391412/faeline-harmony",
+    "links": [
+      150
     ]
   },
   {
@@ -590,61 +656,9 @@
     "row": 10,
     "column": 1,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386941/attenuation"
-  },
-  {
-    "id": 394093,
-    "name": "Dust in the Wind",
-    "icon": "inv_misc_powder_tin",
-    "capacity": 1,
-    "cell": 155,
-    "row": 10,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=394093/dust-in-the-wind"
-  },
-  {
-    "id": 392991,
-    "name": "Skyreach",
-    "icon": "inv__fistofthewhitetiger",
-    "capacity": 1,
-    "cell": 159,
-    "row": 10,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392991/skyreach"
-  },
-  {
-    "id": 388661,
-    "name": "Invoker's Delight",
-    "icon": "inv_inscription_80_warscroll_battleshout",
-    "capacity": 1,
-    "cell": 163,
-    "row": 10,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388661/invokers-delight"
-  },
-  {
-    "id": 392994,
-    "name": "Way of the Fae",
-    "icon": "spell_animaardenweald_beam",
-    "capacity": 1,
-    "cell": 167,
-    "row": 10,
-    "column": 15,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392994/way-of-the-fae"
-  },
-  {
-    "id": 391412,
-    "name": "Faeline Harmony",
-    "icon": "ability_ardenweald_monk",
-    "capacity": 1,
-    "cell": 169,
-    "row": 10,
-    "column": 17,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391412/faeline-harmony"
+    "url": "https://www.wowhead.com/beta/spell=386941/attenuation",
+    "links": [
+      138
+    ]
   }
 ]

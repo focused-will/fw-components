@@ -8,12 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=19434/aimed-shot",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=19434/aimed-shot"
   },
   {
     "id": 321293,
@@ -26,9 +21,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321293/crack-shot",
     "links": [
-      38,
-      42,
-      57
+      8
     ]
   },
   {
@@ -42,7 +35,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321018/improved-steady-shot",
     "links": [
-      42
+      8
     ]
   },
   {
@@ -56,9 +49,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=260240/precise-shots?def=105584&rank=1",
     "links": [
-      42,
-      46,
-      61
+      8
     ]
   },
   {
@@ -72,8 +63,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=257044/rapid-fire",
     "links": [
-      55,
-      57
+      23
     ]
   },
   {
@@ -87,9 +77,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=155228/lone-wolf",
     "links": [
-      57,
-      59,
-      61
+      23,
+      25,
+      27
     ]
   },
   {
@@ -103,8 +93,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=342049/chimaera-shot",
     "links": [
-      61,
-      80
+      27
     ]
   },
   {
@@ -118,8 +107,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=260367/streamline?def=105600&rank=1",
     "links": [
-      70,
-      74
+      38
     ]
   },
   {
@@ -133,8 +121,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378765/killer-accuracy?def=105608&rank=1",
     "links": [
-      74,
-      76
+      23,
+      38,
+      42
     ]
   },
   {
@@ -148,7 +137,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378766/hunters-knowledge?def=105595&rank=1",
     "links": [
-      76
+      42
     ]
   },
   {
@@ -162,8 +151,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=260228/careful-aim?def=105586&rank=1",
     "links": [
-      76,
-      80
+      27,
+      42,
+      46
     ]
   },
   {
@@ -185,7 +175,7 @@
       "url": "https://www.wowhead.com/beta/spell=391559/surging-shots"
     },
     "links": [
-      89
+      55
     ]
   },
   {
@@ -199,23 +189,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378769/deathblow",
     "links": [
-      89,
-      91
-    ]
-  },
-  {
-    "id": 321287,
-    "name": "Target Practice",
-    "icon": "buff_epichunter",
-    "capacity": 1,
-    "cell": 76,
-    "row": 5,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=321287/target-practice",
-    "links": [
-      95,
-      110
+      55,
+      57
     ]
   },
   {
@@ -229,9 +204,24 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378767/focused-aim?def=105603&rank=1",
     "links": [
-      95,
-      97,
-      99
+      46,
+      61
+    ]
+  },
+  {
+    "id": 321287,
+    "name": "Target Practice",
+    "icon": "buff_epichunter",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=321287/target-practice",
+    "links": [
+      57,
+      59,
+      61
     ]
   },
   {
@@ -245,9 +235,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=257620/multi-shot",
     "links": [
-      104,
-      106,
-      108
+      70,
+      74
     ]
   },
   {
@@ -261,8 +250,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384790/razor-fragments",
     "links": [
-      108,
-      110
+      74
     ]
   },
   {
@@ -276,9 +264,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=260402/double-tap",
     "links": [
-      110,
-      114,
-      129
+      76,
+      80
     ]
   },
   {
@@ -292,7 +279,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321460/deadeye",
     "links": [
-      114
+      80
     ]
   },
   {
@@ -306,7 +293,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=186387/bursting-shot",
     "links": [
-      116
+      80
     ]
   },
   {
@@ -320,8 +307,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=257621/trick-shots",
     "links": [
-      123,
-      138
+      89
     ]
   },
   {
@@ -335,7 +321,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378880/bombardment",
     "links": [
-      123
+      89
     ]
   },
   {
@@ -349,9 +335,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=260243/volley",
     "links": [
-      123,
-      127,
-      142
+      89,
+      91
     ]
   },
   {
@@ -365,8 +350,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=193533/steady-focus?def=105598&rank=1",
     "links": [
-      127,
-      129
+      76,
+      91,
+      95
     ]
   },
   {
@@ -380,8 +366,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378888/serpentstalkers-trickery",
     "links": [
-      129,
-      131
+      95,
+      97
     ]
   },
   {
@@ -393,7 +379,10 @@
     "row": 7,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378771/quick-load"
+    "url": "https://www.wowhead.com/beta/spell=378771/quick-load",
+    "links": [
+      99
+    ]
   },
   {
     "cell": 123,
@@ -414,9 +403,9 @@
       "url": "https://www.wowhead.com/beta/spell=378913/light-ammo"
     },
     "links": [
-      138,
-      142,
-      157
+      104,
+      106,
+      108
     ]
   },
   {
@@ -430,8 +419,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=288613/trueshot",
     "links": [
-      144,
-      146
+      108,
+      110
     ]
   },
   {
@@ -445,7 +434,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=194595/lock-and-load",
     "links": [
-      146
+      95,
+      110,
+      114
     ]
   },
   {
@@ -459,8 +450,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=204089/bullseye?def=105583&rank=1",
     "links": [
-      146,
-      150
+      114
     ]
   },
   {
@@ -474,7 +464,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389019/bulletstorm",
     "links": [
-      157
+      104,
+      123
     ]
   },
   {
@@ -488,7 +479,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378907/sharpshooter?def=105594&rank=1",
     "links": [
-      157
+      108,
+      123
     ]
   },
   {
@@ -502,7 +494,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389449/eagletalons-true-focus?def=105609&rank=1",
     "links": [
-      161
+      127
     ]
   },
   {
@@ -516,7 +508,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=392060/wailing-arrow",
     "links": [
-      163
+      127,
+      129,
+      131
     ]
   },
   {
@@ -530,19 +524,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=190852/legacy-of-the-windrunners?def=105607&rank=1",
     "links": [
-      167
+      131
     ]
-  },
-  {
-    "id": 384791,
-    "name": "Salvo",
-    "icon": "spell_hunter_exoticmunitions_incendiary",
-    "capacity": 1,
-    "cell": 157,
-    "row": 10,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384791/salvo"
   },
   {
     "cell": 161,
@@ -561,7 +544,26 @@
       "name": "Unerring Vision",
       "icon": "spell_hunter_exoticmunitions_frozen",
       "url": "https://www.wowhead.com/beta/spell=386878/unerring-vision"
-    }
+    },
+    "links": [
+      144
+    ]
+  },
+  {
+    "id": 384791,
+    "name": "Salvo",
+    "icon": "spell_hunter_exoticmunitions_incendiary",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384791/salvo",
+    "links": [
+      123,
+      138,
+      142
+    ]
   },
   {
     "cell": 163,
@@ -580,7 +582,10 @@
       "name": "Readiness",
       "icon": "ability_hunter_readiness",
       "url": "https://www.wowhead.com/beta/spell=389865/readiness"
-    }
+    },
+    "links": [
+      146
+    ]
   },
   {
     "id": 378905,
@@ -591,6 +596,9 @@
     "row": 10,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378905/windrunners-guidance"
+    "url": "https://www.wowhead.com/beta/spell=378905/windrunners-guidance",
+    "links": [
+      150
+    ]
   }
 ]

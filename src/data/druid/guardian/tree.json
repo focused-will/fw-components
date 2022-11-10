@@ -8,11 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=6807/maul",
-    "links": [
-      23,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=6807/maul"
   },
   {
     "id": 210706,
@@ -25,8 +21,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=210706/gore",
     "links": [
-      38,
-      42
+      8
     ]
   },
   {
@@ -40,9 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=61336/survival-instincts",
     "links": [
-      42,
-      44,
-      46
+      8
     ]
   },
   {
@@ -52,20 +45,19 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
-      "id": 155835,
-      "name": "Bristling Fur",
-      "icon": "spell_druid_bristlingfur",
-      "url": "https://www.wowhead.com/beta/spell=155835/bristling-fur"
-    },
-    "right": {
       "id": 203953,
       "name": "Brambles",
       "icon": "inv_misc_thornnecklace",
       "url": "https://www.wowhead.com/beta/spell=203953/brambles"
     },
+    "right": {
+      "id": 155835,
+      "name": "Bristling Fur",
+      "icon": "spell_druid_bristlingfur",
+      "url": "https://www.wowhead.com/beta/spell=155835/bristling-fur"
+    },
     "links": [
-      55,
-      57
+      23
     ]
   },
   {
@@ -79,9 +71,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=300346/ursine-adept",
     "links": [
-      57,
-      59,
-      61
+      23,
+      27
     ]
   },
   {
@@ -93,7 +84,10 @@
     "row": 3,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=328767/improved-survival-instincts"
+    "url": "https://www.wowhead.com/beta/spell=328767/improved-survival-instincts",
+    "links": [
+      27
+    ]
   },
   {
     "id": 231064,
@@ -106,8 +100,36 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=231064/mangle",
     "links": [
-      61,
-      63
+      27
+    ]
+  },
+  {
+    "id": 345208,
+    "name": "Infected Wounds",
+    "icon": "ability_druid_infectedwound",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=345208/infected-wounds",
+    "links": [
+      38,
+      42
+    ]
+  },
+  {
+    "id": 200854,
+    "name": "Gory Fur",
+    "icon": "artifactability_guardiandruid_goryfur",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=200854/gory-fur",
+    "links": [
+      46
     ]
   },
   {
@@ -121,60 +143,37 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377811/innate-resolve",
     "links": [
-      70,
-      74
+      38
     ]
   },
   {
-    "id": 345208,
-    "name": "Infected Wounds",
-    "icon": "ability_druid_infectedwound",
-    "capacity": 1,
-    "cell": 57,
-    "row": 4,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=345208/infected-wounds"
-  },
-  {
-    "id": 343240,
-    "name": "Berserk: Ravage",
+    "id": 50334,
+    "name": "$@spellname343240",
     "icon": "ability_druid_berserk",
     "capacity": 1,
     "cell": 59,
     "row": 4,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=343240/berserk-ravage",
+    "url": "https://www.wowhead.com/beta/spell=50334/berserk",
     "links": [
-      74,
-      78
+      42
     ]
   },
   {
     "id": 393611,
     "name": "Ursoc's Endurance",
     "icon": "ability_hunter_pet_bear",
-    "capacity": 2,
+    "capacity": 1,
     "cell": 61,
     "row": 4,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393611/ursocs-endurance?def=108199&rank=1"
-  },
-  {
-    "id": 200854,
-    "name": "Gory Fur",
-    "icon": "artifactability_guardiandruid_goryfur",
-    "capacity": 1,
-    "cell": 63,
-    "row": 4,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=200854/gory-fur",
+    "url": "https://www.wowhead.com/beta/spell=393611/ursocs-endurance",
     "links": [
-      78,
-      82
+      42,
+      44,
+      46
     ]
   },
   {
@@ -188,24 +187,23 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393427/flashing-claws?def=108231&rank=1",
     "links": [
-      87,
-      89
+      55
     ]
   },
   {
-    "id": 135288,
-    "name": "Tooth and Claw",
-    "icon": "inv_misc_monsterfang_01",
-    "capacity": 1,
+    "id": 372618,
+    "name": "Vulnerable Flesh",
+    "icon": "ability_druid_primalagression",
+    "capacity": 2,
     "cell": 74,
     "row": 5,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=135288/tooth-and-claw",
+    "url": "https://www.wowhead.com/beta/spell=372618/vulnerable-flesh?def=108233&rank=1",
     "links": [
-      89,
-      91,
-      93
+      55,
+      57,
+      59
     ]
   },
   {
@@ -219,24 +217,23 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384721/layered-mane?def=108220&rank=1",
     "links": [
-      93,
-      95,
-      97
+      59,
+      61,
+      63
     ]
   },
   {
-    "id": 238049,
-    "name": "Scintillating Moonlight",
-    "icon": "spell_nature_starfall",
+    "id": 203965,
+    "name": "Survival of the Fittest",
+    "icon": "ability_druid_enrage",
     "capacity": 2,
     "cell": 82,
     "row": 5,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=238049/scintillating-moonlight?def=108218&rank=1",
+    "url": "https://www.wowhead.com/beta/spell=203965/survival-of-the-fittest?def=108215&rank=1",
     "links": [
-      97,
-      99
+      63
     ]
   },
   {
@@ -250,270 +247,27 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=203974/earthwarden",
     "links": [
-      106
+      70
     ]
   },
   {
-    "id": 371999,
-    "name": "Vicious Cycle",
-    "icon": "spell_druid_bearhug",
-    "capacity": 1,
-    "cell": 89,
-    "row": 6,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=371999/vicious-cycle"
-  },
-  {
-    "id": 372618,
-    "name": "Vulnerable Flesh",
-    "icon": "ability_druid_primalagression",
-    "capacity": 2,
-    "cell": 91,
-    "row": 6,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=372618/vulnerable-flesh?def=108202&rank=1",
-    "links": [
-      106,
-      110
-    ]
-  },
-  {
-    "id": 377835,
-    "name": "Front of the Pack",
-    "icon": "spell_druid_stampedingroar_cat",
-    "capacity": 1,
-    "cell": 93,
-    "row": 6,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377835/front-of-the-pack"
-  },
-  {
-    "id": 393618,
-    "name": "Reinforced Fur",
-    "icon": "spell_druid_malfurionstenacity",
-    "capacity": 1,
-    "cell": 95,
-    "row": 6,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393618/reinforced-fur",
-    "links": [
-      110,
-      114
-    ]
-  },
-  {
-    "id": 203964,
-    "name": "Galactic Guardian",
-    "icon": "spell_frost_iceclaw",
+    "id": 158477,
+    "name": "Soul of the Forest",
+    "icon": "ability_druid_manatree",
     "capacity": 1,
     "cell": 97,
     "row": 6,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=203964/galactic-guardian"
+    "url": "https://www.wowhead.com/beta/spell=158477/soul-of-the-forest",
+    "links": [
+      78,
+      82
+    ]
   },
   {
-    "id": 372567,
-    "name": "Twin Moonfire",
-    "icon": "spell_nature_starfall",
-    "capacity": 1,
     "cell": 99,
     "row": 6,
-    "column": 15,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=372567/twin-moonfire",
-    "links": [
-      114
-    ]
-  },
-  {
-    "id": 377623,
-    "name": "Berserk: Unchecked Aggression",
-    "icon": "ability_druid_berserk",
-    "capacity": 1,
-    "cell": 106,
-    "row": 7,
-    "column": 5,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=377623/berserk-unchecked-aggression",
-    "links": [
-      123
-    ]
-  },
-  {
-    "id": 370695,
-    "name": "Fury of Nature",
-    "icon": "spell_nature_moonglow",
-    "capacity": 2,
-    "cell": 110,
-    "row": 7,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=370695/fury-of-nature?def=108208&rank=1",
-    "links": [
-      125,
-      129
-    ]
-  },
-  {
-    "id": 377779,
-    "name": "Berserk: Persistence",
-    "icon": "ability_druid_berserk",
-    "capacity": 1,
-    "cell": 114,
-    "row": 7,
-    "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=377779/berserk-persistence",
-    "links": [
-      131
-    ]
-  },
-  {
-    "id": 372945,
-    "name": "Reinvigoration",
-    "icon": "ability_druid_overgrowth",
-    "capacity": 2,
-    "cell": 123,
-    "row": 8,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=372945/reinvigoration?def=108228&rank=1",
-    "links": [
-      138,
-      142
-    ]
-  },
-  {
-    "id": 391969,
-    "name": "Circle of Life and Death",
-    "icon": "ability_druid_cyclone",
-    "capacity": 1,
-    "cell": 125,
-    "row": 8,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391969/circle-of-life-and-death",
-    "links": [
-      144
-    ]
-  },
-  {
-    "id": 370586,
-    "name": "Elune's Favored",
-    "icon": "spell_holy_elunesgrace",
-    "capacity": 1,
-    "cell": 129,
-    "row": 8,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=370586/elunes-favored",
-    "links": [
-      144
-    ]
-  },
-  {
-    "id": 203965,
-    "name": "Survival of the Fittest",
-    "icon": "ability_druid_enrage",
-    "capacity": 2,
-    "cell": 131,
-    "row": 8,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=203965/survival-of-the-fittest?def=108215&rank=1",
-    "links": [
-      146,
-      150
-    ]
-  },
-  {
-    "cell": 138,
-    "row": 9,
-    "column": 3,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 377210,
-      "name": "Ursoc's Fury",
-      "icon": "achievement_emeraldnightmare_ursoc",
-      "url": "https://www.wowhead.com/beta/spell=377210/ursocs-fury"
-    },
-    "right": {
-      "id": 372119,
-      "name": "Dream of Cenarius",
-      "icon": "ability_druid_dreamstate",
-      "url": "https://www.wowhead.com/beta/spell=372119/dream-of-cenarius"
-    },
-    "links": [
-      157
-    ]
-  },
-  {
-    "id": 80313,
-    "name": "Pulverize",
-    "icon": "spell_druid_malfurionstenacity",
-    "capacity": 1,
-    "cell": 142,
-    "row": 9,
-    "column": 7,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=80313/pulverize",
-    "links": [
-      157
-    ]
-  },
-  {
-    "cell": 144,
-    "row": 9,
-    "column": 9,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 394786,
-      "name": "Incarnation: Guardian of Ursoc",
-      "icon": "spell_druid_incarnation",
-      "url": "https://www.wowhead.com/beta/spell=394786/incarnation-guardian-of-ursoc"
-    },
-    "right": {
-      "id": 391528,
-      "name": "Convoke the Spirits",
-      "icon": "ability_ardenweald_druid",
-      "url": "https://www.wowhead.com/beta/spell=391528/convoke-the-spirits"
-    },
-    "links": [
-      161
-    ]
-  },
-  {
-    "cell": 146,
-    "row": 9,
-    "column": 11,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 203962,
-      "name": "Blood Frenzy",
-      "icon": "ability_druid_primaltenacity",
-      "url": "https://www.wowhead.com/beta/spell=203962/blood-frenzy"
-    },
-    "right": {
-      "id": 158477,
-      "name": "Soul of the Forest",
-      "icon": "ability_druid_manatree",
-      "url": "https://www.wowhead.com/beta/spell=158477/soul-of-the-forest"
-    },
-    "links": [
-      165
-    ]
-  },
-  {
-    "cell": 150,
-    "row": 9,
     "column": 15,
     "talentType": 3,
     "capacity": 1,
@@ -530,7 +284,276 @@
       "url": "https://www.wowhead.com/beta/spell=155578/guardian-of-elune"
     },
     "links": [
-      165
+      82
+    ]
+  },
+  {
+    "id": 371999,
+    "name": "Vicious Cycle",
+    "icon": "spell_druid_bearhug",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=371999/vicious-cycle",
+    "links": [
+      70,
+      74
+    ]
+  },
+  {
+    "id": 377835,
+    "name": "Front of the Pack",
+    "icon": "spell_druid_stampedingroar_cat",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377835/front-of-the-pack",
+    "links": [
+      74,
+      78
+    ]
+  },
+  {
+    "id": 135288,
+    "name": "Tooth and Claw",
+    "icon": "inv_misc_monsterfang_01",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=135288/tooth-and-claw",
+    "links": [
+      74
+    ]
+  },
+  {
+    "id": 393618,
+    "name": "Reinforced Fur",
+    "icon": "spell_druid_malfurionstenacity",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393618/reinforced-fur",
+    "links": [
+      78
+    ]
+  },
+  {
+    "id": 50334,
+    "name": "$@spellname377779",
+    "icon": "ability_druid_berserk",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=50334/berserk",
+    "links": [
+      95,
+      97,
+      99
+    ]
+  },
+  {
+    "id": 50334,
+    "name": "$@spellname377623",
+    "icon": "ability_druid_berserk",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=50334/berserk",
+    "links": [
+      87,
+      89,
+      91
+    ]
+  },
+  {
+    "id": 370695,
+    "name": "Fury of Nature",
+    "icon": "spell_nature_moonglow",
+    "capacity": 2,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=370695/fury-of-nature?def=108208&rank=1",
+    "links": [
+      91,
+      93,
+      95
+    ]
+  },
+  {
+    "id": 372945,
+    "name": "Reinvigoration",
+    "icon": "ability_druid_overgrowth",
+    "capacity": 2,
+    "cell": 123,
+    "row": 8,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=372945/reinvigoration?def=108228&rank=1",
+    "links": [
+      106
+    ]
+  },
+  {
+    "id": 391969,
+    "name": "Circle of Life and Death",
+    "icon": "ability_druid_cyclone",
+    "capacity": 1,
+    "cell": 125,
+    "row": 8,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=391969/circle-of-life-and-death",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 370586,
+    "name": "Elune's Favored",
+    "icon": "spell_holy_elunesgrace",
+    "capacity": 1,
+    "cell": 129,
+    "row": 8,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=370586/elunes-favored",
+    "links": [
+      110
+    ]
+  },
+  {
+    "id": 238049,
+    "name": "Scintillating Moonlight",
+    "icon": "spell_nature_starfall",
+    "capacity": 2,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=238049/scintillating-moonlight?def=108218&rank=1",
+    "links": [
+      114
+    ]
+  },
+  {
+    "id": 377210,
+    "name": "Ursoc's Fury",
+    "icon": "achievement_emeraldnightmare_ursoc",
+    "capacity": 1,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377210/ursocs-fury",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 372119,
+    "name": "Dream of Cenarius",
+    "icon": "ability_druid_dreamstate",
+    "capacity": 1,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=372119/dream-of-cenarius",
+    "links": [
+      123
+    ]
+  },
+  {
+    "id": 80313,
+    "name": "Pulverize",
+    "icon": "spell_druid_malfurionstenacity",
+    "capacity": 1,
+    "cell": 142,
+    "row": 9,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=80313/pulverize",
+    "links": [
+      123
+    ]
+  },
+  {
+    "cell": 144,
+    "row": 9,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 102558,
+      "name": "$@spellname394786",
+      "icon": "spell_druid_incarnation",
+      "url": "https://www.wowhead.com/beta/spell=102558/incarnation-guardian-of-ursoc"
+    },
+    "right": {
+      "id": 391528,
+      "name": "Convoke the Spirits",
+      "icon": "ability_ardenweald_druid",
+      "url": "https://www.wowhead.com/beta/spell=391528/convoke-the-spirits"
+    },
+    "links": [
+      125,
+      129
+    ]
+  },
+  {
+    "id": 203962,
+    "name": "Blood Frenzy",
+    "icon": "ability_druid_primaltenacity",
+    "capacity": 1,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=203962/blood-frenzy",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 203964,
+    "name": "Galactic Guardian",
+    "icon": "spell_frost_iceclaw",
+    "capacity": 1,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=203964/galactic-guardian",
+    "links": [
+      131
+    ]
+  },
+  {
+    "id": 372567,
+    "name": "Twin Moonfire",
+    "icon": "spell_nature_starfall",
+    "capacity": 1,
+    "cell": 150,
+    "row": 9,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=372567/twin-moonfire",
+    "links": [
+      131
     ]
   },
   {
@@ -550,7 +573,12 @@
       "name": "Untamed Savagery",
       "icon": "spell_druid_bloodythrash",
       "url": "https://www.wowhead.com/beta/spell=372943/untamed-savagery"
-    }
+    },
+    "links": [
+      138,
+      140,
+      142
+    ]
   },
   {
     "id": 393414,
@@ -561,7 +589,10 @@
     "row": 10,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393414/ursocs-guidance"
+    "url": "https://www.wowhead.com/beta/spell=393414/ursocs-guidance",
+    "links": [
+      144
+    ]
   },
   {
     "id": 200851,
@@ -572,6 +603,11 @@
     "row": 10,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=200851/rage-of-the-sleeper"
+    "url": "https://www.wowhead.com/beta/spell=200851/rage-of-the-sleeper",
+    "links": [
+      146,
+      148,
+      150
+    ]
   }
 ]

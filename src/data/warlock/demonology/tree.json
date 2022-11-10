@@ -8,12 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=104316/call-dreadstalkers",
-    "links": [
-      21,
-      25,
-      29
-    ]
+    "url": "https://www.wowhead.com/beta/spell=104316/call-dreadstalkers"
   },
   {
     "id": 264178,
@@ -26,9 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=264178/demonbolt",
     "links": [
-      36,
-      40,
-      55
+      8
     ]
   },
   {
@@ -42,8 +35,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=264078/dreadlash",
     "links": [
-      40,
-      44
+      8
     ]
   },
   {
@@ -57,9 +49,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386174/annihilan-training",
     "links": [
-      44,
-      48,
-      63
+      8
     ]
   },
   {
@@ -73,8 +63,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386185/demonic-knowledge",
     "links": [
-      51,
-      55
+      21
     ]
   },
   {
@@ -96,7 +85,8 @@
       "url": "https://www.wowhead.com/beta/spell=264057/soul-strike"
     },
     "links": [
-      59
+      21,
+      25
     ]
   },
   {
@@ -118,7 +108,8 @@
       "url": "https://www.wowhead.com/beta/spell=267171/demonic-strength"
     },
     "links": [
-      59
+      25,
+      29
     ]
   },
   {
@@ -132,8 +123,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=267170/from-the-shadows",
     "links": [
-      63,
-      67
+      29
     ]
   },
   {
@@ -147,8 +137,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=196277/implosion",
     "links": [
-      70,
-      85
+      36
     ]
   },
   {
@@ -162,9 +151,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387322/shadows-bite",
     "links": [
-      70,
-      74,
-      89
+      21,
+      36
     ]
   },
   {
@@ -178,8 +166,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386194/carnivorous-stalkers",
     "links": [
-      74,
-      78
+      40,
+      44
     ]
   },
   {
@@ -193,9 +181,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386200/fel-and-steel",
     "links": [
-      78,
-      82,
-      97
+      29,
+      48
     ]
   },
   {
@@ -209,8 +196,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387338/fel-might",
     "links": [
-      82,
-      101
+      48
     ]
   },
   {
@@ -224,9 +210,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=264130/power-siphon",
     "links": [
-      85,
-      89,
-      104
+      51,
+      55
     ]
   },
   {
@@ -240,8 +225,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=267216/inner-demons?def=96549&rank=1",
     "links": [
-      89,
-      93
+      55,
+      59
     ]
   },
   {
@@ -255,8 +240,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=205145/demonic-calling?def=96537&rank=1",
     "links": [
-      93,
-      97
+      59,
+      63
     ]
   },
   {
@@ -270,23 +255,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=111898/grimoire-felguard",
     "links": [
-      97,
-      101,
-      116
-    ]
-  },
-  {
-    "id": 387349,
-    "name": "Bloodbound Imps",
-    "icon": "inv_misc_skullfel_06",
-    "capacity": 1,
-    "cell": 85,
-    "row": 6,
-    "column": 1,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387349/bloodbound-imps",
-    "links": [
-      104
+      63,
+      67
     ]
   },
   {
@@ -300,8 +270,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387391/dread-calling",
     "links": [
-      104,
-      108
+      55,
+      70,
+      74
     ]
   },
   {
@@ -315,9 +286,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=603/doom",
     "links": [
-      108,
-      110,
-      112
+      74,
+      78
     ]
   },
   {
@@ -331,8 +301,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387396/demonic-meteor",
     "links": [
-      112,
-      116
+      63,
+      78,
+      82
     ]
   },
   {
@@ -346,7 +317,23 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387399/fel-sunder",
     "links": [
-      116
+      67,
+      82
+    ]
+  },
+  {
+    "id": 387349,
+    "name": "Bloodbound Imps",
+    "icon": "inv_misc_skullfel_06",
+    "capacity": 1,
+    "cell": 85,
+    "row": 6,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387349/bloodbound-imps",
+    "links": [
+      51,
+      70
     ]
   },
   {
@@ -360,7 +347,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387432/fel-covenant?def=96520&rank=1",
     "links": [
-      123
+      70,
+      85,
+      89
     ]
   },
   {
@@ -374,8 +363,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387445/imp-gang-boss?def=96518&rank=1",
     "links": [
-      123,
-      127
+      89,
+      93
     ]
   },
   {
@@ -389,7 +378,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387483/kazaaks-final-curse?def=96551&rank=1",
     "links": [
-      127
+      93
     ]
   },
   {
@@ -403,8 +392,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387485/ripped-through-the-portal?def=96529&rank=1",
     "links": [
-      127,
-      131
+      93,
+      97
     ]
   },
   {
@@ -418,7 +407,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387488/hounds-of-war?def=96531&rank=1",
     "links": [
-      131
+      82,
+      97,
+      101
     ]
   },
   {
@@ -432,9 +423,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=267217/nether-portal",
     "links": [
-      138,
-      140,
-      142
+      104,
+      108
     ]
   },
   {
@@ -448,9 +438,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=265187/summon-demonic-tyrant",
     "links": [
-      142,
-      144,
-      146
+      108,
+      110,
+      112
     ]
   },
   {
@@ -464,9 +454,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387494/antoran-armaments",
     "links": [
-      146,
-      148,
-      150
+      112,
+      116
     ]
   },
   {
@@ -480,7 +469,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387526/nerzhuls-volition?def=96516&rank=1",
     "links": [
-      155
+      123
     ]
   },
   {
@@ -492,7 +481,10 @@
     "row": 9,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387602/stolen-power"
+    "url": "https://www.wowhead.com/beta/spell=387602/stolen-power",
+    "links": [
+      123
+    ]
   },
   {
     "id": 267214,
@@ -503,7 +495,11 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=267214/sacrificed-souls?def=96513&rank=1"
+    "url": "https://www.wowhead.com/beta/spell=267214/sacrificed-souls?def=96513&rank=1",
+    "links": [
+      123,
+      127
+    ]
   },
   {
     "id": 334585,
@@ -516,7 +512,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=334585/soulbound-tyrant?def=96512&rank=1",
     "links": [
-      161
+      127
     ]
   },
   {
@@ -528,7 +524,11 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387541/pact-of-the-imp-mother?def=96524&rank=1"
+    "url": "https://www.wowhead.com/beta/spell=387541/pact-of-the-imp-mother?def=96524&rank=1",
+    "links": [
+      127,
+      131
+    ]
   },
   {
     "id": 387600,
@@ -539,7 +539,10 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387600/the-expendables"
+    "url": "https://www.wowhead.com/beta/spell=387600/the-expendables",
+    "links": [
+      131
+    ]
   },
   {
     "id": 387549,
@@ -552,7 +555,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387549/infernal-command?def=96526&rank=1",
     "links": [
-      167
+      131
     ]
   },
   {
@@ -564,7 +567,10 @@
     "row": 10,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387578/guldans-ambition"
+    "url": "https://www.wowhead.com/beta/spell=387578/guldans-ambition",
+    "links": [
+      138
+    ]
   },
   {
     "cell": 161,
@@ -583,7 +589,10 @@
       "name": "Grand Warlock's Design",
       "icon": "spell_warlock_demonicportal_purple",
       "url": "https://www.wowhead.com/beta/spell=387084/grand-warlocks-design"
-    }
+    },
+    "links": [
+      144
+    ]
   },
   {
     "id": 386833,
@@ -594,6 +603,9 @@
     "row": 10,
     "column": 15,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=386833/guillotine"
+    "url": "https://www.wowhead.com/beta/spell=386833/guillotine",
+    "links": [
+      150
+    ]
   }
 ]

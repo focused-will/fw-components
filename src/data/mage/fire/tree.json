@@ -8,11 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=11366/pyroblast",
-    "links": [
-      23,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=11366/pyroblast"
   },
   {
     "id": 108853,
@@ -25,8 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=108853/fire-blast",
     "links": [
-      38,
-      42
+      8
     ]
   },
   {
@@ -40,8 +35,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387044/fervent-flickering",
     "links": [
-      42,
-      46
+      8
     ]
   },
   {
@@ -55,7 +49,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=2948/scorch",
     "links": [
-      55
+      23
     ]
   },
   {
@@ -69,9 +63,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=257541/phoenix-flames",
     "links": [
-      57,
-      61,
-      76
+      23,
+      27
     ]
   },
   {
@@ -85,7 +78,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=2120/flamestrike",
     "links": [
-      63
+      27
     ]
   },
   {
@@ -99,8 +92,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=269644/searing-touch",
     "links": [
-      70,
-      74
+      38
     ]
   },
   {
@@ -114,8 +106,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=205026/firestarter",
     "links": [
-      74,
-      76
+      42
     ]
   },
   {
@@ -129,8 +120,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=157642/pyrotechnics",
     "links": [
-      76,
-      78
+      42
     ]
   },
   {
@@ -144,52 +134,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=343230/improved-flamestrike",
     "links": [
-      78,
-      82
-    ]
-  },
-  {
-    "id": 383604,
-    "name": "Improved Scorch",
-    "icon": "ability_mage_fierypayback",
-    "capacity": 2,
-    "cell": 70,
-    "row": 5,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383604/improved-scorch?def=85282&rank=1",
-    "links": [
-      89,
-      104
-    ]
-  },
-  {
-    "id": 117216,
-    "name": "Critical Mass",
-    "icon": "spell_fire_volcano",
-    "capacity": 2,
-    "cell": 74,
-    "row": 5,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=117216/critical-mass?def=85290&rank=1",
-    "links": [
-      89,
-      93
-    ]
-  },
-  {
-    "id": 86949,
-    "name": "Cauterize",
-    "icon": "spell_fire_rune",
-    "capacity": 1,
-    "cell": 76,
-    "row": 5,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=86949/cauterize",
-    "links": [
-      93
+      46
     ]
   },
   {
@@ -203,8 +148,53 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=205029/flame-on?def=85259&rank=1",
     "links": [
-      93,
-      97
+      61,
+      63
+    ]
+  },
+  {
+    "id": 383604,
+    "name": "Improved Scorch",
+    "icon": "ability_mage_fierypayback",
+    "capacity": 2,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383604/improved-scorch?def=85282&rank=1",
+    "links": [
+      55
+    ]
+  },
+  {
+    "id": 117216,
+    "name": "Critical Mass",
+    "icon": "spell_fire_volcano",
+    "capacity": 2,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=117216/critical-mass?def=85290&rank=1",
+    "links": [
+      55,
+      57
+    ]
+  },
+  {
+    "id": 86949,
+    "name": "Cauterize",
+    "icon": "spell_fire_rune",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=86949/cauterize",
+    "links": [
+      42,
+      57,
+      61
     ]
   },
   {
@@ -218,8 +208,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=205037/flame-patch",
     "links": [
-      97,
-      99
+      63
     ]
   },
   {
@@ -241,8 +230,8 @@
       "url": "https://www.wowhead.com/beta/spell=235870/alexstraszas-fury"
     },
     "links": [
-      104,
-      108
+      70,
+      74
     ]
   },
   {
@@ -256,9 +245,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=190319/combustion",
     "links": [
-      108,
-      110,
-      112
+      74,
+      76,
+      78
     ]
   },
   {
@@ -272,8 +261,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=44457/living-bomb",
     "links": [
-      112,
-      116
+      78,
+      82
     ]
   },
   {
@@ -287,7 +276,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383665/incendiary-eruptions",
     "links": [
-      116
+      82
     ]
   },
   {
@@ -301,8 +290,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=343222/call-of-the-sun-king",
     "links": [
-      119,
-      123
+      70,
+      89
     ]
   },
   {
@@ -316,7 +305,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383499/firemind?def=85279&rank=1",
     "links": [
-      123
+      89,
+      93
     ]
   },
   {
@@ -338,9 +328,7 @@
       "url": "https://www.wowhead.com/beta/spell=383659/tempered-flames"
     },
     "links": [
-      125,
-      127,
-      129
+      93
     ]
   },
   {
@@ -354,7 +342,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383391/feel-the-burn?def=85264&rank=1",
     "links": [
-      131
+      93,
+      97
     ]
   },
   {
@@ -368,8 +357,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=205023/conflagration",
     "links": [
-      131,
-      135
+      97,
+      99
     ]
   },
   {
@@ -383,7 +372,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383476/phoenix-reborn",
     "links": [
-      138
+      104
     ]
   },
   {
@@ -397,7 +386,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=269650/pyroclasm",
     "links": [
-      138
+      104,
+      108
     ]
   },
   {
@@ -411,7 +401,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=203275/flame-accelerant?def=85270&rank=1",
     "links": [
-      161
+      110
     ]
   },
   {
@@ -423,7 +413,10 @@
     "row": 8,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=155148/kindling"
+    "url": "https://www.wowhead.com/beta/spell=155148/kindling",
+    "links": [
+      110
+    ]
   },
   {
     "id": 383489,
@@ -436,7 +429,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383489/wildfire?def=85273&rank=1",
     "links": [
-      161
+      110
     ]
   },
   {
@@ -450,7 +443,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384174/master-of-flame",
     "links": [
-      150
+      112,
+      116
     ]
   },
   {
@@ -472,7 +466,7 @@
       "url": "https://www.wowhead.com/beta/spell=384033/firefall"
     },
     "links": [
-      150
+      116
     ]
   },
   {
@@ -486,7 +480,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383669/controlled-destruction?def=85275&rank=1",
     "links": [
-      155
+      119,
+      123
     ]
   },
   {
@@ -500,7 +495,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383810/fevered-incantation?def=85256&rank=1",
     "links": [
-      167
+      131,
+      135
     ]
   },
   {
@@ -512,7 +508,10 @@
     "row": 10,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383886/sun-kings-blessing"
+    "url": "https://www.wowhead.com/beta/spell=383886/sun-kings-blessing",
+    "links": [
+      138
+    ]
   },
   {
     "id": 383634,
@@ -523,7 +522,11 @@
     "row": 10,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383634/fiery-rush"
+    "url": "https://www.wowhead.com/beta/spell=383634/fiery-rush",
+    "links": [
+      125,
+      129
+    ]
   },
   {
     "id": 383860,
@@ -534,6 +537,9 @@
     "row": 10,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383860/hyperthermia"
+    "url": "https://www.wowhead.com/beta/spell=383860/hyperthermia",
+    "links": [
+      150
+    ]
   }
 ]
