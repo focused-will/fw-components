@@ -8,11 +8,7 @@
     "row": 1,
     "column": 1,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=1064/chain-heal",
-    "links": [
-      19,
-      34
-    ]
+    "url": "https://www.wowhead.com/beta/spell=1064/chain-heal"
   },
   {
     "id": 51505,
@@ -23,12 +19,7 @@
     "row": 1,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=51505/lava-burst",
-    "links": [
-      19,
-      23,
-      38
-    ]
+    "url": "https://www.wowhead.com/beta/spell=51505/lava-burst"
   },
   {
     "id": 108271,
@@ -39,12 +30,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=108271/astral-shift",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=108271/astral-shift"
   },
   {
     "id": 188443,
@@ -55,12 +41,7 @@
     "row": 1,
     "column": 15,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=188443/chain-lightning",
-    "links": [
-      29,
-      33,
-      48
-    ]
+    "url": "https://www.wowhead.com/beta/spell=188443/chain-lightning"
   },
   {
     "id": 198103,
@@ -73,9 +54,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=198103/earth-elemental",
     "links": [
-      34,
-      38,
-      53
+      0,
+      4
     ]
   },
   {
@@ -89,9 +69,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=57994/wind-shear",
     "links": [
-      38,
-      42,
-      57
+      4,
+      8
     ]
   },
   {
@@ -113,7 +92,7 @@
       "url": "https://www.wowhead.com/beta/spell=377933/astral-bulwark"
     },
     "links": [
-      42
+      8
     ]
   },
   {
@@ -135,8 +114,7 @@
       "url": "https://www.wowhead.com/beta/spell=378075/thunderous-paws"
     },
     "links": [
-      42,
-      44
+      8
     ]
   },
   {
@@ -150,8 +128,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=196840/frost-shock",
     "links": [
-      44,
-      63
+      14
     ]
   },
   {
@@ -165,7 +142,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=187880/maelstrom-weapon",
     "links": [
-      67
+      14
     ]
   },
   {
@@ -179,8 +156,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=974/earth-shield",
     "links": [
-      51,
-      53
+      0,
+      19
     ]
   },
   {
@@ -194,9 +171,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382886/fire-and-ice",
     "links": [
-      53,
-      55,
-      57
+      4,
+      19,
+      23
     ]
   },
   {
@@ -210,8 +187,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=192058/capacitor-totem",
     "links": [
-      57,
-      59
+      23,
+      25,
+      27
     ]
   },
   {
@@ -225,8 +203,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383016/improved-purify-spirit",
     "links": [
-      63,
-      78
+      27,
+      29
     ]
   },
   {
@@ -240,9 +218,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381666/focused-insight?def=106963&rank=1",
     "links": [
-      63,
-      67,
-      82
+      14
     ]
   },
   {
@@ -256,7 +232,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383010/elemental-orbit",
     "links": [
-      85
+      34
     ]
   },
   {
@@ -270,7 +246,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=79206/spiritwalkers-grace",
     "links": [
-      70
+      19,
+      34,
+      38
     ]
   },
   {
@@ -284,8 +262,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382947/ancestral-defense",
     "links": [
-      74,
-      89
+      38
     ]
   },
   {
@@ -299,7 +276,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=8143/tremor-totem",
     "links": [
-      74
+      23,
+      38,
+      42
     ]
   },
   {
@@ -321,8 +300,7 @@
       "url": "https://www.wowhead.com/beta/spell=381819/guardians-cudgel"
     },
     "links": [
-      74,
-      78
+      42
     ]
   },
   {
@@ -344,8 +322,9 @@
       "url": "https://www.wowhead.com/beta/spell=378773/greater-purge"
     },
     "links": [
-      78,
-      82
+      29,
+      44,
+      48
     ]
   },
   {
@@ -359,7 +338,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382888/flurry",
     "links": [
-      82
+      33,
+      48
     ]
   },
   {
@@ -381,8 +361,7 @@
       "url": "https://www.wowhead.com/beta/spell=378077/spiritwalkers-aegis"
     },
     "links": [
-      85,
-      89
+      53
     ]
   },
   {
@@ -404,8 +383,9 @@
       "url": "https://www.wowhead.com/beta/spell=51485/earthgrab-totem"
     },
     "links": [
-      89,
-      93
+      55,
+      57,
+      59
     ]
   },
   {
@@ -419,9 +399,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=51514/hex",
     "links": [
-      93,
-      97,
-      112
+      44,
+      59,
+      63
     ]
   },
   {
@@ -435,8 +415,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381655/natures-fury?def=107005&rank=1",
     "links": [
-      99,
-      101
+      48,
+      63,
+      67
     ]
   },
   {
@@ -450,8 +431,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381867/totemic-surge?def=106994&rank=1",
     "links": [
-      104,
-      136
+      51,
+      70
     ]
   },
   {
@@ -465,8 +446,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381650/elemental-warding?def=106978&rank=1",
     "links": [
-      104,
-      108
+      55,
+      70,
+      74
     ]
   },
   {
@@ -480,9 +462,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=30884/natures-guardian?def=106969&rank=1",
     "links": [
-      108,
-      112,
-      127
+      74,
+      78
     ]
   },
   {
@@ -502,7 +483,10 @@
       "name": "Enfeeblement",
       "icon": "inv_frog2_teal",
       "url": "https://www.wowhead.com/beta/spell=378079/enfeeblement"
-    }
+    },
+    "links": [
+      78
+    ]
   },
   {
     "id": 382215,
@@ -515,7 +499,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382215/winds-of-alakir?def=107004&rank=1",
     "links": [
-      116
+      82
     ]
   },
   {
@@ -527,7 +511,10 @@
     "row": 6,
     "column": 17,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381689/brimming-with-life"
+    "url": "https://www.wowhead.com/beta/spell=381689/brimming-with-life",
+    "links": [
+      82
+    ]
   },
   {
     "id": 5394,
@@ -540,8 +527,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=5394/healing-stream-totem",
     "links": [
-      121,
-      123
+      85,
+      89
     ]
   },
   {
@@ -555,9 +542,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381674/improved-lightning-bolt?def=106991&rank=1",
     "links": [
-      123,
-      125,
-      127
+      89,
+      93
     ]
   },
   {
@@ -571,8 +557,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=108287/totemic-projection",
     "links": [
-      127,
-      131
+      78,
+      93
     ]
   },
   {
@@ -594,8 +580,7 @@
       "url": "https://www.wowhead.com/beta/spell=192063/gust-of-wind"
     },
     "links": [
-      131,
-      135
+      99
     ]
   },
   {
@@ -609,8 +594,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378094/swirling-currents?def=106996&rank=1",
     "links": [
-      136,
-      155
+      104
     ]
   },
   {
@@ -622,7 +606,11 @@
     "row": 8,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=378081/natures-swiftness"
+    "url": "https://www.wowhead.com/beta/spell=378081/natures-swiftness",
+    "links": [
+      104,
+      108
+    ]
   },
   {
     "id": 51490,
@@ -635,7 +623,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=51490/thunderstorm",
     "links": [
-      142
+      108
     ]
   },
   {
@@ -649,8 +637,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382201/totemic-focus?def=106985&rank=1",
     "links": [
-      146,
-      161
+      93,
+      108,
+      112
     ]
   },
   {
@@ -664,8 +653,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382033/surging-shields?def=106983&rank=1",
     "links": [
-      146,
-      150
+      112,
+      116
     ]
   },
   {
@@ -679,7 +668,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381678/go-with-the-flow?def=107001&rank=1",
     "links": [
-      150
+      116
     ]
   },
   {
@@ -693,7 +682,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=381930/mana-spring-totem",
     "links": [
-      155
+      85,
+      121
     ]
   },
   {
@@ -715,7 +705,7 @@
       "url": "https://www.wowhead.com/beta/spell=305483/lightning-lasso"
     },
     "links": [
-      161
+      125
     ]
   },
   {
@@ -729,7 +719,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=383013/poison-cleansing-totem",
     "links": [
-      161
+      127,
+      131
     ]
   },
   {
@@ -743,7 +734,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=108285/totemic-recall",
     "links": [
-      167
+      131,
+      135
     ]
   },
   {
@@ -755,7 +747,11 @@
     "row": 10,
     "column": 3,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=108281/ancestral-guidance"
+    "url": "https://www.wowhead.com/beta/spell=108281/ancestral-guidance",
+    "links": [
+      121,
+      136
+    ]
   },
   {
     "cell": 161,
@@ -774,7 +770,12 @@
       "name": "Tranquil Air Totem",
       "icon": "ability_shaman_tranquilmindtotem",
       "url": "https://www.wowhead.com/beta/spell=383019/tranquil-air-totem"
-    }
+    },
+    "links": [
+      127,
+      142,
+      146
+    ]
   },
   {
     "cell": 167,
@@ -793,6 +794,9 @@
       "name": "Creation Core",
       "icon": "inv_artifact_xp03",
       "url": "https://www.wowhead.com/beta/spell=383012/creation-core"
-    }
+    },
+    "links": [
+      150
+    ]
   }
 ]

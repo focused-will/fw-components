@@ -8,12 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=116858/chaos-bolt",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=116858/chaos-bolt"
   },
   {
     "id": 17962,
@@ -26,8 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=17962/conflagrate",
     "links": [
-      38,
-      42
+      8
     ]
   },
   {
@@ -49,7 +43,7 @@
       "url": "https://www.wowhead.com/beta/spell=266134/internal-combustion"
     },
     "links": [
-      42
+      8
     ]
   },
   {
@@ -63,8 +57,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=5740/rain-of-fire",
     "links": [
-      42,
-      46
+      8
     ]
   },
   {
@@ -78,9 +71,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196406/backdraft",
     "links": [
-      53,
-      55,
-      57
+      23
     ]
   },
   {
@@ -102,9 +93,9 @@
       "url": "https://www.wowhead.com/beta/spell=80240/havoc"
     },
     "links": [
-      57,
-      59,
-      61
+      23,
+      25,
+      27
     ]
   },
   {
@@ -118,8 +109,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387095/pyrogenics",
     "links": [
-      61,
-      65
+      27
     ]
   },
   {
@@ -141,8 +131,7 @@
       "url": "https://www.wowhead.com/beta/spell=231793/improved-conflagrate"
     },
     "links": [
-      70,
-      72
+      38
     ]
   },
   {
@@ -156,7 +145,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388827/explosive-potential",
     "links": [
-      72
+      38
     ]
   },
   {
@@ -170,7 +159,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=196447/channel-demonfire",
     "links": [
-      74
+      38,
+      42
     ]
   },
   {
@@ -192,8 +182,7 @@
       "url": "https://www.wowhead.com/beta/spell=387522/cry-havoc"
     },
     "links": [
-      76,
-      78
+      42
     ]
   },
   {
@@ -207,8 +196,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387093/improved-immolate?def=96492&rank=1",
     "links": [
-      78,
-      80
+      42,
+      46
     ]
   },
   {
@@ -230,35 +219,7 @@
       "url": "https://www.wowhead.com/beta/spell=152108/cataclysm"
     },
     "links": [
-      80
-    ]
-  },
-  {
-    "id": 6353,
-    "name": "Soul Fire",
-    "icon": "spell_fire_firebolt",
-    "capacity": 1,
-    "cell": 70,
-    "row": 5,
-    "column": 3,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=6353/soul-fire",
-    "links": [
-      87
-    ]
-  },
-  {
-    "id": 17877,
-    "name": "Shadowburn",
-    "icon": "spell_shadow_scourgebuild",
-    "capacity": 1,
-    "cell": 72,
-    "row": 5,
-    "column": 5,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=17877/shadowburn",
-    "links": [
-      89
+      46
     ]
   },
   {
@@ -272,7 +233,36 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387166/raging-demonfire?def=96587&rank=1",
     "links": [
-      93
+      57
+    ]
+  },
+  {
+    "id": 6353,
+    "name": "Soul Fire",
+    "icon": "spell_fire_firebolt",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=6353/soul-fire",
+    "links": [
+      53
+    ]
+  },
+  {
+    "id": 17877,
+    "name": "Shadowburn",
+    "icon": "spell_shadow_scourgebuild",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=17877/shadowburn",
+    "links": [
+      53,
+      55
     ]
   },
   {
@@ -286,7 +276,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387569/rolling-havoc?def=96476&rank=1",
     "links": [
-      93
+      59
     ]
   },
   {
@@ -300,8 +290,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387384/backlash",
     "links": [
-      93,
-      97
+      59,
+      61
     ]
   },
   {
@@ -315,7 +305,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196408/fire-and-brimstone?def=96501&rank=1",
     "links": [
-      97
+      61,
+      65
     ]
   },
   {
@@ -329,7 +320,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387176/decimation",
     "links": [
-      104
+      70
     ]
   },
   {
@@ -343,8 +334,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387108/conflagration-of-chaos?def=96585&rank=1",
     "links": [
-      104,
-      108
+      72
     ]
   },
   {
@@ -358,8 +348,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387259/flashpoint?def=96487&rank=1",
     "links": [
-      108,
-      112
+      74,
+      76,
+      78
     ]
   },
   {
@@ -373,8 +364,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388832/scalding-flames?def=96488&rank=1",
     "links": [
-      112,
-      116
+      78,
+      80
     ]
   },
   {
@@ -388,7 +379,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387103/ruin?def=96586&rank=1",
     "links": [
-      123
+      87,
+      89
     ]
   },
   {
@@ -402,8 +394,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196412/eradication?def=96503&rank=1",
     "links": [
-      123,
-      127
+      89,
+      93
     ]
   },
   {
@@ -417,8 +409,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387252/ashen-remains?def=96484&rank=1",
     "links": [
-      127,
-      131
+      93,
+      97
     ]
   },
   {
@@ -432,7 +424,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=108503/grimoire-of-sacrifice",
     "links": [
-      131
+      97
     ]
   },
   {
@@ -446,9 +438,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=1122/summon-infernal",
     "links": [
-      138,
-      140,
-      142
+      104,
+      108
     ]
   },
   {
@@ -462,8 +453,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387173/diabolic-embers",
     "links": [
-      142,
-      146
+      108,
+      112
     ]
   },
   {
@@ -477,9 +468,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387156/ritual-of-ruin",
     "links": [
-      146,
-      148,
-      150
+      112,
+      116
     ]
   },
   {
@@ -493,7 +483,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387355/crashing-chaos?def=96475&rank=1",
     "links": [
-      157
+      123
     ]
   },
   {
@@ -507,7 +497,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387475/infernal-brand?def=96472&rank=1",
     "links": [
-      157
+      123
     ]
   },
   {
@@ -521,7 +511,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387279/power-overwhelming?def=96480&rank=1",
     "links": [
-      161
+      123,
+      127
     ]
   },
   {
@@ -535,7 +526,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387400/madness-of-the-azjaqir?def=96482&rank=1",
     "links": [
-      161
+      127,
+      131
     ]
   },
   {
@@ -549,7 +541,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387165/master-ritualist?def=96477&rank=1",
     "links": [
-      165
+      131
     ]
   },
   {
@@ -563,7 +555,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387153/burn-to-ashes?def=96479&rank=1",
     "links": [
-      165
+      131
     ]
   },
   {
@@ -583,7 +575,11 @@
       "name": "Grand Warlock's Design",
       "icon": "spell_warlock_demonicportal_purple",
       "url": "https://www.wowhead.com/beta/spell=387084/grand-warlocks-design"
-    }
+    },
+    "links": [
+      138,
+      140
+    ]
   },
   {
     "cell": 161,
@@ -602,7 +598,11 @@
       "name": "Dimensional Rift",
       "icon": "spell_warlock_demonicportal_purple",
       "url": "https://www.wowhead.com/beta/spell=387976/dimensional-rift"
-    }
+    },
+    "links": [
+      142,
+      146
+    ]
   },
   {
     "id": 387159,
@@ -613,6 +613,10 @@
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387159/avatar-of-destruction"
+    "url": "https://www.wowhead.com/beta/spell=387159/avatar-of-destruction",
+    "links": [
+      148,
+      150
+    ]
   }
 ]

@@ -8,12 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=79577/eclipse",
-    "links": [
-      21,
-      25,
-      29
-    ]
+    "url": "https://www.wowhead.com/beta/spell=79577/eclipse"
   },
   {
     "id": 202342,
@@ -26,8 +21,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=202342/shooting-stars",
     "links": [
-      36,
-      40
+      8
     ]
   },
   {
@@ -41,8 +35,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=202430/natures-balance",
     "links": [
-      40,
-      44
+      8
     ]
   },
   {
@@ -56,9 +49,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=191034/starfall",
     "links": [
-      44,
-      46,
-      48
+      8
     ]
   },
   {
@@ -72,8 +63,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=343647/solstice?def=114840&rank=1",
     "links": [
-      55,
-      70
+      21
     ]
   },
   {
@@ -87,8 +77,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383195/umbral-intensity?def=114858&rank=1",
     "links": [
-      55,
-      59
+      21,
+      25
     ]
   },
   {
@@ -102,8 +92,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393760/umbral-embrace?def=114855&rank=1",
     "links": [
-      59,
-      63
+      25,
+      29
     ]
   },
   {
@@ -117,7 +107,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=327541/aetherial-kindling?def=114848&rank=1",
     "links": [
-      63
+      29
     ]
   },
   {
@@ -131,8 +121,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393868/lunar-shrapnel",
     "links": [
-      63,
-      82
+      29
     ]
   },
   {
@@ -146,8 +135,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=202347/stellar-flare",
     "links": [
-      74,
-      89
+      36,
+      40
     ]
   },
   {
@@ -161,9 +150,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=78675/solar-beam",
     "links": [
-      74,
-      76,
-      78
+      40,
+      44
     ]
   },
   {
@@ -177,8 +165,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=205636/force-of-nature",
     "links": [
-      78,
-      97
+      44,
+      46,
+      48
     ]
   },
   {
@@ -192,23 +181,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383197/orbit-breaker",
     "links": [
-      89,
-      104
-    ]
-  },
-  {
-    "id": 279620,
-    "name": "Twin Moons",
-    "icon": "spell_nature_starfall",
-    "capacity": 1,
-    "cell": 74,
-    "row": 5,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=279620/twin-moons",
-    "links": [
-      89,
-      93
+      36
     ]
   },
   {
@@ -222,7 +195,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=202918/light-of-the-sun",
     "links": [
-      93
+      59
     ]
   },
   {
@@ -236,8 +209,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=394115/stellar-innervation",
     "links": [
-      93,
-      97
+      59,
+      63
     ]
   },
   {
@@ -259,8 +232,22 @@
       "url": "https://www.wowhead.com/beta/spell=393940/starweaver"
     },
     "links": [
-      97,
-      116
+      48
+    ]
+  },
+  {
+    "id": 279620,
+    "name": "Twin Moons",
+    "icon": "spell_nature_starfall",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=279620/twin-moons",
+    "links": [
+      55,
+      59
     ]
   },
   {
@@ -274,9 +261,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393956/waning-twilight?def=114839&rank=1",
     "links": [
-      104,
-      108,
-      123
+      55,
+      70,
+      74
     ]
   },
   {
@@ -290,9 +277,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=194223/celestial-alignment",
     "links": [
-      108,
-      110,
-      112
+      74,
+      76,
+      78
     ]
   },
   {
@@ -306,9 +293,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=202345/starlord?def=114837&rank=1",
     "links": [
-      112,
-      116,
-      131
+      63,
+      78,
+      82
     ]
   },
   {
@@ -322,7 +309,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=202359/astral-communion",
     "links": [
-      123
+      70,
+      89
     ]
   },
   {
@@ -336,8 +324,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393958/natures-grace",
     "links": [
-      123,
-      127
+      89,
+      93
     ]
   },
   {
@@ -357,7 +345,10 @@
       "name": "Primordial Arcanic Pulsar",
       "icon": "spell_arcane_arcane03",
       "url": "https://www.wowhead.com/beta/spell=393960/primordial-arcanic-pulsar"
-    }
+    },
+    "links": [
+      93
+    ]
   },
   {
     "id": 114107,
@@ -370,8 +361,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=114107/soul-of-the-forest",
     "links": [
-      127,
-      131
+      93,
+      97
     ]
   },
   {
@@ -385,8 +376,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=88747/wild-mushroom",
     "links": [
-      131,
-      133
+      82,
+      97
     ]
   },
   {
@@ -400,8 +391,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391969/circle-of-life-and-death",
     "links": [
-      138,
-      142
+      89,
+      104,
+      108
     ]
   },
   {
@@ -423,9 +415,8 @@
       "url": "https://www.wowhead.com/beta/spell=391528/convoke-the-spirits"
     },
     "links": [
-      142,
-      144,
-      146
+      108,
+      112
     ]
   },
   {
@@ -439,8 +430,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=394046/power-of-goldrinn",
     "links": [
-      146,
-      150
+      97,
+      112,
+      116
     ]
   },
   {
@@ -454,7 +446,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392999/fungal-growth",
     "links": [
-      150
+      116
     ]
   },
   {
@@ -468,8 +460,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=394065/denizen-of-the-dream",
     "links": [
-      155,
-      157
+      123
     ]
   },
   {
@@ -483,7 +474,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=394058/astral-smolder?def=114841&rank=1",
     "links": [
-      157
+      123,
+      127
     ]
   },
   {
@@ -495,7 +487,10 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393991/elunes-guidance"
+    "url": "https://www.wowhead.com/beta/spell=393991/elunes-guidance",
+    "links": [
+      127
+    ]
   },
   {
     "id": 394048,
@@ -508,7 +503,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=394048/balance-of-all-things?def=114853&rank=1",
     "links": [
-      165
+      127,
+      131
     ]
   },
   {
@@ -530,8 +526,8 @@
       "url": "https://www.wowhead.com/beta/spell=274281/new-moon"
     },
     "links": [
-      165,
-      167
+      131,
+      133
     ]
   },
   {
@@ -543,7 +539,10 @@
     "row": 10,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=394081/friend-of-the-fae"
+    "url": "https://www.wowhead.com/beta/spell=394081/friend-of-the-fae",
+    "links": [
+      138
+    ]
   },
   {
     "id": 202425,
@@ -554,7 +553,11 @@
     "row": 10,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=202425/warrior-of-elune"
+    "url": "https://www.wowhead.com/beta/spell=202425/warrior-of-elune",
+    "links": [
+      138,
+      142
+    ]
   },
   {
     "id": 394094,
@@ -565,7 +568,11 @@
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=394094/sundered-firmament"
+    "url": "https://www.wowhead.com/beta/spell=394094/sundered-firmament",
+    "links": [
+      146,
+      150
+    ]
   },
   {
     "id": 394121,
@@ -576,6 +583,9 @@
     "row": 10,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=394121/radiant-moonlight"
+    "url": "https://www.wowhead.com/beta/spell=394121/radiant-moonlight",
+    "links": [
+      150
+    ]
   }
 ]

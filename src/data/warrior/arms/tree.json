@@ -8,10 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=12294/mortal-strike",
-    "links": [
-      25
-    ]
+    "url": "https://www.wowhead.com/beta/spell=12294/mortal-strike"
   },
   {
     "id": 7384,
@@ -24,24 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=7384/overpower",
     "links": [
-      39,
-      42,
-      45
-    ]
-  },
-  {
-    "id": 316440,
-    "name": "Martial Prowess",
-    "icon": "ability_warrior_weaponmastery",
-    "capacity": 1,
-    "cell": 39,
-    "row": 3,
-    "column": 6,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=316440/martial-prowess",
-    "links": [
-      53,
-      56
+      8
     ]
   },
   {
@@ -55,10 +35,21 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=118038/die-by-the-sword",
     "links": [
-      56,
-      58,
-      60,
-      62
+      25
+    ]
+  },
+  {
+    "id": 316440,
+    "name": "Martial Prowess",
+    "icon": "ability_warrior_weaponmastery",
+    "capacity": 1,
+    "cell": 39,
+    "row": 3,
+    "column": 6,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=316440/martial-prowess",
+    "links": [
+      25
     ]
   },
   {
@@ -72,22 +63,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=316405/improved-execute",
     "links": [
-      62,
-      65
-    ]
-  },
-  {
-    "id": 385571,
-    "name": "Improved Overpower",
-    "icon": "ability_meleedamage",
-    "capacity": 1,
-    "cell": 53,
-    "row": 4,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385571/improved-overpower",
-    "links": [
-      70
+      25
     ]
   },
   {
@@ -101,7 +77,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384361/bloodsurge",
     "links": [
-      70
+      39,
+      42
     ]
   },
   {
@@ -115,35 +92,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383103/fueled-by-violence",
     "links": [
-      76
-    ]
-  },
-  {
-    "id": 388807,
-    "name": "Storm Wall",
-    "icon": "spell_sandstorm",
-    "capacity": 1,
-    "cell": 60,
-    "row": 4,
-    "column": 10,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388807/storm-wall",
-    "links": [
-      76
-    ]
-  },
-  {
-    "id": 29725,
-    "name": "Sudden Death",
-    "icon": "ability_warrior_improveddisciplines",
-    "capacity": 1,
-    "cell": 62,
-    "row": 4,
-    "column": 12,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=29725/sudden-death",
-    "links": [
-      82
+      42
     ]
   },
   {
@@ -157,23 +106,50 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=202316/fervor-of-battle",
     "links": [
-      82
+      45
     ]
   },
   {
-    "id": 184783,
-    "name": "Tactician",
-    "icon": "ability_warrior_unrelentingassault",
+    "id": 385571,
+    "name": "Improved Overpower",
+    "icon": "ability_meleedamage",
     "capacity": 1,
-    "cell": 70,
-    "row": 5,
+    "cell": 53,
+    "row": 4,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=184783/tactician",
+    "url": "https://www.wowhead.com/beta/spell=385571/improved-overpower",
     "links": [
-      85,
-      87,
-      89
+      39
+    ]
+  },
+  {
+    "id": 388807,
+    "name": "Storm Wall",
+    "icon": "spell_sandstorm",
+    "capacity": 1,
+    "cell": 60,
+    "row": 4,
+    "column": 10,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388807/storm-wall",
+    "links": [
+      42
+    ]
+  },
+  {
+    "id": 29725,
+    "name": "Sudden Death",
+    "icon": "ability_warrior_improveddisciplines",
+    "capacity": 1,
+    "cell": 62,
+    "row": 4,
+    "column": 12,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=29725/sudden-death",
+    "links": [
+      42,
+      45
     ]
   },
   {
@@ -187,9 +163,23 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=167105/colossus-smash",
     "links": [
-      89,
-      93,
-      97
+      58,
+      60
+    ]
+  },
+  {
+    "id": 184783,
+    "name": "Tactician",
+    "icon": "ability_warrior_unrelentingassault",
+    "capacity": 1,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=184783/tactician",
+    "links": [
+      53,
+      56
     ]
   },
   {
@@ -203,52 +193,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383430/impale",
     "links": [
-      97,
-      99,
-      101
-    ]
-  },
-  {
-    "id": 260643,
-    "name": "Skullsplitter",
-    "icon": "inv_skullsplitter",
-    "capacity": 1,
-    "cell": 85,
-    "row": 6,
-    "column": 1,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=260643/skullsplitter",
-    "links": [
-      102
-    ]
-  },
-  {
-    "id": 772,
-    "name": "Rend",
-    "icon": "ability_gouge",
-    "capacity": 1,
-    "cell": 87,
-    "row": 6,
-    "column": 3,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=772/rend",
-    "links": [
-      104,
-      106
-    ]
-  },
-  {
-    "id": 383219,
-    "name": "Exhilarating Blows",
-    "icon": "warrior_talent_icon_igniteweapon",
-    "capacity": 1,
-    "cell": 89,
-    "row": 6,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383219/exhilarating-blows",
-    "links": [
-      106
+      62,
+      65
     ]
   },
   {
@@ -262,8 +208,50 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=152278/anger-management",
     "links": [
-      109,
-      111
+      76
+    ]
+  },
+  {
+    "id": 260643,
+    "name": "Skullsplitter",
+    "icon": "inv_skullsplitter",
+    "capacity": 1,
+    "cell": 85,
+    "row": 6,
+    "column": 1,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=260643/skullsplitter",
+    "links": [
+      70
+    ]
+  },
+  {
+    "id": 772,
+    "name": "Rend",
+    "icon": "ability_gouge",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=772/rend",
+    "links": [
+      70
+    ]
+  },
+  {
+    "id": 383219,
+    "name": "Exhilarating Blows",
+    "icon": "warrior_talent_icon_igniteweapon",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383219/exhilarating-blows",
+    "links": [
+      70,
+      76
     ]
   },
   {
@@ -277,7 +265,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=281001/massacre",
     "links": [
-      114
+      76,
+      82
     ]
   },
   {
@@ -291,8 +280,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=260708/sweeping-strikes",
     "links": [
-      114,
-      116
+      82
     ]
   },
   {
@@ -306,7 +294,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=845/cleave",
     "links": [
-      118
+      82
     ]
   },
   {
@@ -320,7 +308,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386357/tide-of-blood",
     "links": [
-      121
+      85
     ]
   },
   {
@@ -334,7 +322,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383287/bloodborne?def=117140&rank=1",
     "links": [
-      121
+      87
     ]
   },
   {
@@ -348,8 +336,22 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=262150/dreadnaught",
     "links": [
-      121,
-      127
+      87,
+      89
+    ]
+  },
+  {
+    "id": 383293,
+    "name": "Reaping Swings",
+    "icon": "ability_rogue_cuttothechase",
+    "capacity": 1,
+    "cell": 118,
+    "row": 7,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383293/reaping-swings",
+    "links": [
+      101
     ]
   },
   {
@@ -371,7 +373,7 @@
       "url": "https://www.wowhead.com/beta/spell=385008/test-of-might"
     },
     "links": [
-      127
+      93
     ]
   },
   {
@@ -393,7 +395,7 @@
       "url": "https://www.wowhead.com/beta/spell=262161/warbreaker"
     },
     "links": [
-      127
+      93
     ]
   },
   {
@@ -407,8 +409,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385573/improved-mortal-strike",
     "links": [
-      127,
-      133
+      97,
+      99
     ]
   },
   {
@@ -430,21 +432,7 @@
       "url": "https://www.wowhead.com/beta/spell=334779/collateral-damage"
     },
     "links": [
-      133
-    ]
-  },
-  {
-    "id": 383293,
-    "name": "Reaping Swings",
-    "icon": "ability_rogue_cuttothechase",
-    "capacity": 1,
-    "cell": 118,
-    "row": 7,
-    "column": 17,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383293/reaping-swings",
-    "links": [
-      133
+      99
     ]
   },
   {
@@ -458,8 +446,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389308/deft-experience?def=117314&rank=1",
     "links": [
-      136,
-      140
+      102,
+      104,
+      106
     ]
   },
   {
@@ -473,7 +462,10 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383338/valor-in-victory?def=117320&rank=1",
     "links": [
-      144
+      106,
+      109,
+      111,
+      114
     ]
   },
   {
@@ -487,8 +479,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389306/critical-thinking?def=117322&rank=1",
     "links": [
-      148,
-      152
+      114,
+      116,
+      118
     ]
   },
   {
@@ -502,7 +495,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383154/bloodletting",
     "links": [
-      155
+      121
     ]
   },
   {
@@ -516,7 +509,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386630/battlelord",
     "links": [
-      155
+      121
     ]
   },
   {
@@ -530,9 +523,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=227847/bladestorm",
     "links": [
-      159,
-      161,
-      163
+      127
     ]
   },
   {
@@ -546,7 +537,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383341/sharpened-blades",
     "links": [
-      167
+      133
     ]
   },
   {
@@ -560,7 +551,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386634/executioners-precision",
     "links": [
-      167
+      133
     ]
   },
   {
@@ -572,7 +563,11 @@
     "row": 10,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383703/fatality"
+    "url": "https://www.wowhead.com/beta/spell=383703/fatality",
+    "links": [
+      136,
+      140
+    ]
   },
   {
     "id": 390713,
@@ -583,7 +578,10 @@
     "row": 10,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390713/dance-of-death"
+    "url": "https://www.wowhead.com/beta/spell=390713/dance-of-death",
+    "links": [
+      144
+    ]
   },
   {
     "cell": 161,
@@ -600,9 +598,12 @@
     "right": {
       "id": 390563,
       "name": "Hurricane",
-      "icon": "ability_warrior_bladestorm",
+      "icon": "ability_skyreach_wind",
       "url": "https://www.wowhead.com/beta/spell=390563/hurricane"
-    }
+    },
+    "links": [
+      144
+    ]
   },
   {
     "id": 383317,
@@ -613,7 +614,10 @@
     "row": 10,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383317/merciless-bonegrinder"
+    "url": "https://www.wowhead.com/beta/spell=383317/merciless-bonegrinder",
+    "links": [
+      144
+    ]
   },
   {
     "id": 383292,
@@ -624,6 +628,10 @@
     "row": 10,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383292/juggernaut"
+    "url": "https://www.wowhead.com/beta/spell=383292/juggernaut",
+    "links": [
+      148,
+      152
+    ]
   }
 ]

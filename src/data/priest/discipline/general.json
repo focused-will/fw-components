@@ -8,11 +8,7 @@
     "row": 1,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=139/renew",
-    "links": [
-      19,
-      23
-    ]
+    "url": "https://www.wowhead.com/beta/spell=139/renew"
   },
   {
     "id": 528,
@@ -23,12 +19,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=528/dispel-magic",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=528/dispel-magic"
   },
   {
     "id": 34433,
@@ -39,11 +30,7 @@
     "row": 1,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=34433/shadowfiend",
-    "links": [
-      27,
-      31
-    ]
+    "url": "https://www.wowhead.com/beta/spell=34433/shadowfiend"
   },
   {
     "id": 33076,
@@ -56,9 +43,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=33076/prayer-of-mending",
     "links": [
-      34,
-      38,
-      53
+      4
     ]
   },
   {
@@ -72,9 +57,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393870/improved-flash-heal",
     "links": [
-      38,
-      40,
-      42
+      4,
+      8
     ]
   },
   {
@@ -88,7 +72,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390632/improved-purify",
     "links": [
-      42
+      8
     ]
   },
   {
@@ -102,8 +86,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196704/psychic-voice",
     "links": [
-      42,
-      46
+      8,
+      12
     ]
   },
   {
@@ -117,8 +101,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=32379/shadow-word-death",
     "links": [
-      46,
-      50
+      12
     ]
   },
   {
@@ -132,7 +115,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=372354/focused-mending",
     "links": [
-      53
+      19
     ]
   },
   {
@@ -146,9 +129,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=132157/holy-nova",
     "links": [
-      53,
-      55,
-      57
+      19,
+      23
     ]
   },
   {
@@ -170,7 +152,7 @@
       "url": "https://www.wowhead.com/beta/spell=390615/from-darkness-comes-light"
     },
     "links": [
-      57
+      23
     ]
   },
   {
@@ -184,9 +166,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=121536/angelic-feather",
     "links": [
-      57,
-      59,
-      61
+      23,
+      25,
+      27
     ]
   },
   {
@@ -200,8 +182,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=108942/phantasm",
     "links": [
-      61,
-      65
+      27,
+      31
     ]
   },
   {
@@ -215,8 +197,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321291/death-and-madness",
     "links": [
-      65,
-      84
+      31
     ]
   },
   {
@@ -238,9 +219,9 @@
       "url": "https://www.wowhead.com/beta/spell=390767/blessed-recovery"
     },
     "links": [
-      68,
-      72,
-      87
+      19,
+      34,
+      38
     ]
   },
   {
@@ -254,7 +235,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390622/rhapsody",
     "links": [
-      72
+      38
     ]
   },
   {
@@ -268,9 +249,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=73325/leap-of-faith",
     "links": [
-      72,
-      74,
-      76
+      38,
+      40,
+      42
     ]
   },
   {
@@ -284,7 +265,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=9484/shackle-undead",
     "links": [
-      76
+      42
     ]
   },
   {
@@ -306,8 +287,8 @@
       "url": "https://www.wowhead.com/beta/spell=108920/void-tendrils"
     },
     "links": [
-      76,
-      80
+      42,
+      46
     ]
   },
   {
@@ -329,8 +310,8 @@
       "url": "https://www.wowhead.com/beta/spell=205364/dominate-mind"
     },
     "links": [
-      80,
-      99
+      46,
+      50
     ]
   },
   {
@@ -344,7 +325,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377438/words-of-the-pious",
     "links": [
-      87
+      53
     ]
   },
   {
@@ -358,9 +339,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=32375/mass-dispel",
     "links": [
-      87,
-      89,
-      91
+      53,
+      55,
+      57
     ]
   },
   {
@@ -374,7 +355,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390620/move-with-grace",
     "links": [
-      91
+      57
     ]
   },
   {
@@ -388,9 +369,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=10060/power-infusion",
     "links": [
-      91,
-      93,
-      95
+      57,
+      59,
+      61
     ]
   },
   {
@@ -404,9 +385,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=15286/vampiric-embrace",
     "links": [
-      95,
-      97,
-      99
+      61,
+      65
     ]
   },
   {
@@ -420,7 +400,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373223/tithe-evasion",
     "links": [
-      99
+      50
     ]
   },
   {
@@ -434,7 +414,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390676/inspiration",
     "links": [
-      106
+      53,
+      68,
+      72
     ]
   },
   {
@@ -448,7 +430,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=341167/improved-mass-dispel",
     "links": [
-      106
+      72
     ]
   },
   {
@@ -462,8 +444,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=64129/body-and-soul",
     "links": [
-      106,
-      110
+      72,
+      74,
+      76
     ]
   },
   {
@@ -477,7 +460,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373466/twins-of-the-sun-priestess",
     "links": [
-      110
+      76
     ]
   },
   {
@@ -491,8 +474,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=280749/void-shield",
     "links": [
-      110,
-      114
+      76,
+      80
     ]
   },
   {
@@ -506,7 +489,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=199855/sanlayn",
     "links": [
-      114
+      80
     ]
   },
   {
@@ -520,7 +503,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390668/apathy",
     "links": [
-      114
+      65,
+      80,
+      84
     ]
   },
   {
@@ -534,8 +519,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373456/unwavering-will?def=108852&rank=1",
     "links": [
-      121,
-      125
+      87,
+      89,
+      91
     ]
   },
   {
@@ -549,8 +535,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390972/twist-of-fate?def=108838&rank=1",
     "links": [
-      125,
-      129
+      91,
+      93,
+      95
     ]
   },
   {
@@ -564,8 +551,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377422/throes-of-pain?def=108866&rank=1",
     "links": [
-      129,
-      133
+      95,
+      97,
+      99
     ]
   },
   {
@@ -587,8 +575,7 @@
       "url": "https://www.wowhead.com/beta/spell=368275/binding-heals"
     },
     "links": [
-      138,
-      140
+      106
     ]
   },
   {
@@ -610,8 +597,8 @@
       "url": "https://www.wowhead.com/beta/spell=120517/halo"
     },
     "links": [
-      140,
-      144
+      106,
+      110
     ]
   },
   {
@@ -625,8 +612,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373446/translucent-image",
     "links": [
-      144,
-      148
+      110,
+      114
     ]
   },
   {
@@ -640,8 +627,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=375901/mindgames",
     "links": [
-      148,
-      150
+      114
     ]
   },
   {
@@ -655,7 +641,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=109186/surge-of-light?def=108828&rank=1",
     "links": [
-      155
+      121
     ]
   },
   {
@@ -669,7 +655,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373450/lights-inspiration?def=108831&rank=1",
     "links": [
-      159
+      121,
+      125
     ]
   },
   {
@@ -683,8 +670,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373457/crystalline-reflection?def=108834&rank=1",
     "links": [
-      159,
-      163
+      125,
+      129
     ]
   },
   {
@@ -698,7 +685,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390670/improved-fade?def=108841&rank=1",
     "links": [
-      163
+      129,
+      133
     ]
   },
   {
@@ -712,7 +700,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390996/manipulation?def=108823&rank=1",
     "links": [
-      167
+      133
     ]
   },
   {
@@ -724,7 +712,10 @@
     "row": 10,
     "column": 3,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=373481/power-word-life"
+    "url": "https://www.wowhead.com/beta/spell=373481/power-word-life",
+    "links": [
+      138
+    ]
   },
   {
     "id": 108945,
@@ -735,7 +726,11 @@
     "row": 10,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=108945/angelic-bulwark"
+    "url": "https://www.wowhead.com/beta/spell=108945/angelic-bulwark",
+    "links": [
+      140,
+      144
+    ]
   },
   {
     "id": 108968,
@@ -746,7 +741,11 @@
     "row": 10,
     "column": 11,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=108968/void-shift"
+    "url": "https://www.wowhead.com/beta/spell=108968/void-shift",
+    "links": [
+      144,
+      148
+    ]
   },
   {
     "id": 391112,
@@ -757,6 +756,9 @@
     "row": 10,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391112/shattered-perceptions"
+    "url": "https://www.wowhead.com/beta/spell=391112/shattered-perceptions",
+    "links": [
+      150
+    ]
   }
 ]

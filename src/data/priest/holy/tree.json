@@ -8,12 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=2050/holy-word-serenity",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=2050/holy-word-serenity"
   },
   {
     "id": 596,
@@ -26,8 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=596/prayer-of-healing",
     "links": [
-      38,
-      57
+      8
     ]
   },
   {
@@ -41,7 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=47788/guardian-spirit",
     "links": [
-      42
+      8
     ]
   },
   {
@@ -55,8 +49,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=88625/holy-word-chastise",
     "links": [
-      44,
-      46
+      8
     ]
   },
   {
@@ -70,9 +63,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=34861/holy-word-sanctify",
     "links": [
-      53,
-      55,
-      57
+      23
     ]
   },
   {
@@ -94,9 +85,7 @@
       "url": "https://www.wowhead.com/beta/spell=196437/guardians-of-the-light"
     },
     "links": [
-      57,
-      59,
-      61
+      25
     ]
   },
   {
@@ -110,7 +99,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=200199/censure",
     "links": [
-      61
+      27
     ]
   },
   {
@@ -124,8 +113,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=372307/burning-vehemence",
     "links": [
-      61,
-      65
+      27
     ]
   },
   {
@@ -139,8 +127,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=204883/circle-of-healing",
     "links": [
-      70,
-      72
+      38
     ]
   },
   {
@@ -162,8 +149,7 @@
       "url": "https://www.wowhead.com/beta/spell=196489/sanctified-prayers"
     },
     "links": [
-      72,
-      74
+      38
     ]
   },
   {
@@ -177,8 +163,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=238136/cosmic-ripple",
     "links": [
-      74,
-      76
+      23,
+      38,
+      42
     ]
   },
   {
@@ -192,7 +179,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196707/afterlife",
     "links": [
-      76
+      42
     ]
   },
   {
@@ -206,9 +193,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=341997/renewed-faith",
     "links": [
-      76,
-      78,
-      80
+      42,
+      44,
+      46
     ]
   },
   {
@@ -222,7 +209,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=372616/empyreal-blaze",
     "links": [
-      80
+      46
     ]
   },
   {
@@ -244,7 +231,7 @@
       "url": "https://www.wowhead.com/beta/spell=390881/healing-chorus"
     },
     "links": [
-      87
+      53
     ]
   },
   {
@@ -258,8 +245,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391209/prayerful-litany",
     "links": [
-      91,
-      106
+      53,
+      55
     ]
   },
   {
@@ -273,7 +260,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=200128/trail-of-light?def=108775&rank=1",
     "links": [
-      91
+      55,
+      57
     ]
   },
   {
@@ -287,9 +275,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=64843/divine-hymn",
     "links": [
-      91,
-      93,
-      95
+      57,
+      59,
+      61
     ]
   },
   {
@@ -303,7 +291,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=193155/enlightenment",
     "links": [
-      95
+      61
     ]
   },
   {
@@ -325,8 +313,8 @@
       "url": "https://www.wowhead.com/beta/spell=391154/holy-mending"
     },
     "links": [
-      95,
-      99
+      61,
+      65
     ]
   },
   {
@@ -340,7 +328,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390947/orison",
     "links": [
-      106
+      70
     ]
   },
   {
@@ -354,8 +342,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391161/everlasting-light",
     "links": [
-      106,
-      110
+      72,
+      74,
+      76
     ]
   },
   {
@@ -369,7 +358,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=372370/gales-of-song?def=108752&rank=1",
     "links": [
-      110
+      76
     ]
   },
   {
@@ -383,8 +372,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=64901/symbol-of-hope",
     "links": [
-      110,
-      114
+      76,
+      78,
+      80
     ]
   },
   {
@@ -398,22 +388,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391233/divine-service",
     "links": [
-      114
-    ]
-  },
-  {
-    "id": 390954,
-    "name": "Crisis Management",
-    "icon": "spell_holy_flashheal",
-    "capacity": 2,
-    "cell": 106,
-    "row": 7,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390954/crisis-management?def=108767&rank=1",
-    "links": [
-      121,
-      125
+      80
     ]
   },
   {
@@ -427,8 +402,25 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390967/prismatic-echoes?def=108753&rank=1",
     "links": [
-      125,
-      129
+      91,
+      93,
+      95
+    ]
+  },
+  {
+    "id": 390954,
+    "name": "Crisis Management",
+    "icon": "spell_holy_flashheal",
+    "capacity": 2,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390954/crisis-management?def=108767&rank=1",
+    "links": [
+      72,
+      87,
+      91
     ]
   },
   {
@@ -442,8 +434,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390977/prayers-of-the-virtuous?def=108755&rank=1",
     "links": [
-      129,
-      133
+      95,
+      99
     ]
   },
   {
@@ -457,8 +449,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390980/pontifex",
     "links": [
-      138,
-      140
+      106
     ]
   },
   {
@@ -480,9 +471,8 @@
       "url": "https://www.wowhead.com/beta/spell=265202/holy-word-salvation"
     },
     "links": [
-      140,
-      142,
-      144
+      106,
+      110
     ]
   },
   {
@@ -504,8 +494,8 @@
       "url": "https://www.wowhead.com/beta/spell=391368/rapid-recovery"
     },
     "links": [
-      144,
-      148
+      110,
+      114
     ]
   },
   {
@@ -519,8 +509,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391186/say-your-prayers",
     "links": [
-      148,
-      150
+      114
     ]
   },
   {
@@ -534,7 +523,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=372309/resonant-words?def=108740&rank=1",
     "links": [
-      157
+      121
     ]
   },
   {
@@ -548,7 +537,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391381/desperate-times?def=108746&rank=1",
     "links": [
-      157
+      121,
+      125
     ]
   },
   {
@@ -562,7 +552,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196985/light-of-the-naaru?def=108769&rank=1",
     "links": [
-      161
+      125
     ]
   },
   {
@@ -576,7 +566,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390994/harmonious-apparatus?def=108749&rank=1",
     "links": [
-      161
+      125,
+      129
     ]
   },
   {
@@ -590,7 +581,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=372611/searing-light?def=108743&rank=1",
     "links": [
-      165
+      129,
+      133
     ]
   },
   {
@@ -604,7 +596,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391387/answered-prayers?def=108745&rank=1",
     "links": [
-      165
+      133
     ]
   },
   {
@@ -624,7 +616,11 @@
       "name": "Lightwell",
       "icon": "spell_holy_summonlightwell",
       "url": "https://www.wowhead.com/beta/spell=372835/lightwell"
-    }
+    },
+    "links": [
+      138,
+      140
+    ]
   },
   {
     "cell": 161,
@@ -643,7 +639,11 @@
       "name": "Divine Word",
       "icon": "spell_priest_chakra",
       "url": "https://www.wowhead.com/beta/spell=372760/divine-word"
-    }
+    },
+    "links": [
+      142,
+      144
+    ]
   },
   {
     "cell": 165,
@@ -662,6 +662,10 @@
       "name": "Restitution",
       "icon": "inv_staff_2h_artifactheartofkure_d_03",
       "url": "https://www.wowhead.com/beta/spell=391124/restitution"
-    }
+    },
+    "links": [
+      148,
+      150
+    ]
   }
 ]

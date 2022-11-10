@@ -8,11 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=364343/echo",
-    "links": [
-      23,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=364343/echo"
   },
   {
     "id": 355936,
@@ -25,8 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=355936/dream-breath",
     "links": [
-      38,
-      42
+      8
     ]
   },
   {
@@ -40,8 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=366155/reversion",
     "links": [
-      42,
-      46
+      8
     ]
   },
   {
@@ -55,7 +49,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=362874/temporal-compression",
     "links": [
-      55
+      23
     ]
   },
   {
@@ -69,7 +63,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=369297/essence-burst",
     "links": [
-      59
+      23,
+      27
     ]
   },
   {
@@ -83,7 +78,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=363534/rewind",
     "links": [
-      63
+      27
     ]
   },
   {
@@ -97,9 +92,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=367226/spiritbloom",
     "links": [
-      70,
-      72,
-      74
+      38
     ]
   },
   {
@@ -113,9 +106,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375722/essence-attunement",
     "links": [
-      74,
-      76,
-      78
+      42
     ]
   },
   {
@@ -129,9 +120,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=357170/time-dilation",
     "links": [
-      78,
-      80,
-      82
+      46
     ]
   },
   {
@@ -145,8 +134,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=370960/emerald-communion",
     "links": [
-      87,
-      89
+      55
     ]
   },
   {
@@ -166,7 +154,10 @@
       "name": "Spiritual Clarity",
       "icon": "ability_evoker_spiritbloom",
       "url": "https://www.wowhead.com/beta/spell=376150/spiritual-clarity"
-    }
+    },
+    "links": [
+      55
+    ]
   },
   {
     "id": 359793,
@@ -179,8 +170,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=359793/fluttering-seedlings?def=92634&rank=1",
     "links": [
-      89,
-      91
+      55,
+      59
     ]
   },
   {
@@ -194,7 +185,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=371426/life-givers-flame?def=92618&rank=1",
     "links": [
-      93
+      59
     ]
   },
   {
@@ -208,8 +199,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378196/golden-hour",
     "links": [
-      95,
-      97
+      59,
+      63
     ]
   },
   {
@@ -229,7 +220,10 @@
       "name": "Just in Time",
       "icon": "inv_offhand_1h_artifactsilverhand_d_01",
       "url": "https://www.wowhead.com/beta/spell=376204/just-in-time"
-    }
+    },
+    "links": [
+      63
+    ]
   },
   {
     "id": 373861,
@@ -242,8 +236,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=373861/temporal-anomaly",
     "links": [
-      97,
-      99
+      63
     ]
   },
   {
@@ -265,7 +258,7 @@
       "url": "https://www.wowhead.com/beta/spell=377086/rush-of-vitality"
     },
     "links": [
-      106
+      70
     ]
   },
   {
@@ -277,7 +270,11 @@
     "row": 6,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377100/exhilarating-burst?def=92597&rank=1"
+    "url": "https://www.wowhead.com/beta/spell=377100/exhilarating-burst?def=92597&rank=1",
+    "links": [
+      70,
+      74
+    ]
   },
   {
     "id": 370062,
@@ -290,8 +287,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=370062/field-of-dreams",
     "links": [
-      106,
-      110
+      74
     ]
   },
   {
@@ -305,7 +301,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=376179/lifeforce-mender?def=92619&rank=1",
     "links": [
-      110
+      76
     ]
   },
   {
@@ -319,8 +315,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=372527/time-lord?def=92617&rank=1",
     "links": [
-      110,
-      114
+      78
     ]
   },
   {
@@ -332,7 +327,11 @@
     "row": 6,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385696/flow-state?def=92612&rank=1"
+    "url": "https://www.wowhead.com/beta/spell=385696/flow-state?def=92612&rank=1",
+    "links": [
+      78,
+      82
+    ]
   },
   {
     "cell": 99,
@@ -353,7 +352,7 @@
       "url": "https://www.wowhead.com/beta/spell=376237/nozdormus-teachings"
     },
     "links": [
-      114
+      82
     ]
   },
   {
@@ -367,9 +366,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373834/call-of-ysera",
     "links": [
-      121,
-      123,
-      125
+      87,
+      91
     ]
   },
   {
@@ -383,9 +381,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373270/lifebind",
     "links": [
-      125,
-      127,
-      129
+      91,
+      93,
+      95
     ]
   },
   {
@@ -399,9 +397,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=371270/punctuality",
     "links": [
-      129,
-      131,
-      133
+      95,
+      99
     ]
   },
   {
@@ -415,7 +412,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377099/spark-of-insight",
     "links": [
-      140
+      106
     ]
   },
   {
@@ -429,7 +426,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=369908/power-nexus",
     "links": [
-      140
+      106
     ]
   },
   {
@@ -443,8 +440,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381921/ouroboros",
     "links": [
-      140,
-      144
+      106,
+      110
     ]
   },
   {
@@ -458,7 +455,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375783/font-of-magic",
     "links": [
-      144
+      110
     ]
   },
   {
@@ -480,8 +477,8 @@
       "url": "https://www.wowhead.com/beta/spell=381922/temporal-artificer"
     },
     "links": [
-      144,
-      148
+      110,
+      114
     ]
   },
   {
@@ -495,7 +492,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=372233/energy-loop",
     "links": [
-      148
+      114
     ]
   },
   {
@@ -509,7 +506,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=368412/time-of-need",
     "links": [
-      148
+      114
     ]
   },
   {
@@ -523,7 +520,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=371257/renewing-breath?def=92601&rank=1",
     "links": [
-      157
+      121,
+      123,
+      125
     ]
   },
   {
@@ -537,7 +536,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=376239/grace-period?def=92623&rank=1",
     "links": [
-      161
+      125,
+      127,
+      129
     ]
   },
   {
@@ -551,7 +552,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=376240/timeless-magic?def=92607&rank=1",
     "links": [
-      165
+      129,
+      131,
+      133
     ]
   },
   {
@@ -563,7 +566,10 @@
     "row": 10,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=359816/dream-flight"
+    "url": "https://www.wowhead.com/beta/spell=359816/dream-flight",
+    "links": [
+      140
+    ]
   },
   {
     "id": 371832,
@@ -574,7 +580,10 @@
     "row": 10,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=371832/cycle-of-life"
+    "url": "https://www.wowhead.com/beta/spell=371832/cycle-of-life",
+    "links": [
+      144
+    ]
   },
   {
     "id": 370537,
@@ -585,6 +594,9 @@
     "row": 10,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=370537/stasis"
+    "url": "https://www.wowhead.com/beta/spell=370537/stasis",
+    "links": [
+      148
+    ]
   }
 ]

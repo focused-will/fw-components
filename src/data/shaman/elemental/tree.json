@@ -8,12 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=8042/earth-shock",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=8042/earth-shock"
   },
   {
     "id": 61882,
@@ -26,7 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=61882/earthquake",
     "links": [
-      38
+      8
     ]
   },
   {
@@ -40,7 +35,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=60188/elemental-fury",
     "links": [
-      42
+      8
     ]
   },
   {
@@ -62,7 +57,7 @@
       "url": "https://www.wowhead.com/beta/spell=192249/storm-elemental"
     },
     "links": [
-      46
+      8
     ]
   },
   {
@@ -84,7 +79,7 @@
       "url": "https://www.wowhead.com/beta/spell=378776/inundate"
     },
     "links": [
-      55
+      23
     ]
   },
   {
@@ -106,7 +101,7 @@
       "url": "https://www.wowhead.com/beta/spell=382197/ancestral-wolf-affinity"
     },
     "links": [
-      59
+      25
     ]
   },
   {
@@ -128,7 +123,7 @@
       "url": "https://www.wowhead.com/beta/spell=381764/primordial-bond"
     },
     "links": [
-      63
+      27
     ]
   },
   {
@@ -142,8 +137,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378241/call-of-thunder",
     "links": [
-      70,
-      74
+      38
     ]
   },
   {
@@ -157,9 +151,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385923/flow-of-power",
     "links": [
-      74,
-      76,
-      78
+      42
     ]
   },
   {
@@ -173,8 +165,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=77756/lava-surge",
     "links": [
-      78,
-      82
+      46
     ]
   },
   {
@@ -188,7 +179,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382685/unrelenting-calamity",
     "links": [
-      87
+      55
     ]
   },
   {
@@ -202,7 +193,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=210714/icefury",
     "links": [
-      91
+      55,
+      59
     ]
   },
   {
@@ -216,8 +208,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381707/swelling-maelstrom",
     "links": [
-      95,
-      110
+      59
     ]
   },
   {
@@ -231,7 +222,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=333919/echo-of-the-elements",
     "links": [
-      95
+      59,
+      63
     ]
   },
   {
@@ -245,7 +237,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378255/call-of-fire",
     "links": [
-      99
+      63
     ]
   },
   {
@@ -259,8 +251,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=191634/stormkeeper",
     "links": [
-      102,
-      106
+      70
     ]
   },
   {
@@ -282,8 +273,7 @@
       "url": "https://www.wowhead.com/beta/spell=382086/electrified-shocks"
     },
     "links": [
-      106,
-      110
+      74
     ]
   },
   {
@@ -305,8 +295,8 @@
       "url": "https://www.wowhead.com/beta/spell=262303/surge-of-power"
     },
     "links": [
-      110,
-      114
+      76,
+      78
     ]
   },
   {
@@ -320,8 +310,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378266/flames-of-the-cauldron",
     "links": [
-      114,
-      118
+      82
     ]
   },
   {
@@ -335,8 +324,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381936/flash-of-lightning",
     "links": [
-      121,
-      136
+      87
     ]
   },
   {
@@ -350,9 +338,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381708/eye-of-the-storm?def=106821&rank=1",
     "links": [
-      121,
-      125,
-      140
+      87,
+      91
     ]
   },
   {
@@ -366,9 +353,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=191861/power-of-the-maelstrom?def=106824&rank=1",
     "links": [
-      125,
-      129,
-      144
+      76,
+      91,
+      95
     ]
   },
   {
@@ -382,9 +369,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=16166/master-of-the-elements?def=106829&rank=1",
     "links": [
-      129,
-      133,
-      148
+      95,
+      99
     ]
   },
   {
@@ -398,8 +384,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382027/improved-flametongue-weapon",
     "links": [
-      133,
-      152
+      99
     ]
   },
   {
@@ -413,8 +398,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=117014/elemental-blast",
     "links": [
-      136,
-      140
+      102,
+      106
     ]
   },
   {
@@ -428,9 +413,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=375982/primordial-wave",
     "links": [
-      140,
-      142,
-      144
+      106,
+      110
     ]
   },
   {
@@ -452,9 +436,8 @@
       "url": "https://www.wowhead.com/beta/spell=114050/ascendance"
     },
     "links": [
-      144,
-      146,
-      148
+      110,
+      114
     ]
   },
   {
@@ -476,8 +459,8 @@
       "url": "https://www.wowhead.com/beta/spell=192222/liquid-magma-totem"
     },
     "links": [
-      148,
-      152
+      114,
+      118
     ]
   },
   {
@@ -491,7 +474,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384087/echoes-of-great-sundering?def=106844&rank=1",
     "links": [
-      155
+      102,
+      121
     ]
   },
   {
@@ -505,7 +489,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378271/elemental-equilibrium?def=106841&rank=1",
     "links": [
-      155
+      106,
+      121,
+      125
     ]
   },
   {
@@ -519,7 +505,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386443/rolling-magma?def=106858&rank=1",
     "links": [
-      159
+      125
     ]
   },
   {
@@ -533,7 +519,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382032/echo-chamber?def=106839&rank=1",
     "links": [
-      161
+      110,
+      125,
+      129
     ]
   },
   {
@@ -547,7 +535,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381785/oath-of-the-far-seer?def=106826&rank=1",
     "links": [
-      163
+      129
     ]
   },
   {
@@ -561,7 +549,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381932/magma-chamber?def=106850&rank=1",
     "links": [
-      167
+      114,
+      129,
+      133
     ]
   },
   {
@@ -575,7 +565,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381782/searing-flames?def=106847&rank=1",
     "links": [
-      167
+      118,
+      133
     ]
   },
   {
@@ -595,7 +586,11 @@
       "name": "Stormkeeper",
       "icon": "ability_thunderking_lightningwhip",
       "url": "https://www.wowhead.com/beta/spell=191634/stormkeeper"
-    }
+    },
+    "links": [
+      136,
+      140
+    ]
   },
   {
     "cell": 159,
@@ -614,7 +609,10 @@
       "name": "Splintered Elements",
       "icon": "spell_nature_elementalprecision_1",
       "url": "https://www.wowhead.com/beta/spell=382042/splintered-elements"
-    }
+    },
+    "links": [
+      142
+    ]
   },
   {
     "id": 381726,
@@ -625,7 +623,10 @@
     "row": 10,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381726/mountains-will-fall"
+    "url": "https://www.wowhead.com/beta/spell=381726/mountains-will-fall",
+    "links": [
+      144
+    ]
   },
   {
     "id": 381787,
@@ -636,7 +637,10 @@
     "row": 10,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=381787/further-beyond"
+    "url": "https://www.wowhead.com/beta/spell=381787/further-beyond",
+    "links": [
+      146
+    ]
   },
   {
     "cell": 167,
@@ -655,6 +659,10 @@
       "name": "Skybreaker's Fiery Demise",
       "icon": "spell_fire_elemental_totem",
       "url": "https://www.wowhead.com/beta/spell=378310/skybreakers-fiery-demise"
-    }
+    },
+    "links": [
+      148,
+      152
+    ]
   }
 ]

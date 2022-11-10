@@ -8,10 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=23881/bloodthirst",
-    "links": [
-      25
-    ]
+    "url": "https://www.wowhead.com/beta/spell=23881/bloodthirst"
   },
   {
     "id": 85288,
@@ -24,9 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=85288/raging-blow",
     "links": [
-      39,
-      42,
-      45
+      8
     ]
   },
   {
@@ -40,8 +35,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383848/improved-enrage",
     "links": [
-      53,
-      56
+      25
     ]
   },
   {
@@ -55,10 +49,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=184364/enraged-regeneration",
     "links": [
-      56,
-      58,
-      60,
-      62
+      25
     ]
   },
   {
@@ -72,78 +63,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=316402/improved-execute",
     "links": [
-      62,
-      65
-    ]
-  },
-  {
-    "id": 383852,
-    "name": "Improved Bloodthirst",
-    "icon": "spell_nature_bloodlust",
-    "capacity": 1,
-    "cell": 53,
-    "row": 4,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383852/improved-bloodthirst",
-    "links": [
-      70
-    ]
-  },
-  {
-    "id": 215568,
-    "name": "Fresh Meat",
-    "icon": "ability_deathwing_bloodcorruption_death",
-    "capacity": 1,
-    "cell": 56,
-    "row": 4,
-    "column": 6,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=215568/fresh-meat",
-    "links": [
-      70
-    ]
-  },
-  {
-    "id": 208154,
-    "name": "Warpaint",
-    "icon": "ability_rogue_preparation",
-    "capacity": 1,
-    "cell": 58,
-    "row": 4,
-    "column": 8,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=208154/warpaint",
-    "links": [
-      76
-    ]
-  },
-  {
-    "id": 383468,
-    "name": "Invigorating Fury",
-    "icon": "spell_misc_emotionangry",
-    "capacity": 1,
-    "cell": 60,
-    "row": 4,
-    "column": 10,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383468/invigorating-fury",
-    "links": [
-      76
-    ]
-  },
-  {
-    "id": 280721,
-    "name": "Sudden Death",
-    "icon": "ability_warrior_improveddisciplines",
-    "capacity": 1,
-    "cell": 62,
-    "row": 4,
-    "column": 12,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=280721/sudden-death",
-    "links": [
-      82
+      25
     ]
   },
   {
@@ -157,7 +77,79 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383854/improved-raging-blow",
     "links": [
-      82
+      45
+    ]
+  },
+  {
+    "id": 383852,
+    "name": "Improved Bloodthirst",
+    "icon": "spell_nature_bloodlust",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383852/improved-bloodthirst",
+    "links": [
+      39
+    ]
+  },
+  {
+    "id": 215568,
+    "name": "Fresh Meat",
+    "icon": "ability_deathwing_bloodcorruption_death",
+    "capacity": 1,
+    "cell": 56,
+    "row": 4,
+    "column": 6,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=215568/fresh-meat",
+    "links": [
+      39,
+      42
+    ]
+  },
+  {
+    "id": 208154,
+    "name": "Warpaint",
+    "icon": "ability_rogue_preparation",
+    "capacity": 1,
+    "cell": 58,
+    "row": 4,
+    "column": 8,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=208154/warpaint",
+    "links": [
+      42
+    ]
+  },
+  {
+    "id": 383468,
+    "name": "Invigorating Fury",
+    "icon": "spell_misc_emotionangry",
+    "capacity": 1,
+    "cell": 60,
+    "row": 4,
+    "column": 10,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383468/invigorating-fury",
+    "links": [
+      42
+    ]
+  },
+  {
+    "id": 280721,
+    "name": "Sudden Death",
+    "icon": "ability_warrior_improveddisciplines",
+    "capacity": 1,
+    "cell": 62,
+    "row": 4,
+    "column": 12,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=280721/sudden-death",
+    "links": [
+      42,
+      45
     ]
   },
   {
@@ -171,9 +163,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383486/focus-in-chaos",
     "links": [
-      85,
-      87,
-      89
+      53,
+      56
     ]
   },
   {
@@ -187,9 +178,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=184367/rampage",
     "links": [
-      91,
-      93,
-      95
+      58,
+      60
     ]
   },
   {
@@ -203,23 +193,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392931/cruelty",
     "links": [
-      97,
-      99,
-      101
-    ]
-  },
-  {
-    "id": 81099,
-    "name": "Single-Minded Fury",
-    "icon": "warrior_talent_icon_singlemindedfury",
-    "capacity": 1,
-    "cell": 85,
-    "row": 6,
-    "column": 1,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=81099/single-minded-fury",
-    "links": [
-      102
+      62,
+      65
     ]
   },
   {
@@ -233,8 +208,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383959/cold-steel-hot-blood",
     "links": [
-      104,
-      106
+      70
     ]
   },
   {
@@ -248,81 +222,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383885/vicious-contempt?def=117278&rank=1",
     "links": [
-      106
-    ]
-  },
-  {
-    "id": 335077,
-    "name": "Frenzy",
-    "icon": "ability_rogue_bloodyeye",
-    "capacity": 1,
-    "cell": 91,
-    "row": 6,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=335077/frenzy",
-    "links": [
-      106,
-      110
-    ]
-  },
-  {
-    "id": 383877,
-    "name": "Hack and Slash",
-    "icon": "ability_rogue_rollthebones02",
-    "capacity": 1,
-    "cell": 93,
-    "row": 6,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383877/hack-and-slash",
-    "links": [
-      110
-    ]
-  },
-  {
-    "id": 388004,
-    "name": "Slaughtering Strikes",
-    "icon": "inv_axe_2h_orcwarrior_c_01",
-    "capacity": 1,
-    "cell": 95,
-    "row": 6,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388004/slaughtering-strikes",
-    "links": [
-      110,
-      114
-    ]
-  },
-  {
-    "id": 392536,
-    "name": "Ashen Juggernaut",
-    "icon": "warrior_talent_icon_skirmisher",
-    "capacity": 1,
-    "cell": 97,
-    "row": 6,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392536/ashen-juggernaut",
-    "links": [
-      114
-    ]
-  },
-  {
-    "id": 12950,
-    "name": "Improved Whirlwind",
-    "icon": "ability_whirlwind",
-    "capacity": 1,
-    "cell": 99,
-    "row": 6,
-    "column": 15,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=12950/improved-whirlwind",
-    "links": [
-      114,
-      116,
-      118
+      70
     ]
   },
   {
@@ -336,63 +236,91 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392936/wrath-and-fury",
     "links": [
-      118
+      82
     ]
   },
   {
-    "id": 383605,
-    "name": "Frenzied Flurry",
-    "icon": "ability_ghoulfrenzy",
+    "id": 81099,
+    "name": "Single-Minded Fury",
+    "icon": "warrior_talent_icon_singlemindedfury",
     "capacity": 1,
-    "cell": 102,
-    "row": 7,
+    "cell": 85,
+    "row": 6,
     "column": 1,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383605/frenzied-flurry",
+    "url": "https://www.wowhead.com/beta/spell=81099/single-minded-fury",
     "links": [
-      121
+      70
     ]
   },
   {
-    "id": 385703,
-    "name": "Bloodborne",
-    "icon": "inv_artifact_bloodoftheassassinated",
+    "id": 335077,
+    "name": "Frenzy",
+    "icon": "ability_rogue_bloodyeye",
     "capacity": 1,
-    "cell": 104,
-    "row": 7,
-    "column": 3,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385703/bloodborne",
+    "url": "https://www.wowhead.com/beta/spell=335077/frenzy",
     "links": [
-      121
+      76
     ]
   },
   {
-    "id": 393950,
-    "name": "Bloodcraze",
-    "icon": "ability_creature_cursed_02",
+    "id": 383877,
+    "name": "Hack and Slash",
+    "icon": "ability_rogue_rollthebones02",
     "capacity": 1,
-    "cell": 106,
-    "row": 7,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393950/bloodcraze",
-    "links": [
-      121
-    ]
-  },
-  {
-    "id": 1719,
-    "name": "Recklessness",
-    "icon": "warrior_talent_icon_innerrage",
-    "capacity": 1,
-    "cell": 110,
-    "row": 7,
+    "cell": 93,
+    "row": 6,
     "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=1719/recklessness",
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383877/hack-and-slash",
     "links": [
-      127
+      76
+    ]
+  },
+  {
+    "id": 388004,
+    "name": "Slaughtering Strikes",
+    "icon": "inv_axe_2h_orcwarrior_c_01",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388004/slaughtering-strikes",
+    "links": [
+      76
+    ]
+  },
+  {
+    "id": 392536,
+    "name": "Ashen Juggernaut",
+    "icon": "warrior_talent_icon_skirmisher",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392536/ashen-juggernaut",
+    "links": [
+      82
+    ]
+  },
+  {
+    "id": 12950,
+    "name": "Improved Whirlwind",
+    "icon": "ability_whirlwind",
+    "capacity": 1,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=12950/improved-whirlwind",
+    "links": [
+      82
     ]
   },
   {
@@ -406,21 +334,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=206315/massacre",
     "links": [
-      133
-    ]
-  },
-  {
-    "id": 280392,
-    "name": "Meat Cleaver",
-    "icon": "ability_whirlwind",
-    "capacity": 1,
-    "cell": 116,
-    "row": 7,
-    "column": 15,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=280392/meat-cleaver",
-    "links": [
-      133
+      95,
+      97,
+      99
     ]
   },
   {
@@ -434,7 +350,82 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388049/raging-armaments",
     "links": [
-      133
+      99,
+      101
+    ]
+  },
+  {
+    "id": 383605,
+    "name": "Frenzied Flurry",
+    "icon": "ability_ghoulfrenzy",
+    "capacity": 1,
+    "cell": 102,
+    "row": 7,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383605/frenzied-flurry",
+    "links": [
+      85
+    ]
+  },
+  {
+    "id": 385703,
+    "name": "Bloodborne",
+    "icon": "inv_artifact_bloodoftheassassinated",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385703/bloodborne",
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 393950,
+    "name": "Bloodcraze",
+    "icon": "ability_creature_cursed_02",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393950/bloodcraze",
+    "links": [
+      87,
+      89,
+      91
+    ]
+  },
+  {
+    "id": 1719,
+    "name": "Recklessness",
+    "icon": "warrior_talent_icon_innerrage",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1719/recklessness",
+    "links": [
+      91,
+      93,
+      95
+    ]
+  },
+  {
+    "id": 280392,
+    "name": "Meat Cleaver",
+    "icon": "ability_whirlwind",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=280392/meat-cleaver",
+    "links": [
+      99
     ]
   },
   {
@@ -448,24 +439,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383295/deft-experience?def=117297&rank=1",
     "links": [
-      136,
-      140
-    ]
-  },
-  {
-    "id": 383459,
-    "name": "Swift Strikes",
-    "icon": "ability_rogue_sprint",
-    "capacity": 2,
-    "cell": 127,
-    "row": 8,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383459/swift-strikes?def=117291&rank=1",
-    "links": [
-      140,
-      144,
-      148
+      102,
+      104,
+      106
     ]
   },
   {
@@ -479,8 +455,23 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383297/critical-thinking?def=117301&rank=1",
     "links": [
-      148,
-      152
+      114,
+      116,
+      118
+    ]
+  },
+  {
+    "id": 383459,
+    "name": "Swift Strikes",
+    "icon": "ability_rogue_sprint",
+    "capacity": 2,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383459/swift-strikes?def=117291&rank=1",
+    "links": [
+      110
     ]
   },
   {
@@ -494,7 +485,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=388903/storm-of-swords",
     "links": [
-      153
+      121
     ]
   },
   {
@@ -508,7 +499,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=385059/odyns-fury",
     "links": [
-      157
+      121,
+      127
     ]
   },
   {
@@ -530,8 +522,7 @@
       "url": "https://www.wowhead.com/beta/spell=396749/reckless-abandon"
     },
     "links": [
-      160,
-      162
+      127
     ]
   },
   {
@@ -545,7 +536,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=315720/onslaught",
     "links": [
-      165
+      127,
+      133
     ]
   },
   {
@@ -559,7 +551,21 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=228920/ravager",
     "links": [
-      169
+      133
+    ]
+  },
+  {
+    "id": 389603,
+    "name": "Unbridled Ferocity",
+    "icon": "ability_warrior_endlessrage",
+    "capacity": 1,
+    "cell": 160,
+    "row": 10,
+    "column": 8,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389603/unbridled-ferocity",
+    "links": [
+      144
     ]
   },
   {
@@ -571,7 +577,10 @@
     "row": 10,
     "column": 1,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383916/annihilator"
+    "url": "https://www.wowhead.com/beta/spell=383916/annihilator",
+    "links": [
+      136
+    ]
   },
   {
     "cell": 157,
@@ -590,18 +599,10 @@
       "name": "Titanic Rage",
       "icon": "inv_sword_1h_artifactvigfus_d_02",
       "url": "https://www.wowhead.com/beta/spell=394329/titanic-rage"
-    }
-  },
-  {
-    "id": 389603,
-    "name": "Unbridled Ferocity",
-    "icon": "ability_warrior_endlessrage",
-    "capacity": 1,
-    "cell": 160,
-    "row": 10,
-    "column": 8,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389603/unbridled-ferocity"
+    },
+    "links": [
+      140
+    ]
   },
   {
     "id": 383922,
@@ -612,7 +613,10 @@
     "row": 10,
     "column": 10,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383922/depths-of-insanity"
+    "url": "https://www.wowhead.com/beta/spell=383922/depths-of-insanity",
+    "links": [
+      144
+    ]
   },
   {
     "id": 388933,
@@ -623,7 +627,10 @@
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388933/tenderize"
+    "url": "https://www.wowhead.com/beta/spell=388933/tenderize",
+    "links": [
+      148
+    ]
   },
   {
     "cell": 169,
@@ -640,8 +647,11 @@
     "right": {
       "id": 390563,
       "name": "Hurricane",
-      "icon": "ability_warrior_bladestorm",
+      "icon": "ability_skyreach_wind",
       "url": "https://www.wowhead.com/beta/spell=390563/hurricane"
-    }
+    },
+    "links": [
+      152
+    ]
   }
 ]

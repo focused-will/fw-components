@@ -8,11 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=357211/pyre",
-    "links": [
-      23,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=357211/pyre"
   },
   {
     "id": 376872,
@@ -25,8 +21,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=376872/ruby-essence-burst",
     "links": [
-      38,
-      42
+      8
     ]
   },
   {
@@ -40,8 +35,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375721/azure-essence-burst",
     "links": [
-      42,
-      46
+      8
     ]
   },
   {
@@ -55,8 +49,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=370962/dense-energy",
     "links": [
-      53,
-      57
+      23
     ]
   },
   {
@@ -78,7 +71,8 @@
       "url": "https://www.wowhead.com/beta/spell=386405/inner-radiance"
     },
     "links": [
-      59
+      23,
+      27
     ]
   },
   {
@@ -92,8 +86,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=359073/eternity-surge",
     "links": [
-      61,
-      65
+      27
     ]
   },
   {
@@ -107,7 +100,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=369089/volatility?def=92674&rank=1",
     "links": [
-      72
+      38
     ]
   },
   {
@@ -121,7 +114,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=369908/power-nexus",
     "links": [
-      72
+      38
     ]
   },
   {
@@ -135,7 +128,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=375087/dragonrage",
     "links": [
-      76
+      42
     ]
   },
   {
@@ -149,7 +142,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=371034/lay-waste?def=92650&rank=1",
     "links": [
-      80
+      46
     ]
   },
   {
@@ -163,7 +156,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375618/arcane-intensity?def=92648&rank=1",
     "links": [
-      80
+      46
     ]
   },
   {
@@ -185,8 +178,8 @@
       "url": "https://www.wowhead.com/beta/spell=370837/engulfing-blaze"
     },
     "links": [
-      87,
-      91
+      53,
+      57
     ]
   },
   {
@@ -200,9 +193,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375797/animosity",
     "links": [
-      91,
-      93,
-      95
+      59
     ]
   },
   {
@@ -216,9 +207,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375722/essence-attunement",
     "links": [
-      95,
-      97,
-      99
+      61,
+      65
     ]
   },
   {
@@ -232,8 +222,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=368847/firestorm",
     "links": [
-      106,
-      121
+      72
     ]
   },
   {
@@ -247,8 +236,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375725/heat-wave?def=92663&rank=1",
     "links": [
-      106,
-      110
+      72,
+      76
     ]
   },
   {
@@ -262,7 +251,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386272/titanic-wrath?def=92665&rank=1",
     "links": [
-      110
+      76
     ]
   },
   {
@@ -276,8 +265,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=371038/honed-aggression?def=92652&rank=1",
     "links": [
-      110,
-      114
+      76,
+      80
     ]
   },
   {
@@ -289,7 +278,10 @@
     "row": 6,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375757/eternitys-span"
+    "url": "https://www.wowhead.com/beta/spell=375757/eternitys-span",
+    "links": [
+      80
+    ]
   },
   {
     "cell": 99,
@@ -310,8 +302,7 @@
       "url": "https://www.wowhead.com/beta/spell=375777/causality"
     },
     "links": [
-      114,
-      116
+      80
     ]
   },
   {
@@ -325,7 +316,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386283/catalyze",
     "links": [
-      125
+      87,
+      91
     ]
   },
   {
@@ -339,9 +331,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=376888/tyranny",
     "links": [
-      125,
-      127,
-      129
+      91,
+      93,
+      95
     ]
   },
   {
@@ -355,7 +347,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=370455/charged-blast",
     "links": [
-      129
+      95,
+      99
     ]
   },
   {
@@ -369,7 +362,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=370452/shattering-star",
     "links": [
-      133
+      99
     ]
   },
   {
@@ -383,7 +376,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=370783/snapfire",
     "links": [
-      140
+      87
     ]
   },
   {
@@ -397,8 +390,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375783/font-of-magic",
     "links": [
-      140,
-      142
+      106,
+      110
     ]
   },
   {
@@ -412,8 +405,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386348/onyx-legacy",
     "links": [
-      142,
-      146
+      110
     ]
   },
   {
@@ -427,8 +419,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=370845/spellweavers-dominance",
     "links": [
-      146,
-      148
+      110,
+      114
     ]
   },
   {
@@ -450,7 +442,7 @@
       "url": "https://www.wowhead.com/beta/spell=386342/arcane-vigor"
     },
     "links": [
-      148
+      116
     ]
   },
   {
@@ -464,7 +456,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375801/burnout?def=92659&rank=1",
     "links": [
-      155
+      121,
+      125
     ]
   },
   {
@@ -478,7 +471,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=370781/imminent-destruction?def=92657&rank=1",
     "links": [
-      161
+      125,
+      127
     ]
   },
   {
@@ -492,7 +486,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=370821/scintillation?def=92655&rank=1",
     "links": [
-      161
+      127,
+      129
     ]
   },
   {
@@ -506,7 +501,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=370839/power-swell?def=92646&rank=1",
     "links": [
-      167
+      129,
+      133
     ]
   },
   {
@@ -526,7 +522,10 @@
       "name": "Everburning Flame",
       "icon": "spell_fire_burnout",
       "url": "https://www.wowhead.com/beta/spell=370819/everburning-flame"
-    }
+    },
+    "links": [
+      140
+    ]
   },
   {
     "id": 375796,
@@ -537,7 +536,11 @@
     "row": 10,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375796/hoarded-power"
+    "url": "https://www.wowhead.com/beta/spell=375796/hoarded-power",
+    "links": [
+      142,
+      146
+    ]
   },
   {
     "id": 370867,
@@ -548,6 +551,9 @@
     "row": 10,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=370867/iridescence"
+    "url": "https://www.wowhead.com/beta/spell=370867/iridescence",
+    "links": [
+      148
+    ]
   }
 ]

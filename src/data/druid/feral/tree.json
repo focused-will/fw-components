@@ -8,12 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=5217/tigers-fury",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=5217/tigers-fury"
   },
   {
     "id": 16864,
@@ -26,9 +21,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=16864/omen-of-clarity",
     "links": [
-      38,
-      42,
-      57
+      8
     ]
   },
   {
@@ -40,7 +33,10 @@
     "row": 2,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391037/primal-claws?def=108149&rank=1"
+    "url": "https://www.wowhead.com/beta/spell=391037/primal-claws?def=108149&rank=1",
+    "links": [
+      8
+    ]
   },
   {
     "id": 285381,
@@ -53,9 +49,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=285381/primal-wrath",
     "links": [
-      42,
-      46,
-      61
+      8
     ]
   },
   {
@@ -69,9 +63,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=231063/merciless-claws",
     "links": [
-      53,
-      55,
-      57
+      23
     ]
   },
   {
@@ -85,9 +77,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=202021/predator",
     "links": [
-      57,
-      59,
-      61
+      23,
+      27
     ]
   },
   {
@@ -101,7 +92,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391700/double-clawed-rake",
     "links": [
-      61
+      27
     ]
   },
   {
@@ -115,7 +106,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391947/protective-growth",
     "links": [
-      72
+      38
     ]
   },
   {
@@ -129,7 +120,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=155580/lunar-inspiration",
     "links": [
-      72
+      38
     ]
   },
   {
@@ -143,9 +134,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=202031/sabertooth",
     "links": [
-      72,
-      74,
-      76
+      23,
+      38,
+      42
     ]
   },
   {
@@ -157,7 +148,10 @@
     "row": 4,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383352/tireless-energy?def=108190&rank=1"
+    "url": "https://www.wowhead.com/beta/spell=383352/tireless-energy?def=108190&rank=1",
+    "links": [
+      42
+    ]
   },
   {
     "id": 390772,
@@ -170,23 +164,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390772/pouncing-strikes",
     "links": [
-      76,
-      78,
-      80
-    ]
-  },
-  {
-    "id": 384667,
-    "name": "Sudden Ambush",
-    "icon": "ability_hunter_catlikereflexes",
-    "capacity": 2,
-    "cell": 72,
-    "row": 5,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384667/sudden-ambush?def=108170&rank=1",
-    "links": [
-      89
+      27,
+      42,
+      46
     ]
   },
   {
@@ -200,22 +180,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391709/rampant-ferocity",
     "links": [
-      89
-    ]
-  },
-  {
-    "id": 106951,
-    "name": "Berserk",
-    "icon": "ability_druid_berserk",
-    "capacity": 1,
-    "cell": 76,
-    "row": 5,
-    "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=106951/berserk",
-    "links": [
-      92,
-      94
+      57
     ]
   },
   {
@@ -229,7 +194,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391785/tear-open-wounds",
     "links": [
-      97
+      61
     ]
   },
   {
@@ -243,8 +208,38 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384665/taste-for-blood?def=108187&rank=1",
     "links": [
-      97,
-      99
+      61
+    ]
+  },
+  {
+    "id": 384667,
+    "name": "Sudden Ambush",
+    "icon": "ability_hunter_catlikereflexes",
+    "capacity": 2,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384667/sudden-ambush?def=108170&rank=1",
+    "links": [
+      53,
+      55,
+      57
+    ]
+  },
+  {
+    "id": 106951,
+    "name": "Berserk",
+    "icon": "ability_druid_berserk",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=106951/berserk",
+    "links": [
+      57,
+      61
     ]
   },
   {
@@ -258,9 +253,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=16974/predatory-swiftness",
     "links": [
-      104,
-      106,
-      110
+      72,
+      74
     ]
   },
   {
@@ -274,7 +268,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=236068/moment-of-clarity",
     "links": [
-      110
+      76
     ]
   },
   {
@@ -288,7 +282,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=48484/infected-wounds",
     "links": [
-      110
+      76
     ]
   },
   {
@@ -302,9 +296,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391045/dreadful-bleeding",
     "links": [
-      110,
-      114,
-      116
+      78,
+      80
     ]
   },
   {
@@ -316,7 +309,10 @@
     "row": 6,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393771/relentless-predator"
+    "url": "https://www.wowhead.com/beta/spell=393771/relentless-predator",
+    "links": [
+      80
+    ]
   },
   {
     "cell": 104,
@@ -337,8 +333,7 @@
       "url": "https://www.wowhead.com/beta/spell=391872/tigers-tenacity"
     },
     "links": [
-      123,
-      138
+      89
     ]
   },
   {
@@ -352,7 +347,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391174/berserk-heart-of-the-lion",
     "links": [
-      123
+      89
     ]
   },
   {
@@ -366,7 +361,10 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=61336/survival-instincts",
     "links": [
-      127
+      89,
+      92,
+      94,
+      97
     ]
   },
   {
@@ -380,7 +378,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384668/berserk-frenzy",
     "links": [
-      131
+      97
     ]
   },
   {
@@ -402,8 +400,7 @@
       "url": "https://www.wowhead.com/beta/spell=390864/wild-slashes"
     },
     "links": [
-      131,
-      150
+      97
     ]
   },
   {
@@ -417,9 +414,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390902/carnivorous-instinct?def=108178&rank=1",
     "links": [
-      138,
-      142,
-      157
+      104,
+      106
     ]
   },
   {
@@ -433,9 +429,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391875/frantic-momentum?def=108184&rank=1",
     "links": [
-      142,
-      144,
-      146
+      110
     ]
   },
   {
@@ -449,9 +443,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386318/cats-curiosity?def=108160&rank=1",
     "links": [
-      146,
-      150,
-      165
+      114,
+      116
     ]
   },
   {
@@ -473,7 +466,8 @@
       "url": "https://www.wowhead.com/beta/spell=319439/bloodtalons"
     },
     "links": [
-      157
+      104,
+      123
     ]
   },
   {
@@ -487,7 +481,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=391888/adaptive-swarm",
     "links": [
-      159
+      123,
+      127
     ]
   },
   {
@@ -509,7 +504,7 @@
       "url": "https://www.wowhead.com/beta/spell=391528/convoke-the-spirits"
     },
     "links": [
-      161
+      127
     ]
   },
   {
@@ -523,7 +518,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=158476/soul-of-the-forest",
     "links": [
-      163
+      127,
+      131
     ]
   },
   {
@@ -545,7 +541,8 @@
       "url": "https://www.wowhead.com/beta/spell=391347/rip-and-tear"
     },
     "links": [
-      165
+      116,
+      131
     ]
   },
   {
@@ -557,7 +554,11 @@
     "row": 10,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=274837/feral-frenzy"
+    "url": "https://www.wowhead.com/beta/spell=274837/feral-frenzy",
+    "links": [
+      123,
+      138
+    ]
   },
   {
     "id": 391951,
@@ -568,7 +569,10 @@
     "row": 10,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391951/unbridled-swarm"
+    "url": "https://www.wowhead.com/beta/spell=391951/unbridled-swarm",
+    "links": [
+      142
+    ]
   },
   {
     "id": 391548,
@@ -579,7 +583,10 @@
     "row": 10,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391548/ashamanes-guidance"
+    "url": "https://www.wowhead.com/beta/spell=391548/ashamanes-guidance",
+    "links": [
+      144
+    ]
   },
   {
     "id": 391969,
@@ -590,7 +597,10 @@
     "row": 10,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391969/circle-of-life-and-death"
+    "url": "https://www.wowhead.com/beta/spell=391969/circle-of-life-and-death",
+    "links": [
+      146
+    ]
   },
   {
     "id": 391881,
@@ -601,6 +611,10 @@
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391881/apex-predators-craving"
+    "url": "https://www.wowhead.com/beta/spell=391881/apex-predators-craving",
+    "links": [
+      131,
+      150
+    ]
   }
 ]

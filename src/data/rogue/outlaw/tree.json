@@ -1,21 +1,5 @@
 [
   {
-    "id": 279876,
-    "name": "Opportunity",
-    "icon": "spell_shadow_ritualofsacrifice",
-    "capacity": 1,
-    "cell": 6,
-    "row": 1,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=279876/opportunity",
-    "links": [
-      21,
-      23,
-      25
-    ]
-  },
-  {
     "id": 13877,
     "name": "Blade Flurry",
     "icon": "ability_warrior_punishingblow",
@@ -24,12 +8,18 @@
     "row": 1,
     "column": 11,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=13877/blade-flurry",
-    "links": [
-      25,
-      27,
-      29
-    ]
+    "url": "https://www.wowhead.com/beta/spell=13877/blade-flurry"
+  },
+  {
+    "id": 279876,
+    "name": "Opportunity",
+    "icon": "spell_shadow_ritualofsacrifice",
+    "capacity": 1,
+    "cell": 6,
+    "row": 1,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=279876/opportunity"
   },
   {
     "id": 195457,
@@ -42,8 +32,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=195457/grappling-hook",
     "links": [
-      36,
-      40
+      6
     ]
   },
   {
@@ -57,7 +46,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=200733/weaponmaster",
     "links": [
-      40
+      6
     ]
   },
   {
@@ -71,7 +60,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=61329/combat-potency",
     "links": [
-      42
+      6,
+      10
     ]
   },
   {
@@ -85,7 +75,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381822/ambidexterity",
     "links": [
-      44
+      10
     ]
   },
   {
@@ -99,8 +89,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196922/hit-and-run",
     "links": [
-      44,
-      48
+      10
     ]
   },
   {
@@ -114,8 +103,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=256188/retractable-hook",
     "links": [
-      51,
-      55
+      21
     ]
   },
   {
@@ -129,8 +117,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381877/combat-stamina",
     "links": [
-      55,
-      57
+      21,
+      23
     ]
   },
   {
@@ -144,9 +132,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=13750/adrenaline-rush",
     "links": [
-      57,
-      59,
-      61
+      25
     ]
   },
   {
@@ -160,8 +146,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=344363/riposte",
     "links": [
-      61,
-      63
+      27,
+      29
     ]
   },
   {
@@ -175,8 +161,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381878/deft-maneuvers",
     "links": [
-      63,
-      67
+      29
     ]
   },
   {
@@ -190,7 +175,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=256165/blinding-powder",
     "links": [
-      70
+      36
     ]
   },
   {
@@ -204,8 +189,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=14161/ruthlessness",
     "links": [
-      70,
-      72
+      36,
+      40
     ]
   },
   {
@@ -219,7 +204,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381988/swift-slasher",
     "links": [
-      72
+      40,
+      42
     ]
   },
   {
@@ -233,7 +219,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=79096/restless-blades",
     "links": [
-      76
+      42
     ]
   },
   {
@@ -247,7 +233,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=35551/fatal-flourish",
     "links": [
-      80
+      42,
+      44
     ]
   },
   {
@@ -261,8 +248,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=235484/improved-between-the-eyes",
     "links": [
-      80,
-      82
+      44,
+      48
     ]
   },
   {
@@ -276,7 +263,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=108216/dirty-tricks",
     "links": [
-      82
+      48
     ]
   },
   {
@@ -290,7 +277,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381885/heavy-hitter",
     "links": [
-      87
+      51,
+      55
     ]
   },
   {
@@ -304,8 +292,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=394321/devious-stratagem",
     "links": [
-      87,
-      106
+      55,
+      57
     ]
   },
   {
@@ -319,9 +307,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=315508/roll-the-bones",
     "links": [
-      91,
-      93,
-      95
+      59
     ]
   },
   {
@@ -335,8 +321,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196938/quick-draw",
     "links": [
-      99,
-      114
+      61,
+      63
     ]
   },
   {
@@ -350,7 +336,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381828/ace-up-your-sleeve",
     "links": [
-      99
+      63,
+      67
     ]
   },
   {
@@ -364,7 +351,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381845/audacity",
     "links": [
-      106
+      70,
+      72
     ]
   },
   {
@@ -378,8 +366,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=256170/loaded-dice",
     "links": [
-      106,
-      110
+      76
     ]
   },
   {
@@ -393,7 +380,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=354897/float-like-a-butterfly",
     "links": [
-      110
+      76
     ]
   },
   {
@@ -407,8 +394,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381839/sleight-of-hand",
     "links": [
-      110,
-      114
+      76
     ]
   },
   {
@@ -422,7 +408,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=272026/dancing-steel",
     "links": [
-      114
+      80,
+      82
     ]
   },
   {
@@ -436,8 +423,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381894/triple-threat?def=117571&rank=1",
     "links": [
-      123,
-      125
+      72,
+      87,
+      91
     ]
   },
   {
@@ -451,7 +439,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381982/count-the-odds?def=117546&rank=1",
     "links": [
-      127
+      91,
+      93,
+      95
     ]
   },
   {
@@ -465,8 +455,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382746/improved-main-gauche?def=117560&rank=1",
     "links": [
-      129,
-      131
+      80,
+      95,
+      99
     ]
   },
   {
@@ -488,7 +479,7 @@
       "url": "https://www.wowhead.com/beta/spell=196937/ghostly-strike"
     },
     "links": [
-      140
+      106
     ]
   },
   {
@@ -502,7 +493,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=271877/blade-rush",
     "links": [
-      140
+      106
     ]
   },
   {
@@ -516,7 +507,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=395422/improved-adrenaline-rush",
     "links": [
-      144
+      110
     ]
   },
   {
@@ -538,7 +529,7 @@
       "url": "https://www.wowhead.com/beta/spell=343142/dreadblades"
     },
     "links": [
-      148
+      114
     ]
   },
   {
@@ -552,7 +543,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381985/precise-cuts",
     "links": [
-      148
+      114
     ]
   },
   {
@@ -566,7 +557,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382742/take-em-by-surprise?def=117568&rank=1",
     "links": [
-      159
+      123,
+      125
     ]
   },
   {
@@ -580,7 +572,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381990/summarily-dispatched?def=117544&rank=1",
     "links": [
-      161
+      127
     ]
   },
   {
@@ -594,7 +586,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381846/fan-the-hammer?def=117558&rank=1",
     "links": [
-      163
+      129,
+      131
     ]
   },
   {
@@ -606,7 +599,10 @@
     "row": 10,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383281/hidden-opportunity"
+    "url": "https://www.wowhead.com/beta/spell=383281/hidden-opportunity",
+    "links": [
+      140
+    ]
   },
   {
     "id": 381989,
@@ -617,7 +613,10 @@
     "row": 10,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=381989/keep-it-rolling"
+    "url": "https://www.wowhead.com/beta/spell=381989/keep-it-rolling",
+    "links": [
+      144
+    ]
   },
   {
     "id": 386823,
@@ -628,6 +627,9 @@
     "row": 10,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386823/greenskins-wickers"
+    "url": "https://www.wowhead.com/beta/spell=386823/greenskins-wickers",
+    "links": [
+      148
+    ]
   }
 ]

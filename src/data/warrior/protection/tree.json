@@ -8,10 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=190456/ignore-pain",
-    "links": [
-      25
-    ]
+    "url": "https://www.wowhead.com/beta/spell=190456/ignore-pain"
   },
   {
     "id": 6572,
@@ -24,9 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=6572/revenge",
     "links": [
-      36,
-      42,
-      48
+      8
     ]
   },
   {
@@ -40,9 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=1160/demoralizing-shout",
     "links": [
-      51,
-      55,
-      59
+      25
     ]
   },
   {
@@ -56,7 +49,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=236279/devastator",
     "links": [
-      59
+      25
     ]
   },
   {
@@ -70,9 +63,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=12975/last-stand",
     "links": [
-      59,
-      63,
-      67
+      25
     ]
   },
   {
@@ -86,7 +77,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386034/improved-heroic-throw",
     "links": [
-      70
+      36
     ]
   },
   {
@@ -100,7 +91,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=202560/best-served-cold",
     "links": [
-      70
+      36
     ]
   },
   {
@@ -114,9 +105,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384041/strategist",
     "links": [
-      74,
-      76,
-      78
+      36,
+      42,
+      48
     ]
   },
   {
@@ -130,7 +121,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386030/brace-for-impact",
     "links": [
-      82
+      48
     ]
   },
   {
@@ -144,7 +135,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384042/unnerving-focus",
     "links": [
-      82
+      48
     ]
   },
   {
@@ -158,10 +149,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=1161/challenging-shout",
     "links": [
-      85,
-      87,
-      89,
-      93
+      51,
+      55
     ]
   },
   {
@@ -175,7 +164,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=394311/instigate",
     "links": [
-      93
+      59
     ]
   },
   {
@@ -189,7 +178,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=394062/rend",
     "links": [
-      93
+      59
     ]
   },
   {
@@ -203,7 +192,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384361/bloodsurge",
     "links": [
-      93
+      59
     ]
   },
   {
@@ -225,24 +214,8 @@
       "url": "https://www.wowhead.com/beta/spell=384036/brutal-vitality"
     },
     "links": [
-      93,
-      97,
-      99,
-      101
-    ]
-  },
-  {
-    "id": 386071,
-    "name": "Disrupting Shout",
-    "icon": "ability_bullrush",
-    "capacity": 1,
-    "cell": 85,
-    "row": 6,
-    "column": 1,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=386071/disrupting-shout",
-    "links": [
-      104
+      63,
+      67
     ]
   },
   {
@@ -264,7 +237,21 @@
       "url": "https://www.wowhead.com/beta/spell=29725/sudden-death"
     },
     "links": [
-      104
+      70
+    ]
+  },
+  {
+    "id": 386071,
+    "name": "Disrupting Shout",
+    "icon": "ability_bullrush",
+    "capacity": 1,
+    "cell": 85,
+    "row": 6,
+    "column": 1,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=386071/disrupting-shout",
+    "links": [
+      70
     ]
   },
   {
@@ -278,7 +265,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385840/thunderlord",
     "links": [
-      104
+      70
     ]
   },
   {
@@ -292,9 +279,11 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=871/shield-wall",
     "links": [
-      108,
-      110,
-      112
+      70,
+      74,
+      76,
+      78,
+      82
     ]
   },
   {
@@ -308,7 +297,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=280001/bolster",
     "links": [
-      116
+      82
     ]
   },
   {
@@ -330,7 +319,7 @@
       "url": "https://www.wowhead.com/beta/spell=392966/spell-block"
     },
     "links": [
-      116
+      82
     ]
   },
   {
@@ -344,51 +333,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385704/bloodborne?def=117326&rank=1",
     "links": [
-      116
-    ]
-  },
-  {
-    "cell": 104,
-    "row": 7,
-    "column": 3,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 203177,
-      "name": "Heavy Repercussions",
-      "icon": "inv_shield_32",
-      "url": "https://www.wowhead.com/beta/spell=203177/heavy-repercussions"
-    },
-    "right": {
-      "id": 202603,
-      "name": "Into the Fray",
-      "icon": "ability_warrior_bloodfrenzy",
-      "url": "https://www.wowhead.com/beta/spell=202603/into-the-fray"
-    },
-    "links": [
-      121
-    ]
-  },
-  {
-    "cell": 108,
-    "row": 7,
-    "column": 7,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 386027,
-      "name": "Enduring Defenses",
-      "icon": "ability_defend",
-      "url": "https://www.wowhead.com/beta/spell=386027/enduring-defenses"
-    },
-    "right": {
-      "id": 281001,
-      "name": "Massacre",
-      "icon": "inv_sword_48",
-      "url": "https://www.wowhead.com/beta/spell=281001/massacre"
-    },
-    "links": [
-      127
+      82
     ]
   },
   {
@@ -402,7 +347,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=152278/anger-management",
     "links": [
-      127
+      93
     ]
   },
   {
@@ -424,7 +369,7 @@
       "url": "https://www.wowhead.com/beta/spell=384072/impenetrable-wall"
     },
     "links": [
-      127
+      93
     ]
   },
   {
@@ -446,7 +391,55 @@
       "url": "https://www.wowhead.com/beta/spell=393967/juggernaut"
     },
     "links": [
-      133
+      97,
+      99,
+      101
+    ]
+  },
+  {
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 203177,
+      "name": "Heavy Repercussions",
+      "icon": "inv_shield_32",
+      "url": "https://www.wowhead.com/beta/spell=203177/heavy-repercussions"
+    },
+    "right": {
+      "id": 202603,
+      "name": "Into the Fray",
+      "icon": "ability_warrior_bloodfrenzy",
+      "url": "https://www.wowhead.com/beta/spell=202603/into-the-fray"
+    },
+    "links": [
+      85,
+      87,
+      89
+    ]
+  },
+  {
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 386027,
+      "name": "Enduring Defenses",
+      "icon": "ability_defend",
+      "url": "https://www.wowhead.com/beta/spell=386027/enduring-defenses"
+    },
+    "right": {
+      "id": 281001,
+      "name": "Massacre",
+      "icon": "inv_sword_48",
+      "url": "https://www.wowhead.com/beta/spell=281001/massacre"
+    },
+    "links": [
+      93
     ]
   },
   {
@@ -460,7 +453,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384067/focused-vigor",
     "links": [
-      138
+      104
     ]
   },
   {
@@ -474,11 +467,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386011/shield-specialization?def=117176&rank=1",
     "links": [
-      138,
-      142,
-      144,
-      146,
-      150
+      108,
+      110,
+      112
     ]
   },
   {
@@ -492,7 +483,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384063/enduring-alacrity",
     "links": [
-      150
+      116
     ]
   },
   {
@@ -506,8 +497,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=385952/shield-charge",
     "links": [
-      153,
-      157
+      121,
+      127
     ]
   },
   {
@@ -521,7 +512,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=202743/booming-voice",
     "links": [
-      161
+      127
     ]
   },
   {
@@ -535,7 +526,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=202095/indomitable",
     "links": [
-      161
+      127
     ]
   },
   {
@@ -549,7 +540,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386477/violent-outburst",
     "links": [
-      161
+      127
     ]
   },
   {
@@ -563,8 +554,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=228920/ravager",
     "links": [
-      165,
-      169
+      127,
+      133
     ]
   },
   {
@@ -576,7 +567,10 @@
     "row": 10,
     "column": 1,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=394312/battering-ram"
+    "url": "https://www.wowhead.com/beta/spell=394312/battering-ram",
+    "links": [
+      138
+    ]
   },
   {
     "id": 386328,
@@ -587,7 +581,10 @@
     "row": 10,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386328/champions-bulwark"
+    "url": "https://www.wowhead.com/beta/spell=386328/champions-bulwark",
+    "links": [
+      138
+    ]
   },
   {
     "id": 386394,
@@ -598,7 +595,12 @@
     "row": 10,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386394/battle-scarred-veteran"
+    "url": "https://www.wowhead.com/beta/spell=386394/battle-scarred-veteran",
+    "links": [
+      142,
+      144,
+      146
+    ]
   },
   {
     "id": 393965,
@@ -609,7 +611,10 @@
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393965/dance-of-death"
+    "url": "https://www.wowhead.com/beta/spell=393965/dance-of-death",
+    "links": [
+      150
+    ]
   },
   {
     "id": 382953,
@@ -620,6 +625,9 @@
     "row": 10,
     "column": 17,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382953/storm-of-steel"
+    "url": "https://www.wowhead.com/beta/spell=382953/storm-of-steel",
+    "links": [
+      150
+    ]
   }
 ]

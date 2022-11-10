@@ -8,11 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=324536/malefic-rapture",
-    "links": [
-      23,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=324536/malefic-rapture"
   },
   {
     "id": 316099,
@@ -25,8 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=316099/unstable-affliction",
     "links": [
-      38,
-      42
+      8
     ]
   },
   {
@@ -40,8 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=27243/seed-of-corruption",
     "links": [
-      42,
-      46
+      8
     ]
   },
   {
@@ -55,8 +49,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=108558/nightfall",
     "links": [
-      53,
-      57
+      23
     ]
   },
   {
@@ -70,8 +63,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=317031/xavian-teachings",
     "links": [
-      57,
-      61
+      23,
+      27
     ]
   },
   {
@@ -85,8 +78,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196226/sow-the-seeds",
     "links": [
-      61,
-      65
+      27
     ]
   },
   {
@@ -100,8 +92,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=32388/shadow-embrace?def=96567&rank=1",
     "links": [
-      72,
-      87
+      38
     ]
   },
   {
@@ -115,9 +106,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=201424/harvester-of-souls?def=96566&rank=1",
     "links": [
-      72,
-      76,
-      91
+      38,
+      42
     ]
   },
   {
@@ -131,9 +121,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=196102/writhe-in-agony?def=96563&rank=1",
     "links": [
-      76,
-      80,
-      95
+      42,
+      46
     ]
   },
   {
@@ -147,8 +136,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386922/agonizing-corruption?def=96561&rank=1",
     "links": [
-      80,
-      99
+      46
     ]
   },
   {
@@ -162,9 +150,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=198590/drain-soul",
     "links": [
-      87,
-      91,
-      106
+      53,
+      57
     ]
   },
   {
@@ -186,9 +173,8 @@
       "url": "https://www.wowhead.com/beta/spell=63106/siphon-life"
     },
     "links": [
-      91,
-      93,
-      95
+      57,
+      61
     ]
   },
   {
@@ -210,9 +196,8 @@
       "url": "https://www.wowhead.com/beta/spell=278350/vile-taint"
     },
     "links": [
-      95,
-      99,
-      114
+      61,
+      65
     ]
   },
   {
@@ -226,8 +211,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=387073/soul-tap",
     "links": [
-      106,
-      121
+      53,
+      72
     ]
   },
   {
@@ -241,8 +226,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=334319/inevitable-demise?def=96569&rank=1",
     "links": [
-      106,
-      110
+      57,
+      72,
+      76
     ]
   },
   {
@@ -256,7 +242,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=386951/soul-swap",
     "links": [
-      110
+      76
     ]
   },
   {
@@ -270,8 +256,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=199471/soul-flame?def=96564&rank=1",
     "links": [
-      110,
-      114
+      61,
+      76,
+      80
     ]
   },
   {
@@ -285,8 +272,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=108503/grimoire-of-sacrifice",
     "links": [
-      114,
-      133
+      65,
+      80
     ]
   },
   {
@@ -300,8 +287,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386759/pandemic-invocation?def=96575&rank=1",
     "links": [
-      121,
-      125
+      72,
+      87,
+      91
     ]
   },
   {
@@ -315,8 +303,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386976/withering-bolt?def=96579&rank=1",
     "links": [
-      125,
-      129
+      91,
+      93,
+      95
     ]
   },
   {
@@ -330,8 +319,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386986/sacrolashs-dark-strike?def=96557&rank=1",
     "links": [
-      129,
-      133
+      80,
+      95,
+      99
     ]
   },
   {
@@ -345,8 +335,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=264000/creeping-death",
     "links": [
-      138,
-      140
+      87,
+      106
     ]
   },
   {
@@ -360,8 +350,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=48181/haunt",
     "links": [
-      140,
-      142
+      106,
+      110
     ]
   },
   {
@@ -375,8 +365,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=205180/summon-darkglare",
     "links": [
-      146,
-      148
+      110,
+      114
     ]
   },
   {
@@ -390,8 +380,23 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=386997/soul-rot",
     "links": [
-      148,
-      150
+      99,
+      114
+    ]
+  },
+  {
+    "id": 387075,
+    "name": "Tormented Crescendo",
+    "icon": "spell_warlock_soulburn",
+    "capacity": 1,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387075/tormented-crescendo",
+    "links": [
+      121,
+      125
     ]
   },
   {
@@ -405,19 +410,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389761/malefic-affliction?def=96431&rank=1",
     "links": [
-      155
+      121
     ]
-  },
-  {
-    "id": 387075,
-    "name": "Tormented Crescendo",
-    "icon": "spell_warlock_soulburn",
-    "capacity": 1,
-    "cell": 140,
-    "row": 9,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387075/tormented-crescendo"
   },
   {
     "id": 387250,
@@ -430,7 +424,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387250/seized-vitality?def=96509&rank=1",
     "links": [
-      159
+      125
     ]
   },
   {
@@ -444,7 +438,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387273/malevolent-visionary?def=96506&rank=1",
     "links": [
-      163
+      129
     ]
   },
   {
@@ -456,7 +450,11 @@
     "row": 9,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387065/wrath-of-consumption"
+    "url": "https://www.wowhead.com/beta/spell=387065/wrath-of-consumption",
+    "links": [
+      129,
+      133
+    ]
   },
   {
     "id": 389630,
@@ -469,7 +467,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389630/soul-eaters-gluttony?def=96430&rank=1",
     "links": [
-      167
+      133
     ]
   },
   {
@@ -489,7 +487,10 @@
       "name": "Dread Touch",
       "icon": "ability_priest_touchofdecay",
       "url": "https://www.wowhead.com/beta/spell=389775/dread-touch"
-    }
+    },
+    "links": [
+      138
+    ]
   },
   {
     "id": 387301,
@@ -500,7 +501,10 @@
     "row": 10,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387301/haunted-soul"
+    "url": "https://www.wowhead.com/beta/spell=387301/haunted-soul",
+    "links": [
+      142
+    ]
   },
   {
     "cell": 163,
@@ -519,7 +523,10 @@
       "name": "Grim Reach",
       "icon": "warlock_curse_shadow",
       "url": "https://www.wowhead.com/beta/spell=389992/grim-reach"
-    }
+    },
+    "links": [
+      146
+    ]
   },
   {
     "id": 387016,
@@ -530,6 +537,9 @@
     "row": 10,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387016/dark-harvest"
+    "url": "https://www.wowhead.com/beta/spell=387016/dark-harvest",
+    "links": [
+      150
+    ]
   }
 ]

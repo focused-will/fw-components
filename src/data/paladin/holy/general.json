@@ -8,27 +8,7 @@
     "row": 1,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=633/lay-on-hands",
-    "links": [
-      23,
-      38
-    ]
-  },
-  {
-    "id": 1044,
-    "name": "Blessing of Freedom",
-    "icon": "spell_holy_sealofvalor",
-    "capacity": 1,
-    "cell": 8,
-    "row": 1,
-    "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=1044/blessing-of-freedom",
-    "links": [
-      23,
-      27,
-      42
-    ]
+    "url": "https://www.wowhead.com/beta/spell=633/lay-on-hands"
   },
   {
     "id": 24275,
@@ -39,11 +19,18 @@
     "row": 1,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=24275/hammer-of-wrath",
-    "links": [
-      27,
-      46
-    ]
+    "url": "https://www.wowhead.com/beta/spell=24275/hammer-of-wrath"
+  },
+  {
+    "id": 1044,
+    "name": "Blessing of Freedom",
+    "icon": "spell_holy_sealofvalor",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1044/blessing-of-freedom"
   },
   {
     "id": 385633,
@@ -56,8 +43,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=385633/auras-of-the-resolute",
     "links": [
-      38,
-      42
+      4,
+      8
     ]
   },
   {
@@ -71,8 +58,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=385639/auras-of-swift-vengeance",
     "links": [
-      42,
-      46
+      8,
+      12
     ]
   },
   {
@@ -94,8 +81,8 @@
       "url": "https://www.wowhead.com/beta/spell=115750/blinding-light"
     },
     "links": [
-      53,
-      72
+      4,
+      23
     ]
   },
   {
@@ -109,9 +96,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=190784/divine-steed",
     "links": [
-      57,
-      61,
-      76
+      8,
+      23,
+      27
     ]
   },
   {
@@ -125,23 +112,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=234299/fist-of-justice?def=107594&rank=1",
     "links": [
-      65,
-      80
-    ]
-  },
-  {
-    "id": 393024,
-    "name": "Improved Cleanse",
-    "icon": "spell_holy_purify",
-    "capacity": 1,
-    "cell": 53,
-    "row": 4,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393024/improved-cleanse",
-    "links": [
-      72,
-      87
+      12,
+      27
     ]
   },
   {
@@ -155,8 +127,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=230332/cavalier",
     "links": [
-      72,
-      76
+      42
     ]
   },
   {
@@ -178,8 +149,21 @@
       "url": "https://www.wowhead.com/beta/spell=377016/seal-of-the-templar"
     },
     "links": [
-      76,
-      80
+      42
+    ]
+  },
+  {
+    "id": 393024,
+    "name": "Improved Cleanse",
+    "icon": "spell_holy_purify",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393024/improved-cleanse",
+    "links": [
+      38
     ]
   },
   {
@@ -193,24 +177,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=231644/greater-judgment",
     "links": [
-      80,
-      82
-    ]
-  },
-  {
-    "id": 385515,
-    "name": "Holy Aegis",
-    "icon": "ability_paladin_touchedbylight",
-    "capacity": 2,
-    "cell": 72,
-    "row": 5,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385515/holy-aegis?def=107602&rank=1",
-    "links": [
-      87,
-      89,
-      91
+      46
     ]
   },
   {
@@ -224,23 +191,25 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=31884/avenging-wrath",
     "links": [
-      91,
-      95
+      42,
+      57,
+      61
     ]
   },
   {
-    "id": 10326,
-    "name": "Turn Evil",
-    "icon": "ability_paladin_turnevil",
-    "capacity": 1,
-    "cell": 80,
+    "id": 385515,
+    "name": "Holy Aegis",
+    "icon": "ability_paladin_touchedbylight",
+    "capacity": 2,
+    "cell": 72,
     "row": 5,
-    "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=10326/turn-evil",
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385515/holy-aegis?def=107602&rank=1",
     "links": [
-      95,
-      99
+      38,
+      53,
+      57
     ]
   },
   {
@@ -254,68 +223,23 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=96231/rebuke",
     "links": [
-      99
+      65
     ]
   },
   {
-    "id": 377128,
-    "name": "Golden Path",
-    "icon": "ability_priest_cascade",
+    "id": 10326,
+    "name": "Turn Evil",
+    "icon": "ability_paladin_turnevil",
     "capacity": 1,
-    "cell": 87,
-    "row": 6,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377128/golden-path",
-    "links": [
-      104,
-      106
-    ]
-  },
-  {
-    "id": 183778,
-    "name": "Judgment of Light",
-    "icon": "spell_holy_divineprovidence",
-    "capacity": 1,
-    "cell": 89,
-    "row": 6,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=183778/judgment-of-light",
-    "links": [
-      106
-    ]
-  },
-  {
-    "id": 6940,
-    "name": "Blessing of Sacrifice",
-    "icon": "spell_holy_sealofsacrifice",
-    "capacity": 1,
-    "cell": 91,
-    "row": 6,
-    "column": 7,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=6940/blessing-of-sacrifice",
+    "url": "https://www.wowhead.com/beta/spell=10326/turn-evil",
     "links": [
-      106,
-      108,
-      110
-    ]
-  },
-  {
-    "id": 1022,
-    "name": "Blessing of Protection",
-    "icon": "spell_holy_sealofprotection",
-    "capacity": 1,
-    "cell": 95,
-    "row": 6,
-    "column": 11,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=1022/blessing-of-protection",
-    "links": [
-      110,
-      112,
-      114
+      46,
+      61,
+      65
     ]
   },
   {
@@ -329,37 +253,67 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377053/seal-of-reprisal?def=107626&rank=1",
     "links": [
-      114,
-      133
+      80,
+      82
     ]
   },
   {
-    "id": 384897,
-    "name": "Seal of Mercy",
-    "icon": "spell_holy_greaterblessingofsalvation",
-    "capacity": 2,
-    "cell": 104,
-    "row": 7,
+    "id": 377128,
+    "name": "Golden Path",
+    "icon": "ability_priest_cascade",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384897/seal-of-mercy?def=107604&rank=1",
+    "url": "https://www.wowhead.com/beta/spell=377128/golden-path",
     "links": [
-      121
+      53,
+      72
     ]
   },
   {
-    "id": 385414,
-    "name": "Afterimage",
-    "icon": "spell_holy_aspiration",
+    "id": 183778,
+    "name": "Judgment of Light",
+    "icon": "spell_holy_divineprovidence",
     "capacity": 1,
-    "cell": 106,
-    "row": 7,
+    "cell": 89,
+    "row": 6,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385414/afterimage",
+    "url": "https://www.wowhead.com/beta/spell=183778/judgment-of-light",
     "links": [
-      121,
-      123
+      72
+    ]
+  },
+  {
+    "id": 6940,
+    "name": "Blessing of Sacrifice",
+    "icon": "spell_holy_sealofsacrifice",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=6940/blessing-of-sacrifice",
+    "links": [
+      72,
+      76
+    ]
+  },
+  {
+    "id": 1022,
+    "name": "Blessing of Protection",
+    "icon": "spell_holy_sealofprotection",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1022/blessing-of-protection",
+    "links": [
+      76,
+      80
     ]
   },
   {
@@ -381,8 +335,7 @@
       "url": "https://www.wowhead.com/beta/spell=384914/recompense"
     },
     "links": [
-      123,
-      127
+      91
     ]
   },
   {
@@ -396,7 +349,38 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=114154/unbreakable-spirit",
     "links": [
-      127
+      91,
+      95
+    ]
+  },
+  {
+    "id": 384897,
+    "name": "Seal of Mercy",
+    "icon": "spell_holy_greaterblessingofsalvation",
+    "capacity": 2,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384897/seal-of-mercy?def=107604&rank=1",
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 385414,
+    "name": "Afterimage",
+    "icon": "spell_holy_aspiration",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385414/afterimage",
+    "links": [
+      87,
+      89,
+      91
     ]
   },
   {
@@ -410,8 +394,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384909/improved-blessing-of-protection",
     "links": [
-      127,
-      131
+      95
     ]
   },
   {
@@ -433,22 +416,8 @@
       "url": "https://www.wowhead.com/beta/spell=385349/touch-of-light"
     },
     "links": [
-      131,
-      133
-    ]
-  },
-  {
-    "id": 384815,
-    "name": "Seal of Clarity",
-    "icon": "spell_priest_power-word",
-    "capacity": 2,
-    "cell": 121,
-    "row": 8,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384815/seal-of-clarity?def=107605&rank=1",
-    "links": [
-      140
+      95,
+      99
     ]
   },
   {
@@ -462,8 +431,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385416/aspiration-of-divinity?def=107618&rank=1",
     "links": [
-      140,
-      142
+      106,
+      108
     ]
   },
   {
@@ -485,8 +454,24 @@
       "url": "https://www.wowhead.com/beta/spell=105809/holy-avenger"
     },
     "links": [
-      142,
-      146
+      108,
+      110,
+      112
+    ]
+  },
+  {
+    "id": 384815,
+    "name": "Seal of Clarity",
+    "icon": "spell_priest_power-word",
+    "capacity": 2,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384815/seal-of-clarity?def=107605&rank=1",
+    "links": [
+      104,
+      106
     ]
   },
   {
@@ -500,8 +485,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385427/obduracy",
     "links": [
-      146,
-      148
+      112,
+      114
     ]
   },
   {
@@ -515,7 +500,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377043/hallowed-ground",
     "links": [
-      148
+      99,
+      114
     ]
   },
   {
@@ -529,7 +515,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385125/of-dusk-and-dawn",
     "links": [
-      157
+      121,
+      123
     ]
   },
   {
@@ -543,7 +530,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385450/seal-of-might?def=107617&rank=1",
     "links": [
-      161
+      123,
+      127
     ]
   },
   {
@@ -557,7 +545,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385425/seal-of-alacrity?def=107614&rank=1",
     "links": [
-      161
+      127,
+      131
     ]
   },
   {
@@ -571,7 +560,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385728/seal-of-the-crusader?def=107622&rank=1",
     "links": [
-      165
+      131,
+      133
     ]
   },
   {
@@ -583,7 +573,10 @@
     "row": 10,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385129/seal-of-order"
+    "url": "https://www.wowhead.com/beta/spell=385129/seal-of-order",
+    "links": [
+      140
+    ]
   },
   {
     "cell": 161,
@@ -602,7 +595,11 @@
       "name": "Seraphim",
       "icon": "ability_paladin_seraphim",
       "url": "https://www.wowhead.com/beta/spell=152262/seraphim"
-    }
+    },
+    "links": [
+      142,
+      146
+    ]
   },
   {
     "id": 391142,
@@ -613,6 +610,9 @@
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391142/zealots-paragon"
+    "url": "https://www.wowhead.com/beta/spell=391142/zealots-paragon",
+    "links": [
+      148
+    ]
   }
 ]

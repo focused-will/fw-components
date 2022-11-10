@@ -8,10 +8,7 @@
     "row": 1,
     "column": 3,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=45524/chains-of-ice",
-    "links": [
-      19
-    ]
+    "url": "https://www.wowhead.com/beta/spell=45524/chains-of-ice"
   },
   {
     "id": 49998,
@@ -22,10 +19,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=49998/death-strike",
-    "links": [
-      25
-    ]
+    "url": "https://www.wowhead.com/beta/spell=49998/death-strike"
   },
   {
     "id": 46585,
@@ -36,10 +30,7 @@
     "row": 1,
     "column": 15,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=46585/raise-dead",
-    "links": [
-      31
-    ]
+    "url": "https://www.wowhead.com/beta/spell=46585/raise-dead"
   },
   {
     "id": 47528,
@@ -52,9 +43,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=47528/mind-freeze",
     "links": [
-      34,
-      36,
-      38
+      2
     ]
   },
   {
@@ -68,9 +57,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=48707/anti-magic-shell",
     "links": [
-      40,
-      42,
-      44
+      8
     ]
   },
   {
@@ -84,9 +71,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=316916/cleaving-strikes",
     "links": [
-      46,
-      48,
-      50
+      14
     ]
   },
   {
@@ -100,7 +85,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=207167/blinding-sleet",
     "links": [
-      53
+      19
     ]
   },
   {
@@ -114,7 +99,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378848/coldthirst",
     "links": [
-      53
+      19
     ]
   },
   {
@@ -128,8 +113,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=207200/permafrost",
     "links": [
-      53,
-      57
+      19
     ]
   },
   {
@@ -143,8 +127,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374277/improved-death-strike",
     "links": [
-      57,
-      59
+      25
     ]
   },
   {
@@ -158,7 +141,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=205727/anti-magic-barrier",
     "links": [
-      59
+      25
     ]
   },
   {
@@ -172,8 +155,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391546/march-of-darkness",
     "links": [
-      59,
-      61
+      25
     ]
   },
   {
@@ -187,8 +169,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=327574/sacrificial-pact",
     "links": [
-      61,
-      65
+      31
     ]
   },
   {
@@ -202,7 +183,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=111673/control-undead",
     "links": [
-      65
+      31
     ]
   },
   {
@@ -216,7 +197,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392566/enfeeble",
     "links": [
-      65
+      31
     ]
   },
   {
@@ -230,8 +211,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=48792/icebound-fortitude",
     "links": [
-      70,
-      72
+      34,
+      36,
+      38
     ]
   },
   {
@@ -245,8 +227,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374030/blood-scent",
     "links": [
-      72,
-      76
+      38,
+      40
     ]
   },
   {
@@ -260,7 +242,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=48263/veteran-of-the-third-war?def=101199&rank=1",
     "links": [
-      76
+      40,
+      42,
+      44
     ]
   },
   {
@@ -274,8 +258,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374049/suppression",
     "links": [
-      76,
-      80
+      44,
+      46
     ]
   },
   {
@@ -289,8 +273,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374504/brittle",
     "links": [
-      80,
-      82
+      46,
+      48,
+      50
     ]
   },
   {
@@ -304,7 +289,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373926/acclimation",
     "links": [
-      87
+      53
     ]
   },
   {
@@ -318,9 +303,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373923/merciless-strikes",
     "links": [
-      87,
-      89,
-      91
+      53,
+      57
     ]
   },
   {
@@ -334,9 +318,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=51052/anti-magic-zone",
     "links": [
-      91,
-      93,
-      95
+      57,
+      59,
+      61
     ]
   },
   {
@@ -350,9 +334,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374111/might-of-thassarian",
     "links": [
-      95,
-      97,
-      99
+      61,
+      65
     ]
   },
   {
@@ -366,7 +349,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389679/clenching-grasp",
     "links": [
-      99
+      65
     ]
   },
   {
@@ -380,7 +363,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=373930/proliferating-chill",
     "links": [
-      106
+      70,
+      72
     ]
   },
   {
@@ -394,7 +378,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391571/gloom-ward",
     "links": [
-      106
+      72
     ]
   },
   {
@@ -408,7 +392,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=221562/asphyxiate",
     "links": [
-      110
+      72,
+      76
     ]
   },
   {
@@ -422,7 +407,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374383/assimilation",
     "links": [
-      110
+      76
     ]
   },
   {
@@ -436,7 +421,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=48743/death-pact",
     "links": [
-      110
+      76,
+      80
     ]
   },
   {
@@ -458,7 +444,7 @@
       "url": "https://www.wowhead.com/beta/spell=273952/grip-of-the-dead"
     },
     "links": [
-      114
+      80
     ]
   },
   {
@@ -472,7 +458,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389682/unholy-endurance",
     "links": [
-      114
+      80,
+      82
     ]
   },
   {
@@ -486,8 +473,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=207104/runic-attenuation",
     "links": [
-      121,
-      125
+      87,
+      89
     ]
   },
   {
@@ -501,8 +488,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=212552/wraith-walk",
     "links": [
-      125,
-      129
+      91,
+      93,
+      95
     ]
   },
   {
@@ -516,8 +504,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374265/unholy-ground",
     "links": [
-      129,
-      133
+      97,
+      99
     ]
   },
   {
@@ -531,7 +519,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391566/insidious-chill",
     "links": [
-      140
+      106
     ]
   },
   {
@@ -545,8 +533,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374598/blood-draw?def=101210&rank=1",
     "links": [
-      140,
-      144
+      106,
+      110
     ]
   },
   {
@@ -560,8 +548,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=206967/will-of-the-necropolis?def=101184&rank=1",
     "links": [
-      144,
-      148
+      110,
+      114
     ]
   },
   {
@@ -575,7 +563,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=356367/deaths-echo",
     "links": [
-      148
+      114
     ]
   },
   {
@@ -589,7 +577,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=194878/icy-talons?def=101181&rank=1",
     "links": [
-      157
+      121,
+      125
     ]
   },
   {
@@ -603,7 +592,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374574/rune-mastery?def=101211&rank=1",
     "links": [
-      161
+      125,
+      129
     ]
   },
   {
@@ -617,7 +607,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374261/unholy-bond?def=101185&rank=1",
     "links": [
-      165
+      129,
+      133
     ]
   },
   {
@@ -629,7 +620,10 @@
     "row": 10,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=47568/empower-rune-weapon"
+    "url": "https://www.wowhead.com/beta/spell=47568/empower-rune-weapon",
+    "links": [
+      140
+    ]
   },
   {
     "id": 383269,
@@ -640,7 +634,10 @@
     "row": 10,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=383269/abomination-limb"
+    "url": "https://www.wowhead.com/beta/spell=383269/abomination-limb",
+    "links": [
+      144
+    ]
   },
   {
     "id": 343294,
@@ -651,6 +648,9 @@
     "row": 10,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=343294/soul-reaper"
+    "url": "https://www.wowhead.com/beta/spell=343294/soul-reaper",
+    "links": [
+      148
+    ]
   }
 ]

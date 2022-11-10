@@ -8,12 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=33763/lifebloom",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=33763/lifebloom"
   },
   {
     "id": 145108,
@@ -26,7 +21,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=145108/yseras-gift",
     "links": [
-      38
+      8
     ]
   },
   {
@@ -40,7 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=132158/natures-swiftness",
     "links": [
-      42
+      8
     ]
   },
   {
@@ -54,23 +49,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=113043/omen-of-clarity",
     "links": [
-      46
-    ]
-  },
-  {
-    "id": 383192,
-    "name": "Grove Tending",
-    "icon": "inv_relics_idolofrejuvenation",
-    "capacity": 1,
-    "cell": 38,
-    "row": 3,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383192/grove-tending",
-    "links": [
-      53,
-      57,
-      72
+      8
     ]
   },
   {
@@ -92,8 +71,7 @@
       "url": "https://www.wowhead.com/beta/spell=382550/passing-seasons"
     },
     "links": [
-      57,
-      61
+      25
     ]
   },
   {
@@ -107,21 +85,22 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392220/flash-of-clarity",
     "links": [
-      61,
-      65,
-      80
+      27
     ]
   },
   {
-    "id": 392221,
-    "name": "Waking Dream",
-    "icon": "inv_misc_head_dragon_green",
+    "id": 383192,
+    "name": "Grove Tending",
+    "icon": "inv_relics_idolofrejuvenation",
     "capacity": 1,
-    "cell": 53,
-    "row": 4,
-    "column": 3,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392221/waking-dream"
+    "url": "https://www.wowhead.com/beta/spell=383192/grove-tending",
+    "links": [
+      23
+    ]
   },
   {
     "id": 231032,
@@ -134,8 +113,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=231032/improved-regrowth",
     "links": [
-      72,
-      76
+      38,
+      42
     ]
   },
   {
@@ -157,8 +136,22 @@
       "url": "https://www.wowhead.com/beta/spell=102351/cenarion-ward"
     },
     "links": [
-      76,
-      80
+      42,
+      46
+    ]
+  },
+  {
+    "id": 392221,
+    "name": "Waking Dream",
+    "icon": "inv_misc_head_dragon_green",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392221/waking-dream",
+    "links": [
+      38
     ]
   },
   {
@@ -170,7 +163,10 @@
     "row": 4,
     "column": 15,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=50464/nourish"
+    "url": "https://www.wowhead.com/beta/spell=50464/nourish",
+    "links": [
+      46
+    ]
   },
   {
     "id": 145205,
@@ -183,8 +179,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=145205/efflorescence",
     "links": [
-      87,
-      91
+      38,
+      57
     ]
   },
   {
@@ -198,7 +194,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=740/tranquility",
     "links": [
-      93
+      57,
+      61
     ]
   },
   {
@@ -212,8 +209,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=102342/ironbark",
     "links": [
-      95,
-      99
+      46,
+      61
     ]
   },
   {
@@ -227,9 +224,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=158478/soul-of-the-forest",
     "links": [
-      102,
-      104,
-      106
+      72
     ]
   },
   {
@@ -243,8 +238,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=200390/cultivation",
     "links": [
-      106,
-      110
+      72
     ]
   },
   {
@@ -266,7 +260,7 @@
       "url": "https://www.wowhead.com/beta/spell=392162/dreamstate"
     },
     "links": [
-      110
+      76
     ]
   },
   {
@@ -280,8 +274,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=328025/improved-wild-growth",
     "links": [
-      110,
-      114
+      80
     ]
   },
   {
@@ -303,23 +296,7 @@
       "url": "https://www.wowhead.com/beta/spell=382552/improved-ironbark"
     },
     "links": [
-      114,
-      118
-    ]
-  },
-  {
-    "id": 392325,
-    "name": "Verdancy",
-    "icon": "inv_10_herb_seed_magiccolor5",
-    "capacity": 1,
-    "cell": 102,
-    "row": 7,
-    "column": 1,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392325/verdancy",
-    "links": [
-      121,
-      136
+      80
     ]
   },
   {
@@ -333,52 +310,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=278515/rampant-growth",
     "links": [
-      121
-    ]
-  },
-  {
-    "id": 383191,
-    "name": "Regenesis",
-    "icon": "inv_misc_herb_liferoot_stem",
-    "capacity": 2,
-    "cell": 106,
-    "row": 7,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383191/regenesis?def=108122&rank=1",
-    "links": [
-      121,
-      125
-    ]
-  },
-  {
-    "id": 392256,
-    "name": "Harmonious Blooming",
-    "icon": "inv_misc_herb_felblossom",
-    "capacity": 2,
-    "cell": 110,
-    "row": 7,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392256/harmonious-blooming?def=108126&rank=1",
-    "links": [
-      125,
-      129
-    ]
-  },
-  {
-    "id": 382559,
-    "name": "Unstoppable Growth",
-    "icon": "ability_druid_flourish",
-    "capacity": 2,
-    "cell": 114,
-    "row": 7,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382559/unstoppable-growth?def=108143&rank=1",
-    "links": [
-      129,
-      133
+      87
     ]
   },
   {
@@ -392,8 +324,67 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392116/regenerative-heartwood",
     "links": [
-      133,
-      152
+      99
+    ]
+  },
+  {
+    "id": 392325,
+    "name": "Verdancy",
+    "icon": "inv_10_herb_seed_magiccolor5",
+    "capacity": 1,
+    "cell": 102,
+    "row": 7,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392325/verdancy",
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 383191,
+    "name": "Regenesis",
+    "icon": "inv_misc_herb_liferoot_stem",
+    "capacity": 2,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383191/regenesis?def=108122&rank=1",
+    "links": [
+      87,
+      91
+    ]
+  },
+  {
+    "id": 392256,
+    "name": "Harmonious Blooming",
+    "icon": "inv_misc_herb_felblossom",
+    "capacity": 2,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392256/harmonious-blooming?def=108126&rank=1",
+    "links": [
+      91,
+      93,
+      95
+    ]
+  },
+  {
+    "id": 382559,
+    "name": "Unstoppable Growth",
+    "icon": "ability_druid_flourish",
+    "capacity": 2,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382559/unstoppable-growth?def=108143&rank=1",
+    "links": [
+      95,
+      99
     ]
   },
   {
@@ -415,8 +406,9 @@
       "url": "https://www.wowhead.com/beta/spell=203651/overgrowth"
     },
     "links": [
-      136,
-      140
+      102,
+      104,
+      106
     ]
   },
   {
@@ -438,9 +430,8 @@
       "url": "https://www.wowhead.com/beta/spell=391528/convoke-the-spirits"
     },
     "links": [
-      140,
-      142,
-      144
+      106,
+      110
     ]
   },
   {
@@ -454,9 +445,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=391888/adaptive-swarm",
     "links": [
-      144,
-      146,
-      148
+      110,
+      114
     ]
   },
   {
@@ -478,9 +468,8 @@
       "url": "https://www.wowhead.com/beta/spell=197721/flourish"
     },
     "links": [
-      148,
-      150,
-      152
+      114,
+      118
     ]
   },
   {
@@ -494,7 +483,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391969/circle-of-life-and-death",
     "links": [
-      155
+      102,
+      121
     ]
   },
   {
@@ -508,9 +498,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392167/budding-leaves?def=108133&rank=1",
     "links": [
-      155,
-      157,
-      159
+      121,
+      125
     ]
   },
   {
@@ -524,7 +513,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393371/cenarius-guidance",
     "links": [
-      159
+      125
     ]
   },
   {
@@ -538,8 +527,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392124/embrace-of-the-dream?def=108131&rank=1",
     "links": [
-      159,
-      163
+      125,
+      129
     ]
   },
   {
@@ -553,22 +542,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391951/unbridled-swarm",
     "links": [
-      163
-    ]
-  },
-  {
-    "id": 392315,
-    "name": "Luxuriant Soil",
-    "icon": "achievement_dungeon_everbloom",
-    "capacity": 2,
-    "cell": 148,
-    "row": 9,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392315/luxuriant-soil?def=108129&rank=1",
-    "links": [
-      163,
-      167
+      129
     ]
   },
   {
@@ -582,7 +556,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=326228/natural-wisdom",
     "links": [
-      167
+      133
     ]
   },
   {
@@ -596,7 +570,23 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392099/nurturing-dormancy",
     "links": [
-      167
+      118,
+      133
+    ]
+  },
+  {
+    "id": 392315,
+    "name": "Luxuriant Soil",
+    "icon": "achievement_dungeon_everbloom",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392315/luxuriant-soil?def=108129&rank=1",
+    "links": [
+      129,
+      133
     ]
   },
   {
@@ -608,7 +598,11 @@
     "row": 10,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=274902/photosynthesis"
+    "url": "https://www.wowhead.com/beta/spell=274902/photosynthesis",
+    "links": [
+      136,
+      140
+    ]
   },
   {
     "id": 392301,
@@ -619,7 +613,10 @@
     "row": 10,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392301/undergrowth"
+    "url": "https://www.wowhead.com/beta/spell=392301/undergrowth",
+    "links": [
+      140
+    ]
   },
   {
     "id": 155675,
@@ -630,7 +627,12 @@
     "row": 10,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=155675/germination"
+    "url": "https://www.wowhead.com/beta/spell=155675/germination",
+    "links": [
+      140,
+      142,
+      144
+    ]
   },
   {
     "id": 392356,
@@ -641,7 +643,12 @@
     "row": 10,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392356/reforestation"
+    "url": "https://www.wowhead.com/beta/spell=392356/reforestation",
+    "links": [
+      144,
+      146,
+      148
+    ]
   },
   {
     "cell": 167,
@@ -660,6 +667,11 @@
       "name": "Invigorate",
       "icon": "spell_nature_preservation",
       "url": "https://www.wowhead.com/beta/spell=392160/invigorate"
-    }
+    },
+    "links": [
+      148,
+      150,
+      152
+    ]
   }
 ]

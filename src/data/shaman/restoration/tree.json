@@ -8,12 +8,7 @@
     "row": 1,
     "column": 8,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=61295/riptide",
-    "links": [
-      22,
-      24,
-      26
-    ]
+    "url": "https://www.wowhead.com/beta/spell=61295/riptide"
   },
   {
     "id": 200076,
@@ -26,8 +21,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=200076/deluge?def=106806&rank=1",
     "links": [
-      37,
-      39
+      7
     ]
   },
   {
@@ -41,9 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=77472/healing-wave",
     "links": [
-      39,
-      41,
-      43
+      7
     ]
   },
   {
@@ -57,8 +49,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=5394/healing-stream-totem",
     "links": [
-      43,
-      45
+      7
     ]
   },
   {
@@ -72,8 +63,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=73920/healing-rain",
     "links": [
-      52,
-      56
+      22
     ]
   },
   {
@@ -95,7 +85,8 @@
       "url": "https://www.wowhead.com/beta/spell=383009/stormkeeper"
     },
     "links": [
-      56
+      22,
+      24
     ]
   },
   {
@@ -109,8 +100,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=52127/water-shield",
     "links": [
-      56,
-      58
+      24
     ]
   },
   {
@@ -122,7 +112,11 @@
     "row": 3,
     "column": 10,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378241/call-of-thunder"
+    "url": "https://www.wowhead.com/beta/spell=378241/call-of-thunder",
+    "links": [
+      24,
+      26
+    ]
   },
   {
     "id": 51564,
@@ -135,8 +129,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=51564/tidal-waves",
     "links": [
-      60,
-      64
+      26
     ]
   },
   {
@@ -158,8 +151,7 @@
       "url": "https://www.wowhead.com/beta/spell=378443/acid-rain"
     },
     "links": [
-      71,
-      86
+      37
     ]
   },
   {
@@ -173,8 +165,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=207401/ancestral-vigor?def=106945&rank=1",
     "links": [
-      71,
-      75
+      37,
+      39,
+      41
     ]
   },
   {
@@ -188,7 +181,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=16196/resurgence",
     "links": [
-      75
+      41
     ]
   },
   {
@@ -202,8 +195,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=280614/flash-flood?def=106922&rank=1",
     "links": [
-      75,
-      79
+      45
     ]
   },
   {
@@ -217,8 +209,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382030/water-totem-mastery",
     "links": [
-      79,
-      83
+      45
     ]
   },
   {
@@ -240,8 +231,8 @@
       "url": "https://www.wowhead.com/beta/spell=382039/flow-of-the-tides"
     },
     "links": [
-      86,
-      90
+      52,
+      56
     ]
   },
   {
@@ -255,9 +246,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=98008/spirit-link-totem",
     "links": [
-      90,
-      92,
-      94
+      56,
+      58,
+      60
     ]
   },
   {
@@ -279,8 +270,8 @@
       "url": "https://www.wowhead.com/beta/spell=16166/master-of-the-elements"
     },
     "links": [
-      94,
-      98
+      60,
+      64
     ]
   },
   {
@@ -302,8 +293,7 @@
       "url": "https://www.wowhead.com/beta/spell=157153/cloudburst-totem"
     },
     "links": [
-      98,
-      117
+      64
     ]
   },
   {
@@ -317,8 +307,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=381946/wavespeakers-blessing",
     "links": [
-      105,
-      120
+      52,
+      71
     ]
   },
   {
@@ -332,8 +322,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=108280/healing-tide-totem",
     "links": [
-      105,
-      109
+      71,
+      75
     ]
   },
   {
@@ -347,7 +337,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=77756/lava-surge",
     "links": [
-      109
+      75
     ]
   },
   {
@@ -361,8 +351,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=16191/mana-tide-totem",
     "links": [
-      109,
-      113
+      75,
+      79
     ]
   },
   {
@@ -376,8 +366,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=200072/torrent?def=106929&rank=1",
     "links": [
-      113,
-      117
+      79,
+      83
     ]
   },
   {
@@ -399,8 +389,8 @@
       "url": "https://www.wowhead.com/beta/spell=73685/unleash-life"
     },
     "links": [
-      120,
-      124
+      86,
+      90
     ]
   },
   {
@@ -414,8 +404,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=333919/echo-of-the-elements",
     "links": [
-      124,
-      128
+      90,
+      92,
+      94
     ]
   },
   {
@@ -437,8 +428,8 @@
       "url": "https://www.wowhead.com/beta/spell=207399/ancestral-protection-totem"
     },
     "links": [
-      128,
-      132
+      94,
+      98
     ]
   },
   {
@@ -452,8 +443,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=382021/earthliving-weapon",
     "links": [
-      132,
-      151
+      83,
+      98
     ]
   },
   {
@@ -467,8 +458,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=375982/primordial-wave",
     "links": [
-      137,
-      139
+      86,
+      105
     ]
   },
   {
@@ -482,9 +473,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382309/ancestral-awakening?def=106914&rank=1",
     "links": [
-      139,
-      143,
-      158
+      105,
+      109
     ]
   },
   {
@@ -498,9 +488,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382020/earthen-harmony?def=106940&rank=1",
     "links": [
-      143,
-      147,
-      162
+      109,
+      113
     ]
   },
   {
@@ -514,8 +503,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382194/undercurrent?def=106935&rank=1",
     "links": [
-      147,
-      166
+      113,
+      117
     ]
   },
   {
@@ -529,7 +518,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382191/improved-primordial-wave?def=106904&rank=1",
     "links": [
-      154
+      120
     ]
   },
   {
@@ -541,7 +530,11 @@
     "row": 9,
     "column": 4,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=207778/downpour"
+    "url": "https://www.wowhead.com/beta/spell=207778/downpour",
+    "links": [
+      120,
+      124
+    ]
   },
   {
     "id": 382019,
@@ -552,7 +545,11 @@
     "row": 9,
     "column": 8,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382019/natures-focus"
+    "url": "https://www.wowhead.com/beta/spell=382019/natures-focus",
+    "links": [
+      124,
+      128
+    ]
   },
   {
     "id": 382029,
@@ -563,7 +560,11 @@
     "row": 9,
     "column": 12,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=382029/ever-rising-tide"
+    "url": "https://www.wowhead.com/beta/spell=382029/ever-rising-tide",
+    "links": [
+      128,
+      132
+    ]
   },
   {
     "id": 382315,
@@ -576,7 +577,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382315/improved-earthliving-weapon?def=106938&rank=1",
     "links": [
-      166
+      117
     ]
   },
   {
@@ -596,7 +597,10 @@
       "name": "Tumbling Waves",
       "icon": "spell_animamaldraxxus_wave",
       "url": "https://www.wowhead.com/beta/spell=382040/tumbling-waves"
-    }
+    },
+    "links": [
+      137
+    ]
   },
   {
     "cell": 158,
@@ -615,7 +619,10 @@
       "name": "High Tide",
       "icon": "spell_shaman_hightide",
       "url": "https://www.wowhead.com/beta/spell=157154/high-tide"
-    }
+    },
+    "links": [
+      124
+    ]
   },
   {
     "id": 114052,
@@ -626,7 +633,10 @@
     "row": 10,
     "column": 10,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=114052/ascendance"
+    "url": "https://www.wowhead.com/beta/spell=114052/ascendance",
+    "links": [
+      128
+    ]
   },
   {
     "cell": 166,
@@ -645,6 +655,10 @@
       "name": "Wellspring",
       "icon": "ability_shawaterelemental_split",
       "url": "https://www.wowhead.com/beta/spell=197995/wellspring"
-    }
+    },
+    "links": [
+      132,
+      151
+    ]
   }
 ]

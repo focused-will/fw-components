@@ -8,26 +8,7 @@
     "row": 1,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=34026/kill-command",
-    "links": [
-      23,
-      38
-    ]
-  },
-  {
-    "id": 5116,
-    "name": "Concussive Shot",
-    "icon": "spell_frost_stun",
-    "capacity": 1,
-    "cell": 8,
-    "row": 1,
-    "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=5116/concussive-shot",
-    "links": [
-      23,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=34026/kill-command"
   },
   {
     "id": 53351,
@@ -38,11 +19,18 @@
     "row": 1,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=53351/kill-shot",
-    "links": [
-      27,
-      29
-    ]
+    "url": "https://www.wowhead.com/beta/spell=53351/kill-shot"
+  },
+  {
+    "id": 5116,
+    "name": "Concussive Shot",
+    "icon": "spell_frost_stun",
+    "capacity": 1,
+    "cell": 8,
+    "row": 1,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=5116/concussive-shot"
   },
   {
     "id": 199921,
@@ -55,8 +43,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=199921/trailblazer?def=105646&rank=1",
     "links": [
-      38,
-      42
+      4,
+      8
     ]
   },
   {
@@ -70,8 +58,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=109215/posthaste?def=105636&rank=1",
     "links": [
-      42,
-      46
+      8,
+      12
     ]
   },
   {
@@ -85,7 +73,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=343248/improved-kill-shot",
     "links": [
-      46
+      12
     ]
   },
   {
@@ -99,8 +87,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=343242/wilderness-medicine?def=105651&rank=1",
     "links": [
-      57,
-      72
+      4,
+      23
     ]
   },
   {
@@ -114,9 +102,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=147362/counter-shot",
     "links": [
-      57,
-      59,
-      61
+      23,
+      27
     ]
   },
   {
@@ -130,8 +117,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=270581/natural-mending?def=105640&rank=1",
     "links": [
-      61,
-      80
+      27,
+      29
     ]
   },
   {
@@ -145,9 +132,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=187698/tar-trap",
     "links": [
-      72,
-      74,
-      76
+      38,
+      42
     ]
   },
   {
@@ -161,7 +147,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=34477/misdirection",
     "links": [
-      76
+      42
     ]
   },
   {
@@ -175,9 +161,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=264735/survival-of-the-fittest",
     "links": [
-      76,
-      78,
-      80
+      42,
+      46
     ]
   },
   {
@@ -191,9 +176,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=19801/tranquilizing-shot",
     "links": [
-      87,
-      89,
-      91
+      38,
+      57
     ]
   },
   {
@@ -207,8 +191,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393344/entrapment",
     "links": [
-      91,
-      93
+      57
     ]
   },
   {
@@ -222,7 +205,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=343247/improved-traps?def=105638&rank=1",
     "links": [
-      93
+      57,
+      59,
+      61
     ]
   },
   {
@@ -244,9 +229,7 @@
       "url": "https://www.wowhead.com/beta/spell=388042/natures-endurance"
     },
     "links": [
-      93,
-      95,
-      97
+      61
     ]
   },
   {
@@ -260,20 +243,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=266921/born-to-be-wild?def=105648&rank=1",
     "links": [
-      97,
-      99
+      46,
+      61
     ]
-  },
-  {
-    "id": 1513,
-    "name": "Scare Beast",
-    "icon": "ability_druid_cower",
-    "capacity": 1,
-    "cell": 87,
-    "row": 6,
-    "column": 3,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=1513/scare-beast"
   },
   {
     "id": 343244,
@@ -286,7 +258,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=343244/improved-tranquilizing-shot",
     "links": [
-      123
+      72
     ]
   },
   {
@@ -308,7 +280,8 @@
       "url": "https://www.wowhead.com/beta/spell=236776/high-explosive-trap"
     },
     "links": [
-      108
+      72,
+      74
     ]
   },
   {
@@ -330,9 +303,23 @@
       "url": "https://www.wowhead.com/beta/spell=109248/binding-shot"
     },
     "links": [
-      108,
-      110,
-      112
+      74,
+      76,
+      78
+    ]
+  },
+  {
+    "id": 1513,
+    "name": "Scare Beast",
+    "icon": "ability_druid_cower",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1513/scare-beast",
+    "links": [
+      72
     ]
   },
   {
@@ -346,7 +333,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385539/rejuvenating-wind?def=105621&rank=1",
     "links": [
-      112
+      78
     ]
   },
   {
@@ -360,8 +347,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=199483/camouflage",
     "links": [
-      112,
-      131
+      78,
+      80
     ]
   },
   {
@@ -375,7 +362,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=388045/sentinel-owl",
     "links": [
-      116
+      80
     ]
   },
   {
@@ -389,8 +376,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321468/binding-shackles",
     "links": [
-      123,
-      127
+      91,
+      93
     ]
   },
   {
@@ -404,7 +391,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384799/hunters-avoidance",
     "links": [
-      127
+      93
     ]
   },
   {
@@ -418,8 +405,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378002/pathfinding?def=105633&rank=1",
     "links": [
-      127,
-      131
+      93,
+      95,
+      97
     ]
   },
   {
@@ -441,7 +429,7 @@
       "url": "https://www.wowhead.com/beta/spell=388057/sentinels-protection"
     },
     "links": [
-      131
+      99
     ]
   },
   {
@@ -455,8 +443,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378007/beast-master?def=105641&rank=1",
     "links": [
-      138,
-      142
+      89,
+      108
     ]
   },
   {
@@ -470,9 +458,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378004/keen-eyesight?def=105637&rank=1",
     "links": [
-      142,
-      146,
-      161
+      108,
+      110,
+      112
     ]
   },
   {
@@ -486,8 +474,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=260309/master-marksman?def=105627&rank=1",
     "links": [
-      146,
-      150
+      97,
+      112,
+      116
     ]
   },
   {
@@ -501,7 +490,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378010/improved-kill-command?def=105647&rank=1",
     "links": [
-      155
+      123
     ]
   },
   {
@@ -515,7 +504,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389882/serrated-shots?def=105515&rank=1",
     "links": [
-      159
+      123,
+      127
     ]
   },
   {
@@ -529,7 +519,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390231/arctic-bola?def=105516&rank=1",
     "links": [
-      163
+      127,
+      131
     ]
   },
   {
@@ -543,7 +534,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=271788/serpent-sting",
     "links": [
-      167
+      131
     ]
   },
   {
@@ -563,7 +554,10 @@
       "name": "Alpha Predator",
       "icon": "spell_druid_savagery",
       "url": "https://www.wowhead.com/beta/spell=269737/alpha-predator"
-    }
+    },
+    "links": [
+      138
+    ]
   },
   {
     "id": 162488,
@@ -574,7 +568,10 @@
     "row": 10,
     "column": 7,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=162488/steel-trap"
+    "url": "https://www.wowhead.com/beta/spell=162488/steel-trap",
+    "links": [
+      142
+    ]
   },
   {
     "cell": 161,
@@ -593,7 +590,10 @@
       "name": "Death Chakram",
       "icon": "ability_maldraxxus_hunter",
       "url": "https://www.wowhead.com/beta/spell=375891/death-chakram"
-    }
+    },
+    "links": [
+      127
+    ]
   },
   {
     "cell": 163,
@@ -612,7 +612,10 @@
       "name": "Barrage",
       "icon": "ability_hunter_rapidregeneration",
       "url": "https://www.wowhead.com/beta/spell=120360/barrage"
-    }
+    },
+    "links": [
+      146
+    ]
   },
   {
     "cell": 167,
@@ -631,6 +634,9 @@
       "name": "Hydra's Bite",
       "icon": "inv_hydrasbite",
       "url": "https://www.wowhead.com/beta/spell=260241/hydras-bite"
-    }
+    },
+    "links": [
+      150
+    ]
   }
 ]

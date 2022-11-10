@@ -8,11 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=206930/heart-strike",
-    "links": [
-      23,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=206930/heart-strike"
   },
   {
     "id": 195182,
@@ -25,7 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=195182/marrowrend",
     "links": [
-      40
+      8
     ]
   },
   {
@@ -39,7 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=50842/blood-boil",
     "links": [
-      44
+      8
     ]
   },
   {
@@ -53,8 +49,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=55233/vampiric-blood",
     "links": [
-      55,
-      57
+      23
     ]
   },
   {
@@ -68,8 +63,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=81136/crimson-scourge",
     "links": [
-      61,
-      63
+      27
     ]
   },
   {
@@ -83,9 +77,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=219786/ossuary",
     "links": [
-      70,
-      72,
-      74
+      40
     ]
   },
   {
@@ -99,8 +91,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=317133/improved-vampiric-blood?def=101274&rank=1",
     "links": [
-      74,
-      76
+      40
     ]
   },
   {
@@ -114,8 +105,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374717/improved-heart-strike?def=101259&rank=1",
     "links": [
-      76,
-      78
+      44
     ]
   },
   {
@@ -129,9 +119,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=195292/deaths-caress",
     "links": [
-      78,
-      80,
-      82
+      44
     ]
   },
   {
@@ -145,7 +133,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=194679/rune-tap",
     "links": [
-      89
+      55
     ]
   },
   {
@@ -159,8 +147,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=221536/heartbreaker?def=101268&rank=1",
     "links": [
-      89,
-      91
+      55
     ]
   },
   {
@@ -174,7 +161,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=206974/foul-bulwark",
     "links": [
-      91
+      55,
+      57
     ]
   },
   {
@@ -188,7 +176,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=49028/dancing-rune-weapon",
     "links": [
-      93
+      57,
+      61
     ]
   },
   {
@@ -202,7 +191,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=273946/hemostasis",
     "links": [
-      95
+      61,
+      63
     ]
   },
   {
@@ -216,8 +206,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374747/perseverance-of-the-ebon-blade?def=101257&rank=1",
     "links": [
-      95,
-      97
+      63
     ]
   },
   {
@@ -231,7 +220,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=317610/relish-in-blood",
     "links": [
-      97
+      63
     ]
   },
   {
@@ -245,9 +234,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377629/leeching-strike",
     "links": [
-      104,
-      106,
-      108
+      70,
+      72
     ]
   },
   {
@@ -261,7 +249,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374715/improved-bone-shield",
     "links": [
-      108
+      72,
+      74
     ]
   },
   {
@@ -275,7 +264,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377637/insatiable-blade",
     "links": [
-      110
+      76
     ]
   },
   {
@@ -297,7 +286,8 @@
       "url": "https://www.wowhead.com/beta/spell=274156/consumption"
     },
     "links": [
-      112
+      78,
+      80
     ]
   },
   {
@@ -311,9 +301,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=194662/rapid-decomposition",
     "links": [
-      112,
-      114,
-      116
+      80,
+      82
     ]
   },
   {
@@ -327,7 +316,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391386/blood-feast",
     "links": [
-      123
+      89
     ]
   },
   {
@@ -341,7 +330,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=221699/blood-tap",
     "links": [
-      123
+      89
     ]
   },
   {
@@ -355,8 +344,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=374737/reinforced-bones",
     "links": [
-      123,
-      127
+      89,
+      91
     ]
   },
   {
@@ -370,7 +359,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377668/everlasting-bond",
     "links": [
-      127
+      93
     ]
   },
   {
@@ -384,8 +373,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=273953/voracious",
     "links": [
-      127,
-      131
+      95,
+      97
     ]
   },
   {
@@ -399,7 +388,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=195679/bloodworms",
     "links": [
-      131
+      97
     ]
   },
   {
@@ -413,7 +402,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391477/coagulopathy",
     "links": [
-      131
+      97
     ]
   },
   {
@@ -435,8 +424,9 @@
       "url": "https://www.wowhead.com/beta/spell=219809/tombstone"
     },
     "links": [
-      140,
-      142
+      104,
+      106,
+      108
     ]
   },
   {
@@ -450,9 +440,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=108199/gorefiends-grasp",
     "links": [
-      142,
-      144,
-      146
+      108,
+      110,
+      112
     ]
   },
   {
@@ -466,8 +456,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391458/sanguine-ground",
     "links": [
-      146,
-      148
+      112,
+      114,
+      116
     ]
   },
   {
@@ -481,7 +472,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377640/shattering-bone?def=101261&rank=1",
     "links": [
-      157
+      123
     ]
   },
   {
@@ -495,7 +486,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=377655/heartrend",
     "links": [
-      159
+      123,
+      127
     ]
   },
   {
@@ -509,8 +501,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=206970/tightening-grasp",
     "links": [
-      159,
-      163
+      127
     ]
   },
   {
@@ -524,7 +515,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391395/iron-heart",
     "links": [
-      163
+      127,
+      131
     ]
   },
   {
@@ -538,7 +530,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=205723/red-thirst?def=101265&rank=1",
     "links": [
-      165
+      131
     ]
   },
   {
@@ -550,7 +542,10 @@
     "row": 10,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=194844/bonestorm"
+    "url": "https://www.wowhead.com/beta/spell=194844/bonestorm",
+    "links": [
+      140
+    ]
   },
   {
     "id": 114556,
@@ -561,7 +556,11 @@
     "row": 10,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=114556/purgatory"
+    "url": "https://www.wowhead.com/beta/spell=114556/purgatory",
+    "links": [
+      142,
+      144
+    ]
   },
   {
     "id": 391398,
@@ -572,7 +571,11 @@
     "row": 10,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391398/bloodshot"
+    "url": "https://www.wowhead.com/beta/spell=391398/bloodshot",
+    "links": [
+      144,
+      146
+    ]
   },
   {
     "id": 391517,
@@ -583,6 +586,9 @@
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=391517/umbilicus-eternus"
+    "url": "https://www.wowhead.com/beta/spell=391517/umbilicus-eternus",
+    "links": [
+      148
+    ]
   }
 ]

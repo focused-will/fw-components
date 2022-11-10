@@ -8,11 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=184575/blade-of-justice",
-    "links": [
-      23,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=184575/blade-of-justice"
   },
   {
     "id": 53385,
@@ -25,9 +21,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=53385/divine-storm",
     "links": [
-      38,
-      40,
-      42
+      8
     ]
   },
   {
@@ -41,9 +35,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=267344/art-of-war",
     "links": [
-      42,
-      44,
-      46
+      8
     ]
   },
   {
@@ -57,7 +49,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383228/improved-judgment",
     "links": [
-      55
+      23
     ]
   },
   {
@@ -71,8 +63,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383254/improved-crusader-strike",
     "links": [
-      55,
-      59
+      23
     ]
   },
   {
@@ -84,7 +75,11 @@
     "row": 3,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386967/holy-crusader"
+    "url": "https://www.wowhead.com/beta/spell=386967/holy-crusader",
+    "links": [
+      23,
+      27
+    ]
   },
   {
     "id": 383342,
@@ -97,8 +92,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383342/holy-blade",
     "links": [
-      59,
-      63
+      27
     ]
   },
   {
@@ -112,23 +106,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383263/blade-of-condemnation",
     "links": [
-      63
-    ]
-  },
-  {
-    "id": 326732,
-    "name": "Empyrean Power",
-    "icon": "ability_paladin_sheathoflight",
-    "capacity": 1,
-    "cell": 55,
-    "row": 4,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=326732/empyrean-power",
-    "links": [
-      70,
-      72,
-      74
+      27
     ]
   },
   {
@@ -150,9 +128,8 @@
       "url": "https://www.wowhead.com/beta/spell=498/divine-protection"
     },
     "links": [
-      74,
-      76,
-      78
+      40,
+      44
     ]
   },
   {
@@ -166,68 +143,23 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=231832/blade-of-wrath",
     "links": [
-      78,
-      80,
-      82
+      44,
+      46
     ]
   },
   {
-    "id": 383271,
-    "name": "Highlord's Judgment",
-    "icon": "spell_holy_righteousfury",
-    "capacity": 2,
-    "cell": 70,
-    "row": 5,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383271/highlords-judgment?def=107510&rank=1",
-    "links": [
-      85,
-      89
-    ]
-  },
-  {
-    "id": 267610,
-    "name": "Righteous Verdict",
-    "icon": "spell_paladin_templarsverdict",
+    "id": 326732,
+    "name": "Empyrean Power",
+    "icon": "ability_paladin_sheathoflight",
     "capacity": 1,
-    "cell": 72,
-    "row": 5,
+    "cell": 55,
+    "row": 4,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=267610/righteous-verdict",
+    "url": "https://www.wowhead.com/beta/spell=326732/empyrean-power",
     "links": [
-      89
-    ]
-  },
-  {
-    "id": 382536,
-    "name": "Sanctify",
-    "icon": "achievement_zone_firelands",
-    "capacity": 1,
-    "cell": 74,
-    "row": 5,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382536/sanctify",
-    "links": [
-      89
-    ]
-  },
-  {
-    "id": 255937,
-    "name": "Wake of Ashes",
-    "icon": "inv_sword_2h_artifactashbringerfire_d_03",
-    "capacity": 1,
-    "cell": 76,
-    "row": 5,
-    "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=255937/wake-of-ashes",
-    "links": [
-      91,
-      93,
-      95
+      38,
+      40
     ]
   },
   {
@@ -241,7 +173,65 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382275/consecrated-blade",
     "links": [
-      97
+      59,
+      63
+    ]
+  },
+  {
+    "id": 383271,
+    "name": "Highlord's Judgment",
+    "icon": "spell_holy_righteousfury",
+    "capacity": 2,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383271/highlords-judgment?def=107510&rank=1",
+    "links": [
+      55
+    ]
+  },
+  {
+    "id": 267610,
+    "name": "Righteous Verdict",
+    "icon": "spell_paladin_templarsverdict",
+    "capacity": 1,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=267610/righteous-verdict",
+    "links": [
+      55
+    ]
+  },
+  {
+    "id": 382536,
+    "name": "Sanctify",
+    "icon": "achievement_zone_firelands",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382536/sanctify",
+    "links": [
+      55,
+      59
+    ]
+  },
+  {
+    "id": 255937,
+    "name": "Wake of Ashes",
+    "icon": "inv_sword_2h_artifactashbringerfire_d_03",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=255937/wake-of-ashes",
+    "links": [
+      59
     ]
   },
   {
@@ -255,7 +245,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=386901/seal-of-wrath",
     "links": [
-      97
+      63
     ]
   },
   {
@@ -269,8 +259,21 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383344/expurgation",
     "links": [
-      97,
-      101
+      63
+    ]
+  },
+  {
+    "id": 387640,
+    "name": "Sealed Verdict",
+    "icon": "ability_paladin_swiftretribution",
+    "capacity": 2,
+    "cell": 101,
+    "row": 6,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387640/sealed-verdict?def=107493&rank=1",
+    "links": [
+      82
     ]
   },
   {
@@ -284,7 +287,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383876/boundless-judgment",
     "links": [
-      104
+      70
     ]
   },
   {
@@ -306,9 +309,9 @@
       "url": "https://www.wowhead.com/beta/spell=383334/inner-grace"
     },
     "links": [
-      104,
-      106,
-      108
+      70,
+      72,
+      74
     ]
   },
   {
@@ -328,7 +331,10 @@
       "name": "Radiant Decree",
       "icon": "inv_sword_2h_artifactashbringerfire_d_02",
       "url": "https://www.wowhead.com/beta/spell=384052/radiant-decree"
-    }
+    },
+    "links": [
+      76
+    ]
   },
   {
     "cell": 93,
@@ -337,20 +343,19 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
-      "id": 384442,
-      "name": "Avenging Wrath: Might",
+      "id": 31884,
+      "name": "$@spellname384442",
       "icon": "spell_holy_avenginewrath",
-      "url": "https://www.wowhead.com/beta/spell=384442/avenging-wrath-might"
+      "url": "https://www.wowhead.com/beta/spell=31884/avenging-wrath"
     },
     "right": {
-      "id": 384392,
+      "id": 231895,
       "name": "Crusade",
       "icon": "ability_paladin_sanctifiedwrath",
-      "url": "https://www.wowhead.com/beta/spell=384392/crusade"
+      "url": "https://www.wowhead.com/beta/spell=231895/crusade"
     },
     "links": [
-      108,
-      112
+      76
     ]
   },
   {
@@ -362,7 +367,10 @@
     "row": 6,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383350/truths-wake"
+    "url": "https://www.wowhead.com/beta/spell=383350/truths-wake",
+    "links": [
+      76
+    ]
   },
   {
     "cell": 97,
@@ -383,71 +391,9 @@
       "url": "https://www.wowhead.com/beta/spell=203316/fires-of-justice"
     },
     "links": [
-      112,
-      114,
-      116
-    ]
-  },
-  {
-    "id": 387640,
-    "name": "Sealed Verdict",
-    "icon": "ability_paladin_swiftretribution",
-    "capacity": 2,
-    "cell": 101,
-    "row": 6,
-    "column": 17,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387640/sealed-verdict?def=107493&rank=1",
-    "links": [
-      116
-    ]
-  },
-  {
-    "cell": 104,
-    "row": 7,
-    "column": 3,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 204054,
-      "name": "Consecrated Ground",
-      "icon": "ability_paladin_righteousvengeance",
-      "url": "https://www.wowhead.com/beta/spell=204054/consecrated-ground"
-    },
-    "right": {
-      "id": 387479,
-      "name": "Sanctified Ground",
-      "icon": "warrior_talent_icon_skirmisher",
-      "url": "https://www.wowhead.com/beta/spell=387479/sanctified-ground"
-    },
-    "links": [
-      123
-    ]
-  },
-  {
-    "id": 383185,
-    "name": "Exorcism",
-    "icon": "spell_holy_excorcism_02",
-    "capacity": 1,
-    "cell": 106,
-    "row": 7,
-    "column": 5,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=383185/exorcism"
-  },
-  {
-    "id": 183218,
-    "name": "Hand of Hindrance",
-    "icon": "ability_paladin_handofhindrance",
-    "capacity": 1,
-    "cell": 108,
-    "row": 7,
-    "column": 7,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=183218/hand-of-hindrance",
-    "links": [
-      123,
-      127
+      78,
+      80,
+      82
     ]
   },
   {
@@ -469,20 +415,9 @@
       "url": "https://www.wowhead.com/beta/spell=326734/healing-hands"
     },
     "links": [
-      127,
-      131
+      93,
+      97
     ]
-  },
-  {
-    "id": 383396,
-    "name": "Tempest of the Lightbringer",
-    "icon": "ability_malkorok_blightofyshaarj_yellow",
-    "capacity": 1,
-    "cell": 114,
-    "row": 7,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383396/tempest-of-the-lightbringer"
   },
   {
     "cell": 116,
@@ -503,7 +438,74 @@
       "url": "https://www.wowhead.com/beta/spell=205191/eye-for-an-eye"
     },
     "links": [
-      131
+      97,
+      101
+    ]
+  },
+  {
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 204054,
+      "name": "Consecrated Ground",
+      "icon": "ability_paladin_righteousvengeance",
+      "url": "https://www.wowhead.com/beta/spell=204054/consecrated-ground"
+    },
+    "right": {
+      "id": 387479,
+      "name": "Sanctified Ground",
+      "icon": "warrior_talent_icon_skirmisher",
+      "url": "https://www.wowhead.com/beta/spell=387479/sanctified-ground"
+    },
+    "links": [
+      85,
+      89
+    ]
+  },
+  {
+    "id": 383185,
+    "name": "Exorcism",
+    "icon": "spell_holy_excorcism_02",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=383185/exorcism",
+    "links": [
+      89
+    ]
+  },
+  {
+    "id": 183218,
+    "name": "Hand of Hindrance",
+    "icon": "ability_paladin_handofhindrance",
+    "capacity": 1,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=183218/hand-of-hindrance",
+    "links": [
+      89,
+      93
+    ]
+  },
+  {
+    "id": 383396,
+    "name": "Tempest of the Lightbringer",
+    "icon": "ability_malkorok_blightofyshaarj_yellow",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383396/tempest-of-the-lightbringer",
+    "links": [
+      97
     ]
   },
   {
@@ -517,8 +519,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383388/relentless-inquisitor?def=107519&rank=1",
     "links": [
-      140,
-      142
+      104,
+      108
     ]
   },
   {
@@ -532,9 +534,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383276/ashes-to-ashes?def=107531&rank=1",
     "links": [
-      142,
-      144,
-      146
+      108,
+      112
     ]
   },
   {
@@ -548,22 +549,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383274/templars-vindication?def=107490&rank=1",
     "links": [
-      146,
-      148
-    ]
-  },
-  {
-    "id": 343527,
-    "name": "Execution Sentence",
-    "icon": "spell_paladin_executionsentence",
-    "capacity": 1,
-    "cell": 140,
-    "row": 9,
-    "column": 5,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=343527/execution-sentence",
-    "links": [
-      157
+      112,
+      116
     ]
   },
   {
@@ -577,7 +564,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=375576/divine-toll",
     "links": [
-      159
+      123,
+      127
     ]
   },
   {
@@ -589,7 +577,24 @@
     "row": 9,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387170/empyrean-legacy"
+    "url": "https://www.wowhead.com/beta/spell=387170/empyrean-legacy",
+    "links": [
+      127
+    ]
+  },
+  {
+    "id": 343527,
+    "name": "Execution Sentence",
+    "icon": "spell_paladin_executionsentence",
+    "capacity": 1,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=343527/execution-sentence",
+    "links": [
+      123
+    ]
   },
   {
     "id": 383304,
@@ -602,7 +607,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383304/virtuous-command?def=107530&rank=1",
     "links": [
-      163
+      127,
+      131
     ]
   },
   {
@@ -616,7 +622,21 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=383328/final-verdict",
     "links": [
-      165
+      131
+    ]
+  },
+  {
+    "id": 384027,
+    "name": "Divine Resonance",
+    "icon": "ability_mount_goatmountwhite",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384027/divine-resonance",
+    "links": [
+      142
     ]
   },
   {
@@ -636,18 +656,10 @@
       "name": "Executioner's Wrath",
       "icon": "inv_glove_plate_raidpaladinmythic_q_01",
       "url": "https://www.wowhead.com/beta/spell=387196/executioners-wrath"
-    }
-  },
-  {
-    "id": 384027,
-    "name": "Divine Resonance",
-    "icon": "ability_mount_goatmountwhite",
-    "capacity": 1,
-    "cell": 159,
-    "row": 10,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384027/divine-resonance"
+    },
+    "links": [
+      140
+    ]
   },
   {
     "id": 343721,
@@ -658,7 +670,10 @@
     "row": 10,
     "column": 11,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=343721/final-reckoning"
+    "url": "https://www.wowhead.com/beta/spell=343721/final-reckoning",
+    "links": [
+      146
+    ]
   },
   {
     "id": 383314,
@@ -669,6 +684,9 @@
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383314/vanguards-momentum?def=107488&rank=1"
+    "url": "https://www.wowhead.com/beta/spell=383314/vanguards-momentum?def=107488&rank=1",
+    "links": [
+      148
+    ]
   }
 ]

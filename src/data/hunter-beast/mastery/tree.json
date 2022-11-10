@@ -8,12 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=193455/cobra-shot",
-    "links": [
-      23,
-      25,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=193455/cobra-shot"
   },
   {
     "id": 321014,
@@ -26,7 +21,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321014/pack-tactics",
     "links": [
-      40
+      8
     ]
   },
   {
@@ -40,7 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=2643/multi-shot",
     "links": [
-      59
+      8
     ]
   },
   {
@@ -54,8 +49,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=217200/barbed-shot",
     "links": [
-      44,
-      46
+      8
     ]
   },
   {
@@ -69,8 +63,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=191384/aspect-of-the-beast",
     "links": [
-      55,
-      74
+      23
     ]
   },
   {
@@ -84,7 +77,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=56315/kindred-spirits?def=105673&rank=1",
     "links": [
-      61
+      27
     ]
   },
   {
@@ -98,53 +91,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378209/training-expert?def=105664&rank=1",
     "links": [
-      61,
-      65
-    ]
-  },
-  {
-    "id": 267116,
-    "name": "Animal Companion",
-    "icon": "ability_hunter_bestialdiscipline",
-    "capacity": 1,
-    "cell": 55,
-    "row": 4,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=267116/animal-companion",
-    "links": [
-      70,
-      74
-    ]
-  },
-  {
-    "id": 115939,
-    "name": "Beast Cleave",
-    "icon": "ability_hunter_sickem",
-    "capacity": 2,
-    "cell": 59,
-    "row": 4,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=115939/beast-cleave?def=105672&rank=1",
-    "links": [
-      74,
-      78,
-      93
-    ]
-  },
-  {
-    "id": 378740,
-    "name": "Killer Command",
-    "icon": "ability_physical_taunt",
-    "capacity": 2,
-    "cell": 61,
-    "row": 4,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378740/killer-command?def=105655&rank=1",
-    "links": [
-      80
+      27
     ]
   },
   {
@@ -158,8 +105,50 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378205/sharp-barbs?def=105661&rank=1",
     "links": [
-      80,
-      82
+      46
+    ]
+  },
+  {
+    "id": 267116,
+    "name": "Animal Companion",
+    "icon": "ability_hunter_bestialdiscipline",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=267116/animal-companion",
+    "links": [
+      40
+    ]
+  },
+  {
+    "id": 115939,
+    "name": "Beast Cleave",
+    "icon": "ability_hunter_sickem",
+    "capacity": 2,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=115939/beast-cleave?def=105672&rank=1",
+    "links": [
+      25
+    ]
+  },
+  {
+    "id": 378740,
+    "name": "Killer Command",
+    "icon": "ability_physical_taunt",
+    "capacity": 2,
+    "cell": 61,
+    "row": 4,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378740/killer-command?def=105655&rank=1",
+    "links": [
+      44,
+      46
     ]
   },
   {
@@ -173,39 +162,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378750/cobra-sting?def=105657&rank=1",
     "links": [
-      89,
-      104
-    ]
-  },
-  {
-    "id": 257944,
-    "name": "Thrill of the Hunt",
-    "icon": "ability_hunter_thrillofthehunt",
-    "capacity": 3,
-    "cell": 74,
-    "row": 5,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=257944/thrill-of-the-hunt?def=105681&rank=1",
-    "links": [
-      89,
-      93,
-      108
-    ]
-  },
-  {
-    "id": 378207,
-    "name": "Kill Cleave",
-    "icon": "spell_druid_bloodythrash",
-    "capacity": 1,
-    "cell": 78,
-    "row": 5,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378207/kill-cleave",
-    "links": [
-      93,
-      97
+      55
     ]
   },
   {
@@ -227,7 +184,8 @@
       "url": "https://www.wowhead.com/beta/spell=321530/bloodshed"
     },
     "links": [
-      97
+      61,
+      65
     ]
   },
   {
@@ -241,7 +199,37 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378244/cobra-senses",
     "links": [
-      97
+      65
+    ]
+  },
+  {
+    "id": 257944,
+    "name": "Thrill of the Hunt",
+    "icon": "ability_hunter_thrillofthehunt",
+    "capacity": 3,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=257944/thrill-of-the-hunt?def=105681&rank=1",
+    "links": [
+      40,
+      55,
+      59
+    ]
+  },
+  {
+    "id": 378207,
+    "name": "Kill Cleave",
+    "icon": "spell_druid_bloodythrash",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378207/kill-cleave",
+    "links": [
+      59
     ]
   },
   {
@@ -255,8 +243,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=120679/dire-beast",
     "links": [
-      104,
-      108
+      70,
+      74
     ]
   },
   {
@@ -270,9 +258,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=19574/bestial-wrath",
     "links": [
-      108,
-      110,
-      112
+      59,
+      74,
+      78
     ]
   },
   {
@@ -286,65 +274,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393933/war-orders?def=105668&rank=1",
     "links": [
-      112,
-      116
-    ]
-  },
-  {
-    "id": 378210,
-    "name": "Hunter's Prey",
-    "icon": "ability_hunter_assassinate",
-    "capacity": 1,
-    "cell": 104,
-    "row": 7,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378210/hunters-prey",
-    "links": [
-      123
-    ]
-  },
-  {
-    "id": 199530,
-    "name": "Stomp",
-    "icon": "warrior_talent_icon_thunderstruck",
-    "capacity": 2,
-    "cell": 108,
-    "row": 7,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=199530/stomp?def=105658&rank=1",
-    "links": [
-      123,
-      142
-    ]
-  },
-  {
-    "id": 231548,
-    "name": "Barbed Wrath",
-    "icon": "ability_druid_ferociousbite",
-    "capacity": 1,
-    "cell": 110,
-    "row": 7,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=231548/barbed-wrath",
-    "links": [
-      127
-    ]
-  },
-  {
-    "id": 185789,
-    "name": "Wild Call",
-    "icon": "ability_hunter_masterscall",
-    "capacity": 1,
-    "cell": 112,
-    "row": 7,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=185789/wild-call",
-    "links": [
-      129
+      78,
+      80,
+      82
     ]
   },
   {
@@ -358,7 +290,67 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=193530/aspect-of-the-wild",
     "links": [
-      133
+      97
+    ]
+  },
+  {
+    "id": 378210,
+    "name": "Hunter's Prey",
+    "icon": "ability_hunter_assassinate",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378210/hunters-prey",
+    "links": [
+      70,
+      89
+    ]
+  },
+  {
+    "id": 199530,
+    "name": "Stomp",
+    "icon": "warrior_talent_icon_thunderstruck",
+    "capacity": 2,
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=199530/stomp?def=105658&rank=1",
+    "links": [
+      74,
+      89,
+      93
+    ]
+  },
+  {
+    "id": 231548,
+    "name": "Barbed Wrath",
+    "icon": "ability_druid_ferociousbite",
+    "capacity": 1,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=231548/barbed-wrath",
+    "links": [
+      93
+    ]
+  },
+  {
+    "id": 185789,
+    "name": "Wild Call",
+    "icon": "ability_hunter_masterscall",
+    "capacity": 1,
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=185789/wild-call",
+    "links": [
+      93,
+      97
     ]
   },
   {
@@ -372,8 +364,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=378743/dire-command?def=105669&rank=1",
     "links": [
-      140,
-      142
+      104,
+      108
     ]
   },
   {
@@ -387,9 +379,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=193532/scent-of-blood?def=105682&rank=1",
     "links": [
-      142,
-      146,
-      161
+      110
     ]
   },
   {
@@ -403,8 +393,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=199528/one-with-the-pack?def=105676&rank=1",
     "links": [
-      146,
-      148
+      112
     ]
   },
   {
@@ -426,7 +415,7 @@
       "url": "https://www.wowhead.com/beta/spell=389660/snake-bite"
     },
     "links": [
-      148
+      116
     ]
   },
   {
@@ -440,7 +429,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=385810/dire-frenzy?def=105529&rank=1",
     "links": [
-      157
+      123
     ]
   },
   {
@@ -452,7 +441,12 @@
     "row": 9,
     "column": 7,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=392060/wailing-arrow"
+    "url": "https://www.wowhead.com/beta/spell=392060/wailing-arrow",
+    "links": [
+      108,
+      123,
+      127
+    ]
   },
   {
     "id": 386870,
@@ -463,7 +457,11 @@
     "row": 9,
     "column": 11,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=386870/brutal-companion"
+    "url": "https://www.wowhead.com/beta/spell=386870/brutal-companion",
+    "links": [
+      127,
+      129
+    ]
   },
   {
     "id": 359844,
@@ -476,7 +474,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=359844/call-of-the-wild",
     "links": [
-      165
+      129,
+      133
     ]
   },
   {
@@ -488,7 +487,10 @@
     "row": 10,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378745/dire-pack"
+    "url": "https://www.wowhead.com/beta/spell=378745/dire-pack",
+    "links": [
+      140
+    ]
   },
   {
     "cell": 161,
@@ -507,7 +509,10 @@
       "name": "Piercing Fangs",
       "icon": "inv_misc_monsterfang_02",
       "url": "https://www.wowhead.com/beta/spell=392053/piercing-fangs"
-    }
+    },
+    "links": [
+      127
+    ]
   },
   {
     "cell": 165,
@@ -526,6 +531,9 @@
       "name": "Bloody Frenzy",
       "icon": "ability_racial_cannibalize",
       "url": "https://www.wowhead.com/beta/spell=378739/bloody-frenzy"
-    }
+    },
+    "links": [
+      148
+    ]
   }
 ]

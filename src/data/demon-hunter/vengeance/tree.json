@@ -8,11 +8,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=212084/fel-devastation",
-    "links": [
-      23,
-      27
-    ]
+    "url": "https://www.wowhead.com/beta/spell=212084/fel-devastation"
   },
   {
     "id": 389958,
@@ -25,8 +21,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389958/frailty",
     "links": [
-      38,
-      42
+      8
     ]
   },
   {
@@ -40,8 +35,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=204021/fiery-brand",
     "links": [
-      42,
-      46
+      8
     ]
   },
   {
@@ -55,8 +49,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=320387/perfectly-balanced-glaive",
     "links": [
-      53,
-      55
+      23
     ]
   },
   {
@@ -70,7 +63,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=321028/deflecting-spikes",
     "links": [
-      59
+      23,
+      27
     ]
   },
   {
@@ -84,8 +78,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389724/meteoric-strikes",
     "links": [
-      63,
-      65
+      27
     ]
   },
   {
@@ -107,9 +100,7 @@
       "url": "https://www.wowhead.com/beta/spell=263642/fracture"
     },
     "links": [
-      68,
-      70,
-      72
+      38
     ]
   },
   {
@@ -123,7 +114,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389720/calcified-spikes",
     "links": [
-      72
+      38
     ]
   },
   {
@@ -145,9 +136,7 @@
       "url": "https://www.wowhead.com/beta/spell=202137/sigil-of-silence"
     },
     "links": [
-      72,
-      76,
-      80
+      42
     ]
   },
   {
@@ -161,7 +150,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389729/retaliation",
     "links": [
-      80
+      46
     ]
   },
   {
@@ -175,9 +164,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389705/fel-flame-fortification",
     "links": [
-      80,
-      82,
-      84
+      46
     ]
   },
   {
@@ -191,7 +178,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=247454/spirit-bomb",
     "links": [
-      87
+      53
     ]
   },
   {
@@ -205,7 +192,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=207697/feast-of-souls",
     "links": [
-      87
+      53
     ]
   },
   {
@@ -219,8 +206,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=207548/agonizing-flames?def=117892&rank=1",
     "links": [
-      87,
-      91
+      53,
+      55,
+      59
     ]
   },
   {
@@ -234,9 +222,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389721/extended-spikes?def=117886&rank=1",
     "links": [
-      91,
-      93,
-      95
+      59
     ]
   },
   {
@@ -250,8 +236,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390213/burning-blood?def=117908&rank=1",
     "links": [
-      95,
-      99
+      59,
+      63,
+      65
     ]
   },
   {
@@ -273,7 +260,7 @@
       "url": "https://www.wowhead.com/beta/spell=320341/bulk-extraction"
     },
     "links": [
-      99
+      65
     ]
   },
   {
@@ -287,7 +274,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=202138/sigil-of-chains",
     "links": [
-      99
+      65
     ]
   },
   {
@@ -301,8 +288,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=268175/void-reaver",
     "links": [
-      102,
-      106
+      68,
+      70,
+      72
     ]
   },
   {
@@ -316,8 +304,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=227174/fallout",
     "links": [
-      106,
-      110
+      72,
+      76
     ]
   },
   {
@@ -331,7 +319,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=326853/ruinous-bulwark",
     "links": [
-      110
+      76
     ]
   },
   {
@@ -345,8 +333,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=390808/volatile-flameblood",
     "links": [
-      110,
-      114
+      76,
+      80
     ]
   },
   {
@@ -360,8 +348,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=343014/revel-in-pain",
     "links": [
-      114,
-      118
+      80,
+      82,
+      84
     ]
   },
   {
@@ -375,7 +364,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=391165/soul-furnace",
     "links": [
-      121
+      87
     ]
   },
   {
@@ -389,9 +378,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=207387/painbringer?def=117897&rank=1",
     "links": [
-      121,
-      123,
-      127
+      87,
+      91
     ]
   },
   {
@@ -405,7 +393,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389708/darkglare-boon?def=117906&rank=1",
     "links": [
-      127
+      91,
+      93,
+      95
     ]
   },
   {
@@ -419,9 +409,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389220/fiery-demise?def=117877&rank=1",
     "links": [
-      127,
-      131,
-      133
+      95,
+      99
     ]
   },
   {
@@ -435,7 +424,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389715/chains-of-anger",
     "links": [
-      133
+      99
     ]
   },
   {
@@ -449,7 +438,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=343207/focused-cleave",
     "links": [
-      140
+      102,
+      106
     ]
   },
   {
@@ -463,7 +453,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389711/soulmonger",
     "links": [
-      140
+      106
     ]
   },
   {
@@ -477,7 +467,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=393827/stoke-the-flames",
     "links": [
-      144
+      106,
+      110,
+      114
     ]
   },
   {
@@ -491,7 +483,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=207739/burning-alive",
     "links": [
-      148
+      114
     ]
   },
   {
@@ -505,7 +497,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389718/cycle-of-binding",
     "links": [
-      148
+      114,
+      118
     ]
   },
   {
@@ -519,8 +512,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=389976/vulnerability?def=117902&rank=1",
     "links": [
-      157,
-      159
+      121,
+      123
     ]
   },
   {
@@ -534,9 +527,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=218612/feed-the-demon?def=117904&rank=1",
     "links": [
-      159,
-      161,
-      163
+      127
     ]
   },
   {
@@ -550,8 +541,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=336639/charred-flesh?def=117882&rank=1",
     "links": [
-      163,
-      165
+      131,
+      133
     ]
   },
   {
@@ -563,7 +554,10 @@
     "row": 10,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389985/soulcrush"
+    "url": "https://www.wowhead.com/beta/spell=389985/soulcrush",
+    "links": [
+      140
+    ]
   },
   {
     "id": 207407,
@@ -574,7 +568,11 @@
     "row": 10,
     "column": 7,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=207407/soul-carver"
+    "url": "https://www.wowhead.com/beta/spell=207407/soul-carver",
+    "links": [
+      140,
+      144
+    ]
   },
   {
     "id": 209258,
@@ -585,7 +583,10 @@
     "row": 10,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=209258/last-resort"
+    "url": "https://www.wowhead.com/beta/spell=209258/last-resort",
+    "links": [
+      144
+    ]
   },
   {
     "cell": 163,
@@ -604,7 +605,11 @@
       "name": "Elysian Decree",
       "icon": "ability_bastion_demonhunter",
       "url": "https://www.wowhead.com/beta/spell=390163/elysian-decree"
-    }
+    },
+    "links": [
+      144,
+      148
+    ]
   },
   {
     "id": 389732,
@@ -615,6 +620,9 @@
     "row": 10,
     "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389732/down-in-flames"
+    "url": "https://www.wowhead.com/beta/spell=389732/down-in-flames",
+    "links": [
+      148
+    ]
   }
 ]

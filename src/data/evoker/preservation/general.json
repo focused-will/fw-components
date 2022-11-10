@@ -8,10 +8,7 @@
     "row": 1,
     "column": 5,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=358385/landslide",
-    "links": [
-      21
-    ]
+    "url": "https://www.wowhead.com/beta/spell=358385/landslide"
   },
   {
     "id": 363916,
@@ -22,10 +19,7 @@
     "row": 1,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=363916/obsidian-scales",
-    "links": [
-      25
-    ]
+    "url": "https://www.wowhead.com/beta/spell=363916/obsidian-scales"
   },
   {
     "id": 365585,
@@ -36,10 +30,7 @@
     "row": 1,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=365585/expunge",
-    "links": [
-      29
-    ]
+    "url": "https://www.wowhead.com/beta/spell=365585/expunge"
   },
   {
     "id": 369913,
@@ -52,9 +43,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=369913/natural-convergence",
     "links": [
-      36,
-      40,
-      55
+      4
     ]
   },
   {
@@ -68,9 +57,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=370897/permeating-chill",
     "links": [
-      40,
-      42,
-      44
+      8
     ]
   },
   {
@@ -84,9 +71,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=360995/verdant-embrace",
     "links": [
-      44,
-      48,
-      63
+      12
     ]
   },
   {
@@ -98,7 +83,10 @@
     "row": 3,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375528/forger-of-mountains"
+    "url": "https://www.wowhead.com/beta/spell=375528/forger-of-mountains",
+    "links": [
+      21
+    ]
   },
   {
     "id": 375520,
@@ -111,9 +99,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375520/innate-magic?def=92712&rank=1",
     "links": [
-      55,
-      57,
-      59
+      21,
+      25
     ]
   },
   {
@@ -125,7 +112,10 @@
     "row": 3,
     "column": 9,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375406/obsidian-bulwark"
+    "url": "https://www.wowhead.com/beta/spell=375406/obsidian-bulwark",
+    "links": [
+      25
+    ]
   },
   {
     "id": 375554,
@@ -138,9 +128,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375554/enkindled?def=92706&rank=1",
     "links": [
-      59,
-      61,
-      63
+      25,
+      29
     ]
   },
   {
@@ -152,7 +141,10 @@
     "row": 3,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=372469/scarlet-adaptation"
+    "url": "https://www.wowhead.com/beta/spell=372469/scarlet-adaptation",
+    "links": [
+      29
+    ]
   },
   {
     "id": 351338,
@@ -165,8 +157,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=351338/quell",
     "links": [
-      70,
-      72
+      21,
+      40
     ]
   },
   {
@@ -180,7 +172,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=371806/recall",
     "links": [
-      91
+      40
     ]
   },
   {
@@ -200,7 +192,11 @@
       "name": "Clobbering Sweep",
       "icon": "ability_racial_tailswipe",
       "url": "https://www.wowhead.com/beta/spell=375443/clobbering-sweep"
-    }
+    },
+    "links": [
+      40,
+      44
+    ]
   },
   {
     "id": 375556,
@@ -213,7 +209,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375556/tailwind",
     "links": [
-      95
+      44
     ]
   },
   {
@@ -227,8 +223,8 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=374251/cauterizing-flame",
     "links": [
-      80,
-      82
+      29,
+      44
     ]
   },
   {
@@ -240,7 +236,10 @@
     "row": 5,
     "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=375507/roar-of-exhilaration"
+    "url": "https://www.wowhead.com/beta/spell=375507/roar-of-exhilaration",
+    "links": [
+      55
+    ]
   },
   {
     "id": 376164,
@@ -253,7 +252,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=376164/instinctive-arcana?def=92695&rank=1",
     "links": [
-      106
+      55
     ]
   },
   {
@@ -265,12 +264,7 @@
     "row": 5,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=370553/tip-the-scales",
-    "links": [
-      91,
-      93,
-      95
-    ]
+    "url": "https://www.wowhead.com/beta/spell=370553/tip-the-scales"
   },
   {
     "id": 376930,
@@ -283,8 +277,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=376930/attuned-to-the-dream?def=92701&rank=1",
     "links": [
-      97,
-      99
+      63
     ]
   },
   {
@@ -296,7 +289,10 @@
     "row": 5,
     "column": 15,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=360806/sleep-walk"
+    "url": "https://www.wowhead.com/beta/spell=360806/sleep-walk",
+    "links": [
+      63
+    ]
   },
   {
     "id": 376166,
@@ -309,8 +305,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=376166/draconic-legacy?def=92714&rank=1",
     "links": [
-      106,
-      108
+      57,
+      76
     ]
   },
   {
@@ -324,7 +320,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375544/inherent-resistance?def=92699&rank=1",
     "links": [
-      110
+      76
     ]
   },
   {
@@ -338,8 +334,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375517/extended-flight?def=92708&rank=1",
     "links": [
-      112,
-      114
+      61,
+      76
     ]
   },
   {
@@ -353,7 +349,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=370886/bountiful-bloom",
     "links": [
-      114
+      80
     ]
   },
   {
@@ -365,7 +361,10 @@
     "row": 6,
     "column": 15,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=369990/ancient-flame"
+    "url": "https://www.wowhead.com/beta/spell=369990/ancient-flame",
+    "links": [
+      80
+    ]
   },
   {
     "id": 375510,
@@ -378,9 +377,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375510/blast-furnace?def=92696&rank=1",
     "links": [
-      121,
-      123,
-      125
+      72,
+      91
     ]
   },
   {
@@ -394,7 +392,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375542/exuberance",
     "links": [
-      125
+      91
     ]
   },
   {
@@ -408,9 +406,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=369459/source-of-magic",
     "links": [
-      125,
-      127,
-      129
+      93
     ]
   },
   {
@@ -424,7 +420,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387341/walloping-blow",
     "links": [
-      129
+      95
     ]
   },
   {
@@ -438,9 +434,8 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387761/panacea",
     "links": [
-      129,
-      131,
-      133
+      95,
+      97
     ]
   },
   {
@@ -454,7 +449,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=368432/unravel",
     "links": [
-      140
+      106
     ]
   },
   {
@@ -468,7 +463,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=369909/protracted-talons",
     "links": [
-      140
+      106
     ]
   },
   {
@@ -482,9 +477,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=372048/oppressing-roar",
     "links": [
-      140,
-      142,
-      144
+      106,
+      108,
+      110
     ]
   },
   {
@@ -498,7 +493,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=387787/regenerative-magic",
     "links": [
-      144
+      110
     ]
   },
   {
@@ -512,8 +507,9 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=370665/rescue",
     "links": [
-      144,
-      146
+      110,
+      112,
+      114
     ]
   },
   {
@@ -527,7 +523,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=375561/lush-growth?def=92680&rank=1",
     "links": [
-      165
+      114
     ]
   },
   {
@@ -541,7 +537,7 @@
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=374348/renewing-blaze",
     "links": [
-      150
+      114
     ]
   },
   {
@@ -555,7 +551,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=369939/leaping-flames",
     "links": [
-      157
+      121,
+      123,
+      125
     ]
   },
   {
@@ -567,7 +565,10 @@
     "row": 9,
     "column": 7,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=374346/overawe"
+    "url": "https://www.wowhead.com/beta/spell=374346/overawe",
+    "links": [
+      125
+    ]
   },
   {
     "id": 365933,
@@ -580,7 +581,9 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=365933/aerial-mastery",
     "links": [
-      161
+      125,
+      127,
+      129
     ]
   },
   {
@@ -594,7 +597,7 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=370888/twin-guardian",
     "links": [
-      165
+      129
     ]
   },
   {
@@ -616,7 +619,7 @@
       "url": "https://www.wowhead.com/beta/spell=375577/fire-within"
     },
     "links": [
-      165
+      133
     ]
   },
   {
@@ -628,7 +631,10 @@
     "row": 10,
     "column": 5,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=371032/terror-of-the-skies"
+    "url": "https://www.wowhead.com/beta/spell=371032/terror-of-the-skies",
+    "links": [
+      140
+    ]
   },
   {
     "id": 374968,
@@ -639,7 +645,10 @@
     "row": 10,
     "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=374968/time-spiral"
+    "url": "https://www.wowhead.com/beta/spell=374968/time-spiral",
+    "links": [
+      144
+    ]
   },
   {
     "id": 374227,
@@ -650,6 +659,11 @@
     "row": 10,
     "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=374227/zephyr"
+    "url": "https://www.wowhead.com/beta/spell=374227/zephyr",
+    "links": [
+      131,
+      146,
+      150
+    ]
   }
 ]
