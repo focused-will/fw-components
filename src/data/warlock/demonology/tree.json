@@ -260,6 +260,21 @@
     ]
   },
   {
+    "id": 387349,
+    "name": "Bloodbound Imps",
+    "icon": "inv_misc_skullfel_06",
+    "capacity": 1,
+    "cell": 85,
+    "row": 6,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387349/bloodbound-imps",
+    "links": [
+      51,
+      70
+    ]
+  },
+  {
     "id": 387391,
     "name": "Dread Calling",
     "icon": "inv_felhound3_shadow_mount",
@@ -319,21 +334,6 @@
     "links": [
       67,
       82
-    ]
-  },
-  {
-    "id": 387349,
-    "name": "Bloodbound Imps",
-    "icon": "inv_misc_skullfel_06",
-    "capacity": 1,
-    "cell": 85,
-    "row": 6,
-    "column": 1,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387349/bloodbound-imps",
-    "links": [
-      51,
-      70
     ]
   },
   {

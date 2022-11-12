@@ -223,20 +223,6 @@
     ]
   },
   {
-    "id": 387166,
-    "name": "Raging Demonfire",
-    "icon": "spell_fire_ragnaros_lavaboltgreen",
-    "capacity": 2,
-    "cell": 74,
-    "row": 5,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387166/raging-demonfire?def=96587&rank=1",
-    "links": [
-      57
-    ]
-  },
-  {
     "id": 6353,
     "name": "Soul Fire",
     "icon": "spell_fire_firebolt",
@@ -263,6 +249,20 @@
     "links": [
       53,
       55
+    ]
+  },
+  {
+    "id": 387166,
+    "name": "Raging Demonfire",
+    "icon": "spell_fire_ragnaros_lavaboltgreen",
+    "capacity": 2,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387166/raging-demonfire?def=96587&rank=1",
+    "links": [
+      57
     ]
   },
   {

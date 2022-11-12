@@ -25,20 +25,6 @@
     ]
   },
   {
-    "id": 118038,
-    "name": "Die by the Sword",
-    "icon": "ability_warrior_challange",
-    "capacity": 1,
-    "cell": 42,
-    "row": 3,
-    "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=118038/die-by-the-sword",
-    "links": [
-      25
-    ]
-  },
-  {
     "id": 316440,
     "name": "Martial Prowess",
     "icon": "ability_warrior_weaponmastery",
@@ -48,6 +34,20 @@
     "column": 6,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=316440/martial-prowess",
+    "links": [
+      25
+    ]
+  },
+  {
+    "id": 118038,
+    "name": "Die by the Sword",
+    "icon": "ability_warrior_challange",
+    "capacity": 1,
+    "cell": 42,
+    "row": 3,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=118038/die-by-the-sword",
     "links": [
       25
     ]
@@ -64,6 +64,20 @@
     "url": "https://www.wowhead.com/beta/spell=316405/improved-execute",
     "links": [
       25
+    ]
+  },
+  {
+    "id": 385571,
+    "name": "Improved Overpower",
+    "icon": "ability_meleedamage",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385571/improved-overpower",
+    "links": [
+      39
     ]
   },
   {
@@ -96,34 +110,6 @@
     ]
   },
   {
-    "id": 202316,
-    "name": "Fervor of Battle",
-    "icon": "ability_rogue_waylay",
-    "capacity": 1,
-    "cell": 65,
-    "row": 4,
-    "column": 15,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=202316/fervor-of-battle",
-    "links": [
-      45
-    ]
-  },
-  {
-    "id": 385571,
-    "name": "Improved Overpower",
-    "icon": "ability_meleedamage",
-    "capacity": 1,
-    "cell": 53,
-    "row": 4,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385571/improved-overpower",
-    "links": [
-      39
-    ]
-  },
-  {
     "id": 388807,
     "name": "Storm Wall",
     "icon": "spell_sandstorm",
@@ -153,18 +139,17 @@
     ]
   },
   {
-    "id": 167105,
-    "name": "Colossus Smash",
-    "icon": "ability_warrior_colossussmash",
+    "id": 202316,
+    "name": "Fervor of Battle",
+    "icon": "ability_rogue_waylay",
     "capacity": 1,
-    "cell": 76,
-    "row": 5,
-    "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=167105/colossus-smash",
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=202316/fervor-of-battle",
     "links": [
-      58,
-      60
+      45
     ]
   },
   {
@@ -183,6 +168,21 @@
     ]
   },
   {
+    "id": 167105,
+    "name": "Colossus Smash",
+    "icon": "ability_warrior_colossussmash",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=167105/colossus-smash",
+    "links": [
+      58,
+      60
+    ]
+  },
+  {
     "id": 383430,
     "name": "Impale",
     "icon": "ability_searingarrow",
@@ -195,20 +195,6 @@
     "links": [
       62,
       65
-    ]
-  },
-  {
-    "id": 152278,
-    "name": "Anger Management",
-    "icon": "warrior_talent_icon_angermanagement",
-    "capacity": 1,
-    "cell": 93,
-    "row": 6,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=152278/anger-management",
-    "links": [
-      76
     ]
   },
   {
@@ -251,6 +237,20 @@
     "url": "https://www.wowhead.com/beta/spell=383219/exhilarating-blows",
     "links": [
       70,
+      76
+    ]
+  },
+  {
+    "id": 152278,
+    "name": "Anger Management",
+    "icon": "warrior_talent_icon_angermanagement",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=152278/anger-management",
+    "links": [
       76
     ]
   },
@@ -341,20 +341,6 @@
     ]
   },
   {
-    "id": 383293,
-    "name": "Reaping Swings",
-    "icon": "ability_rogue_cuttothechase",
-    "capacity": 1,
-    "cell": 118,
-    "row": 7,
-    "column": 17,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383293/reaping-swings",
-    "links": [
-      101
-    ]
-  },
-  {
     "cell": 109,
     "row": 7,
     "column": 8,
@@ -433,6 +419,20 @@
     },
     "links": [
       99
+    ]
+  },
+  {
+    "id": 383293,
+    "name": "Reaping Swings",
+    "icon": "ability_rogue_cuttothechase",
+    "capacity": 1,
+    "cell": 118,
+    "row": 7,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383293/reaping-swings",
+    "links": [
+      101
     ]
   },
   {

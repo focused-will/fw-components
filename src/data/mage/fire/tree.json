@@ -138,21 +138,6 @@
     ]
   },
   {
-    "id": 205029,
-    "name": "Flame On",
-    "icon": "inv_helm_circlet_firelands_d_01",
-    "capacity": 2,
-    "cell": 78,
-    "row": 5,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=205029/flame-on?def=85259&rank=1",
-    "links": [
-      61,
-      63
-    ]
-  },
-  {
     "id": 383604,
     "name": "Improved Scorch",
     "icon": "ability_mage_fierypayback",
@@ -195,6 +180,21 @@
       42,
       57,
       61
+    ]
+  },
+  {
+    "id": 205029,
+    "name": "Flame On",
+    "icon": "inv_helm_circlet_firelands_d_01",
+    "capacity": 2,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=205029/flame-on?def=85259&rank=1",
+    "links": [
+      61,
+      63
     ]
   },
   {

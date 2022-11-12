@@ -95,20 +95,6 @@
     ]
   },
   {
-    "id": 378205,
-    "name": "Sharp Barbs",
-    "icon": "ability_hunter_laceration",
-    "capacity": 2,
-    "cell": 65,
-    "row": 4,
-    "column": 15,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378205/sharp-barbs?def=105661&rank=1",
-    "links": [
-      46
-    ]
-  },
-  {
     "id": 267116,
     "name": "Animal Companion",
     "icon": "ability_hunter_bestialdiscipline",
@@ -152,6 +138,20 @@
     ]
   },
   {
+    "id": 378205,
+    "name": "Sharp Barbs",
+    "icon": "ability_hunter_laceration",
+    "capacity": 2,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378205/sharp-barbs?def=105661&rank=1",
+    "links": [
+      46
+    ]
+  },
+  {
     "id": 378750,
     "name": "Cobra Sting",
     "icon": "ability_hunter_cobrashot",
@@ -163,6 +163,36 @@
     "url": "https://www.wowhead.com/beta/spell=378750/cobra-sting?def=105657&rank=1",
     "links": [
       55
+    ]
+  },
+  {
+    "id": 257944,
+    "name": "Thrill of the Hunt",
+    "icon": "ability_hunter_thrillofthehunt",
+    "capacity": 3,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=257944/thrill-of-the-hunt?def=105681&rank=1",
+    "links": [
+      40,
+      55,
+      59
+    ]
+  },
+  {
+    "id": 378207,
+    "name": "Kill Cleave",
+    "icon": "spell_druid_bloodythrash",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378207/kill-cleave",
+    "links": [
+      59
     ]
   },
   {
@@ -200,36 +230,6 @@
     "url": "https://www.wowhead.com/beta/spell=378244/cobra-senses",
     "links": [
       65
-    ]
-  },
-  {
-    "id": 257944,
-    "name": "Thrill of the Hunt",
-    "icon": "ability_hunter_thrillofthehunt",
-    "capacity": 3,
-    "cell": 74,
-    "row": 5,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=257944/thrill-of-the-hunt?def=105681&rank=1",
-    "links": [
-      40,
-      55,
-      59
-    ]
-  },
-  {
-    "id": 378207,
-    "name": "Kill Cleave",
-    "icon": "spell_druid_bloodythrash",
-    "capacity": 1,
-    "cell": 78,
-    "row": 5,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378207/kill-cleave",
-    "links": [
-      59
     ]
   },
   {
@@ -277,20 +277,6 @@
       78,
       80,
       82
-    ]
-  },
-  {
-    "id": 193530,
-    "name": "Aspect of the Wild",
-    "icon": "spell_nature_protectionformnature",
-    "capacity": 1,
-    "cell": 116,
-    "row": 7,
-    "column": 15,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=193530/aspect-of-the-wild",
-    "links": [
-      97
     ]
   },
   {
@@ -350,6 +336,20 @@
     "url": "https://www.wowhead.com/beta/spell=185789/wild-call",
     "links": [
       93,
+      97
+    ]
+  },
+  {
+    "id": 193530,
+    "name": "Aspect of the Wild",
+    "icon": "spell_nature_protectionformnature",
+    "capacity": 1,
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=193530/aspect-of-the-wild",
+    "links": [
       97
     ]
   },

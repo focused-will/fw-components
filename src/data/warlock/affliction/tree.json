@@ -385,6 +385,20 @@
     ]
   },
   {
+    "id": 389761,
+    "name": "Malefic Affliction",
+    "icon": "spell_shadow_unstableaffliction_3_purple",
+    "capacity": 2,
+    "cell": 138,
+    "row": 9,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389761/malefic-affliction?def=96431&rank=1",
+    "links": [
+      121
+    ]
+  },
+  {
     "id": 387075,
     "name": "Tormented Crescendo",
     "icon": "spell_warlock_soulburn",
@@ -397,20 +411,6 @@
     "links": [
       121,
       125
-    ]
-  },
-  {
-    "id": 389761,
-    "name": "Malefic Affliction",
-    "icon": "spell_shadow_unstableaffliction_3_purple",
-    "capacity": 2,
-    "cell": 138,
-    "row": 9,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389761/malefic-affliction?def=96431&rank=1",
-    "links": [
-      121
     ]
   },
   {

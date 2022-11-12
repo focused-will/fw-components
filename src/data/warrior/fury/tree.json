@@ -67,20 +67,6 @@
     ]
   },
   {
-    "id": 383854,
-    "name": "Improved Raging Blow",
-    "icon": "warrior_wild_strike",
-    "capacity": 1,
-    "cell": 65,
-    "row": 4,
-    "column": 15,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383854/improved-raging-blow",
-    "links": [
-      45
-    ]
-  },
-  {
     "id": 383852,
     "name": "Improved Bloodthirst",
     "icon": "spell_nature_bloodlust",
@@ -153,6 +139,20 @@
     ]
   },
   {
+    "id": 383854,
+    "name": "Improved Raging Blow",
+    "icon": "warrior_wild_strike",
+    "capacity": 1,
+    "cell": 65,
+    "row": 4,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383854/improved-raging-blow",
+    "links": [
+      45
+    ]
+  },
+  {
     "id": 383486,
     "name": "Focus in Chaos",
     "icon": "ability_hunter_mastermarksman",
@@ -198,6 +198,20 @@
     ]
   },
   {
+    "id": 81099,
+    "name": "Single-Minded Fury",
+    "icon": "warrior_talent_icon_singlemindedfury",
+    "capacity": 1,
+    "cell": 85,
+    "row": 6,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=81099/single-minded-fury",
+    "links": [
+      70
+    ]
+  },
+  {
     "id": 383959,
     "name": "Cold Steel, Hot Blood",
     "icon": "ability_rogue_hungerforblood",
@@ -221,34 +235,6 @@
     "column": 5,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=383885/vicious-contempt?def=117278&rank=1",
-    "links": [
-      70
-    ]
-  },
-  {
-    "id": 392936,
-    "name": "Wrath and Fury",
-    "icon": "inv_sword_2h_artifactarathor_d_03",
-    "capacity": 1,
-    "cell": 101,
-    "row": 6,
-    "column": 17,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392936/wrath-and-fury",
-    "links": [
-      82
-    ]
-  },
-  {
-    "id": 81099,
-    "name": "Single-Minded Fury",
-    "icon": "warrior_talent_icon_singlemindedfury",
-    "capacity": 1,
-    "cell": 85,
-    "row": 6,
-    "column": 1,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=81099/single-minded-fury",
     "links": [
       70
     ]
@@ -324,34 +310,17 @@
     ]
   },
   {
-    "id": 206315,
-    "name": "Massacre",
-    "icon": "inv_sword_48",
+    "id": 392936,
+    "name": "Wrath and Fury",
+    "icon": "inv_sword_2h_artifactarathor_d_03",
     "capacity": 1,
-    "cell": 114,
-    "row": 7,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=206315/massacre",
-    "links": [
-      95,
-      97,
-      99
-    ]
-  },
-  {
-    "id": 388049,
-    "name": "Raging Armaments",
-    "icon": "achievement_arena_2v2_5",
-    "capacity": 1,
-    "cell": 118,
-    "row": 7,
+    "cell": 101,
+    "row": 6,
     "column": 17,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=388049/raging-armaments",
+    "url": "https://www.wowhead.com/beta/spell=392936/wrath-and-fury",
     "links": [
-      99,
-      101
+      82
     ]
   },
   {
@@ -415,6 +384,22 @@
     ]
   },
   {
+    "id": 206315,
+    "name": "Massacre",
+    "icon": "inv_sword_48",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=206315/massacre",
+    "links": [
+      95,
+      97,
+      99
+    ]
+  },
+  {
     "id": 280392,
     "name": "Meat Cleaver",
     "icon": "ability_whirlwind",
@@ -426,6 +411,21 @@
     "url": "https://www.wowhead.com/beta/spell=280392/meat-cleaver",
     "links": [
       99
+    ]
+  },
+  {
+    "id": 388049,
+    "name": "Raging Armaments",
+    "icon": "achievement_arena_2v2_5",
+    "capacity": 1,
+    "cell": 118,
+    "row": 7,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=388049/raging-armaments",
+    "links": [
+      99,
+      101
     ]
   },
   {
@@ -445,6 +445,20 @@
     ]
   },
   {
+    "id": 383459,
+    "name": "Swift Strikes",
+    "icon": "ability_rogue_sprint",
+    "capacity": 2,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383459/swift-strikes?def=117291&rank=1",
+    "links": [
+      110
+    ]
+  },
+  {
     "id": 383297,
     "name": "Critical Thinking",
     "icon": "ability_criticalstrike",
@@ -458,20 +472,6 @@
       114,
       116,
       118
-    ]
-  },
-  {
-    "id": 383459,
-    "name": "Swift Strikes",
-    "icon": "ability_rogue_sprint",
-    "capacity": 2,
-    "cell": 127,
-    "row": 8,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383459/swift-strikes?def=117291&rank=1",
-    "links": [
-      110
     ]
   },
   {
@@ -555,20 +555,6 @@
     ]
   },
   {
-    "id": 389603,
-    "name": "Unbridled Ferocity",
-    "icon": "ability_warrior_endlessrage",
-    "capacity": 1,
-    "cell": 160,
-    "row": 10,
-    "column": 8,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389603/unbridled-ferocity",
-    "links": [
-      144
-    ]
-  },
-  {
     "id": 383916,
     "name": "Annihilator",
     "icon": "ability_warrior_annihilator",
@@ -602,6 +588,20 @@
     },
     "links": [
       140
+    ]
+  },
+  {
+    "id": 389603,
+    "name": "Unbridled Ferocity",
+    "icon": "ability_warrior_endlessrage",
+    "capacity": 1,
+    "cell": 160,
+    "row": 10,
+    "column": 8,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389603/unbridled-ferocity",
+    "links": [
+      144
     ]
   },
   {

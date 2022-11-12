@@ -153,6 +153,20 @@
     ]
   },
   {
+    "id": 392384,
+    "name": "Fatal Concoction",
+    "icon": "ability_creature_poison_06",
+    "capacity": 1,
+    "cell": 59,
+    "row": 4,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392384/fatal-concoction",
+    "links": [
+      42
+    ]
+  },
+  {
     "id": 381632,
     "name": "Improved Garrote",
     "icon": "ability_rogue_garrote",
@@ -180,20 +194,6 @@
     "url": "https://www.wowhead.com/beta/spell=381630/intent-to-kill",
     "links": [
       46
-    ]
-  },
-  {
-    "id": 392384,
-    "name": "Fatal Concoction",
-    "icon": "ability_creature_poison_06",
-    "capacity": 1,
-    "cell": 59,
-    "row": 4,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392384/fatal-concoction",
-    "links": [
-      42
     ]
   },
   {
@@ -528,20 +528,6 @@
     ]
   },
   {
-    "id": 381802,
-    "name": "Indiscriminate Carnage",
-    "icon": "ability_rogue_indiscriminatecarnage",
-    "capacity": 1,
-    "cell": 163,
-    "row": 10,
-    "column": 11,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=381802/indiscriminate-carnage",
-    "links": [
-      146
-    ]
-  },
-  {
     "id": 381801,
     "name": "Dragon-Tempered Blades",
     "icon": "spell_fire_flameblades",
@@ -553,6 +539,20 @@
     "url": "https://www.wowhead.com/beta/spell=381801/dragon-tempered-blades",
     "links": [
       144
+    ]
+  },
+  {
+    "id": 381802,
+    "name": "Indiscriminate Carnage",
+    "icon": "ability_rogue_indiscriminatecarnage",
+    "capacity": 1,
+    "cell": 163,
+    "row": 10,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=381802/indiscriminate-carnage",
+    "links": [
+      146
     ]
   }
 ]

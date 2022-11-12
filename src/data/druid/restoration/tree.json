@@ -53,6 +53,20 @@
     ]
   },
   {
+    "id": 383192,
+    "name": "Grove Tending",
+    "icon": "inv_relics_idolofrejuvenation",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=383192/grove-tending",
+    "links": [
+      23
+    ]
+  },
+  {
     "cell": 42,
     "row": 3,
     "column": 9,
@@ -89,17 +103,17 @@
     ]
   },
   {
-    "id": 383192,
-    "name": "Grove Tending",
-    "icon": "inv_relics_idolofrejuvenation",
+    "id": 392221,
+    "name": "Waking Dream",
+    "icon": "inv_misc_head_dragon_green",
     "capacity": 1,
-    "cell": 38,
-    "row": 3,
-    "column": 5,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=383192/grove-tending",
+    "url": "https://www.wowhead.com/beta/spell=392221/waking-dream",
     "links": [
-      23
+      38
     ]
   },
   {
@@ -138,20 +152,6 @@
     "links": [
       42,
       46
-    ]
-  },
-  {
-    "id": 392221,
-    "name": "Waking Dream",
-    "icon": "inv_misc_head_dragon_green",
-    "capacity": 1,
-    "cell": 53,
-    "row": 4,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392221/waking-dream",
-    "links": [
-      38
     ]
   },
   {
@@ -300,34 +300,6 @@
     ]
   },
   {
-    "id": 278515,
-    "name": "Rampant Growth",
-    "icon": "spell_nature_resistnature",
-    "capacity": 1,
-    "cell": 104,
-    "row": 7,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=278515/rampant-growth",
-    "links": [
-      87
-    ]
-  },
-  {
-    "id": 392116,
-    "name": "Regenerative Heartwood",
-    "icon": "spell_nature_naturetouchgrow",
-    "capacity": 1,
-    "cell": 118,
-    "row": 7,
-    "column": 17,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392116/regenerative-heartwood",
-    "links": [
-      99
-    ]
-  },
-  {
     "id": 392325,
     "name": "Verdancy",
     "icon": "inv_10_herb_seed_magiccolor5",
@@ -337,6 +309,20 @@
     "column": 1,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=392325/verdancy",
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 278515,
+    "name": "Rampant Growth",
+    "icon": "spell_nature_resistnature",
+    "capacity": 1,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=278515/rampant-growth",
     "links": [
       87
     ]
@@ -384,6 +370,20 @@
     "url": "https://www.wowhead.com/beta/spell=382559/unstoppable-growth?def=108143&rank=1",
     "links": [
       95,
+      99
+    ]
+  },
+  {
+    "id": 392116,
+    "name": "Regenerative Heartwood",
+    "icon": "spell_nature_naturetouchgrow",
+    "capacity": 1,
+    "cell": 118,
+    "row": 7,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392116/regenerative-heartwood",
+    "links": [
       99
     ]
   },
@@ -546,6 +546,21 @@
     ]
   },
   {
+    "id": 392315,
+    "name": "Luxuriant Soil",
+    "icon": "achievement_dungeon_everbloom",
+    "capacity": 2,
+    "cell": 148,
+    "row": 9,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=392315/luxuriant-soil?def=108129&rank=1",
+    "links": [
+      129,
+      133
+    ]
+  },
+  {
     "id": 326228,
     "name": "Natural Wisdom",
     "icon": "spell_nature_lightning",
@@ -571,21 +586,6 @@
     "url": "https://www.wowhead.com/beta/spell=392099/nurturing-dormancy",
     "links": [
       118,
-      133
-    ]
-  },
-  {
-    "id": 392315,
-    "name": "Luxuriant Soil",
-    "icon": "achievement_dungeon_everbloom",
-    "capacity": 2,
-    "cell": 148,
-    "row": 9,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=392315/luxuriant-soil?def=108129&rank=1",
-    "links": [
-      129,
       133
     ]
   },

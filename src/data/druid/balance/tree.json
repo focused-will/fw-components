@@ -185,6 +185,21 @@
     ]
   },
   {
+    "id": 279620,
+    "name": "Twin Moons",
+    "icon": "spell_nature_starfall",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=279620/twin-moons",
+    "links": [
+      55,
+      59
+    ]
+  },
+  {
     "id": 202918,
     "name": "Light of the Sun",
     "icon": "ability_vehicle_sonicshockwave",
@@ -220,34 +235,19 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
-      "id": 393954,
-      "name": "Rattle the Stars",
-      "icon": "spell_arcane_arcane01",
-      "url": "https://www.wowhead.com/beta/spell=393954/rattle-the-stars"
-    },
-    "right": {
       "id": 393940,
       "name": "Starweaver",
       "icon": "spell_arcane_invocation",
       "url": "https://www.wowhead.com/beta/spell=393940/starweaver"
     },
+    "right": {
+      "id": 393954,
+      "name": "Rattle the Stars",
+      "icon": "spell_arcane_arcane01",
+      "url": "https://www.wowhead.com/beta/spell=393954/rattle-the-stars"
+    },
     "links": [
       48
-    ]
-  },
-  {
-    "id": 279620,
-    "name": "Twin Moons",
-    "icon": "spell_nature_starfall",
-    "capacity": 1,
-    "cell": 74,
-    "row": 5,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=279620/twin-moons",
-    "links": [
-      55,
-      59
     ]
   },
   {
@@ -514,16 +514,16 @@
     "talentType": 3,
     "capacity": 1,
     "left": {
-      "id": 202770,
-      "name": "Fury of Elune",
-      "icon": "ability_druid_dreamstate",
-      "url": "https://www.wowhead.com/beta/spell=202770/fury-of-elune"
-    },
-    "right": {
       "id": 274281,
       "name": "New Moon",
       "icon": "artifactability_balancedruid_newmoon",
       "url": "https://www.wowhead.com/beta/spell=274281/new-moon"
+    },
+    "right": {
+      "id": 202770,
+      "name": "Fury of Elune",
+      "icon": "ability_druid_dreamstate",
+      "url": "https://www.wowhead.com/beta/spell=202770/fury-of-elune"
     },
     "links": [
       131,

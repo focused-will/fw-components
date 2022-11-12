@@ -39,6 +39,20 @@
     ]
   },
   {
+    "id": 116849,
+    "name": "Life Cocoon",
+    "icon": "ability_monk_chicocoon",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=116849/life-cocoon",
+    "links": [
+      23
+    ]
+  },
+  {
     "id": 116680,
     "name": "Thunder Focus Tea",
     "icon": "ability_monk_thunderfocustea",
@@ -65,20 +79,6 @@
     "url": "https://www.wowhead.com/beta/spell=274586/invigorating-mists",
     "links": [
       27
-    ]
-  },
-  {
-    "id": 116849,
-    "name": "Life Cocoon",
-    "icon": "ability_monk_chicocoon",
-    "capacity": 1,
-    "cell": 38,
-    "row": 3,
-    "column": 5,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=116849/life-cocoon",
-    "links": [
-      23
     ]
   },
   {
@@ -232,30 +232,6 @@
     ]
   },
   {
-    "cell": 93,
-    "row": 6,
-    "column": 9,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 322118,
-      "name": "Invoke Yu'lon, the Jade Serpent",
-      "icon": "ability_monk_dragonkick",
-      "url": "https://www.wowhead.com/beta/spell=322118/invoke-yulon-the-jade-serpent"
-    },
-    "right": {
-      "id": 325197,
-      "name": "Invoke Chi-Ji, the Red Crane",
-      "icon": "inv_pet_cranegod",
-      "url": "https://www.wowhead.com/beta/spell=325197/invoke-chi-ji-the-red-crane"
-    },
-    "links": [
-      74,
-      76,
-      78
-    ]
-  },
-  {
     "id": 387765,
     "name": "Nourishing Chi",
     "icon": "inv_misc_gem_pearl_06",
@@ -284,6 +260,30 @@
     "links": [
       72,
       74
+    ]
+  },
+  {
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 322118,
+      "name": "Invoke Yu'lon, the Jade Serpent",
+      "icon": "ability_monk_dragonkick",
+      "url": "https://www.wowhead.com/beta/spell=322118/invoke-yulon-the-jade-serpent"
+    },
+    "right": {
+      "id": 325197,
+      "name": "Invoke Chi-Ji, the Red Crane",
+      "icon": "inv_pet_cranegod",
+      "url": "https://www.wowhead.com/beta/spell=325197/invoke-chi-ji-the-red-crane"
+    },
+    "links": [
+      74,
+      76,
+      78
     ]
   },
   {
@@ -431,28 +431,6 @@
     ]
   },
   {
-    "cell": 127,
-    "row": 8,
-    "column": 9,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 388031,
-      "name": "Jade Bond",
-      "icon": "inv_inscription_deck_jadeserpent",
-      "url": "https://www.wowhead.com/beta/spell=388031/jade-bond"
-    },
-    "right": {
-      "id": 388212,
-      "name": "Gift of the Celestials",
-      "icon": "inv_pet_jadeserpentpet",
-      "url": "https://www.wowhead.com/beta/spell=388212/gift-of-the-celestials"
-    },
-    "links": [
-      110
-    ]
-  },
-  {
     "id": 388193,
     "name": "Faeline Stomp",
     "icon": "ability_ardenweald_monk",
@@ -488,6 +466,28 @@
     "links": [
       106,
       108,
+      110
+    ]
+  },
+  {
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 388031,
+      "name": "Jade Bond",
+      "icon": "inv_inscription_deck_jadeserpent",
+      "url": "https://www.wowhead.com/beta/spell=388031/jade-bond"
+    },
+    "right": {
+      "id": 388212,
+      "name": "Gift of the Celestials",
+      "icon": "inv_pet_jadeserpentpet",
+      "url": "https://www.wowhead.com/beta/spell=388212/gift-of-the-celestials"
+    },
+    "links": [
       110
     ]
   },

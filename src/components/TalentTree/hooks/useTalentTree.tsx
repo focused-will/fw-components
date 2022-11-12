@@ -77,7 +77,7 @@ function toTalentNode(talent: TalentNodeData, overrides = {}): ITalentNode {
 
   return {
     data: talent,
-    parentNodes: [],
+    parentNodes: talent.links || [],
     investment: 0,
     selectedId: isInitialSelection && hasId ? talent.id : undefined,
     ...overrides,
@@ -109,15 +109,6 @@ export function useTalentTree(
       acc[talent.cell] = toTalentNode(talent);
       return acc;
     }, {} as Record<string, ITalentNode>);
-
-    // build parent nodes
-    Object.values(talents).forEach((talent) => {
-      if (talent.data.links) {
-        talent.data.links.forEach((link) => {
-          talents[link].parentNodes.push(talent.data.cell);
-        });
-      }
-    });
 
     setTalents(talents);
   }, [parsedSpecTalents]);

@@ -11,17 +11,6 @@
     "url": "https://www.wowhead.com/beta/spell=633/lay-on-hands"
   },
   {
-    "id": 24275,
-    "name": "Hammer of Wrath",
-    "icon": "spell_paladin_hammerofwrath",
-    "capacity": 1,
-    "cell": 12,
-    "row": 1,
-    "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=24275/hammer-of-wrath"
-  },
-  {
     "id": 1044,
     "name": "Blessing of Freedom",
     "icon": "spell_holy_sealofvalor",
@@ -31,6 +20,17 @@
     "column": 9,
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=1044/blessing-of-freedom"
+  },
+  {
+    "id": 24275,
+    "name": "Hammer of Wrath",
+    "icon": "spell_paladin_hammerofwrath",
+    "capacity": 1,
+    "cell": 12,
+    "row": 1,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=24275/hammer-of-wrath"
   },
   {
     "id": 385633,
@@ -117,6 +117,20 @@
     ]
   },
   {
+    "id": 213644,
+    "name": "Cleanse Toxins",
+    "icon": "spell_holy_renew",
+    "capacity": 1,
+    "cell": 53,
+    "row": 4,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=213644/cleanse-toxins",
+    "links": [
+      38
+    ]
+  },
+  {
     "id": 230332,
     "name": "Cavalier",
     "icon": "ability_paladin_divinesteed",
@@ -153,20 +167,6 @@
     ]
   },
   {
-    "id": 213644,
-    "name": "Cleanse Toxins",
-    "icon": "spell_holy_renew",
-    "capacity": 1,
-    "cell": 53,
-    "row": 4,
-    "column": 3,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=213644/cleanse-toxins",
-    "links": [
-      38
-    ]
-  },
-  {
     "id": 231663,
     "name": "Greater Judgment",
     "icon": "spell_holy_righteousfury",
@@ -178,22 +178,6 @@
     "url": "https://www.wowhead.com/beta/spell=231663/greater-judgment",
     "links": [
       46
-    ]
-  },
-  {
-    "id": 31884,
-    "name": "Avenging Wrath",
-    "icon": "spell_holy_avenginewrath",
-    "capacity": 1,
-    "cell": 76,
-    "row": 5,
-    "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=31884/avenging-wrath",
-    "links": [
-      42,
-      57,
-      61
     ]
   },
   {
@@ -213,17 +197,19 @@
     ]
   },
   {
-    "id": 96231,
-    "name": "Rebuke",
-    "icon": "spell_holy_rebuke",
+    "id": 31884,
+    "name": "Avenging Wrath",
+    "icon": "spell_holy_avenginewrath",
     "capacity": 1,
-    "cell": 82,
+    "cell": 76,
     "row": 5,
-    "column": 15,
+    "column": 9,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=96231/rebuke",
+    "url": "https://www.wowhead.com/beta/spell=31884/avenging-wrath",
     "links": [
-      65
+      42,
+      57,
+      61
     ]
   },
   {
@@ -243,18 +229,17 @@
     ]
   },
   {
-    "id": 377053,
-    "name": "Seal of Reprisal",
-    "icon": "spell_holy_sealoffury",
-    "capacity": 2,
-    "cell": 99,
-    "row": 6,
+    "id": 96231,
+    "name": "Rebuke",
+    "icon": "spell_holy_rebuke",
+    "capacity": 1,
+    "cell": 82,
+    "row": 5,
     "column": 15,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377053/seal-of-reprisal?def=107626&rank=1",
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=96231/rebuke",
     "links": [
-      80,
-      82
+      65
     ]
   },
   {
@@ -317,6 +302,51 @@
     ]
   },
   {
+    "id": 377053,
+    "name": "Seal of Reprisal",
+    "icon": "spell_holy_sealoffury",
+    "capacity": 2,
+    "cell": 99,
+    "row": 6,
+    "column": 15,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377053/seal-of-reprisal?def=107626&rank=1",
+    "links": [
+      80,
+      82
+    ]
+  },
+  {
+    "id": 384897,
+    "name": "Seal of Mercy",
+    "icon": "spell_holy_greaterblessingofsalvation",
+    "capacity": 2,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384897/seal-of-mercy?def=107604&rank=1",
+    "links": [
+      87
+    ]
+  },
+  {
+    "id": 385414,
+    "name": "Afterimage",
+    "icon": "spell_holy_aspiration",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=385414/afterimage",
+    "links": [
+      87,
+      89,
+      91
+    ]
+  },
+  {
     "cell": 108,
     "row": 7,
     "column": 7,
@@ -351,36 +381,6 @@
     "links": [
       91,
       95
-    ]
-  },
-  {
-    "id": 384897,
-    "name": "Seal of Mercy",
-    "icon": "spell_holy_greaterblessingofsalvation",
-    "capacity": 2,
-    "cell": 104,
-    "row": 7,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384897/seal-of-mercy?def=107604&rank=1",
-    "links": [
-      87
-    ]
-  },
-  {
-    "id": 385414,
-    "name": "Afterimage",
-    "icon": "spell_holy_aspiration",
-    "capacity": 1,
-    "cell": 106,
-    "row": 7,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=385414/afterimage",
-    "links": [
-      87,
-      89,
-      91
     ]
   },
   {
@@ -421,6 +421,21 @@
     ]
   },
   {
+    "id": 384815,
+    "name": "Seal of Clarity",
+    "icon": "spell_priest_power-word",
+    "capacity": 2,
+    "cell": 121,
+    "row": 8,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384815/seal-of-clarity?def=107605&rank=1",
+    "links": [
+      104,
+      106
+    ]
+  },
+  {
     "id": 385416,
     "name": "Aspiration of Divinity",
     "icon": "spell_holy_fanaticism",
@@ -457,21 +472,6 @@
       108,
       110,
       112
-    ]
-  },
-  {
-    "id": 384815,
-    "name": "Seal of Clarity",
-    "icon": "spell_priest_power-word",
-    "capacity": 2,
-    "cell": 121,
-    "row": 8,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384815/seal-of-clarity?def=107605&rank=1",
-    "links": [
-      104,
-      106
     ]
   },
   {
