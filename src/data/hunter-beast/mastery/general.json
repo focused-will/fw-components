@@ -11,17 +11,6 @@
     "url": "https://www.wowhead.com/beta/spell=34026/kill-command"
   },
   {
-    "id": 53351,
-    "name": "Kill Shot",
-    "icon": "ability_hunter_assassinate2",
-    "capacity": 1,
-    "cell": 12,
-    "row": 1,
-    "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=53351/kill-shot"
-  },
-  {
     "id": 5116,
     "name": "Concussive Shot",
     "icon": "spell_frost_stun",
@@ -31,6 +20,17 @@
     "column": 9,
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=5116/concussive-shot"
+  },
+  {
+    "id": 53351,
+    "name": "Kill Shot",
+    "icon": "ability_hunter_assassinate2",
+    "capacity": 1,
+    "cell": 12,
+    "row": 1,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=53351/kill-shot"
   },
   {
     "id": 199921,
@@ -248,6 +248,20 @@
     ]
   },
   {
+    "id": 1513,
+    "name": "Scare Beast",
+    "icon": "ability_druid_cower",
+    "capacity": 1,
+    "cell": 87,
+    "row": 6,
+    "column": 3,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=1513/scare-beast",
+    "links": [
+      72
+    ]
+  },
+  {
     "id": 343244,
     "name": "Improved Tranquilizing Shot",
     "icon": "hunter_pvp_vipersting",
@@ -306,20 +320,6 @@
       74,
       76,
       78
-    ]
-  },
-  {
-    "id": 1513,
-    "name": "Scare Beast",
-    "icon": "ability_druid_cower",
-    "capacity": 1,
-    "cell": 87,
-    "row": 6,
-    "column": 3,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=1513/scare-beast",
-    "links": [
-      72
     ]
   },
   {

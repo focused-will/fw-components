@@ -22,21 +22,6 @@
     "url": "https://www.wowhead.com/beta/spell=386208/defensive-stance"
   },
   {
-    "id": 316733,
-    "name": "War Machine",
-    "icon": "ability_hunter_rapidkilling",
-    "capacity": 1,
-    "cell": 25,
-    "row": 2,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=316733/war-machine",
-    "links": [
-      4,
-      12
-    ]
-  },
-  {
     "id": 18499,
     "name": "Berserker Rage",
     "icon": "spell_nature_ancestralguardian",
@@ -62,6 +47,21 @@
     "url": "https://www.wowhead.com/beta/spell=202168/impending-victory",
     "links": [
       4
+    ]
+  },
+  {
+    "id": 316733,
+    "name": "War Machine",
+    "icon": "ability_hunter_rapidkilling",
+    "capacity": 1,
+    "cell": 25,
+    "row": 2,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=316733/war-machine",
+    "links": [
+      4,
+      12
     ]
   },
   {
@@ -257,42 +257,6 @@
     ]
   },
   {
-    "cell": 84,
-    "row": 5,
-    "column": 17,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 384404,
-      "name": "Sidearm",
-      "icon": "inv_throwingaxe_06",
-      "url": "https://www.wowhead.com/beta/spell=384404/sidearm"
-    },
-    "right": {
-      "id": 383115,
-      "name": "Concussive Blows",
-      "icon": "ability_warrior_intervene",
-      "url": "https://www.wowhead.com/beta/spell=383115/concussive-blows"
-    },
-    "links": [
-      65
-    ]
-  },
-  {
-    "id": 390642,
-    "name": "Crushing Force",
-    "icon": "spell_shadow_unholystrength",
-    "capacity": 2,
-    "cell": 70,
-    "row": 5,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390642/crushing-force?def=117241&rank=1",
-    "links": [
-      53
-    ]
-  },
-  {
     "cell": 68,
     "row": 5,
     "column": 1,
@@ -310,6 +274,20 @@
       "icon": "ability_warrior_shatteringthrow",
       "url": "https://www.wowhead.com/beta/spell=64382/shattering-throw"
     },
+    "links": [
+      53
+    ]
+  },
+  {
+    "id": 390642,
+    "name": "Crushing Force",
+    "icon": "spell_shadow_unholystrength",
+    "capacity": 2,
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390642/crushing-force?def=117241&rank=1",
     "links": [
       53
     ]
@@ -376,6 +354,28 @@
     "column": 15,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=382767/overwhelming-rage?def=117250&rank=1",
+    "links": [
+      65
+    ]
+  },
+  {
+    "cell": 84,
+    "row": 5,
+    "column": 17,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 384404,
+      "name": "Sidearm",
+      "icon": "inv_throwingaxe_06",
+      "url": "https://www.wowhead.com/beta/spell=384404/sidearm"
+    },
+    "right": {
+      "id": 383115,
+      "name": "Concussive Blows",
+      "icon": "ability_warrior_intervene",
+      "url": "https://www.wowhead.com/beta/spell=383115/concussive-blows"
+    },
     "links": [
       65
     ]
@@ -525,20 +525,6 @@
     ]
   },
   {
-    "id": 382895,
-    "name": "One-Handed Weapon Specialization",
-    "icon": "inv_sword_20",
-    "capacity": 1,
-    "cell": 127,
-    "row": 8,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382895/one-handed-weapon-specialization",
-    "links": [
-      110
-    ]
-  },
-  {
     "id": 394855,
     "name": "Armored to the Teeth",
     "icon": "inv_shoulder_22",
@@ -566,6 +552,20 @@
     "links": [
       106,
       108,
+      110
+    ]
+  },
+  {
+    "id": 382895,
+    "name": "One-Handed Weapon Specialization",
+    "icon": "inv_sword_20",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382895/one-handed-weapon-specialization",
+    "links": [
       110
     ]
   },
@@ -657,6 +657,28 @@
     ]
   },
   {
+    "cell": 155,
+    "row": 10,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 394307,
+      "name": "Immovable Object",
+      "icon": "spell_frost_chillingarmor",
+      "url": "https://www.wowhead.com/beta/spell=394307/immovable-object"
+    },
+    "right": {
+      "id": 275336,
+      "name": "Unstoppable Force",
+      "icon": "warrior_talent_icon_thunderstruck",
+      "url": "https://www.wowhead.com/beta/spell=275336/unstoppable-force"
+    },
+    "links": [
+      138
+    ]
+  },
+  {
     "id": 391572,
     "name": "Uproar",
     "icon": "inv_misc_head_dragon_01",
@@ -685,56 +707,6 @@
     ]
   },
   {
-    "id": 275339,
-    "name": "Rumbling Earth",
-    "icon": "spell_shaman_earthquake",
-    "capacity": 1,
-    "cell": 166,
-    "row": 10,
-    "column": 14,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=275339/rumbling-earth",
-    "links": [
-      150
-    ]
-  },
-  {
-    "id": 390725,
-    "name": "Sonic Boom",
-    "icon": "spell_nature_unrelentingstorm",
-    "capacity": 1,
-    "cell": 168,
-    "row": 10,
-    "column": 16,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390725/sonic-boom",
-    "links": [
-      150
-    ]
-  },
-  {
-    "cell": 155,
-    "row": 10,
-    "column": 3,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 394307,
-      "name": "Immovable Object",
-      "icon": "spell_frost_chillingarmor",
-      "url": "https://www.wowhead.com/beta/spell=394307/immovable-object"
-    },
-    "right": {
-      "id": 275336,
-      "name": "Unstoppable Force",
-      "icon": "warrior_talent_icon_thunderstruck",
-      "url": "https://www.wowhead.com/beta/spell=275336/unstoppable-force"
-    },
-    "links": [
-      138
-    ]
-  },
-  {
     "id": 382948,
     "name": "Piercing Verdict",
     "icon": "spell_animabastion_missile",
@@ -760,6 +732,34 @@
     "url": "https://www.wowhead.com/beta/spell=386285/elysian-might",
     "links": [
       146
+    ]
+  },
+  {
+    "id": 275339,
+    "name": "Rumbling Earth",
+    "icon": "spell_shaman_earthquake",
+    "capacity": 1,
+    "cell": 166,
+    "row": 10,
+    "column": 14,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=275339/rumbling-earth",
+    "links": [
+      150
+    ]
+  },
+  {
+    "id": 390725,
+    "name": "Sonic Boom",
+    "icon": "spell_nature_unrelentingstorm",
+    "capacity": 1,
+    "cell": 168,
+    "row": 10,
+    "column": 16,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390725/sonic-boom",
+    "links": [
+      150
     ]
   }
 ]

@@ -110,6 +110,21 @@
     ]
   },
   {
+    "id": 326732,
+    "name": "Empyrean Power",
+    "icon": "ability_paladin_sheathoflight",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=326732/empyrean-power",
+    "links": [
+      38,
+      40
+    ]
+  },
+  {
     "cell": 59,
     "row": 4,
     "column": 9,
@@ -145,36 +160,6 @@
     "links": [
       44,
       46
-    ]
-  },
-  {
-    "id": 326732,
-    "name": "Empyrean Power",
-    "icon": "ability_paladin_sheathoflight",
-    "capacity": 1,
-    "cell": 55,
-    "row": 4,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=326732/empyrean-power",
-    "links": [
-      38,
-      40
-    ]
-  },
-  {
-    "id": 382275,
-    "name": "Consecrated Blade",
-    "icon": "ability_mage_firestarter",
-    "capacity": 1,
-    "cell": 78,
-    "row": 5,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382275/consecrated-blade",
-    "links": [
-      59,
-      63
     ]
   },
   {
@@ -235,6 +220,21 @@
     ]
   },
   {
+    "id": 382275,
+    "name": "Consecrated Blade",
+    "icon": "ability_mage_firestarter",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382275/consecrated-blade",
+    "links": [
+      59,
+      63
+    ]
+  },
+  {
     "id": 386901,
     "name": "Seal of Wrath",
     "icon": "ability_paladin_empoweredsealstruth",
@@ -260,20 +260,6 @@
     "url": "https://www.wowhead.com/beta/spell=383344/expurgation",
     "links": [
       63
-    ]
-  },
-  {
-    "id": 387640,
-    "name": "Sealed Verdict",
-    "icon": "ability_paladin_swiftretribution",
-    "capacity": 2,
-    "cell": 101,
-    "row": 6,
-    "column": 17,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387640/sealed-verdict?def=107493&rank=1",
-    "links": [
-      82
     ]
   },
   {
@@ -397,49 +383,17 @@
     ]
   },
   {
-    "cell": 112,
-    "row": 7,
-    "column": 11,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 85804,
-      "name": "Selfless Healer",
-      "icon": "ability_paladin_gaurdedbythelight",
-      "url": "https://www.wowhead.com/beta/spell=85804/selfless-healer"
-    },
-    "right": {
-      "id": 326734,
-      "name": "Healing Hands",
-      "icon": "ability_paladin_infusionoflight",
-      "url": "https://www.wowhead.com/beta/spell=326734/healing-hands"
-    },
+    "id": 387640,
+    "name": "Sealed Verdict",
+    "icon": "ability_paladin_swiftretribution",
+    "capacity": 2,
+    "cell": 101,
+    "row": 6,
+    "column": 17,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387640/sealed-verdict?def=107493&rank=1",
     "links": [
-      93,
-      97
-    ]
-  },
-  {
-    "cell": 116,
-    "row": 7,
-    "column": 15,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 215661,
-      "name": "Justicar's Vengeance",
-      "icon": "spell_holy_retributionaura",
-      "url": "https://www.wowhead.com/beta/spell=215661/justicars-vengeance"
-    },
-    "right": {
-      "id": 205191,
-      "name": "Eye for an Eye",
-      "icon": "spell_holy_weaponmastery",
-      "url": "https://www.wowhead.com/beta/spell=205191/eye-for-an-eye"
-    },
-    "links": [
-      97,
-      101
+      82
     ]
   },
   {
@@ -495,6 +449,29 @@
     ]
   },
   {
+    "cell": 112,
+    "row": 7,
+    "column": 11,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 85804,
+      "name": "Selfless Healer",
+      "icon": "ability_paladin_gaurdedbythelight",
+      "url": "https://www.wowhead.com/beta/spell=85804/selfless-healer"
+    },
+    "right": {
+      "id": 326734,
+      "name": "Healing Hands",
+      "icon": "ability_paladin_infusionoflight",
+      "url": "https://www.wowhead.com/beta/spell=326734/healing-hands"
+    },
+    "links": [
+      93,
+      97
+    ]
+  },
+  {
     "id": 383396,
     "name": "Tempest of the Lightbringer",
     "icon": "ability_malkorok_blightofyshaarj_yellow",
@@ -506,6 +483,29 @@
     "url": "https://www.wowhead.com/beta/spell=383396/tempest-of-the-lightbringer",
     "links": [
       97
+    ]
+  },
+  {
+    "cell": 116,
+    "row": 7,
+    "column": 15,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 215661,
+      "name": "Justicar's Vengeance",
+      "icon": "spell_holy_retributionaura",
+      "url": "https://www.wowhead.com/beta/spell=215661/justicars-vengeance"
+    },
+    "right": {
+      "id": 205191,
+      "name": "Eye for an Eye",
+      "icon": "spell_holy_weaponmastery",
+      "url": "https://www.wowhead.com/beta/spell=205191/eye-for-an-eye"
+    },
+    "links": [
+      97,
+      101
     ]
   },
   {
@@ -554,6 +554,20 @@
     ]
   },
   {
+    "id": 343527,
+    "name": "Execution Sentence",
+    "icon": "spell_paladin_executionsentence",
+    "capacity": 1,
+    "cell": 140,
+    "row": 9,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=343527/execution-sentence",
+    "links": [
+      123
+    ]
+  },
+  {
     "id": 375576,
     "name": "Divine Toll",
     "icon": "ability_bastion_paladin",
@@ -580,20 +594,6 @@
     "url": "https://www.wowhead.com/beta/spell=387170/empyrean-legacy",
     "links": [
       127
-    ]
-  },
-  {
-    "id": 343527,
-    "name": "Execution Sentence",
-    "icon": "spell_paladin_executionsentence",
-    "capacity": 1,
-    "cell": 140,
-    "row": 9,
-    "column": 5,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=343527/execution-sentence",
-    "links": [
-      123
     ]
   },
   {
@@ -626,20 +626,6 @@
     ]
   },
   {
-    "id": 384027,
-    "name": "Divine Resonance",
-    "icon": "ability_mount_goatmountwhite",
-    "capacity": 1,
-    "cell": 159,
-    "row": 10,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384027/divine-resonance",
-    "links": [
-      142
-    ]
-  },
-  {
     "cell": 157,
     "row": 10,
     "column": 5,
@@ -659,6 +645,20 @@
     },
     "links": [
       140
+    ]
+  },
+  {
+    "id": 384027,
+    "name": "Divine Resonance",
+    "icon": "ability_mount_goatmountwhite",
+    "capacity": 1,
+    "cell": 159,
+    "row": 10,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384027/divine-resonance",
+    "links": [
+      142
     ]
   },
   {

@@ -55,6 +55,20 @@
     ]
   },
   {
+    "id": 152261,
+    "name": "Holy Shield",
+    "icon": "inv_shield_1h_hyrja_d_01",
+    "capacity": 1,
+    "cell": 38,
+    "row": 3,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=152261/holy-shield",
+    "links": [
+      23
+    ]
+  },
+  {
     "id": 85043,
     "name": "Grand Crusader",
     "icon": "inv_helmet_74",
@@ -84,20 +98,6 @@
     ]
   },
   {
-    "id": 152261,
-    "name": "Holy Shield",
-    "icon": "inv_shield_1h_hyrja_d_01",
-    "capacity": 1,
-    "cell": 38,
-    "row": 3,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=152261/holy-shield",
-    "links": [
-      23
-    ]
-  },
-  {
     "cell": 55,
     "row": 4,
     "column": 5,
@@ -117,6 +117,20 @@
     },
     "links": [
       38
+    ]
+  },
+  {
+    "id": 393022,
+    "name": "Inspiring Vanguard",
+    "icon": "inv_helmet_74",
+    "capacity": 1,
+    "cell": 57,
+    "row": 4,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393022/inspiring-vanguard",
+    "links": [
+      42
     ]
   },
   {
@@ -162,17 +176,25 @@
     ]
   },
   {
-    "id": 393022,
-    "name": "Inspiring Vanguard",
-    "icon": "inv_helmet_74",
+    "cell": 70,
+    "row": 5,
+    "column": 3,
+    "talentType": 3,
     "capacity": 1,
-    "cell": 57,
-    "row": 4,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393022/inspiring-vanguard",
+    "left": {
+      "id": 393030,
+      "name": "Improved Holy Shield",
+      "icon": "inv_shield_1h_hyrja_d_01",
+      "url": "https://www.wowhead.com/beta/spell=393030/improved-holy-shield"
+    },
+    "right": {
+      "id": 379021,
+      "name": "Sanctuary",
+      "icon": "spell_holy_innerfire",
+      "url": "https://www.wowhead.com/beta/spell=379021/sanctuary"
+    },
     "links": [
-      42
+      55
     ]
   },
   {
@@ -188,6 +210,28 @@
     "links": [
       55,
       57,
+      59
+    ]
+  },
+  {
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 393114,
+      "name": "Improved Ardent Defender",
+      "icon": "spell_holy_ardentdefender",
+      "url": "https://www.wowhead.com/beta/spell=393114/improved-ardent-defender"
+    },
+    "right": {
+      "id": 204018,
+      "name": "Blessing of Spellwarding",
+      "icon": "spell_holy_blessingofprotection",
+      "url": "https://www.wowhead.com/beta/spell=204018/blessing-of-spellwarding"
+    },
+    "links": [
       59
     ]
   },
@@ -227,50 +271,6 @@
     },
     "links": [
       63
-    ]
-  },
-  {
-    "cell": 76,
-    "row": 5,
-    "column": 9,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 393114,
-      "name": "Improved Ardent Defender",
-      "icon": "spell_holy_ardentdefender",
-      "url": "https://www.wowhead.com/beta/spell=393114/improved-ardent-defender"
-    },
-    "right": {
-      "id": 204018,
-      "name": "Blessing of Spellwarding",
-      "icon": "spell_holy_blessingofprotection",
-      "url": "https://www.wowhead.com/beta/spell=204018/blessing-of-spellwarding"
-    },
-    "links": [
-      59
-    ]
-  },
-  {
-    "cell": 70,
-    "row": 5,
-    "column": 3,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 393030,
-      "name": "Improved Holy Shield",
-      "icon": "inv_shield_1h_hyrja_d_01",
-      "url": "https://www.wowhead.com/beta/spell=393030/improved-holy-shield"
-    },
-    "right": {
-      "id": 379021,
-      "name": "Sanctuary",
-      "icon": "spell_holy_innerfire",
-      "url": "https://www.wowhead.com/beta/spell=379021/sanctuary"
-    },
-    "links": [
-      55
     ]
   },
   {

@@ -219,6 +219,20 @@
     ]
   },
   {
+    "id": 386071,
+    "name": "Disrupting Shout",
+    "icon": "ability_bullrush",
+    "capacity": 1,
+    "cell": 85,
+    "row": 6,
+    "column": 1,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=386071/disrupting-shout",
+    "links": [
+      70
+    ]
+  },
+  {
     "cell": 87,
     "row": 6,
     "column": 3,
@@ -236,20 +250,6 @@
       "icon": "ability_warrior_improveddisciplines",
       "url": "https://www.wowhead.com/beta/spell=29725/sudden-death"
     },
-    "links": [
-      70
-    ]
-  },
-  {
-    "id": 386071,
-    "name": "Disrupting Shout",
-    "icon": "ability_bullrush",
-    "capacity": 1,
-    "cell": 85,
-    "row": 6,
-    "column": 1,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=386071/disrupting-shout",
     "links": [
       70
     ]
@@ -337,6 +337,52 @@
     ]
   },
   {
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 203177,
+      "name": "Heavy Repercussions",
+      "icon": "inv_shield_32",
+      "url": "https://www.wowhead.com/beta/spell=203177/heavy-repercussions"
+    },
+    "right": {
+      "id": 202603,
+      "name": "Into the Fray",
+      "icon": "ability_warrior_bloodfrenzy",
+      "url": "https://www.wowhead.com/beta/spell=202603/into-the-fray"
+    },
+    "links": [
+      85,
+      87,
+      89
+    ]
+  },
+  {
+    "cell": 108,
+    "row": 7,
+    "column": 7,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 386027,
+      "name": "Enduring Defenses",
+      "icon": "ability_defend",
+      "url": "https://www.wowhead.com/beta/spell=386027/enduring-defenses"
+    },
+    "right": {
+      "id": 281001,
+      "name": "Massacre",
+      "icon": "inv_sword_48",
+      "url": "https://www.wowhead.com/beta/spell=281001/massacre"
+    },
+    "links": [
+      93
+    ]
+  },
+  {
     "id": 152278,
     "name": "Anger Management",
     "icon": "warrior_talent_icon_angermanagement",
@@ -394,52 +440,6 @@
       97,
       99,
       101
-    ]
-  },
-  {
-    "cell": 104,
-    "row": 7,
-    "column": 3,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 203177,
-      "name": "Heavy Repercussions",
-      "icon": "inv_shield_32",
-      "url": "https://www.wowhead.com/beta/spell=203177/heavy-repercussions"
-    },
-    "right": {
-      "id": 202603,
-      "name": "Into the Fray",
-      "icon": "ability_warrior_bloodfrenzy",
-      "url": "https://www.wowhead.com/beta/spell=202603/into-the-fray"
-    },
-    "links": [
-      85,
-      87,
-      89
-    ]
-  },
-  {
-    "cell": 108,
-    "row": 7,
-    "column": 7,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 386027,
-      "name": "Enduring Defenses",
-      "icon": "ability_defend",
-      "url": "https://www.wowhead.com/beta/spell=386027/enduring-defenses"
-    },
-    "right": {
-      "id": 281001,
-      "name": "Massacre",
-      "icon": "inv_sword_48",
-      "url": "https://www.wowhead.com/beta/spell=281001/massacre"
-    },
-    "links": [
-      93
     ]
   },
   {

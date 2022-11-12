@@ -11,6 +11,20 @@
     "url": "https://www.wowhead.com/beta/spell=235450/prismatic-barrier"
   },
   {
+    "id": 45438,
+    "name": "Ice Block",
+    "icon": "spell_frost_frost",
+    "capacity": 1,
+    "cell": 21,
+    "row": 2,
+    "column": 5,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=45438/ice-block",
+    "links": [
+      8
+    ]
+  },
+  {
     "id": 390218,
     "name": "Overflowing Energy",
     "icon": "spell_arcane_manatap",
@@ -34,20 +48,6 @@
     "column": 13,
     "talentType": 1,
     "url": "https://www.wowhead.com/beta/spell=66/invisibility",
-    "links": [
-      8
-    ]
-  },
-  {
-    "id": 45438,
-    "name": "Ice Block",
-    "icon": "spell_frost_frost",
-    "capacity": 1,
-    "cell": 21,
-    "row": 2,
-    "column": 5,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=45438/ice-block",
     "links": [
       8
     ]
@@ -153,22 +153,6 @@
     ]
   },
   {
-    "id": 342245,
-    "name": "Alter Time",
-    "icon": "spell_mage_altertime",
-    "capacity": 1,
-    "cell": 63,
-    "row": 4,
-    "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=342245/alter-time",
-    "links": [
-      44,
-      46,
-      48
-    ]
-  },
-  {
     "cell": 59,
     "row": 4,
     "column": 9,
@@ -193,33 +177,19 @@
     ]
   },
   {
-    "id": 382297,
-    "name": "Quick Witted",
-    "icon": "ability_priest_surgeofdarkness",
+    "id": 342245,
+    "name": "Alter Time",
+    "icon": "spell_mage_altertime",
     "capacity": 1,
-    "cell": 74,
-    "row": 5,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382297/quick-witted",
-    "links": [
-      55,
-      59
-    ]
-  },
-  {
-    "id": 31589,
-    "name": "Slow",
-    "icon": "spell_nature_slow",
-    "capacity": 1,
-    "cell": 78,
-    "row": 5,
-    "column": 11,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
     "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=31589/slow",
+    "url": "https://www.wowhead.com/beta/spell=342245/alter-time",
     "links": [
-      59,
-      63
+      44,
+      46,
+      48
     ]
   },
   {
@@ -259,6 +229,21 @@
     ]
   },
   {
+    "id": 382297,
+    "name": "Quick Witted",
+    "icon": "ability_priest_surgeofdarkness",
+    "capacity": 1,
+    "cell": 74,
+    "row": 5,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382297/quick-witted",
+    "links": [
+      55,
+      59
+    ]
+  },
+  {
     "id": 383121,
     "name": "Mass Polymorph",
     "icon": "spell_nature_doublepolymorph1",
@@ -270,6 +255,21 @@
     "url": "https://www.wowhead.com/beta/spell=383121/mass-polymorph",
     "links": [
       59
+    ]
+  },
+  {
+    "id": 31589,
+    "name": "Slow",
+    "icon": "spell_nature_slow",
+    "capacity": 1,
+    "cell": 78,
+    "row": 5,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=31589/slow",
+    "links": [
+      59,
+      63
     ]
   },
   {
@@ -385,20 +385,6 @@
     ]
   },
   {
-    "id": 389627,
-    "name": "Volatile Detonation",
-    "icon": "spell_fire_burnout",
-    "capacity": 1,
-    "cell": 114,
-    "row": 7,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=389627/volatile-detonation",
-    "links": [
-      97
-    ]
-  },
-  {
     "id": 343183,
     "name": "Improved Frost Nova",
     "icon": "spell_frost_frostnova",
@@ -411,6 +397,21 @@
     "links": [
       70,
       89
+    ]
+  },
+  {
+    "id": 382481,
+    "name": "Rigid Ice",
+    "icon": "spell_hunter_blackicetrap",
+    "capacity": 1,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382481/rigid-ice",
+    "links": [
+      89,
+      91
     ]
   },
   {
@@ -445,6 +446,20 @@
     ]
   },
   {
+    "id": 389627,
+    "name": "Volatile Detonation",
+    "icon": "spell_fire_burnout",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=389627/volatile-detonation",
+    "links": [
+      97
+    ]
+  },
+  {
     "id": 386828,
     "name": "Energized Barriers",
     "icon": "spell_mage_temporalshield",
@@ -457,21 +472,6 @@
     "links": [
       82,
       97
-    ]
-  },
-  {
-    "id": 382481,
-    "name": "Rigid Ice",
-    "icon": "spell_hunter_blackicetrap",
-    "capacity": 1,
-    "cell": 106,
-    "row": 7,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382481/rigid-ice",
-    "links": [
-      89,
-      91
     ]
   },
   {
@@ -491,22 +491,6 @@
     ]
   },
   {
-    "id": 382826,
-    "name": "Temporal Velocity",
-    "icon": "ability_socererking_arcaneacceleration",
-    "capacity": 2,
-    "cell": 131,
-    "row": 8,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382826/temporal-velocity?def=85159&rank=1",
-    "links": [
-      112,
-      114,
-      116
-    ]
-  },
-  {
     "id": 382268,
     "name": "Flow of Time",
     "icon": "spell_arcane_blink",
@@ -522,18 +506,19 @@
     ]
   },
   {
-    "id": 382800,
-    "name": "Accumulative Shielding",
-    "icon": "ability_mage_shattershield",
+    "id": 382826,
+    "name": "Temporal Velocity",
+    "icon": "ability_socererking_arcaneacceleration",
     "capacity": 2,
-    "cell": 146,
-    "row": 9,
-    "column": 11,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
     "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=382800/accumulative-shielding?def=85152&rank=1",
+    "url": "https://www.wowhead.com/beta/spell=382826/temporal-velocity?def=85159&rank=1",
     "links": [
-      127,
-      131
+      112,
+      114,
+      116
     ]
   },
   {
@@ -580,6 +565,21 @@
     ]
   },
   {
+    "id": 382800,
+    "name": "Accumulative Shielding",
+    "icon": "ability_mage_shattershield",
+    "capacity": 2,
+    "cell": 146,
+    "row": 9,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=382800/accumulative-shielding?def=85152&rank=1",
+    "links": [
+      127,
+      131
+    ]
+  },
+  {
     "id": 31661,
     "name": "Dragon's Breath",
     "icon": "inv_misc_head_dragon_01",
@@ -591,35 +591,6 @@
     "url": "https://www.wowhead.com/beta/spell=31661/dragons-breath",
     "links": [
       131
-    ]
-  },
-  {
-    "id": 389713,
-    "name": "Displacement",
-    "icon": "ability_hunter_displacement",
-    "capacity": 1,
-    "cell": 165,
-    "row": 10,
-    "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=389713/displacement",
-    "links": [
-      146,
-      150
-    ]
-  },
-  {
-    "id": 153561,
-    "name": "Meteor",
-    "icon": "spell_mage_meteor",
-    "capacity": 1,
-    "cell": 167,
-    "row": 10,
-    "column": 15,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=153561/meteor",
-    "links": [
-      150
     ]
   },
   {
@@ -671,6 +642,35 @@
     },
     "links": [
       144
+    ]
+  },
+  {
+    "id": 389713,
+    "name": "Displacement",
+    "icon": "ability_hunter_displacement",
+    "capacity": 1,
+    "cell": 165,
+    "row": 10,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=389713/displacement",
+    "links": [
+      146,
+      150
+    ]
+  },
+  {
+    "id": 153561,
+    "name": "Meteor",
+    "icon": "spell_mage_meteor",
+    "capacity": 1,
+    "cell": 167,
+    "row": 10,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=153561/meteor",
+    "links": [
+      150
     ]
   }
 ]

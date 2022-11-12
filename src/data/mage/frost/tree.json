@@ -311,6 +311,20 @@
     ]
   },
   {
+    "id": 378749,
+    "name": "Deep Shatter",
+    "icon": "inv_misc_frostemblem_01",
+    "capacity": 2,
+    "cell": 106,
+    "row": 7,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378749/deep-shatter?def=85225&rank=1",
+    "links": [
+      89
+    ]
+  },
+  {
     "id": 12472,
     "name": "Icy Veins",
     "icon": "spell_frost_coldhearted",
@@ -340,34 +354,6 @@
     ]
   },
   {
-    "id": 378749,
-    "name": "Deep Shatter",
-    "icon": "inv_misc_frostemblem_01",
-    "capacity": 2,
-    "cell": 106,
-    "row": 7,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378749/deep-shatter?def=85225&rank=1",
-    "links": [
-      89
-    ]
-  },
-  {
-    "id": 378433,
-    "name": "Icy Propulsion",
-    "icon": "spell_frost_wisp",
-    "capacity": 1,
-    "cell": 127,
-    "row": 8,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378433/icy-propulsion",
-    "links": [
-      110
-    ]
-  },
-  {
     "id": 153595,
     "name": "Comet Storm",
     "icon": "spell_mage_cometstorm2",
@@ -394,6 +380,20 @@
     "url": "https://www.wowhead.com/beta/spell=270233/freezing-rain",
     "links": [
       106,
+      110
+    ]
+  },
+  {
+    "id": 378433,
+    "name": "Icy Propulsion",
+    "icon": "spell_frost_wisp",
+    "capacity": 1,
+    "cell": 127,
+    "row": 8,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378433/icy-propulsion",
+    "links": [
       110
     ]
   },

@@ -104,6 +104,20 @@
     ]
   },
   {
+    "id": 377811,
+    "name": "Innate Resolve",
+    "icon": "spell_nature_healingway",
+    "capacity": 1,
+    "cell": 55,
+    "row": 4,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377811/innate-resolve",
+    "links": [
+      38
+    ]
+  },
+  {
     "id": 345208,
     "name": "Infected Wounds",
     "icon": "ability_druid_infectedwound",
@@ -116,34 +130,6 @@
     "links": [
       38,
       42
-    ]
-  },
-  {
-    "id": 200854,
-    "name": "Gory Fur",
-    "icon": "artifactability_guardiandruid_goryfur",
-    "capacity": 1,
-    "cell": 63,
-    "row": 4,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=200854/gory-fur",
-    "links": [
-      46
-    ]
-  },
-  {
-    "id": 377811,
-    "name": "Innate Resolve",
-    "icon": "spell_nature_healingway",
-    "capacity": 1,
-    "cell": 55,
-    "row": 4,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377811/innate-resolve",
-    "links": [
-      38
     ]
   },
   {
@@ -173,6 +159,20 @@
     "links": [
       42,
       44,
+      46
+    ]
+  },
+  {
+    "id": 200854,
+    "name": "Gory Fur",
+    "icon": "artifactability_guardiandruid_goryfur",
+    "capacity": 1,
+    "cell": 63,
+    "row": 4,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=200854/gory-fur",
+    "links": [
       46
     ]
   },
@@ -251,6 +251,64 @@
     ]
   },
   {
+    "id": 371999,
+    "name": "Vicious Cycle",
+    "icon": "spell_druid_bearhug",
+    "capacity": 1,
+    "cell": 89,
+    "row": 6,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=371999/vicious-cycle",
+    "links": [
+      70,
+      74
+    ]
+  },
+  {
+    "id": 135288,
+    "name": "Tooth and Claw",
+    "icon": "inv_misc_monsterfang_01",
+    "capacity": 1,
+    "cell": 91,
+    "row": 6,
+    "column": 7,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=135288/tooth-and-claw",
+    "links": [
+      74
+    ]
+  },
+  {
+    "id": 377835,
+    "name": "Front of the Pack",
+    "icon": "spell_druid_stampedingroar_cat",
+    "capacity": 1,
+    "cell": 93,
+    "row": 6,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=377835/front-of-the-pack",
+    "links": [
+      74,
+      78
+    ]
+  },
+  {
+    "id": 393618,
+    "name": "Reinforced Fur",
+    "icon": "spell_druid_malfurionstenacity",
+    "capacity": 1,
+    "cell": 95,
+    "row": 6,
+    "column": 11,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=393618/reinforced-fur",
+    "links": [
+      78
+    ]
+  },
+  {
     "id": 158477,
     "name": "Soul of the Forest",
     "icon": "ability_druid_manatree",
@@ -288,80 +346,6 @@
     ]
   },
   {
-    "id": 371999,
-    "name": "Vicious Cycle",
-    "icon": "spell_druid_bearhug",
-    "capacity": 1,
-    "cell": 89,
-    "row": 6,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=371999/vicious-cycle",
-    "links": [
-      70,
-      74
-    ]
-  },
-  {
-    "id": 377835,
-    "name": "Front of the Pack",
-    "icon": "spell_druid_stampedingroar_cat",
-    "capacity": 1,
-    "cell": 93,
-    "row": 6,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=377835/front-of-the-pack",
-    "links": [
-      74,
-      78
-    ]
-  },
-  {
-    "id": 135288,
-    "name": "Tooth and Claw",
-    "icon": "inv_misc_monsterfang_01",
-    "capacity": 1,
-    "cell": 91,
-    "row": 6,
-    "column": 7,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=135288/tooth-and-claw",
-    "links": [
-      74
-    ]
-  },
-  {
-    "id": 393618,
-    "name": "Reinforced Fur",
-    "icon": "spell_druid_malfurionstenacity",
-    "capacity": 1,
-    "cell": 95,
-    "row": 6,
-    "column": 11,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=393618/reinforced-fur",
-    "links": [
-      78
-    ]
-  },
-  {
-    "id": 50334,
-    "name": "$@spellname377779",
-    "icon": "ability_druid_berserk",
-    "capacity": 1,
-    "cell": 114,
-    "row": 7,
-    "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=50334/berserk",
-    "links": [
-      95,
-      97,
-      99
-    ]
-  },
-  {
     "id": 50334,
     "name": "$@spellname377623",
     "icon": "ability_druid_berserk",
@@ -391,6 +375,22 @@
       91,
       93,
       95
+    ]
+  },
+  {
+    "id": 50334,
+    "name": "$@spellname377779",
+    "icon": "ability_druid_berserk",
+    "capacity": 1,
+    "cell": 114,
+    "row": 7,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=50334/berserk",
+    "links": [
+      95,
+      97,
+      99
     ]
   },
   {

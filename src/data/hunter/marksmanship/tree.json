@@ -194,21 +194,6 @@
     ]
   },
   {
-    "id": 378767,
-    "name": "Focused Aim",
-    "icon": "ability_hunter_mastermarksman",
-    "capacity": 2,
-    "cell": 80,
-    "row": 5,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=378767/focused-aim?def=105603&rank=1",
-    "links": [
-      46,
-      61
-    ]
-  },
-  {
     "id": 321287,
     "name": "Target Practice",
     "icon": "buff_epichunter",
@@ -221,6 +206,21 @@
     "links": [
       57,
       59,
+      61
+    ]
+  },
+  {
+    "id": 378767,
+    "name": "Focused Aim",
+    "icon": "ability_hunter_mastermarksman",
+    "capacity": 2,
+    "cell": 80,
+    "row": 5,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=378767/focused-aim?def=105603&rank=1",
+    "links": [
+      46,
       61
     ]
   },
@@ -528,6 +528,22 @@
     ]
   },
   {
+    "id": 384791,
+    "name": "Salvo",
+    "icon": "spell_hunter_exoticmunitions_incendiary",
+    "capacity": 1,
+    "cell": 157,
+    "row": 10,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384791/salvo",
+    "links": [
+      123,
+      138,
+      142
+    ]
+  },
+  {
     "cell": 161,
     "row": 10,
     "column": 9,
@@ -547,22 +563,6 @@
     },
     "links": [
       144
-    ]
-  },
-  {
-    "id": 384791,
-    "name": "Salvo",
-    "icon": "spell_hunter_exoticmunitions_incendiary",
-    "capacity": 1,
-    "cell": 157,
-    "row": 10,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384791/salvo",
-    "links": [
-      123,
-      138,
-      142
     ]
   },
   {

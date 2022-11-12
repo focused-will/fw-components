@@ -1,16 +1,5 @@
 [
   {
-    "id": 13877,
-    "name": "Blade Flurry",
-    "icon": "ability_warrior_punishingblow",
-    "capacity": 1,
-    "cell": 10,
-    "row": 1,
-    "column": 11,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=13877/blade-flurry"
-  },
-  {
     "id": 279876,
     "name": "Opportunity",
     "icon": "spell_shadow_ritualofsacrifice",
@@ -20,6 +9,17 @@
     "column": 7,
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=279876/opportunity"
+  },
+  {
+    "id": 13877,
+    "name": "Blade Flurry",
+    "icon": "ability_warrior_punishingblow",
+    "capacity": 1,
+    "cell": 10,
+    "row": 1,
+    "column": 11,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=13877/blade-flurry"
   },
   {
     "id": 195457,

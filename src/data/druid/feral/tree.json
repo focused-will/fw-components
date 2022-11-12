@@ -170,6 +170,22 @@
     ]
   },
   {
+    "id": 384667,
+    "name": "Sudden Ambush",
+    "icon": "ability_hunter_catlikereflexes",
+    "capacity": 2,
+    "cell": 72,
+    "row": 5,
+    "column": 5,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=384667/sudden-ambush?def=108170&rank=1",
+    "links": [
+      53,
+      55,
+      57
+    ]
+  },
+  {
     "id": 391709,
     "name": "Rampant Ferocity",
     "icon": "ability_druid_primaltenacity",
@@ -181,6 +197,21 @@
     "url": "https://www.wowhead.com/beta/spell=391709/rampant-ferocity",
     "links": [
       57
+    ]
+  },
+  {
+    "id": 106951,
+    "name": "Berserk",
+    "icon": "ability_druid_berserk",
+    "capacity": 1,
+    "cell": 76,
+    "row": 5,
+    "column": 9,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=106951/berserk",
+    "links": [
+      57,
+      61
     ]
   },
   {
@@ -208,37 +239,6 @@
     "talentType": 2,
     "url": "https://www.wowhead.com/beta/spell=384665/taste-for-blood?def=108187&rank=1",
     "links": [
-      61
-    ]
-  },
-  {
-    "id": 384667,
-    "name": "Sudden Ambush",
-    "icon": "ability_hunter_catlikereflexes",
-    "capacity": 2,
-    "cell": 72,
-    "row": 5,
-    "column": 5,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=384667/sudden-ambush?def=108170&rank=1",
-    "links": [
-      53,
-      55,
-      57
-    ]
-  },
-  {
-    "id": 106951,
-    "name": "Berserk",
-    "icon": "ability_druid_berserk",
-    "capacity": 1,
-    "cell": 76,
-    "row": 5,
-    "column": 9,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=106951/berserk",
-    "links": [
-      57,
       61
     ]
   },

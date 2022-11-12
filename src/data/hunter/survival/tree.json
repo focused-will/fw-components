@@ -283,6 +283,21 @@
     ]
   },
   {
+    "id": 268501,
+    "name": "Viper's Venom",
+    "icon": "ability_hunter_potentvenom",
+    "capacity": 2,
+    "cell": 104,
+    "row": 7,
+    "column": 3,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=268501/vipers-venom?def=105532&rank=1",
+    "links": [
+      87,
+      89
+    ]
+  },
+  {
     "id": 378948,
     "name": "Sharp Edges",
     "icon": "inv_polearm_2h_kultirasharpoon_a_01",
@@ -310,21 +325,6 @@
     "links": [
       93,
       95
-    ]
-  },
-  {
-    "id": 268501,
-    "name": "Viper's Venom",
-    "icon": "ability_hunter_potentvenom",
-    "capacity": 2,
-    "cell": 104,
-    "row": 7,
-    "column": 3,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=268501/vipers-venom?def=105532&rank=1",
-    "links": [
-      87,
-      89
     ]
   },
   {

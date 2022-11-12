@@ -349,22 +349,6 @@
     ]
   },
   {
-    "id": 30283,
-    "name": "Shadowfury",
-    "icon": "ability_warlock_shadowfurytga",
-    "capacity": 1,
-    "cell": 97,
-    "row": 6,
-    "column": 13,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=30283/shadowfury",
-    "links": [
-      78,
-      80,
-      82
-    ]
-  },
-  {
     "cell": 93,
     "row": 6,
     "column": 9,
@@ -386,6 +370,22 @@
       74,
       76,
       78
+    ]
+  },
+  {
+    "id": 30283,
+    "name": "Shadowfury",
+    "icon": "ability_warlock_shadowfurytga",
+    "capacity": 1,
+    "cell": 97,
+    "row": 6,
+    "column": 13,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=30283/shadowfury",
+    "links": [
+      78,
+      80,
+      82
     ]
   },
   {

@@ -39,28 +39,6 @@
     ]
   },
   {
-    "cell": 46,
-    "row": 3,
-    "column": 13,
-    "talentType": 3,
-    "capacity": 1,
-    "left": {
-      "id": 387998,
-      "name": "Unending Light",
-      "icon": "spell_holy_holybolt",
-      "url": "https://www.wowhead.com/beta/spell=387998/unending-light"
-    },
-    "right": {
-      "id": 223306,
-      "name": "Bestow Faith",
-      "icon": "ability_paladin_blessedmending",
-      "url": "https://www.wowhead.com/beta/spell=223306/bestow-faith"
-    },
-    "links": [
-      27
-    ]
-  },
-  {
     "cell": 38,
     "row": 3,
     "column": 5,
@@ -94,6 +72,28 @@
     "url": "https://www.wowhead.com/beta/spell=498/divine-protection",
     "links": [
       23,
+      27
+    ]
+  },
+  {
+    "cell": 46,
+    "row": 3,
+    "column": 13,
+    "talentType": 3,
+    "capacity": 1,
+    "left": {
+      "id": 387998,
+      "name": "Unending Light",
+      "icon": "spell_holy_holybolt",
+      "url": "https://www.wowhead.com/beta/spell=387998/unending-light"
+    },
+    "right": {
+      "id": 223306,
+      "name": "Bestow Faith",
+      "icon": "ability_paladin_blessedmending",
+      "url": "https://www.wowhead.com/beta/spell=223306/bestow-faith"
+    },
+    "links": [
       27
     ]
   },
@@ -414,35 +414,6 @@
     ]
   },
   {
-    "id": 200474,
-    "name": "Power of the Silver Hand",
-    "icon": "ability_paladin_blessedhands",
-    "capacity": 1,
-    "cell": 131,
-    "row": 8,
-    "column": 13,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=200474/power-of-the-silver-hand",
-    "links": [
-      114
-    ]
-  },
-  {
-    "id": 148039,
-    "name": "Barrier of Faith",
-    "icon": "ability_paladin_barrieroffaith",
-    "capacity": 1,
-    "cell": 133,
-    "row": 8,
-    "column": 15,
-    "talentType": 1,
-    "url": "https://www.wowhead.com/beta/spell=148039/barrier-of-faith",
-    "links": [
-      114,
-      118
-    ]
-  },
-  {
     "id": 375576,
     "name": "Divine Toll",
     "icon": "ability_bastion_paladin",
@@ -532,6 +503,35 @@
     ]
   },
   {
+    "id": 200474,
+    "name": "Power of the Silver Hand",
+    "icon": "ability_paladin_blessedhands",
+    "capacity": 1,
+    "cell": 131,
+    "row": 8,
+    "column": 13,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=200474/power-of-the-silver-hand",
+    "links": [
+      114
+    ]
+  },
+  {
+    "id": 148039,
+    "name": "Barrier of Faith",
+    "icon": "ability_paladin_barrieroffaith",
+    "capacity": 1,
+    "cell": 133,
+    "row": 8,
+    "column": 15,
+    "talentType": 1,
+    "url": "https://www.wowhead.com/beta/spell=148039/barrier-of-faith",
+    "links": [
+      114,
+      118
+    ]
+  },
+  {
     "id": 388018,
     "name": "Maraad's Dying Breath",
     "icon": "paladin_icon_speedoflight",
@@ -543,6 +543,20 @@
     "url": "https://www.wowhead.com/beta/spell=388018/maraads-dying-breath",
     "links": [
       118
+    ]
+  },
+  {
+    "id": 387893,
+    "name": "Divine Resonance",
+    "icon": "ability_mount_goatmountwhite",
+    "capacity": 1,
+    "cell": 136,
+    "row": 9,
+    "column": 1,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=387893/divine-resonance",
+    "links": [
+      121
     ]
   },
   {
@@ -559,20 +573,6 @@
       121,
       123,
       125
-    ]
-  },
-  {
-    "id": 387893,
-    "name": "Divine Resonance",
-    "icon": "ability_mount_goatmountwhite",
-    "capacity": 1,
-    "cell": 136,
-    "row": 9,
-    "column": 1,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=387893/divine-resonance",
-    "links": [
-      121
     ]
   },
   {

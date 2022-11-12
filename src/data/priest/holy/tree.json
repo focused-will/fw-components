@@ -392,22 +392,6 @@
     ]
   },
   {
-    "id": 390967,
-    "name": "Prismatic Echoes",
-    "icon": "spell_holy_aspiration",
-    "capacity": 2,
-    "cell": 110,
-    "row": 7,
-    "column": 9,
-    "talentType": 2,
-    "url": "https://www.wowhead.com/beta/spell=390967/prismatic-echoes?def=108753&rank=1",
-    "links": [
-      91,
-      93,
-      95
-    ]
-  },
-  {
     "id": 390954,
     "name": "Crisis Management",
     "icon": "spell_holy_flashheal",
@@ -421,6 +405,22 @@
       72,
       87,
       91
+    ]
+  },
+  {
+    "id": 390967,
+    "name": "Prismatic Echoes",
+    "icon": "spell_holy_aspiration",
+    "capacity": 2,
+    "cell": 110,
+    "row": 7,
+    "column": 9,
+    "talentType": 2,
+    "url": "https://www.wowhead.com/beta/spell=390967/prismatic-echoes?def=108753&rank=1",
+    "links": [
+      91,
+      93,
+      95
     ]
   },
   {
